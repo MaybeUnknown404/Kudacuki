@@ -1,101 +1,101 @@
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=9182&type=drm&token=lbZjVUHrutPb8OdXREPrnfkZ2vg2lvNJ
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/2DibK2qC3ep_mKEN4yK-VjbQTzs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4951062/25405c.jpg" ch-number="1", Liverpool vs Tottenham - Premier League
-https://vid-id.indi1.workers.dev/index.mpd?id=9182&type=dash&token=lbZjVUHrutPb8OdXREPrnfkZ2vg2lvNJ|User-Agent=VidioPlayer/6.31.6
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=19404&type=drm&token=lbZjVUHrutPb8OdXREPrnfkZ2vg2lvNJ
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/AmE6y8QK2zy8wdtrRksa33nrlBw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4953447/7b08ce.jpg" ch-number="2", Como vs Roma - Serie A
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/AmE6y8QK2zy8wdtrRksa33nrlBw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4953447/7b08ce.jpg" ch-number="1", Como vs Roma - Serie A
 https://vid-id.indi1.workers.dev/index.mpd?id=19404&type=dash&token=lbZjVUHrutPb8OdXREPrnfkZ2vg2lvNJ|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6317&type=drm&token=lbZjVUHrutPb8OdXREPrnfkZ2vg2lvNJ
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/wlg3ohHBnC6yHJMp5vFmZjDC-FU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4953448/40389d.jpg" ch-number="3", Genclerbirligi vs Besiktas - Trendyol Super Lig
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/wlg3ohHBnC6yHJMp5vFmZjDC-FU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4953448/40389d.jpg" ch-number="2", Genclerbirligi vs Besiktas - Trendyol Super Lig
 https://vid-id.indi1.workers.dev/index.mpd?id=6317&type=dash&token=lbZjVUHrutPb8OdXREPrnfkZ2vg2lvNJ|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18189&type=drm&token=lbZjVUHrutPb8OdXREPrnfkZ2vg2lvNJ
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/-eY6uLmfX4abxCRwSlRSACxQVjc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4953449/98d760.jpg" ch-number="4", Round 4 - THE PLAYERS Championship 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/-eY6uLmfX4abxCRwSlRSACxQVjc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4953449/98d760.jpg" ch-number="3", Round 4 - THE PLAYERS Championship 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=18189&type=dash&token=lbZjVUHrutPb8OdXREPrnfkZ2vg2lvNJ|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=drm&token=lbZjVUHrutPb8OdXREPrnfkZ2vg2lvNJ
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/9MLMJo_c15qvJrFrRrlfOXRTW5M=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4953450/2ffae1.jpg" ch-number="5", Real Betis vs Celta Vigo - LaLiga
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/9MLMJo_c15qvJrFrRrlfOXRTW5M=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4953450/2ffae1.jpg" ch-number="4", Real Betis vs Celta Vigo - LaLiga
 https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=dash&token=lbZjVUHrutPb8OdXREPrnfkZ2vg2lvNJ|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6686&type=drm&token=lbZjVUHrutPb8OdXREPrnfkZ2vg2lvNJ
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/xb1o5__XNOpz_753G4mloYkq5hc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4958494/d7baec.jpg" ch-number="6", Final - WTA 1000: BNP Paribas Open 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/xb1o5__XNOpz_753G4mloYkq5hc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4958494/d7baec.jpg" ch-number="5", Final - WTA 1000: BNP Paribas Open 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=6686&type=dash&token=lbZjVUHrutPb8OdXREPrnfkZ2vg2lvNJ|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=19404&type=drm&token=lbZjVUHrutPb8OdXREPrnfkZ2vg2lvNJ
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Z1j_Pw7RaaIokOqSK382sIfN3co=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4956089/a34c48.jpg" ch-number="7", Lazio vs Milan - Serie A
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Z1j_Pw7RaaIokOqSK382sIfN3co=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4956089/a34c48.jpg" ch-number="6", Lazio vs Milan - Serie A
 https://vid-id.indi1.workers.dev/index.mpd?id=19404&type=dash&token=lbZjVUHrutPb8OdXREPrnfkZ2vg2lvNJ|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=drm&token=lbZjVUHrutPb8OdXREPrnfkZ2vg2lvNJ
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/tC8aVNLwCD6ufOlfBWXwkVnzheQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4953552/f3515d.jpg" ch-number="8", Real Sociedad vs Osasuna - LaLiga
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/tC8aVNLwCD6ufOlfBWXwkVnzheQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4953552/f3515d.jpg" ch-number="7", Real Sociedad vs Osasuna - LaLiga
 https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=dash&token=lbZjVUHrutPb8OdXREPrnfkZ2vg2lvNJ|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20502&type=drm&token=lbZjVUHrutPb8OdXREPrnfkZ2vg2lvNJ
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/e7ddVSXX061U3ZX4lhWiGPvV3pw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4953553/cfc4ce.jpg" ch-number="9", Porto vs Moreirense - Liga Portugal
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/e7ddVSXX061U3ZX4lhWiGPvV3pw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4953553/cfc4ce.jpg" ch-number="8", Porto vs Moreirense - Liga Portugal
 https://vid-id.indi1.workers.dev/index.mpd?id=20502&type=dash&token=lbZjVUHrutPb8OdXREPrnfkZ2vg2lvNJ|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20888&type=drm&token=lbZjVUHrutPb8OdXREPrnfkZ2vg2lvNJ
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/CRaIOWzkF9FQN7TkLjpErWyzbAM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4956091/d54cb2.jpg" ch-number="10", Daniil Medvedev vs Jannik Sinner - Finals | ATP 1000: BNP Paribas Open 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/CRaIOWzkF9FQN7TkLjpErWyzbAM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4956091/d54cb2.jpg" ch-number="9", Daniil Medvedev vs Jannik Sinner - Finals | ATP 1000: BNP Paribas Open 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=20888&type=dash&token=lbZjVUHrutPb8OdXREPrnfkZ2vg2lvNJ|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17140&type=drm&token=lbZjVUHrutPb8OdXREPrnfkZ2vg2lvNJ
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/OgrnFzEQYqqseC1logJD0nvyLbs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4956333/fe3f4c.jpg" ch-number="11", USA vs Dominican Republic - Semi Final - World Baseball Classic
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/OgrnFzEQYqqseC1logJD0nvyLbs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4956333/fe3f4c.jpg" ch-number="10", USA vs Dominican Republic - Semi Final - World Baseball Classic
 https://vid-id.indi1.workers.dev/index.mpd?id=17140&type=dash&token=lbZjVUHrutPb8OdXREPrnfkZ2vg2lvNJ|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=19404&type=drm&token=lbZjVUHrutPb8OdXREPrnfkZ2vg2lvNJ
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/29eKoTFWpox3C4r7M9Afkti9yVA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4956092/41d93e.jpg" ch-number="12", Cremonese vs Fiorentina - Serie A
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/29eKoTFWpox3C4r7M9Afkti9yVA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4956092/41d93e.jpg" ch-number="11", Cremonese vs Fiorentina - Serie A
 https://vid-id.indi1.workers.dev/index.mpd?id=19404&type=dash&token=lbZjVUHrutPb8OdXREPrnfkZ2vg2lvNJ|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=drm&token=lbZjVUHrutPb8OdXREPrnfkZ2vg2lvNJ
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/tkG1m7M7NEt6UVhD-r9aAq_6TlY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4955799/c89d49.jpg" ch-number="13", Rayo Vallecano vs Levante - LaLiga
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/tkG1m7M7NEt6UVhD-r9aAq_6TlY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4955799/c89d49.jpg" ch-number="12", Rayo Vallecano vs Levante - LaLiga
 https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=dash&token=lbZjVUHrutPb8OdXREPrnfkZ2vg2lvNJ|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=9182&type=drm&token=lbZjVUHrutPb8OdXREPrnfkZ2vg2lvNJ
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/ODJ5kGltFxMEZef41rkwspIy1Zw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4957718/56b81d.jpg" ch-number="14", Brentford vs Wolves - Premier League
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/ODJ5kGltFxMEZef41rkwspIy1Zw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4957718/56b81d.jpg" ch-number="13", Brentford vs Wolves - Premier League
 https://vid-id.indi1.workers.dev/index.mpd?id=9182&type=dash&token=lbZjVUHrutPb8OdXREPrnfkZ2vg2lvNJ|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17140&type=drm&token=lbZjVUHrutPb8OdXREPrnfkZ2vg2lvNJ
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/NraLe8XN1Kno8jOYs7hOu3DlNF4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4956336/b18665.jpg" ch-number="15", Venezuela vs Italy - Semi Final - World Baseball Classic
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/NraLe8XN1Kno8jOYs7hOu3DlNF4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4956336/b18665.jpg" ch-number="14", Venezuela vs Italy - Semi Final - World Baseball Classic
 https://vid-id.indi1.workers.dev/index.mpd?id=17140&type=dash&token=lbZjVUHrutPb8OdXREPrnfkZ2vg2lvNJ|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=drm&token=lbZjVUHrutPb8OdXREPrnfkZ2vg2lvNJ
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/ZXaExFusxjY6n21yUBJnWeoAQ1w=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4955800/850643.jpg" ch-number="16", Atletico Madrid vs Club Brugge - UEFA Youth League
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/ZXaExFusxjY6n21yUBJnWeoAQ1w=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4955800/850643.jpg" ch-number="15", Atletico Madrid vs Club Brugge - UEFA Youth League
 https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=dash&token=lbZjVUHrutPb8OdXREPrnfkZ2vg2lvNJ|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=drm&token=lbZjVUHrutPb8OdXREPrnfkZ2vg2lvNJ
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/XaPO2FObA59GIBh08NPbqH61f4U=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4955801/c2b6fc.jpg" ch-number="17", Villarreal vs PSG - UEFA Youth League
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/XaPO2FObA59GIBh08NPbqH61f4U=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4955801/c2b6fc.jpg" ch-number="16", Villarreal vs PSG - UEFA Youth League
 https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=dash&token=lbZjVUHrutPb8OdXREPrnfkZ2vg2lvNJ|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6317&type=drm&token=lbZjVUHrutPb8OdXREPrnfkZ2vg2lvNJ
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Oss6Q13XkN3tYZwQ_ud3nOQzrm4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4956315/491132.jpg" ch-number="18", Fenerbahce vs Gaziantep - Trendyol Super Lig
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Oss6Q13XkN3tYZwQ_ud3nOQzrm4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4956315/491132.jpg" ch-number="17", Fenerbahce vs Gaziantep - Trendyol Super Lig
 https://vid-id.indi1.workers.dev/index.mpd?id=6317&type=dash&token=lbZjVUHrutPb8OdXREPrnfkZ2vg2lvNJ|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=drm&token=lbZjVUHrutPb8OdXREPrnfkZ2vg2lvNJ
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/iUB5Dh5Lg6CLX8d1jMq_y2gUT7w=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4956119/bb3c06.jpg" ch-number="19", Sporting vs Bodo/Glimt - UEFA Champions League
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/iUB5Dh5Lg6CLX8d1jMq_y2gUT7w=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4956119/bb3c06.jpg" ch-number="18", Sporting vs Bodo/Glimt - UEFA Champions League
 https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=dash&token=lbZjVUHrutPb8OdXREPrnfkZ2vg2lvNJ|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18436&type=drm&token=lbZjVUHrutPb8OdXREPrnfkZ2vg2lvNJ
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/PQlUAxm6XQi0hzGbFSP1guH77_A=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4956319/5fdae2.jpg" ch-number="20", Chelsea vs PSG - UEFA Champions League
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/PQlUAxm6XQi0hzGbFSP1guH77_A=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4956319/5fdae2.jpg" ch-number="19", Chelsea vs PSG - UEFA Champions League
 https://vid-id.indi1.workers.dev/index.mpd?id=18436&type=dash&token=lbZjVUHrutPb8OdXREPrnfkZ2vg2lvNJ|User-Agent=VidioPlayer/6.31.6
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6317&type=drm&token=lbZjVUHrutPb8OdXREPrnfkZ2vg2lvNJ
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/7jCJ4jSPYPXNGu1Zko33kU5p-xU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4956316/7a7508.jpg" ch-number="20", Arsenal vs Leverkusen - UEFA Champions League
+https://vid-id.indi1.workers.dev/index.mpd?id=6317&type=dash&token=lbZjVUHrutPb8OdXREPrnfkZ2vg2lvNJ|User-Agent=VidioPlayer/6.31.6
 
