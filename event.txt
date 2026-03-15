@@ -35,14 +35,14 @@ https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=dash&token=F9prEGm1Fh5W
 https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=dash&token=F9prEGm1Fh5WCQu6djIjeRWGPTQyLfkz|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6685&type=drm&token=F9prEGm1Fh5WCQu6djIjeRWGPTQyLfkz
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/3BcboLBnVTnB-Ase7CJ-eRVnFng=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4950697/e2df98.jpg" ch-number="8", Feyenoord vs Excelsior - Eredivisie
-https://vid-id.indi1.workers.dev/index.mpd?id=6685&type=dash&token=F9prEGm1Fh5WCQu6djIjeRWGPTQyLfkz|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=19436&type=drm&token=F9prEGm1Fh5WCQu6djIjeRWGPTQyLfkz
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/AAUodD2Ut6W7w7lC6j8Gp6kgYoU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4951582/7fe8a6.jpg" ch-number="8", AZ Alkmaar vs Heracles - Eredivisie
+https://vid-id.indi1.workers.dev/index.mpd?id=19436&type=dash&token=F9prEGm1Fh5WCQu6djIjeRWGPTQyLfkz|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=19436&type=drm&token=F9prEGm1Fh5WCQu6djIjeRWGPTQyLfkz
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/AAUodD2Ut6W7w7lC6j8Gp6kgYoU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4951582/7fe8a6.jpg" ch-number="9", AZ Alkmaar vs Heracles - Eredivisie
-https://vid-id.indi1.workers.dev/index.mpd?id=19436&type=dash&token=F9prEGm1Fh5WCQu6djIjeRWGPTQyLfkz|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6685&type=drm&token=F9prEGm1Fh5WCQu6djIjeRWGPTQyLfkz
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/3BcboLBnVTnB-Ase7CJ-eRVnFng=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4950697/e2df98.jpg" ch-number="9", Feyenoord vs Excelsior - Eredivisie
+https://vid-id.indi1.workers.dev/index.mpd?id=6685&type=dash&token=F9prEGm1Fh5WCQu6djIjeRWGPTQyLfkz|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=9183&type=drm&token=F9prEGm1Fh5WCQu6djIjeRWGPTQyLfkz
