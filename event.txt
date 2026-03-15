@@ -80,9 +80,9 @@ https://vid-id.indi1.workers.dev/index.mpd?id=19353&type=dash&token=F9prEGm1Fh5W
 https://vid-id.indi1.workers.dev/index.mpd?id=6685&type=dash&token=F9prEGm1Fh5WCQu6djIjeRWGPTQyLfkz|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=19436&type=drm&token=F9prEGm1Fh5WCQu6djIjeRWGPTQyLfkz
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/AAUodD2Ut6W7w7lC6j8Gp6kgYoU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4951582/7fe8a6.jpg" ch-number="17", AZ Alkmaar vs Heracles - Eredivisie
-https://vid-id.indi1.workers.dev/index.mpd?id=19436&type=dash&token=F9prEGm1Fh5WCQu6djIjeRWGPTQyLfkz|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=19354&type=drm&token=F9prEGm1Fh5WCQu6djIjeRWGPTQyLfkz
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Br9o32qlsUTncegsEYJEx4erag8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4949030/9b3bee.jpg" ch-number="17", Borneo FC Samarinda vs PERSIB - BRI Super League
+https://vid-id.indi1.workers.dev/index.mpd?id=19354&type=dash&token=F9prEGm1Fh5WCQu6djIjeRWGPTQyLfkz|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=9182&type=drm&token=F9prEGm1Fh5WCQu6djIjeRWGPTQyLfkz
@@ -95,7 +95,7 @@ https://vid-id.indi1.workers.dev/index.mpd?id=9182&type=dash&token=F9prEGm1Fh5WC
 https://vid-id.indi1.workers.dev/index.mpd?id=9183&type=dash&token=F9prEGm1Fh5WCQu6djIjeRWGPTQyLfkz|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=19354&type=drm&token=F9prEGm1Fh5WCQu6djIjeRWGPTQyLfkz
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Br9o32qlsUTncegsEYJEx4erag8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4949030/9b3bee.jpg" ch-number="20", Borneo FC Samarinda vs PERSIB - BRI Super League
-https://vid-id.indi1.workers.dev/index.mpd?id=19354&type=dash&token=F9prEGm1Fh5WCQu6djIjeRWGPTQyLfkz|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=19436&type=drm&token=F9prEGm1Fh5WCQu6djIjeRWGPTQyLfkz
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/AAUodD2Ut6W7w7lC6j8Gp6kgYoU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4951582/7fe8a6.jpg" ch-number="20", AZ Alkmaar vs Heracles - Eredivisie
+https://vid-id.indi1.workers.dev/index.mpd?id=19436&type=dash&token=F9prEGm1Fh5WCQu6djIjeRWGPTQyLfkz|User-Agent=VidioPlayer/6.31.6
 
