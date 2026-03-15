@@ -25,14 +25,14 @@ https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=dash&token=F9prEGm1Fh5WC
 https://vid-id.indi1.workers.dev/index.mpd?id=19436&type=dash&token=F9prEGm1Fh5WCQu6djIjeRWGPTQyLfkz|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6685&type=drm&token=F9prEGm1Fh5WCQu6djIjeRWGPTQyLfkz
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="⛔ Event Ended" tvg-logo="https://thumbor.prod.vidiocdn.com/3BcboLBnVTnB-Ase7CJ-eRVnFng=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4950697/e2df98.jpg" ch-number="6", Feyenoord vs Excelsior - Eredivisie
-https://vid-id.indi1.workers.dev/index.mpd?id=6685&type=dash&token=F9prEGm1Fh5WCQu6djIjeRWGPTQyLfkz|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=9183&type=drm&token=F9prEGm1Fh5WCQu6djIjeRWGPTQyLfkz
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/ky95HTyWJINCmsPgq8yKikc9nn0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4951286/4907aa.jpg" ch-number="6", Nottingham Forest vs Fulham - Premier League
+https://vid-id.indi1.workers.dev/index.mpd?id=9183&type=dash&token=F9prEGm1Fh5WCQu6djIjeRWGPTQyLfkz|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=9183&type=drm&token=F9prEGm1Fh5WCQu6djIjeRWGPTQyLfkz
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/ky95HTyWJINCmsPgq8yKikc9nn0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4951286/4907aa.jpg" ch-number="7", Nottingham Forest vs Fulham - Premier League
-https://vid-id.indi1.workers.dev/index.mpd?id=9183&type=dash&token=F9prEGm1Fh5WCQu6djIjeRWGPTQyLfkz|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=19404&type=drm&token=F9prEGm1Fh5WCQu6djIjeRWGPTQyLfkz
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/feqyWcdlV6Ml0gVH19L3s8KlTeI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4951584/763b5c.jpg" ch-number="7", Sassuolo vs Bologna - Serie A
+https://vid-id.indi1.workers.dev/index.mpd?id=19404&type=dash&token=F9prEGm1Fh5WCQu6djIjeRWGPTQyLfkz|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17939&type=drm&token=F9prEGm1Fh5WCQu6djIjeRWGPTQyLfkz
@@ -40,62 +40,62 @@ https://vid-id.indi1.workers.dev/index.mpd?id=9183&type=dash&token=F9prEGm1Fh5WC
 https://vid-id.indi1.workers.dev/index.mpd?id=17939&type=dash&token=F9prEGm1Fh5WCQu6djIjeRWGPTQyLfkz|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=19404&type=drm&token=F9prEGm1Fh5WCQu6djIjeRWGPTQyLfkz
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/feqyWcdlV6Ml0gVH19L3s8KlTeI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4951584/763b5c.jpg" ch-number="9", Sassuolo vs Bologna - Serie A
-https://vid-id.indi1.workers.dev/index.mpd?id=19404&type=dash&token=F9prEGm1Fh5WCQu6djIjeRWGPTQyLfkz|User-Agent=VidioPlayer/6.31.6
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=19375&type=drm&token=F9prEGm1Fh5WCQu6djIjeRWGPTQyLfkz
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/UTp5qJVw1O05Q_b3CcH2Xhvw1Q4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4951533/7c157a.jpg" ch-number="10", Crystal Palace vs Leeds United - Premier League
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/UTp5qJVw1O05Q_b3CcH2Xhvw1Q4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4951533/7c157a.jpg" ch-number="9", Crystal Palace vs Leeds United - Premier League
 https://vid-id.indi1.workers.dev/index.mpd?id=19375&type=dash&token=F9prEGm1Fh5WCQu6djIjeRWGPTQyLfkz|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=drm&token=F9prEGm1Fh5WCQu6djIjeRWGPTQyLfkz
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/XFqVIN4GhBFNAqUy1XUQGzGCS0A=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4951586/e1d69f.jpg" ch-number="11", Chelsea vs Man United - Women's League Cup
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/XFqVIN4GhBFNAqUy1XUQGzGCS0A=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4951586/e1d69f.jpg" ch-number="10", Chelsea vs Man United - Women's League Cup
 https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=dash&token=F9prEGm1Fh5WCQu6djIjeRWGPTQyLfkz|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=9182&type=drm&token=F9prEGm1Fh5WCQu6djIjeRWGPTQyLfkz
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/2DibK2qC3ep_mKEN4yK-VjbQTzs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4951062/25405c.jpg" ch-number="12", Liverpool vs Tottenham - Premier League
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/2DibK2qC3ep_mKEN4yK-VjbQTzs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4951062/25405c.jpg" ch-number="11", Liverpool vs Tottenham - Premier League
 https://vid-id.indi1.workers.dev/index.mpd?id=9182&type=dash&token=F9prEGm1Fh5WCQu6djIjeRWGPTQyLfkz|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=9183&type=drm&token=F9prEGm1Fh5WCQu6djIjeRWGPTQyLfkz
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/SJPkz_6Rp5rO_I7eRdT1vjYn1Zg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4951047/2681c6.jpg" ch-number="13", (Data Zone) Liverpool vs Tottenham - Premier League
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/SJPkz_6Rp5rO_I7eRdT1vjYn1Zg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4951047/2681c6.jpg" ch-number="12", (Data Zone) Liverpool vs Tottenham - Premier League
 https://vid-id.indi1.workers.dev/index.mpd?id=9183&type=dash&token=F9prEGm1Fh5WCQu6djIjeRWGPTQyLfkz|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=19404&type=drm&token=F9prEGm1Fh5WCQu6djIjeRWGPTQyLfkz
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/AmE6y8QK2zy8wdtrRksa33nrlBw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4953447/7b08ce.jpg" ch-number="14", Como vs Roma - Serie A
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/AmE6y8QK2zy8wdtrRksa33nrlBw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4953447/7b08ce.jpg" ch-number="13", Como vs Roma - Serie A
 https://vid-id.indi1.workers.dev/index.mpd?id=19404&type=dash&token=F9prEGm1Fh5WCQu6djIjeRWGPTQyLfkz|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6317&type=drm&token=F9prEGm1Fh5WCQu6djIjeRWGPTQyLfkz
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/wlg3ohHBnC6yHJMp5vFmZjDC-FU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4953448/40389d.jpg" ch-number="15", Genclerbirligi vs Besiktas - Trendyol Super Lig
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/wlg3ohHBnC6yHJMp5vFmZjDC-FU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4953448/40389d.jpg" ch-number="14", Genclerbirligi vs Besiktas - Trendyol Super Lig
 https://vid-id.indi1.workers.dev/index.mpd?id=6317&type=dash&token=F9prEGm1Fh5WCQu6djIjeRWGPTQyLfkz|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18189&type=drm&token=F9prEGm1Fh5WCQu6djIjeRWGPTQyLfkz
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/-eY6uLmfX4abxCRwSlRSACxQVjc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4953449/98d760.jpg" ch-number="16", Round 4 - THE PLAYERS Championship 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/-eY6uLmfX4abxCRwSlRSACxQVjc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4953449/98d760.jpg" ch-number="15", Round 4 - THE PLAYERS Championship 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=18189&type=dash&token=F9prEGm1Fh5WCQu6djIjeRWGPTQyLfkz|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=drm&token=F9prEGm1Fh5WCQu6djIjeRWGPTQyLfkz
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/9MLMJo_c15qvJrFrRrlfOXRTW5M=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4953450/2ffae1.jpg" ch-number="17", Real Betis vs Celta Vigo - LaLiga
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/9MLMJo_c15qvJrFrRrlfOXRTW5M=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4953450/2ffae1.jpg" ch-number="16", Real Betis vs Celta Vigo - LaLiga
 https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=dash&token=F9prEGm1Fh5WCQu6djIjeRWGPTQyLfkz|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20902&type=drm&token=F9prEGm1Fh5WCQu6djIjeRWGPTQyLfkz
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/lsDP9D3GDcgCjd4Jq1wNr5Smg_c=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4956083/ae5006.jpg" ch-number="18", Final - WTA 1000: BNP Paribas Open 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/lsDP9D3GDcgCjd4Jq1wNr5Smg_c=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4956083/ae5006.jpg" ch-number="17", Final - WTA 1000: BNP Paribas Open 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=20902&type=dash&token=F9prEGm1Fh5WCQu6djIjeRWGPTQyLfkz|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=19404&type=drm&token=F9prEGm1Fh5WCQu6djIjeRWGPTQyLfkz
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Z1j_Pw7RaaIokOqSK382sIfN3co=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4956089/a34c48.jpg" ch-number="19", Lazio vs Milan - Serie A
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Z1j_Pw7RaaIokOqSK382sIfN3co=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4956089/a34c48.jpg" ch-number="18", Lazio vs Milan - Serie A
 https://vid-id.indi1.workers.dev/index.mpd?id=19404&type=dash&token=F9prEGm1Fh5WCQu6djIjeRWGPTQyLfkz|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=drm&token=F9prEGm1Fh5WCQu6djIjeRWGPTQyLfkz
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/tC8aVNLwCD6ufOlfBWXwkVnzheQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4953552/f3515d.jpg" ch-number="20", Real Sociedad vs Osasuna - LaLiga
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/tC8aVNLwCD6ufOlfBWXwkVnzheQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4953552/f3515d.jpg" ch-number="19", Real Sociedad vs Osasuna - LaLiga
 https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=dash&token=F9prEGm1Fh5WCQu6djIjeRWGPTQyLfkz|User-Agent=VidioPlayer/6.31.6
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20502&type=drm&token=F9prEGm1Fh5WCQu6djIjeRWGPTQyLfkz
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/e7ddVSXX061U3ZX4lhWiGPvV3pw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4953553/cfc4ce.jpg" ch-number="20", Porto vs Moreirense - Liga Portugal
+https://vid-id.indi1.workers.dev/index.mpd?id=20502&type=dash&token=F9prEGm1Fh5WCQu6djIjeRWGPTQyLfkz|User-Agent=VidioPlayer/6.31.6
 
