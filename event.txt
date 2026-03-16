@@ -2,9 +2,8 @@
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=19404&type=drm&token=yIxoJojYvvJlcJcvyCAgICSLGscp6aJU
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/29eKoTFWpox3C4r7M9Afkti9yVA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4956092/41d93e.jpg" ch-number="1", Cremonese vs Fiorentina - Serie A
-#https://vid-id.indi1.workers.dev/index.mpd?id=19404&type=dash&token=yIxoJojYvvJlcJcvyCAgICSLGscp6aJU|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1FmFg1p6AxT5qEam62l7EGof9ehYdM131&export=download&authuser=0
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/29eKoTFWpox3C4r7M9Afkti9yVA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4956092/41d93e.jpg" ch-number="1", Cremonese vs Fiorentina - Serie A
+https://vid-id.indi1.workers.dev/index.mpd?id=19404&type=dash&token=yIxoJojYvvJlcJcvyCAgICSLGscp6aJU|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=9182&type=drm&token=yIxoJojYvvJlcJcvyCAgICSLGscp6aJU
