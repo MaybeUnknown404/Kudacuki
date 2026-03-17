@@ -7,7 +7,7 @@ https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=yIxoJojYvvJl
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=drm&token=yIxoJojYvvJlcJcvyCAgICSLGscp6aJU
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/bZzZWgtZHPFXf3TRHjQyXN_2T_c=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4959286/df3df0.jpg" ch-number="2", Donovan Willard Wee/Jia Hao Howin Wong (SGP) vs Raymond Indra/Nikolaus Joaquin (INA) - Men's Doubles Round of 32 | Orleans Masters Badminton 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/PElLVLY247dcIljW4ZK-ZF82NkQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18250/orleans-masters-badminton-2026-presented-by-victor-qualifiers-round-of-32-court-2-8bd6d7.jpg" ch-number="2", Rodion Alimov/Maksim Ogloblin (AIN) vs Kang Khai Xing/Aaron Tai (MAS) - Men's Doubles Round of 32 | Orleans Masters Badminton 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=dash&token=yIxoJojYvvJlcJcvyCAgICSLGscp6aJU|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -17,7 +17,7 @@ https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=dash&token=yIxoJojYvvJl
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18253&type=drm&token=yIxoJojYvvJlcJcvyCAgICSLGscp6aJU
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/KNWjy9h2raiMJCsnIJOzHKpGeV8=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18253/orleans-masters-badminton-2026-presented-by-victor-qualifiers-round-of-32-court-4-f983b0.jpg" ch-number="4", Zhi-Wei He/Huang Jui-Hsuan (TPE) vs Hu Ke Yuan/Lin Xiang Yi (CHN) - Men's Doubles Round of 32 | Orleans Masters Badminton 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/KNWjy9h2raiMJCsnIJOzHKpGeV8=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18253/orleans-masters-badminton-2026-presented-by-victor-qualifiers-round-of-32-court-4-f983b0.jpg" ch-number="4", Achutaditya Rao Doddavarapu/Pochana Arjun Reddy (IND) vs Lai Po Yu/Tsai Fu Cheng (TPE) - Men's Doubles Round of 32 | Orleans Masters Badminton 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=18253&type=dash&token=yIxoJojYvvJlcJcvyCAgICSLGscp6aJU|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -92,21 +92,21 @@ https://drive.usercontent.google.com/download?id=1FmFg1p6AxT5qEam62l7EGof9ehYdM1
 https://drive.usercontent.google.com/download?id=1FmFg1p6AxT5qEam62l7EGof9ehYdM131&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20891&type=drm&token=yIxoJojYvvJlcJcvyCAgICSLGscp6aJU
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/HX9Sh699VUuQDDJTddrYi3QXsaM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4959197/9b3814.jpg" ch-number="17", Round 1 (Court 2) - ATP 1000: Miami Open Presented by Itau 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=20891&type=dash&token=yIxoJojYvvJlcJcvyCAgICSLGscp6aJU|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1FmFg1p6AxT5qEam62l7EGof9ehYdM131&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20885&type=drm&token=yIxoJojYvvJlcJcvyCAgICSLGscp6aJU
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/ZFqhzyY1eKRq1PlK78BVZlOg5RI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4959186/5d7a22.jpg" ch-number="17", Round 1 (Grandstand) - ATP 1000: Miami Open Presented by Itau 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/ZFqhzyY1eKRq1PlK78BVZlOg5RI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4959186/5d7a22.jpg" ch-number="18", Round 1 (Grandstand) - ATP 1000: Miami Open Presented by Itau 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=20885&type=dash&token=yIxoJojYvvJlcJcvyCAgICSLGscp6aJU|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1FmFg1p6AxT5qEam62l7EGof9ehYdM131&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20890&type=drm&token=yIxoJojYvvJlcJcvyCAgICSLGscp6aJU
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/TCJGXb8ylWZgtHYf__0MXlVeSSQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4959193/2211a4.jpg" ch-number="18", Round 1 (Court 5) - ATP 1000: Miami Open Presented by Itau 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/TCJGXb8ylWZgtHYf__0MXlVeSSQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4959193/2211a4.jpg" ch-number="19", Round 1 (Court 5) - ATP 1000: Miami Open Presented by Itau 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=20890&type=dash&token=yIxoJojYvvJlcJcvyCAgICSLGscp6aJU|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1FmFg1p6AxT5qEam62l7EGof9ehYdM131&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20891&type=drm&token=yIxoJojYvvJlcJcvyCAgICSLGscp6aJU
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/HX9Sh699VUuQDDJTddrYi3QXsaM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4959197/9b3814.jpg" ch-number="19", Round 1 (Court 2) - ATP 1000: Miami Open Presented by Itau 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=20891&type=dash&token=yIxoJojYvvJlcJcvyCAgICSLGscp6aJU|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1FmFg1p6AxT5qEam62l7EGof9ehYdM131&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
