@@ -7,7 +7,7 @@ https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=yIxoJojYvvJl
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=drm&token=yIxoJojYvvJlcJcvyCAgICSLGscp6aJU
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/PElLVLY247dcIljW4ZK-ZF82NkQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18250/orleans-masters-badminton-2026-presented-by-victor-qualifiers-round-of-32-court-2-8bd6d7.jpg" ch-number="2", Orleans Masters Badminton 2026 presented by VICTOR - Qualifiers + Round of 32 (Court 2)
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/PElLVLY247dcIljW4ZK-ZF82NkQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18250/orleans-masters-badminton-2026-presented-by-victor-qualifiers-round-of-32-court-2-8bd6d7.jpg" ch-number="2", Dong Tian Yao (CHN) vs Iljo Van Delsen (BEL) - Men's Singles Qualification Round of 16 | Orleans Masters Badminton 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=dash&token=yIxoJojYvvJlcJcvyCAgICSLGscp6aJU|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
