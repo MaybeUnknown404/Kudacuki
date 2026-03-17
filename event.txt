@@ -21,85 +21,86 @@ https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=dash&token=yIxoJojYvvJl
 https://vid-id.indi1.workers.dev/index.mpd?id=18253&type=dash&token=yIxoJojYvvJlcJcvyCAgICSLGscp6aJU|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=drm&token=yIxoJojYvvJlcJcvyCAgICSLGscp6aJU
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="⛔ Event Ended" tvg-logo="https://thumbor.prod.vidiocdn.com/XaPO2FObA59GIBh08NPbqH61f4U=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4955801/c2b6fc.jpg" ch-number="5", Villarreal vs PSG - UEFA Youth League
-https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=dash&token=yIxoJojYvvJlcJcvyCAgICSLGscp6aJU|User-Agent=VidioPlayer/6.31.6
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6317&type=drm&token=yIxoJojYvvJlcJcvyCAgICSLGscp6aJU
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/Oss6Q13XkN3tYZwQ_ud3nOQzrm4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4956315/491132.jpg" ch-number="6", Fenerbahce vs Gaziantep - Trendyol Super Lig
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/Oss6Q13XkN3tYZwQ_ud3nOQzrm4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4956315/491132.jpg" ch-number="5", Fenerbahce vs Gaziantep - Trendyol Super Lig
 https://vid-id.indi1.workers.dev/index.mpd?id=6317&type=dash&token=yIxoJojYvvJlcJcvyCAgICSLGscp6aJU|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=drm&token=yIxoJojYvvJlcJcvyCAgICSLGscp6aJU
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/iUB5Dh5Lg6CLX8d1jMq_y2gUT7w=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4956119/bb3c06.jpg" ch-number="7", Sporting vs Bodo/Glimt - UEFA Champions League
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/iUB5Dh5Lg6CLX8d1jMq_y2gUT7w=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4956119/bb3c06.jpg" ch-number="6", Sporting vs Bodo/Glimt - UEFA Champions League
 #https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=dash&token=yIxoJojYvvJlcJcvyCAgICSLGscp6aJU|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1FmFg1p6AxT5qEam62l7EGof9ehYdM131&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18436&type=drm&token=yIxoJojYvvJlcJcvyCAgICSLGscp6aJU
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/PQlUAxm6XQi0hzGbFSP1guH77_A=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4956319/5fdae2.jpg" ch-number="8", Chelsea vs PSG - UEFA Champions League
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/PQlUAxm6XQi0hzGbFSP1guH77_A=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4956319/5fdae2.jpg" ch-number="7", Chelsea vs PSG - UEFA Champions League
 #https://vid-id.indi1.workers.dev/index.mpd?id=18436&type=dash&token=yIxoJojYvvJlcJcvyCAgICSLGscp6aJU|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1FmFg1p6AxT5qEam62l7EGof9ehYdM131&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6317&type=drm&token=yIxoJojYvvJlcJcvyCAgICSLGscp6aJU
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/7jCJ4jSPYPXNGu1Zko33kU5p-xU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4956316/7a7508.jpg" ch-number="9", Arsenal vs Leverkusen - UEFA Champions League
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/7jCJ4jSPYPXNGu1Zko33kU5p-xU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4956316/7a7508.jpg" ch-number="8", Arsenal vs Leverkusen - UEFA Champions League
 #https://vid-id.indi1.workers.dev/index.mpd?id=6317&type=dash&token=yIxoJojYvvJlcJcvyCAgICSLGscp6aJU|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1FmFg1p6AxT5qEam62l7EGof9ehYdM131&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=drm&token=yIxoJojYvvJlcJcvyCAgICSLGscp6aJU
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/1j2ryExanoRZbjjuvbMYpOFCqvE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4959206/6a523c.jpg" ch-number="10", Man City vs Real Madrid - UEFA Champions League
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/1j2ryExanoRZbjjuvbMYpOFCqvE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4959206/6a523c.jpg" ch-number="9", Man City vs Real Madrid - UEFA Champions League
 #https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=dash&token=yIxoJojYvvJlcJcvyCAgICSLGscp6aJU|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1FmFg1p6AxT5qEam62l7EGof9ehYdM131&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=drm&token=yIxoJojYvvJlcJcvyCAgICSLGscp6aJU
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/GpKeGRFQB9jJSyKDwhJxolQOjj8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4956259/e53514.jpg" ch-number="11", Cancun P2 Premier Padel 2026 - Day 1
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/GpKeGRFQB9jJSyKDwhJxolQOjj8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4956259/e53514.jpg" ch-number="10", Cancun P2 Premier Padel 2026 - Day 1
 #https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=dash&token=yIxoJojYvvJlcJcvyCAgICSLGscp6aJU|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1FmFg1p6AxT5qEam62l7EGof9ehYdM131&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17140&type=drm&token=yIxoJojYvvJlcJcvyCAgICSLGscp6aJU
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/c0ywly5-FH8vrKqKXFq4APdgRDY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4959598/39a1b2.jpg" ch-number="12", Venezuela vs USA - Final - World Baseball Classic
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/c0ywly5-FH8vrKqKXFq4APdgRDY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4959598/39a1b2.jpg" ch-number="11", Venezuela vs USA - Final - World Baseball Classic
 #https://vid-id.indi1.workers.dev/index.mpd?id=17140&type=dash&token=yIxoJojYvvJlcJcvyCAgICSLGscp6aJU|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1FmFg1p6AxT5qEam62l7EGof9ehYdM131&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17926&type=drm&token=yIxoJojYvvJlcJcvyCAgICSLGscp6aJU
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/jaYzSoHflrJ7JnPMMKXsTrl6cYQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4956320/3ce1c6.jpg" ch-number="13", Taoyuan Pauian Pilots vs Seoul SK Knights - EASL
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/jaYzSoHflrJ7JnPMMKXsTrl6cYQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4956320/3ce1c6.jpg" ch-number="12", Taoyuan Pauian Pilots vs Seoul SK Knights - EASL
 #https://vid-id.indi1.workers.dev/index.mpd?id=17926&type=dash&token=yIxoJojYvvJlcJcvyCAgICSLGscp6aJU|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1FmFg1p6AxT5qEam62l7EGof9ehYdM131&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=19672&type=drm&token=yIxoJojYvvJlcJcvyCAgICSLGscp6aJU
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/b9svEMA7uKAU5Z4AA_ysCbKozJQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4959088/c26502.jpg" ch-number="14", Utsunomiya Brex vs Ryukyu Golden Kings - EASL
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/b9svEMA7uKAU5Z4AA_ysCbKozJQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4959088/c26502.jpg" ch-number="13", Utsunomiya Brex vs Ryukyu Golden Kings - EASL
 #https://vid-id.indi1.workers.dev/index.mpd?id=19672&type=dash&token=yIxoJojYvvJlcJcvyCAgICSLGscp6aJU|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1FmFg1p6AxT5qEam62l7EGof9ehYdM131&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=drm&token=yIxoJojYvvJlcJcvyCAgICSLGscp6aJU
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/dc5icv51C7Jug1XD9yFgEzQ2BbM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4956121/9b34d1.jpg" ch-number="15", Real Madrid vs Sporting - UEFA Youth League
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/dc5icv51C7Jug1XD9yFgEzQ2BbM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4956121/9b34d1.jpg" ch-number="14", Real Madrid vs Sporting - UEFA Youth League
 #https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=dash&token=yIxoJojYvvJlcJcvyCAgICSLGscp6aJU|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1FmFg1p6AxT5qEam62l7EGof9ehYdM131&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=drm&token=yIxoJojYvvJlcJcvyCAgICSLGscp6aJU
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/n00oRpPu5kzsQKbHh91f1GHbWv0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4956260/75ae72.jpg" ch-number="16", Cancun P2 Premier Padel 2026 - Day 2
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/n00oRpPu5kzsQKbHh91f1GHbWv0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4956260/75ae72.jpg" ch-number="15", Cancun P2 Premier Padel 2026 - Day 2
 #https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=dash&token=yIxoJojYvvJlcJcvyCAgICSLGscp6aJU|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1FmFg1p6AxT5qEam62l7EGof9ehYdM131&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=drm&token=yIxoJojYvvJlcJcvyCAgICSLGscp6aJU
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/cCQ6JStzb4-7-0v_B55iFohISas=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4956122/326270.jpg" ch-number="17", Inter vs Benfica - UEFA Youth League
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/cCQ6JStzb4-7-0v_B55iFohISas=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4956122/326270.jpg" ch-number="16", Inter vs Benfica - UEFA Youth League
 #https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=dash&token=yIxoJojYvvJlcJcvyCAgICSLGscp6aJU|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1FmFg1p6AxT5qEam62l7EGof9ehYdM131&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20885&type=drm&token=yIxoJojYvvJlcJcvyCAgICSLGscp6aJU
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/ZFqhzyY1eKRq1PlK78BVZlOg5RI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4959186/5d7a22.jpg" ch-number="18", Round 1 (Grandstand) - ATP 1000: Miami Open Presented by Itau 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/ZFqhzyY1eKRq1PlK78BVZlOg5RI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4959186/5d7a22.jpg" ch-number="17", Round 1 (Grandstand) - ATP 1000: Miami Open Presented by Itau 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=20885&type=dash&token=yIxoJojYvvJlcJcvyCAgICSLGscp6aJU|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1FmFg1p6AxT5qEam62l7EGof9ehYdM131&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20890&type=drm&token=yIxoJojYvvJlcJcvyCAgICSLGscp6aJU
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/TCJGXb8ylWZgtHYf__0MXlVeSSQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4959193/2211a4.jpg" ch-number="18", Round 1 (Court 5) - ATP 1000: Miami Open Presented by Itau 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=20890&type=dash&token=yIxoJojYvvJlcJcvyCAgICSLGscp6aJU|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1FmFg1p6AxT5qEam62l7EGof9ehYdM131&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -109,8 +110,8 @@ https://drive.usercontent.google.com/download?id=1FmFg1p6AxT5qEam62l7EGof9ehYdM1
 https://drive.usercontent.google.com/download?id=1FmFg1p6AxT5qEam62l7EGof9ehYdM131&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20890&type=drm&token=yIxoJojYvvJlcJcvyCAgICSLGscp6aJU
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/TCJGXb8ylWZgtHYf__0MXlVeSSQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4959193/2211a4.jpg" ch-number="20", Round 1 (Court 5) - ATP 1000: Miami Open Presented by Itau 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=20890&type=dash&token=yIxoJojYvvJlcJcvyCAgICSLGscp6aJU|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6317&type=drm&token=yIxoJojYvvJlcJcvyCAgICSLGscp6aJU
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/U5Q3KyBfudOZrIghyZDMRFe7b_8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4956317/7722c3.jpg" ch-number="20", Braga vs Ferencvaros - UEFA Europa League
+#https://vid-id.indi1.workers.dev/index.mpd?id=6317&type=dash&token=yIxoJojYvvJlcJcvyCAgICSLGscp6aJU|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1FmFg1p6AxT5qEam62l7EGof9ehYdM131&export=download&authuser=0
 
