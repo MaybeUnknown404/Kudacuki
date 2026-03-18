@@ -12,15 +12,13 @@ https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=dash&token=SJQGghAYJTgs
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=drm&token=SJQGghAYJTgsYgxPJMy43c5QEfpyrxF3
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/CBP38cK9PufM-uzCBSa8-uLJTVs=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/orleans-masters-badminton-2026-presented-by-victor-round-of-32-court-3-c1ed8c.jpg" ch-number="3", Mihajlo Tomic/Andjela Vitman (SRB) vs Zhu Yi Jun/Li Qian (CHN) - Mixed Doubles Round of 32 | Orleans Masters Badminton 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=dash&token=SJQGghAYJTgsYgxPJMy43c5QEfpyrxF3|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1FmFg1p6AxT5qEam62l7EGof9ehYdM131&export=download&authuser=0
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/REPIi0jlSAj6XD_DUAfwrizx6B0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4959663/c1258b.jpg" ch-number="3", Mihajlo Tomic/Andjela Vitman (SRB) vs Zhu Yi Jun/Li Qian (CHN) - Mixed Doubles Round of 32 | Orleans Masters Badminton 2026
+https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=dash&token=SJQGghAYJTgsYgxPJMy43c5QEfpyrxF3|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18253&type=drm&token=SJQGghAYJTgsYgxPJMy43c5QEfpyrxF3
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/3hAsY5Ls7EGPzPppTY2g5Sykjdk=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18253/orleans-masters-badminton-2026-presented-by-victor-round-of-32-court-4-b1df70.jpg" ch-number="4", Hina Akechi (JPN) vs Nozomi Okuhara (JPN) - Women's Singles Round of 32 | Orleans Masters Badminton 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=18253&type=dash&token=SJQGghAYJTgsYgxPJMy43c5QEfpyrxF3|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1FmFg1p6AxT5qEam62l7EGof9ehYdM131&export=download&authuser=0
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/bWN4G0PusgatO2MzfjlnSWIiLVU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4959676/efff6a.jpg" ch-number="4", Hina Akechi (JPN) vs Nozomi Okuhara (JPN) - Women's Singles Round of 32 | Orleans Masters Badminton 2026
+https://vid-id.indi1.workers.dev/index.mpd?id=18253&type=dash&token=SJQGghAYJTgsYgxPJMy43c5QEfpyrxF3|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17926&type=drm&token=SJQGghAYJTgsYgxPJMy43c5QEfpyrxF3
@@ -72,7 +70,7 @@ https://drive.usercontent.google.com/download?id=1FmFg1p6AxT5qEam62l7EGof9ehYdM1
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20886&type=drm&token=SJQGghAYJTgsYgxPJMy43c5QEfpyrxF3
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/eStWwkkJ7pC46vm-fWXX8USCKzY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4959899/79f6ab.jpg" ch-number="13", Denis Shapovalov vs Botic Van De Zandschulp - Round 1 (Buch Buchholz) | ATP 1000: Miami Open presented by Itau 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/gQtoiQeFsw7RefxxUcfICLRTdZY=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/20886/round-1-butch-buchholz-atp-1000-miami-open-presented-by-itau-2026-bf2195.jpg" ch-number="13", Denis Shapovalov vs Botic Van De Zandschulp - Round 1 (Buch Buchholz) | ATP 1000: Miami Open presented by Itau 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=20886&type=dash&token=SJQGghAYJTgsYgxPJMy43c5QEfpyrxF3|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1FmFg1p6AxT5qEam62l7EGof9ehYdM131&export=download&authuser=0
 
