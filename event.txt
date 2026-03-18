@@ -7,17 +7,17 @@ https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=SJQGghAYJTgs
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=drm&token=SJQGghAYJTgsYgxPJMy43c5QEfpyrxF3
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/ceEaUf8UoB7PlA8KBbZPhdDWGB8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4959655/0722e8.jpg" ch-number="2", Tanvi Sharma (IND) vs Supanida Katethong (THA) - Women's Singles Round of 32 | Orleans Masters Badminton 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/T4VcQgQLi6BKPXPTVywHxyxLdHs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4959656/933ac5.jpg" ch-number="2", Su Li Yang (TPE) vs Kalle Koljonen (FIN) - Men's Singles Round of 32 | Orleans Masters Badminton 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=dash&token=SJQGghAYJTgsYgxPJMy43c5QEfpyrxF3|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=drm&token=SJQGghAYJTgsYgxPJMy43c5QEfpyrxF3
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/jDex1ITK-D8BVuCmEuYW75KB45g=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4959668/79bc22.jpg" ch-number="3", Callum Hemming/Estelle Van Leeuwen (ENG) vs Gao Jia Xuan/Wu Meng Ying (CHN) - Mixed Doubles Round of 32 | Orleans Masters Badminton 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/TCAXwlozG8FAU0nKJvZSxaj2q_A=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4959669/39e78b.jpg" ch-number="3", Beiwen Zhang (USA) vs Wong Ling Ching (MAS) - Women's Singles Round of 32 | Orleans Masters Badminton 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=dash&token=SJQGghAYJTgsYgxPJMy43c5QEfpyrxF3|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18253&type=drm&token=SJQGghAYJTgsYgxPJMy43c5QEfpyrxF3
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/J3Q4-_8m-iCjGcvg99B93jTl5C8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4959680/874105.jpg" ch-number="4", Yang Po-Hsuan/Hu Ling Fang (TPE) vs Wu Hsuan-Yi/Yang Chu Yun (TPE) - Mixed Doubles Round of 32 | Orleans Masters Badminton 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/CgIwy0wdGSCRXQO1FcjwPDofcHM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4959681/595ba5.jpg" ch-number="4", Malvika Bansod (IND) vs Sung Shuo Yun (TPE) - Women's Singles Round of 32 | Orleans Masters Badminton 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=18253&type=dash&token=SJQGghAYJTgsYgxPJMy43c5QEfpyrxF3|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
