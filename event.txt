@@ -2,7 +2,7 @@
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=drm&token=SJQGghAYJTgsYgxPJMy43c5QEfpyrxF3
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/Qp6PDvRwTbSU1GCDqo0Ueasm8sM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4959648/d19d17.jpg" ch-number="1", Chou Tien Chen (TPE) vs Kantaphon Wangcharoen (THA) - Men's Singles Round of 32 | Orleans Masters Badminton 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/cUv31mcHAhkZpcNAEtcqJivtkjM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4959649/83c0b0.jpg" ch-number="1", Toma Junior Popov (FRA) vs Zhu Xuan Chen (CHN) - Men's Singles Round of 32 | Orleans Masters Badminton 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=SJQGghAYJTgsYgxPJMy43c5QEfpyrxF3|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
