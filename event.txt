@@ -27,15 +27,13 @@ https://vid-id.indi1.workers.dev/index.mpd?id=18436&type=dash&token=wJNCED7xyDvd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=drm&token=wJNCED7xyDvdveM7T8HVTqAYVH09VLoF
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/9SRFSYPU5Tq1GapyHwa2jjTUBXU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4959194/dda9e3.jpg" ch-number="6", Bayern vs Atalanta - UEFA Champions League
-#https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=dash&token=wJNCED7xyDvdveM7T8HVTqAYVH09VLoF|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1FmFg1p6AxT5qEam62l7EGof9ehYdM131&export=download&authuser=0
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/9SRFSYPU5Tq1GapyHwa2jjTUBXU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4959194/dda9e3.jpg" ch-number="6", Bayern vs Atalanta - UEFA Champions League
+https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=dash&token=wJNCED7xyDvdveM7T8HVTqAYVH09VLoF|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6317&type=drm&token=wJNCED7xyDvdveM7T8HVTqAYVH09VLoF
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/4HV6n35mVZlhISAki_bm0-1D7P8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4959203/488f8b.jpg" ch-number="7", Tottenham vs Atletico Madrid - UEFA Champions League
-#https://vid-id.indi1.workers.dev/index.mpd?id=6317&type=dash&token=wJNCED7xyDvdveM7T8HVTqAYVH09VLoF|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1FmFg1p6AxT5qEam62l7EGof9ehYdM131&export=download&authuser=0
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/4HV6n35mVZlhISAki_bm0-1D7P8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4959203/488f8b.jpg" ch-number="7", Tottenham vs Atletico Madrid - UEFA Champions League
+https://vid-id.indi1.workers.dev/index.mpd?id=6317&type=dash&token=wJNCED7xyDvdveM7T8HVTqAYVH09VLoF|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20564&type=drm&token=wJNCED7xyDvdveM7T8HVTqAYVH09VLoF
