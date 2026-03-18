@@ -12,7 +12,7 @@ https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=dash&token=SJQGghAYJTgs
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=drm&token=SJQGghAYJTgsYgxPJMy43c5QEfpyrxF3
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/P1h260E89lcVX9Ib_tu_DgH8bc4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4959666/9002ee.jpg" ch-number="3", Lee Chia Hao (TPE) vs Wang Zheng Xing (CHN) - Men's Singles Round of 32 | Orleans Masters Badminton 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/luYTBgDeXYBz-0gBfxgqk2KnwYw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4959667/9f6df5.jpg" ch-number="3", Anmol Kharb (IND) vs Neslihan Arin (TUR) - Women's Singles Round of 32 | Orleans Masters Badminton 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=dash&token=SJQGghAYJTgsYgxPJMy43c5QEfpyrxF3|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -22,9 +22,8 @@ https://vid-id.indi1.workers.dev/index.mpd?id=18253&type=dash&token=SJQGghAYJTgs
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=19672&type=drm&token=SJQGghAYJTgsYgxPJMy43c5QEfpyrxF3
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/b9svEMA7uKAU5Z4AA_ysCbKozJQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4959088/c26502.jpg" ch-number="5", Utsunomiya Brex vs Ryukyu Golden Kings - EASL
-#https://vid-id.indi1.workers.dev/index.mpd?id=19672&type=dash&token=SJQGghAYJTgsYgxPJMy43c5QEfpyrxF3|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1FmFg1p6AxT5qEam62l7EGof9ehYdM131&export=download&authuser=0
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/b9svEMA7uKAU5Z4AA_ysCbKozJQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4959088/c26502.jpg" ch-number="5", Utsunomiya Brex vs Ryukyu Golden Kings - EASL
+https://vid-id.indi1.workers.dev/index.mpd?id=19672&type=dash&token=SJQGghAYJTgsYgxPJMy43c5QEfpyrxF3|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=drm&token=SJQGghAYJTgsYgxPJMy43c5QEfpyrxF3
