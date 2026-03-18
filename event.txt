@@ -22,7 +22,7 @@ https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=dash&token=SJQGghAYJTgs
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18253&type=drm&token=SJQGghAYJTgsYgxPJMy43c5QEfpyrxF3
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/JB5BASFZbfylT1HVciuu5MItVSU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4959684/7458dc.jpg" ch-number="5", Yeo Jia Min (SGP) vs Aakarshi Kashyap (IND) - Women's Singles Round of 32 | Orleans Masters Badminton 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/f7LQPjyUIeIBds-Mw-UFAWcYBVs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4959685/8bb86e.jpg" ch-number="5", Julien Carraggi (BEL) vs Panitchaphon Teeraratsakul (THA) - Men's Singles Round of 32 | Orleans Masters Badminton 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=18253&type=dash&token=SJQGghAYJTgsYgxPJMy43c5QEfpyrxF3|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
