@@ -12,7 +12,7 @@ https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=dash&token=wJNCED7xyDvd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=drm&token=wJNCED7xyDvdveM7T8HVTqAYVH09VLoF
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/XEPHBcnmnSdD2u2U_3UEL--utPY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4961154/acfbfb.jpg" ch-number="3", Koceila Mammeri dan Tanina Violette Mammeri ALG vs Liu Kuang Heng dan Jheng Yu Chieh TPE - Mixed Doubles Round of 16
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/Y2oS3q-O4ziWQRXoDcjHRFQH5GA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4961155/6d8237.jpg" ch-number="3", Cheng Xing dan Zhang Chi CHN vs Alexander Dunn dan Julie Macpherson SCO - Mixed Doubles Round of 16
 https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=dash&token=wJNCED7xyDvdveM7T8HVTqAYVH09VLoF|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
