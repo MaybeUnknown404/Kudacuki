@@ -1,19 +1,19 @@
 #EXTM3U
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=drm&token=rsI7VxaEzLsqN5c57ObDBL1vCNRAaWvo
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/pc2KLGTEICIgBYowRpPoHjIpR2k=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/orleans-masters-badminton-2026-presented-by-victor-round-of-32-court-3-a083a2.jpg" ch-number="1", Orleans Masters Badminton 2026 presented by VICTOR - Round Of 16 Court 3
-https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=dash&token=rsI7VxaEzLsqN5c57ObDBL1vCNRAaWvo|User-Agent=VidioPlayer/6.31.6
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=drm&token=rsI7VxaEzLsqN5c57ObDBL1vCNRAaWvo
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/oYvZ3pq91o01gIB3e1UoDAkjBS8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4962247/78576c.jpg" ch-number="2", Midtjylland vs Nottingham Forest - UEFA Europa League
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/oYvZ3pq91o01gIB3e1UoDAkjBS8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4962247/78576c.jpg" ch-number="1", Midtjylland vs Nottingham Forest - UEFA Europa League
 https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=dash&token=rsI7VxaEzLsqN5c57ObDBL1vCNRAaWvo|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18189&type=drm&token=rsI7VxaEzLsqN5c57ObDBL1vCNRAaWvo
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/zxqB1nEkuK5OllujmRcm4ccdKDg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4959531/2f1df0.jpg" ch-number="3", Round 1 - Valspar Championship 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/zxqB1nEkuK5OllujmRcm4ccdKDg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4959531/2f1df0.jpg" ch-number="2", Round 1 - Valspar Championship 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=18189&type=dash&token=rsI7VxaEzLsqN5c57ObDBL1vCNRAaWvo|User-Agent=VidioPlayer/6.31.6
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20888&type=drm&token=rsI7VxaEzLsqN5c57ObDBL1vCNRAaWvo
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/rUCQm5l6n2muTVsKgZhNZ4puKVI=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/20888/round-1-court-7-atp-1000-miami-open-presented-by-itau-2026-560ab0.jpg" ch-number="3", Reilly Opelka vs Nuno Borges - Round 1 Court 7
+https://vid-id.indi1.workers.dev/index.mpd?id=20888&type=dash&token=rsI7VxaEzLsqN5c57ObDBL1vCNRAaWvo|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20886&type=drm&token=rsI7VxaEzLsqN5c57ObDBL1vCNRAaWvo
@@ -36,14 +36,14 @@ https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=dash&token=rsI7VxaEzLsq
 https://vid-id.indi1.workers.dev/index.mpd?id=20564&type=dash&token=rsI7VxaEzLsqN5c57ObDBL1vCNRAaWvo|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=drm&token=rsI7VxaEzLsqN5c57ObDBL1vCNRAaWvo
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/0PRA2gw72Suas42zEunm1nk65X4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4959527/7d8edd.jpg" ch-number="8", Porto vs VfB Stuttgart - UEFA Europa League
-https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=dash&token=rsI7VxaEzLsqN5c57ObDBL1vCNRAaWvo|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20092&type=drm&token=rsI7VxaEzLsqN5c57ObDBL1vCNRAaWvo
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/WC_iC6K9kFGaY9aiaBFYgZDDAfg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4959547/65682e.jpg" ch-number="8", Shakhtar Donetsk vs Lech Poznan - UEFA Conference League
+https://vid-id.indi1.workers.dev/index.mpd?id=20092&type=dash&token=rsI7VxaEzLsqN5c57ObDBL1vCNRAaWvo|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20094&type=drm&token=rsI7VxaEzLsqN5c57ObDBL1vCNRAaWvo
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/xjNbltFyWNBOnKy4RslbeRh8xN0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4959549/a634e3.jpg" ch-number="9", Strasbourg vs Rijeka - UEFA Conference League
-https://vid-id.indi1.workers.dev/index.mpd?id=20094&type=dash&token=rsI7VxaEzLsqN5c57ObDBL1vCNRAaWvo|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=drm&token=rsI7VxaEzLsqN5c57ObDBL1vCNRAaWvo
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/0PRA2gw72Suas42zEunm1nk65X4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4959527/7d8edd.jpg" ch-number="9", Porto vs VfB Stuttgart - UEFA Europa League
+https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=dash&token=rsI7VxaEzLsqN5c57ObDBL1vCNRAaWvo|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=19599&type=drm&token=rsI7VxaEzLsqN5c57ObDBL1vCNRAaWvo
@@ -51,44 +51,45 @@ https://vid-id.indi1.workers.dev/index.mpd?id=20094&type=dash&token=rsI7VxaEzLsq
 https://vid-id.indi1.workers.dev/index.mpd?id=19599&type=dash&token=rsI7VxaEzLsqN5c57ObDBL1vCNRAaWvo|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20093&type=drm&token=rsI7VxaEzLsqN5c57ObDBL1vCNRAaWvo
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/4zLEqce1E5YTMty4fQHCotosIBo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4959548/f281af.jpg" ch-number="11", Sparta Praha vs AZ Alkmaar - UEFA Conference League
-https://vid-id.indi1.workers.dev/index.mpd?id=20093&type=dash&token=rsI7VxaEzLsqN5c57ObDBL1vCNRAaWvo|User-Agent=VidioPlayer/6.31.6
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=19602&type=drm&token=rsI7VxaEzLsqN5c57ObDBL1vCNRAaWvo
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/S6g-sHzCzI13OwQgDPpra1rTURw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4959552/6eeca4.jpg" ch-number="12", Real Betis vs Panathinaikos - UEFA Europa League
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/S6g-sHzCzI13OwQgDPpra1rTURw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4959552/6eeca4.jpg" ch-number="11", Real Betis vs Panathinaikos - UEFA Europa League
 https://vid-id.indi1.workers.dev/index.mpd?id=19602&type=dash&token=rsI7VxaEzLsqN5c57ObDBL1vCNRAaWvo|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20094&type=drm&token=rsI7VxaEzLsqN5c57ObDBL1vCNRAaWvo
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/xjNbltFyWNBOnKy4RslbeRh8xN0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4959549/a634e3.jpg" ch-number="12", Strasbourg vs Rijeka - UEFA Conference League
+https://vid-id.indi1.workers.dev/index.mpd?id=20094&type=dash&token=rsI7VxaEzLsqN5c57ObDBL1vCNRAaWvo|User-Agent=VidioPlayer/6.31.6
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20093&type=drm&token=rsI7VxaEzLsqN5c57ObDBL1vCNRAaWvo
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/4zLEqce1E5YTMty4fQHCotosIBo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4959548/f281af.jpg" ch-number="13", Sparta Praha vs AZ Alkmaar - UEFA Conference League
+https://vid-id.indi1.workers.dev/index.mpd?id=20093&type=dash&token=rsI7VxaEzLsqN5c57ObDBL1vCNRAaWvo|User-Agent=VidioPlayer/6.31.6
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20091&type=drm&token=rsI7VxaEzLsqN5c57ObDBL1vCNRAaWvo
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/kOEawdX3BdN6iz1NrF3yEVHNxao=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4959546/a00e60.jpg" ch-number="13", Rayo Vallecano vs Samsunspor - UEFA Conference League
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/kOEawdX3BdN6iz1NrF3yEVHNxao=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4959546/a00e60.jpg" ch-number="14", Rayo Vallecano vs Samsunspor - UEFA Conference League
 https://vid-id.indi1.workers.dev/index.mpd?id=20091&type=dash&token=rsI7VxaEzLsqN5c57ObDBL1vCNRAaWvo|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20092&type=drm&token=rsI7VxaEzLsqN5c57ObDBL1vCNRAaWvo
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/WC_iC6K9kFGaY9aiaBFYgZDDAfg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4959547/65682e.jpg" ch-number="14", Shakhtar Donetsk vs Lech Poznan - UEFA Conference League
-https://vid-id.indi1.workers.dev/index.mpd?id=20092&type=dash&token=rsI7VxaEzLsqN5c57ObDBL1vCNRAaWvo|User-Agent=VidioPlayer/6.31.6
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20888&type=drm&token=rsI7VxaEzLsqN5c57ObDBL1vCNRAaWvo
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/blyuCA4NgxbOIsLAC5KrWyIX2ZU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4961213/0e0eca.jpg" ch-number="15", Martin Damm vs Jacob Fearnley - Round 1 Court 7
-https://vid-id.indi1.workers.dev/index.mpd?id=20888&type=dash&token=rsI7VxaEzLsqN5c57ObDBL1vCNRAaWvo|User-Agent=VidioPlayer/6.31.6
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20955&type=drm&token=rsI7VxaEzLsqN5c57ObDBL1vCNRAaWvo
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/G-0OKcBzHFWS4bj22ZB2fxRZ2OQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/20955/round-1-court-3-atp-1000-miami-open-presented-by-itau-2026-26d926.jpg" ch-number="16", Ignacio Buse vs Damir Dzumhur - Round 1 Court 3
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/G-0OKcBzHFWS4bj22ZB2fxRZ2OQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/20955/round-1-court-3-atp-1000-miami-open-presented-by-itau-2026-26d926.jpg" ch-number="15", Ignacio Buse vs Damir Dzumhur - Round 1 Court 3
 https://vid-id.indi1.workers.dev/index.mpd?id=20955&type=dash&token=rsI7VxaEzLsqN5c57ObDBL1vCNRAaWvo|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20885&type=drm&token=rsI7VxaEzLsqN5c57ObDBL1vCNRAaWvo
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/2m9DyG43TLvfwn9PX6uBminIWO0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4961190/47999a.jpg" ch-number="17", Alejandro Tabilo vs Francisco Comesana - Round 1 Grandstand
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/2m9DyG43TLvfwn9PX6uBminIWO0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4961190/47999a.jpg" ch-number="16", Alejandro Tabilo vs Francisco Comesana - Round 1 Grandstand
 https://vid-id.indi1.workers.dev/index.mpd?id=20885&type=dash&token=rsI7VxaEzLsqN5c57ObDBL1vCNRAaWvo|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=drm&token=rsI7VxaEzLsqN5c57ObDBL1vCNRAaWvo
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Luh09hxbebp7TjKkxaGjZkO_1VQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4959094/212000.jpg" ch-number="18", Aston Villa vs LOSC - UEFA Europa League
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Luh09hxbebp7TjKkxaGjZkO_1VQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4959094/212000.jpg" ch-number="17", Aston Villa vs LOSC - UEFA Europa League
 #https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=dash&token=rsI7VxaEzLsqN5c57ObDBL1vCNRAaWvo|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1FmFg1p6AxT5qEam62l7EGof9ehYdM131&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20888&type=drm&token=rsI7VxaEzLsqN5c57ObDBL1vCNRAaWvo
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/blyuCA4NgxbOIsLAC5KrWyIX2ZU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4961213/0e0eca.jpg" ch-number="18", Martin Damm vs Jacob Fearnley - Round 1 Court 7
+#https://vid-id.indi1.workers.dev/index.mpd?id=20888&type=dash&token=rsI7VxaEzLsqN5c57ObDBL1vCNRAaWvo|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1FmFg1p6AxT5qEam62l7EGof9ehYdM131&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
