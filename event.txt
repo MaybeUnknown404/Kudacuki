@@ -11,9 +11,9 @@ https://vid-id.indi1.workers.dev/index.mpd?id=20564&type=dash&token=rsI7VxaEzLsq
 https://vid-id.indi1.workers.dev/index.mpd?id=19599&type=dash&token=rsI7VxaEzLsqN5c57ObDBL1vCNRAaWvo|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20093&type=drm&token=rsI7VxaEzLsqN5c57ObDBL1vCNRAaWvo
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/4zLEqce1E5YTMty4fQHCotosIBo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4959548/f281af.jpg" ch-number="3", Sparta Praha vs AZ Alkmaar - UEFA Conference League
-https://vid-id.indi1.workers.dev/index.mpd?id=20093&type=dash&token=rsI7VxaEzLsqN5c57ObDBL1vCNRAaWvo|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20955&type=drm&token=rsI7VxaEzLsqN5c57ObDBL1vCNRAaWvo
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/G-0OKcBzHFWS4bj22ZB2fxRZ2OQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/20955/round-1-court-3-atp-1000-miami-open-presented-by-itau-2026-26d926.jpg" ch-number="3", Ignacio Buse vs Damir Dzumhur - Round 1 Court 3
+https://vid-id.indi1.workers.dev/index.mpd?id=20955&type=dash&token=rsI7VxaEzLsqN5c57ObDBL1vCNRAaWvo|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20091&type=drm&token=rsI7VxaEzLsqN5c57ObDBL1vCNRAaWvo
@@ -21,9 +21,9 @@ https://vid-id.indi1.workers.dev/index.mpd?id=20093&type=dash&token=rsI7VxaEzLsq
 https://vid-id.indi1.workers.dev/index.mpd?id=20091&type=dash&token=rsI7VxaEzLsqN5c57ObDBL1vCNRAaWvo|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20092&type=drm&token=rsI7VxaEzLsqN5c57ObDBL1vCNRAaWvo
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/WC_iC6K9kFGaY9aiaBFYgZDDAfg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4959547/65682e.jpg" ch-number="5", Shakhtar Donetsk vs Lech Poznan - UEFA Conference League
-https://vid-id.indi1.workers.dev/index.mpd?id=20092&type=dash&token=rsI7VxaEzLsqN5c57ObDBL1vCNRAaWvo|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20093&type=drm&token=rsI7VxaEzLsqN5c57ObDBL1vCNRAaWvo
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/4zLEqce1E5YTMty4fQHCotosIBo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4959548/f281af.jpg" ch-number="5", Sparta Praha vs AZ Alkmaar - UEFA Conference League
+https://vid-id.indi1.workers.dev/index.mpd?id=20093&type=dash&token=rsI7VxaEzLsqN5c57ObDBL1vCNRAaWvo|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6786&type=drm&token=rsI7VxaEzLsqN5c57ObDBL1vCNRAaWvo
@@ -46,14 +46,14 @@ https://vid-id.indi1.workers.dev/index.mpd?id=20886&type=dash&token=rsI7VxaEzLsq
 https://vid-id.indi1.workers.dev/index.mpd?id=20885&type=dash&token=rsI7VxaEzLsqN5c57ObDBL1vCNRAaWvo|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=drm&token=rsI7VxaEzLsqN5c57ObDBL1vCNRAaWvo
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/vTCweb3ieOle-jMu6jRdzkNmmfI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4959532/ead751.jpg" ch-number="10", Cancun P2 Premier Padel 2026 - Day 3
-https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=dash&token=rsI7VxaEzLsqN5c57ObDBL1vCNRAaWvo|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18190&type=drm&token=rsI7VxaEzLsqN5c57ObDBL1vCNRAaWvo
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/oEg-al49ggphDIXvE-FgkUzClt4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4959533/1cea8e.jpg" ch-number="10", Round 1 - Fortinet Founders Cup 2026
+https://vid-id.indi1.workers.dev/index.mpd?id=18190&type=dash&token=rsI7VxaEzLsqN5c57ObDBL1vCNRAaWvo|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18190&type=drm&token=rsI7VxaEzLsqN5c57ObDBL1vCNRAaWvo
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/oEg-al49ggphDIXvE-FgkUzClt4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4959533/1cea8e.jpg" ch-number="11", Round 1 - Fortinet Founders Cup 2026
-https://vid-id.indi1.workers.dev/index.mpd?id=18190&type=dash&token=rsI7VxaEzLsqN5c57ObDBL1vCNRAaWvo|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=drm&token=rsI7VxaEzLsqN5c57ObDBL1vCNRAaWvo
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/vTCweb3ieOle-jMu6jRdzkNmmfI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4959532/ead751.jpg" ch-number="11", Cancun P2 Premier Padel 2026 - Day 3
+https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=dash&token=rsI7VxaEzLsqN5c57ObDBL1vCNRAaWvo|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6786&type=drm&token=rsI7VxaEzLsqN5c57ObDBL1vCNRAaWvo
