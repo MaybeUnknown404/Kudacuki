@@ -21,33 +21,33 @@ https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=dash&token=wJNCED7xyDvd
 https://vid-id.indi1.workers.dev/index.mpd?id=18253&type=dash&token=wJNCED7xyDvdveM7T8HVTqAYVH09VLoF|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20955&type=drm&token=wJNCED7xyDvdveM7T8HVTqAYVH09VLoF
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/G-0OKcBzHFWS4bj22ZB2fxRZ2OQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/20955/round-1-court-3-atp-1000-miami-open-presented-by-itau-2026-26d926.jpg" ch-number="5", James Duckworth vs Roberto Bautista Agut - Round 1 (Court 3) | ATP 1000: Miami Open Presented by Itau 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=20955&type=dash&token=wJNCED7xyDvdveM7T8HVTqAYVH09VLoF|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1FmFg1p6AxT5qEam62l7EGof9ehYdM131&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20888&type=drm&token=wJNCED7xyDvdveM7T8HVTqAYVH09VLoF
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/rUCQm5l6n2muTVsKgZhNZ4puKVI=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/20888/round-1-court-7-atp-1000-miami-open-presented-by-itau-2026-560ab0.jpg" ch-number="5", Moise Kouame vs Zachary Svajda - Round 1 (Court 7) | ATP 1000: Miami Open Presented by Itau 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/rUCQm5l6n2muTVsKgZhNZ4puKVI=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/20888/round-1-court-7-atp-1000-miami-open-presented-by-itau-2026-560ab0.jpg" ch-number="6", Moise Kouame vs Zachary Svajda - Round 1 (Court 7) | ATP 1000: Miami Open Presented by Itau 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=20888&type=dash&token=wJNCED7xyDvdveM7T8HVTqAYVH09VLoF|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1FmFg1p6AxT5qEam62l7EGof9ehYdM131&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=drm&token=wJNCED7xyDvdveM7T8HVTqAYVH09VLoF
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/YvzxmwvoyITyk4plrNIT3cWoLYE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4959201/340144.jpg" ch-number="6", Cancun P2 Premier Padel 2026 - Day 3
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/YvzxmwvoyITyk4plrNIT3cWoLYE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4959201/340144.jpg" ch-number="7", Cancun P2 Premier Padel 2026 - Day 3
 #https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=dash&token=wJNCED7xyDvdveM7T8HVTqAYVH09VLoF|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1FmFg1p6AxT5qEam62l7EGof9ehYdM131&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20955&type=drm&token=wJNCED7xyDvdveM7T8HVTqAYVH09VLoF
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/G-0OKcBzHFWS4bj22ZB2fxRZ2OQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/20955/round-1-court-3-atp-1000-miami-open-presented-by-itau-2026-26d926.jpg" ch-number="7", James Duckworth vs Roberto Bautista Agut - Round 1 (Court 3) | ATP 1000: Miami Open Presented by Itau 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=20955&type=dash&token=wJNCED7xyDvdveM7T8HVTqAYVH09VLoF|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6786&type=drm&token=wJNCED7xyDvdveM7T8HVTqAYVH09VLoF
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/KwObFSio4VcBD4ogJ_1W2uMjdIg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4959205/2b70e5.jpg" ch-number="8", Day 2 - WTA 1000: Miami Open presented by Itau 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=6786&type=dash&token=wJNCED7xyDvdveM7T8HVTqAYVH09VLoF|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1FmFg1p6AxT5qEam62l7EGof9ehYdM131&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20887&type=drm&token=wJNCED7xyDvdveM7T8HVTqAYVH09VLoF
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/6wJynrCQe5z4e6VHXVRXPu1zFzo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4961176/f37b7a.jpg" ch-number="8", Zizou Bergs vs Jenson Brooksby - Round 1 (Court 1) | ATP 1000: Miami Open Presented by Itau 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/6wJynrCQe5z4e6VHXVRXPu1zFzo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4961176/f37b7a.jpg" ch-number="9", Zizou Bergs vs Jenson Brooksby - Round 1 (Court 1) | ATP 1000: Miami Open Presented by Itau 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=20887&type=dash&token=wJNCED7xyDvdveM7T8HVTqAYVH09VLoF|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1FmFg1p6AxT5qEam62l7EGof9ehYdM131&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6786&type=drm&token=wJNCED7xyDvdveM7T8HVTqAYVH09VLoF
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/KwObFSio4VcBD4ogJ_1W2uMjdIg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4959205/2b70e5.jpg" ch-number="9", Day 2 - WTA 1000: Miami Open presented by Itau 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=6786&type=dash&token=wJNCED7xyDvdveM7T8HVTqAYVH09VLoF|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1FmFg1p6AxT5qEam62l7EGof9ehYdM131&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -111,8 +111,8 @@ https://drive.usercontent.google.com/download?id=1FmFg1p6AxT5qEam62l7EGof9ehYdM1
 https://drive.usercontent.google.com/download?id=1FmFg1p6AxT5qEam62l7EGof9ehYdM131&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20090&type=drm&token=wJNCED7xyDvdveM7T8HVTqAYVH09VLoF
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/X_Sor8Hnlv-EwxSOSNVcnMmvRN8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4959544/769653.jpg" ch-number="20", Rakow Czestochowa vs Fiorentina - UEFA Conference League
-#https://vid-id.indi1.workers.dev/index.mpd?id=20090&type=dash&token=wJNCED7xyDvdveM7T8HVTqAYVH09VLoF|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=19642&type=drm&token=wJNCED7xyDvdveM7T8HVTqAYVH09VLoF
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/YRGd4ITZoz0z5H2ELKKdRdxF0GE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4959542/c35780.jpg" ch-number="20", AEK Athens vs Celje - UEFA Conference League
+#https://vid-id.indi1.workers.dev/index.mpd?id=19642&type=dash&token=wJNCED7xyDvdveM7T8HVTqAYVH09VLoF|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1FmFg1p6AxT5qEam62l7EGof9ehYdM131&export=download&authuser=0
 
