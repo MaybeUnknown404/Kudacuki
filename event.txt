@@ -52,12 +52,12 @@ https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=dash&token=rsI7VxaEzLsqN
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6317&type=drm&token=rsI7VxaEzLsqN5c57ObDBL1vCNRAaWvo
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/QFpTqclbYQQiuXv2r6E3io7NL7s=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4959528/4380cd.jpg" ch-number="11", AEK Larnaca vs Crystal Palace - UEFA Conference League
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="⛔ Event Ended" tvg-logo="https://thumbor.prod.vidiocdn.com/QFpTqclbYQQiuXv2r6E3io7NL7s=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4959528/4380cd.jpg" ch-number="11", AEK Larnaca vs Crystal Palace - UEFA Conference League
 https://vid-id.indi1.workers.dev/index.mpd?id=6317&type=dash&token=rsI7VxaEzLsqN5c57ObDBL1vCNRAaWvo|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=drm&token=rsI7VxaEzLsqN5c57ObDBL1vCNRAaWvo
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/ai-s9sDKb1E1Wek_0zP_zHQNLJc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4959526/1f4f7c.jpg" ch-number="12", Lyon vs Celta Vigo - UEFA Europa League
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="⛔ Event Ended" tvg-logo="https://thumbor.prod.vidiocdn.com/ai-s9sDKb1E1Wek_0zP_zHQNLJc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4959526/1f4f7c.jpg" ch-number="12", Lyon vs Celta Vigo - UEFA Europa League
 https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=dash&token=rsI7VxaEzLsqN5c57ObDBL1vCNRAaWvo|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -97,7 +97,6 @@ https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=dash&token=rsI7VxaEzLsq
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20564&type=drm&token=rsI7VxaEzLsqN5c57ObDBL1vCNRAaWvo
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/sEAcYRyhqU_lfEX2lAZhLnfh3mo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4962318/5e049c.jpg" ch-number="20", Janice Tjen vs Yulia Putintseva - Womens Singles Round of 128
-#https://vid-id.indi1.workers.dev/index.mpd?id=20564&type=dash&token=rsI7VxaEzLsqN5c57ObDBL1vCNRAaWvo|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1FmFg1p6AxT5qEam62l7EGof9ehYdM131&export=download&authuser=0
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/sEAcYRyhqU_lfEX2lAZhLnfh3mo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4962318/5e049c.jpg" ch-number="20", Janice Tjen vs Yulia Putintseva - Womens Singles Round of 128
+https://vid-id.indi1.workers.dev/index.mpd?id=20564&type=dash&token=rsI7VxaEzLsqN5c57ObDBL1vCNRAaWvo|User-Agent=VidioPlayer/6.31.6
 
