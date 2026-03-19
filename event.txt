@@ -17,7 +17,7 @@ https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=dash&token=wJNCED7xyDvd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18253&type=drm&token=wJNCED7xyDvdveM7T8HVTqAYVH09VLoF
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/F1aLWZ-vsN6z5xNHIhnbZCLD8JM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4961157/2c5f90.jpg" ch-number="4", Eng Keat Wesley Koh/Junsuke Kubo (SGP) vs Hiroki Okamura/Kyohei Yamashita (JPN) - Men's Doubles Round of 16 | Orleans Masters Badminton 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/4QZSXzxJ35z42Nvb_bqi7dvlafQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4961158/f1cf12.jpg" ch-number="4", Lin Chih-Chun/Yang Chu Yun (TPE) vs Hsu Yin-Hui/Lin Jhih Yun (TPE) - Women's Doubles Round of 16 | Orleans Masters Badminton 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=18253&type=dash&token=wJNCED7xyDvdveM7T8HVTqAYVH09VLoF|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
