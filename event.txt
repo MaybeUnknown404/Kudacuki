@@ -7,7 +7,7 @@ https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=wJNCED7xyDvd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=drm&token=wJNCED7xyDvdveM7T8HVTqAYVH09VLoF
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/L6fKysJ00v4jeTOu_lWEFj4CPRw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4961140/2a3917.jpg" ch-number="2", Wen Chi Hsu TPE vs Natsuki Nidaira JPN - Womens Singles Round of 16
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/JDPxOcK6TTjH4cYJItIwHOc38XM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4961141/acd92d.jpg" ch-number="2", Christian Faust Kjaer dan Rasmus Kjaer DEN vs Kang Khai Xing dan Aaron Tai MAS - Mens Doubles Round of 16
 https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=dash&token=wJNCED7xyDvdveM7T8HVTqAYVH09VLoF|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
