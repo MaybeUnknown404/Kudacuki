@@ -2,7 +2,7 @@
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=drm&token=rsI7VxaEzLsqN5c57ObDBL1vCNRAaWvo
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/V-tS-ehWb3IbI89Jr1fGTIH4Cwg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4965002/43ae94.jpg" ch-number="1", Natsuki Nidaira (JPN) vs Tanvi Sharma (IND) - Women's Singles Quarter Final | Orleans Masters Badminton 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/uvn6H87wfj9_0QB2GoZSUOKtKic=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/orleans-masters-badminton-2026-presented-by-victor-quarterfinals-court-1-2a8070.jpg" ch-number="1", Orleans Masters Badminton 2026 presented by VICTOR - Quarterfinals (Court 1)
 https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=rsI7VxaEzLsqN5c57ObDBL1vCNRAaWvo|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
