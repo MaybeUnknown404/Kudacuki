@@ -2,7 +2,7 @@
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=drm&token=rsI7VxaEzLsqN5c57ObDBL1vCNRAaWvo
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/Dq2K1699YGo_in9FFtfBS032dsE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4964999/cda922.jpg" ch-number="1", Hsu Ya Ching/Sung Yu-Hsuan (TPE) vs Rachel Allessya Rose/Febi Setianingrum (INA) - Women's Doubles Quarter Final | Orleans Masters Badminton 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/Fg8GlLfom2HXOFuHle0SMPgqS4s=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4965000/217f5a.jpg" ch-number="1", Christian Faust Kjaer/Rasmus Kjaer (DEN) vs Raymond Indra/Nikolaus Joaquin (INA) - Men's Doubles Quarter Final | Orleans Masters Badminton 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=rsI7VxaEzLsqN5c57ObDBL1vCNRAaWvo|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -22,27 +22,27 @@ https://vid-id.indi1.workers.dev/index.mpd?id=17926&type=dash&token=rsI7VxaEzLsq
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=drm&token=rsI7VxaEzLsqN5c57ObDBL1vCNRAaWvo
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Fg8GlLfom2HXOFuHle0SMPgqS4s=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4965000/217f5a.jpg" ch-number="5", Christian Faust Kjaer/Rasmus Kjaer (DEN) vs Raymond Indra/Nikolaus Joaquin (INA) - Men's Doubles Quarter Final | Orleans Masters Badminton 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=rsI7VxaEzLsqN5c57ObDBL1vCNRAaWvo|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=19672&type=drm&token=rsI7VxaEzLsqN5c57ObDBL1vCNRAaWvo
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Gq3uD2qcTJ2vibna4k3bD40G2Ac=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4961209/02b640.jpg" ch-number="6", Semifinal: Alvark Tokyo vs Taoyuan Pauian Pilots - EASL
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Gq3uD2qcTJ2vibna4k3bD40G2Ac=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4961209/02b640.jpg" ch-number="5", Semifinal: Alvark Tokyo vs Taoyuan Pauian Pilots - EASL
 #https://vid-id.indi1.workers.dev/index.mpd?id=19672&type=dash&token=rsI7VxaEzLsqN5c57ObDBL1vCNRAaWvo|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17140&type=drm&token=rsI7VxaEzLsqN5c57ObDBL1vCNRAaWvo
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/SUEpRcAIJHAkiredb3EoYDxnGRs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4959536/9dad15.jpg" ch-number="7", Moto2 Free Practice 1: Grand Prix of Brazil - MotoGP 2026 Round 2
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/SUEpRcAIJHAkiredb3EoYDxnGRs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4959536/9dad15.jpg" ch-number="6", Moto2 Free Practice 1: Grand Prix of Brazil - MotoGP 2026 Round 2
 #https://vid-id.indi1.workers.dev/index.mpd?id=17140&type=dash&token=rsI7VxaEzLsqN5c57ObDBL1vCNRAaWvo|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=16890&type=drm&token=rsI7VxaEzLsqN5c57ObDBL1vCNRAaWvo
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/RVRD8-n8sFoJ8wV1EDAPdvQumyg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4959554/1f7d4a.jpg" ch-number="8", ONE Friday Fights 147
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/RVRD8-n8sFoJ8wV1EDAPdvQumyg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4959554/1f7d4a.jpg" ch-number="7", ONE Friday Fights 147
 #https://vid-id.indi1.workers.dev/index.mpd?id=16890&type=dash&token=rsI7VxaEzLsqN5c57ObDBL1vCNRAaWvo|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17140&type=drm&token=rsI7VxaEzLsqN5c57ObDBL1vCNRAaWvo
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/gYw-vjTKVt665p1XwgaNfePCSMU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4959537/5cfcf7.jpg" ch-number="8", MotoGP Free Practice 1: Grand Prix of Brazil - MotoGP 2026 Round 2
+#https://vid-id.indi1.workers.dev/index.mpd?id=17140&type=dash&token=rsI7VxaEzLsqN5c57ObDBL1vCNRAaWvo|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -52,15 +52,15 @@ https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1ec
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17140&type=drm&token=rsI7VxaEzLsqN5c57ObDBL1vCNRAaWvo
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/gYw-vjTKVt665p1XwgaNfePCSMU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4959537/5cfcf7.jpg" ch-number="10", MotoGP Free Practice 1: Grand Prix of Brazil - MotoGP 2026 Round 2
-#https://vid-id.indi1.workers.dev/index.mpd?id=17140&type=dash&token=rsI7VxaEzLsqN5c57ObDBL1vCNRAaWvo|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20902&type=drm&token=rsI7VxaEzLsqN5c57ObDBL1vCNRAaWvo
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/47tqqBJ0fxx_Bc-Tfh2XoHF2gMI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4959555/322b49.jpg" ch-number="10", Day 3 - WTA 1000: Miami Open presented by Itau 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=20902&type=dash&token=rsI7VxaEzLsqN5c57ObDBL1vCNRAaWvo|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20902&type=drm&token=rsI7VxaEzLsqN5c57ObDBL1vCNRAaWvo
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/47tqqBJ0fxx_Bc-Tfh2XoHF2gMI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4959555/322b49.jpg" ch-number="11", Day 3 - WTA 1000: Miami Open presented by Itau 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=20902&type=dash&token=rsI7VxaEzLsqN5c57ObDBL1vCNRAaWvo|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20886&type=drm&token=rsI7VxaEzLsqN5c57ObDBL1vCNRAaWvo
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/KN4d88t4PjfAVTJKWSHO-IgLNzM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4965308/f4aee2.jpg" ch-number="11", Aleksandar Kovacevic vs Rei Sakamoto - Round 2 (Butch Buchholz) | ATP 1000: Miami Open presented by Itau 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=20886&type=dash&token=rsI7VxaEzLsqN5c57ObDBL1vCNRAaWvo|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -70,50 +70,50 @@ https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1ec
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20886&type=drm&token=rsI7VxaEzLsqN5c57ObDBL1vCNRAaWvo
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/KN4d88t4PjfAVTJKWSHO-IgLNzM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4965308/f4aee2.jpg" ch-number="13", Aleksandar Kovacevic vs Rei Sakamoto - Round 2 (Butch Buchholz) | ATP 1000: Miami Open presented by Itau 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=20886&type=dash&token=rsI7VxaEzLsqN5c57ObDBL1vCNRAaWvo|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20890&type=drm&token=rsI7VxaEzLsqN5c57ObDBL1vCNRAaWvo
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/K4AwldM2BvmhOo1PDlYok4W532k=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4965302/dd2801.jpg" ch-number="14", Gabriel Diallo vs Yibing Wu - Round 2 (Court 5) | ATP 1000: Miami Open presented by Itau 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/K4AwldM2BvmhOo1PDlYok4W532k=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4965302/dd2801.jpg" ch-number="13", Gabriel Diallo vs Yibing Wu - Round 2 (Court 5) | ATP 1000: Miami Open presented by Itau 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=20890&type=dash&token=rsI7VxaEzLsqN5c57ObDBL1vCNRAaWvo|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=drm&token=rsI7VxaEzLsqN5c57ObDBL1vCNRAaWvo
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/c-kiR_NRcjkpgO9Sq2rOm14czhE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4965316/c48153.jpg" ch-number="15", Casper Ruud vs Ethan Quinn - Round 2 (Stadium) | ATP 1000: Miami Open presented by Itau 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/c-kiR_NRcjkpgO9Sq2rOm14czhE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4965316/c48153.jpg" ch-number="14", Casper Ruud vs Ethan Quinn - Round 2 (Stadium) | ATP 1000: Miami Open presented by Itau 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=dash&token=rsI7VxaEzLsqN5c57ObDBL1vCNRAaWvo|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17140&type=drm&token=rsI7VxaEzLsqN5c57ObDBL1vCNRAaWvo
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/bmszPMRlKyy_1432F3S4cuHfaek=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4959538/76b885.jpg" ch-number="16", Moto3 Practice: Grand Prix of Brazil - MotoGP 2026 Round 2
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/bmszPMRlKyy_1432F3S4cuHfaek=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4959538/76b885.jpg" ch-number="15", Moto3 Practice: Grand Prix of Brazil - MotoGP 2026 Round 2
 #https://vid-id.indi1.workers.dev/index.mpd?id=17140&type=dash&token=rsI7VxaEzLsqN5c57ObDBL1vCNRAaWvo|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20897&type=drm&token=rsI7VxaEzLsqN5c57ObDBL1vCNRAaWvo
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/gnF6ELFNkYObZuLwgjxdOgS9ddc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4965313/9bf7e4.jpg" ch-number="17", Round 2 - ATP 1000: Miami Open Presented by Itau 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=20897&type=dash&token=rsI7VxaEzLsqN5c57ObDBL1vCNRAaWvo|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20888&type=drm&token=rsI7VxaEzLsqN5c57ObDBL1vCNRAaWvo
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/sJF7RVK8P85iMoqNCFkh9rsj7ig=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4965318/eb8045.jpg" ch-number="18", Arthur Fils vs Darwin Blanch - Round 2 (Court 7) | ATP 1000: Miami Open presented by Itau 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/sJF7RVK8P85iMoqNCFkh9rsj7ig=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4965318/eb8045.jpg" ch-number="16", Arthur Fils vs Darwin Blanch - Round 2 (Court 7) | ATP 1000: Miami Open presented by Itau 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=20888&type=dash&token=rsI7VxaEzLsqN5c57ObDBL1vCNRAaWvo|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20886&type=drm&token=rsI7VxaEzLsqN5c57ObDBL1vCNRAaWvo
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/U2omHtfnkA3P48mpq8TF9UVgN9U=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4965309/35a75b.jpg" ch-number="19", Tommy Paul vs Adrian Mannarino - Round 2 (Butch Buccholz) | ATP 1000: Miami Open presented by Itau 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/U2omHtfnkA3P48mpq8TF9UVgN9U=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4965309/35a75b.jpg" ch-number="17", Tommy Paul vs Adrian Mannarino - Round 2 (Butch Buccholz) | ATP 1000: Miami Open presented by Itau 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=20886&type=dash&token=rsI7VxaEzLsqN5c57ObDBL1vCNRAaWvo|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20897&type=drm&token=rsI7VxaEzLsqN5c57ObDBL1vCNRAaWvo
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/gnF6ELFNkYObZuLwgjxdOgS9ddc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4965313/9bf7e4.jpg" ch-number="18", Round 2 - ATP 1000: Miami Open Presented by Itau 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=20897&type=dash&token=rsI7VxaEzLsqN5c57ObDBL1vCNRAaWvo|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20885&type=drm&token=rsI7VxaEzLsqN5c57ObDBL1vCNRAaWvo
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/V6_Mzge6KGVsGPylmwhFX2QGRvY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4965323/3bba86.jpg" ch-number="20", Jack Draper vs Reilly Opelka - Round 2 (Grandstand) | ATP 1000: Miami Open presented by Itau 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/V6_Mzge6KGVsGPylmwhFX2QGRvY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4965323/3bba86.jpg" ch-number="19", Jack Draper vs Reilly Opelka - Round 2 (Grandstand) | ATP 1000: Miami Open presented by Itau 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=20885&type=dash&token=rsI7VxaEzLsqN5c57ObDBL1vCNRAaWvo|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17140&type=drm&token=rsI7VxaEzLsqN5c57ObDBL1vCNRAaWvo
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/uCHfCTbIiyGiVnfcZeF6clwUi-I=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4959871/4b9030.jpg" ch-number="20", Moto2 Practice: Grand Prix of Brazil - MotoGP 2026 Round 2
+#https://vid-id.indi1.workers.dev/index.mpd?id=17140&type=dash&token=rsI7VxaEzLsqN5c57ObDBL1vCNRAaWvo|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
