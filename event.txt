@@ -16,103 +16,104 @@ https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=dash&token=tGXHtkZ1YDZQ
 https://vid-id.indi1.workers.dev/index.mpd?id=20890&type=dash&token=tGXHtkZ1YDZQynTpl7031i8Q5JRTL3QE|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20888&type=drm&token=tGXHtkZ1YDZQynTpl7031i8Q5JRTL3QE
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/6MSrIgcJu2LFpme6ebHvWZih-Ss=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4965320/8d69a4.jpg" ch-number="4", Zizou Bergs vs Tomas Martin Etcheverry - Round 2 (Court 7) | ATP 1000: Miami Open presented by Itau 2026
-https://vid-id.indi1.workers.dev/index.mpd?id=20888&type=dash&token=tGXHtkZ1YDZQynTpl7031i8Q5JRTL3QE|User-Agent=VidioPlayer/6.31.6
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20890&type=drm&token=tGXHtkZ1YDZQynTpl7031i8Q5JRTL3QE
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Ap4V9xNGuJsD1ppmk63njJl2r9Q=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4965305/17d7ee.jpg" ch-number="5", Mariano Navone vs Valentin Vacherot - Round 2 (Court 5) | ATP 1000: Miami Open presented by Itau 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Ap4V9xNGuJsD1ppmk63njJl2r9Q=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4965305/17d7ee.jpg" ch-number="4", Mariano Navone vs Valentin Vacherot - Round 2 (Court 5) | ATP 1000: Miami Open presented by Itau 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=20890&type=dash&token=tGXHtkZ1YDZQynTpl7031i8Q5JRTL3QE|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20888&type=drm&token=tGXHtkZ1YDZQynTpl7031i8Q5JRTL3QE
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/9kauEzDhyMK1yi30W1kRKZ5sMrc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4965321/c801c9.jpg" ch-number="6", Luciano Darderi vs Martin Landaluce - Round 2 (Court 7) | ATP 1000: Miami Open presented by Itau 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=20888&type=dash&token=tGXHtkZ1YDZQynTpl7031i8Q5JRTL3QE|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=drm&token=tGXHtkZ1YDZQynTpl7031i8Q5JRTL3QE
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/LF98wI1jEfy_xObc_KxNLeGygDA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4966730/3d12a5.jpg" ch-number="7", Rachel Allessya Rose/Febi Setianingrum (INA) vs Sumire Nakade/Miyu Takahashi (JPN) - Women's Doubles Semifinal | Orleans Masters Badminton 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/LF98wI1jEfy_xObc_KxNLeGygDA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4966730/3d12a5.jpg" ch-number="5", Rachel Allessya Rose/Febi Setianingrum (INA) vs Sumire Nakade/Miyu Takahashi (JPN) - Women's Doubles Semifinal | Orleans Masters Badminton 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=tGXHtkZ1YDZQynTpl7031i8Q5JRTL3QE|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=drm&token=tGXHtkZ1YDZQynTpl7031i8Q5JRTL3QE
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/ZMJ8sGUC-aB55yRTaccOib5vjis=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/orleans-masters-badminton-2026-presented-by-victor-semifinals-16bd3f.jpg" ch-number="8", Rachel Allessya Rose/Febi Setianingrum (INA) vs Sumire Nakade/Miyu Takahashi (JPN) - Women's Doubles Semifinal | Orleans Masters Badminton 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/ZMJ8sGUC-aB55yRTaccOib5vjis=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/orleans-masters-badminton-2026-presented-by-victor-semifinals-16bd3f.jpg" ch-number="6", Rachel Allessya Rose/Febi Setianingrum (INA) vs Sumire Nakade/Miyu Takahashi (JPN) - Women's Doubles Semifinal | Orleans Masters Badminton 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=tGXHtkZ1YDZQynTpl7031i8Q5JRTL3QE|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=drm&token=tGXHtkZ1YDZQynTpl7031i8Q5JRTL3QE
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/d0Ye5-wmAdVFJDSHPJmgV31y5G0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4966731/a10a81.jpg" ch-number="9", Leo Rolly Carnando/Bagas Maulana (INA) vs Hu Ke Yuan/Lin Xiang Yi (CHN) - Men's Doubles Semifinal | Orleans Masters Badminton 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/d0Ye5-wmAdVFJDSHPJmgV31y5G0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4966731/a10a81.jpg" ch-number="7", Leo Rolly Carnando/Bagas Maulana (INA) vs Hu Ke Yuan/Lin Xiang Yi (CHN) - Men's Doubles Semifinal | Orleans Masters Badminton 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=tGXHtkZ1YDZQynTpl7031i8Q5JRTL3QE|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=drm&token=tGXHtkZ1YDZQynTpl7031i8Q5JRTL3QE
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/btW2WwRSsZ2PlEf8GMhLKlzUUAk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4966732/ace0a8.jpg" ch-number="10", Rui Hirokami/Sayaka Hobara (JPN) vs Lin Chih-Chun/Yang Chu Yun (TPE) - Women's Doubles Semifinal | Orleans Masters Badminton 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/btW2WwRSsZ2PlEf8GMhLKlzUUAk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4966732/ace0a8.jpg" ch-number="8", Rui Hirokami/Sayaka Hobara (JPN) vs Lin Chih-Chun/Yang Chu Yun (TPE) - Women's Doubles Semifinal | Orleans Masters Badminton 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=tGXHtkZ1YDZQynTpl7031i8Q5JRTL3QE|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=drm&token=tGXHtkZ1YDZQynTpl7031i8Q5JRTL3QE
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/GWYh37bHQA7QW1or4kDwjm_dfuk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4966733/8113af.jpg" ch-number="11", Hiroki Okamura/Kyohei Yamashita (JPN) vs Christian Faust Kjaer/Rasmus Kjaer (DEN) - Men's Doubles Semifinal | Orleans Masters Badminton 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/GWYh37bHQA7QW1or4kDwjm_dfuk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4966733/8113af.jpg" ch-number="9", Hiroki Okamura/Kyohei Yamashita (JPN) vs Christian Faust Kjaer/Rasmus Kjaer (DEN) - Men's Doubles Semifinal | Orleans Masters Badminton 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=tGXHtkZ1YDZQynTpl7031i8Q5JRTL3QE|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17140&type=drm&token=tGXHtkZ1YDZQynTpl7031i8Q5JRTL3QE
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/uJuGBzpZVMbnUvLf0ET7c4q-t14=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4959873/236ecc.jpg" ch-number="12", Moto3 Free Practice 2: Grand Prix of Brazil - MotoGP 2026 Round 2
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/uJuGBzpZVMbnUvLf0ET7c4q-t14=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4959873/236ecc.jpg" ch-number="10", Moto3 Free Practice 2: Grand Prix of Brazil - MotoGP 2026 Round 2
 #https://vid-id.indi1.workers.dev/index.mpd?id=17140&type=dash&token=tGXHtkZ1YDZQynTpl7031i8Q5JRTL3QE|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6317&type=drm&token=tGXHtkZ1YDZQynTpl7031i8Q5JRTL3QE
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/P8YBkvPyvnCs-uwyB2hx8Z1YUcg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4959529/60f706.jpg" ch-number="13", London City Lionesses vs Chelsea - Women's Super League
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/P8YBkvPyvnCs-uwyB2hx8Z1YUcg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4959529/60f706.jpg" ch-number="11", London City Lionesses vs Chelsea - Women's Super League
 #https://vid-id.indi1.workers.dev/index.mpd?id=6317&type=dash&token=tGXHtkZ1YDZQynTpl7031i8Q5JRTL3QE|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=drm&token=tGXHtkZ1YDZQynTpl7031i8Q5JRTL3QE
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/pevqS18kfdeferzkb8nuHRyEUa8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4959889/f7a0c4.jpg" ch-number="14", Man City vs Tottenham - Women's Super League
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/pevqS18kfdeferzkb8nuHRyEUa8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4959889/f7a0c4.jpg" ch-number="12", Man City vs Tottenham - Women's Super League
 #https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=dash&token=tGXHtkZ1YDZQynTpl7031i8Q5JRTL3QE|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=19388&type=drm&token=tGXHtkZ1YDZQynTpl7031i8Q5JRTL3QE
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Ct-Zy_XOaUeGH2uUdH-n3xHWNpg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4959892/20700d.jpg" ch-number="15", Rajadamnern 2026 Featherweight Title
-#https://vid-id.indi1.workers.dev/index.mpd?id=19388&type=dash&token=tGXHtkZ1YDZQynTpl7031i8Q5JRTL3QE|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=9182&type=drm&token=tGXHtkZ1YDZQynTpl7031i8Q5JRTL3QE
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/b3tACy7NeEEYWSOpbglWfs3reMc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4959882/f4bbc7.jpg" ch-number="16", Brighton vs Liverpool - Premier League
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/b3tACy7NeEEYWSOpbglWfs3reMc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4959882/f4bbc7.jpg" ch-number="13", Brighton vs Liverpool - Premier League
 #https://vid-id.indi1.workers.dev/index.mpd?id=9182&type=dash&token=tGXHtkZ1YDZQynTpl7031i8Q5JRTL3QE|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=19388&type=drm&token=tGXHtkZ1YDZQynTpl7031i8Q5JRTL3QE
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Ct-Zy_XOaUeGH2uUdH-n3xHWNpg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4959892/20700d.jpg" ch-number="14", Rajadamnern 2026 Featherweight Title
+#https://vid-id.indi1.workers.dev/index.mpd?id=19388&type=dash&token=tGXHtkZ1YDZQynTpl7031i8Q5JRTL3QE|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=drm&token=tGXHtkZ1YDZQynTpl7031i8Q5JRTL3QE
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/MhzIRcVwSLEnEMdqM5qwaOQtkKA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4966734/f7ec7c.jpg" ch-number="17", Nozomi Okuhara (JPN) vs Tanvi Sharma (IND) - Women's Singles Semifinal | Orleans Masters Badminton 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/MhzIRcVwSLEnEMdqM5qwaOQtkKA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4966734/f7ec7c.jpg" ch-number="15", Nozomi Okuhara (JPN) vs Tanvi Sharma (IND) - Women's Singles Semifinal | Orleans Masters Badminton 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=tGXHtkZ1YDZQynTpl7031i8Q5JRTL3QE|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17140&type=drm&token=tGXHtkZ1YDZQynTpl7031i8Q5JRTL3QE
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/JjpXEeNMcTK0mOlEBbr6tCt-Pus=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4959874/b6db0f.jpg" ch-number="18", Moto2 Free Practice 2: Grand Prix of Brazil - MotoGP 2026 Round 2
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/JjpXEeNMcTK0mOlEBbr6tCt-Pus=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4959874/b6db0f.jpg" ch-number="16", Moto2 Free Practice 2: Grand Prix of Brazil - MotoGP 2026 Round 2
 #https://vid-id.indi1.workers.dev/index.mpd?id=17140&type=dash&token=tGXHtkZ1YDZQynTpl7031i8Q5JRTL3QE|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6685&type=drm&token=tGXHtkZ1YDZQynTpl7031i8Q5JRTL3QE
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/3_phcVhfqoOD6iA2Kbv30JTL54w=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4959893/837f43.jpg" ch-number="19", Ipswich vs Millwall - EFL Championship
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/3_phcVhfqoOD6iA2Kbv30JTL54w=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4959893/837f43.jpg" ch-number="17", Ipswich vs Millwall - EFL Championship
 #https://vid-id.indi1.workers.dev/index.mpd?id=6685&type=dash&token=tGXHtkZ1YDZQynTpl7031i8Q5JRTL3QE|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=drm&token=tGXHtkZ1YDZQynTpl7031i8Q5JRTL3QE
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/_ppYavEKaNsCOp3BPRZv_V5UWrk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4959885/7802d0.jpg" ch-number="20", Elche vs Mallorca - LaLiga
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/_ppYavEKaNsCOp3BPRZv_V5UWrk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4959885/7802d0.jpg" ch-number="18", Elche vs Mallorca - LaLiga
 #https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=dash&token=tGXHtkZ1YDZQynTpl7031i8Q5JRTL3QE|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17140&type=drm&token=tGXHtkZ1YDZQynTpl7031i8Q5JRTL3QE
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/AexXuVjrPJJ_uRVEQ0Ikd6OYWZE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4959875/927fd9.jpg" ch-number="19", MotoGP Free Practice 2: Grand Prix of Brazil - MotoGP 2026 Round 2
+#https://vid-id.indi1.workers.dev/index.mpd?id=17140&type=dash&token=tGXHtkZ1YDZQynTpl7031i8Q5JRTL3QE|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17140&type=drm&token=tGXHtkZ1YDZQynTpl7031i8Q5JRTL3QE
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/j7XOJih4vC94abh-n31azbYknWM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4959876/4e6b75.jpg" ch-number="20", MotoGP Qualifying: Grand Prix of Brazil - MotoGP 2026 Round 2
+#https://vid-id.indi1.workers.dev/index.mpd?id=17140&type=dash&token=tGXHtkZ1YDZQynTpl7031i8Q5JRTL3QE|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
