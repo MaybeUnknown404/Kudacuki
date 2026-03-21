@@ -2,7 +2,7 @@
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20897&type=drm&token=iEdP8NUbALdEZrGJtnXuj06ZWJyoYOUs
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/lzuYONZZhoyMPfI7vaVv4peP6Jc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4966939/3e33a4.jpg" ch-number="1", Rei Sakamoto vs Daniil Medvedev - Round 2 | ATP 1000: Miami Open presented by Itau 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/gORpuzUtL43IRqNbqMFtca9tP58=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/20897/round-2-atp-1000-miami-open-presented-by-itau-2026-180d92.jpg" ch-number="1", Round 2 - ATP 1000: Miami Open Presented by Itau 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=20897&type=dash&token=iEdP8NUbALdEZrGJtnXuj06ZWJyoYOUs|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -62,9 +62,9 @@ https://vid-id.indi1.workers.dev/index.mpd?id=20216&type=dash&token=iEdP8NUbALdE
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=drm&token=iEdP8NUbALdEZrGJtnXuj06ZWJyoYOUs
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/JJMBJq0BbEF4H4z6O-Xt_DdCBSw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4965334/d9b1b9.jpg" ch-number="13", Cancun P2 Premier Padel 2026 - Semifinals
-#https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=dash&token=iEdP8NUbALdEZrGJtnXuj06ZWJyoYOUs|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18190&type=drm&token=iEdP8NUbALdEZrGJtnXuj06ZWJyoYOUs
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/aiYKUm5M6MO0a0Sp7yTkH71ImpU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4966726/ad0ee2.jpg" ch-number="13", Round 3 - Fortinet Founders Cup 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=18190&type=dash&token=iEdP8NUbALdEZrGJtnXuj06ZWJyoYOUs|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -74,9 +74,9 @@ https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1ec
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18190&type=drm&token=iEdP8NUbALdEZrGJtnXuj06ZWJyoYOUs
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/aiYKUm5M6MO0a0Sp7yTkH71ImpU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4966726/ad0ee2.jpg" ch-number="15", Round 3 - Fortinet Founders Cup 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=18190&type=dash&token=iEdP8NUbALdEZrGJtnXuj06ZWJyoYOUs|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=drm&token=iEdP8NUbALdEZrGJtnXuj06ZWJyoYOUs
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/JJMBJq0BbEF4H4z6O-Xt_DdCBSw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4965334/d9b1b9.jpg" ch-number="15", Cancun P2 Premier Padel 2026 - Semifinals
+#https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=dash&token=iEdP8NUbALdEZrGJtnXuj06ZWJyoYOUs|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -86,15 +86,15 @@ https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1ec
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20216&type=drm&token=iEdP8NUbALdEZrGJtnXuj06ZWJyoYOUs
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/FXZ0nlxnmkb3ahoLdgdSRVYkgg0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4962336/fd02b0.jpg" ch-number="17", Luke Riley vs Michael Aswell Jr. - Featherweight | UFC Fight Night
-#https://vid-id.indi1.workers.dev/index.mpd?id=20216&type=dash&token=iEdP8NUbALdEZrGJtnXuj06ZWJyoYOUs|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20885&type=drm&token=iEdP8NUbALdEZrGJtnXuj06ZWJyoYOUs
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/l8w05NcFggY3T2xHFM0O3eLnvpk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4966931/80b467.jpg" ch-number="17", Ben Shelton vs Alexander Shevchenko - Round 2 (Grandstand) | ATP 1000: Miami Open presented by Itau 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=20885&type=dash&token=iEdP8NUbALdEZrGJtnXuj06ZWJyoYOUs|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20885&type=drm&token=iEdP8NUbALdEZrGJtnXuj06ZWJyoYOUs
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/l8w05NcFggY3T2xHFM0O3eLnvpk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4966931/80b467.jpg" ch-number="18", Ben Shelton vs Alexander Shevchenko - Round 2 (Grandstand) | ATP 1000: Miami Open presented by Itau 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=20885&type=dash&token=iEdP8NUbALdEZrGJtnXuj06ZWJyoYOUs|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20216&type=drm&token=iEdP8NUbALdEZrGJtnXuj06ZWJyoYOUs
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/FXZ0nlxnmkb3ahoLdgdSRVYkgg0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4962336/fd02b0.jpg" ch-number="18", Luke Riley vs Michael Aswell Jr. - Featherweight | UFC Fight Night
+#https://vid-id.indi1.workers.dev/index.mpd?id=20216&type=dash&token=iEdP8NUbALdEZrGJtnXuj06ZWJyoYOUs|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -104,8 +104,8 @@ https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1ec
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20888&type=drm&token=iEdP8NUbALdEZrGJtnXuj06ZWJyoYOUs
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/taJulZ6x2Mp2kAUV1hvSyKHnwzA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4966929/b22ba4.jpg" ch-number="20", Fransisco Cerundolo vs Thiago Agustin Tirante - Round 2 (Court 7) | ATP 1000: Miami Open presented by Itau 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=20888&type=dash&token=iEdP8NUbALdEZrGJtnXuj06ZWJyoYOUs|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20887&type=drm&token=iEdP8NUbALdEZrGJtnXuj06ZWJyoYOUs
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/daaksN5ZQodCMkPSHF_fnnEKWZ0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4966923/54bc26.jpg" ch-number="20", Gabriel Diallo vs Ugo Humbert - Round 2 (Court 1) | ATP 1000: Miami Open presented by Itau 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=20887&type=dash&token=iEdP8NUbALdEZrGJtnXuj06ZWJyoYOUs|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
