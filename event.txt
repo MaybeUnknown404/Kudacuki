@@ -47,15 +47,13 @@ https://vid-id.indi1.workers.dev/index.mpd?id=17140&type=dash&token=tGXHtkZ1YDZQ
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20902&type=drm&token=tGXHtkZ1YDZQynTpl7031i8Q5JRTL3QE
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/i4_C_u9XxfGT8cQkOQJ46pyJmaE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4959896/ca703c.jpg" ch-number="10", Day 4 - WTA 1000: Miami Open presented by Itau 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=20902&type=dash&token=tGXHtkZ1YDZQynTpl7031i8Q5JRTL3QE|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/i4_C_u9XxfGT8cQkOQJ46pyJmaE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4959896/ca703c.jpg" ch-number="10", Day 4 - WTA 1000: Miami Open presented by Itau 2026
+https://vid-id.indi1.workers.dev/index.mpd?id=20902&type=dash&token=tGXHtkZ1YDZQynTpl7031i8Q5JRTL3QE|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=drm&token=tGXHtkZ1YDZQynTpl7031i8Q5JRTL3QE
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/ZMJ8sGUC-aB55yRTaccOib5vjis=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/orleans-masters-badminton-2026-presented-by-victor-semifinals-16bd3f.jpg" ch-number="11", Pitchamon Opatniputh (THA) vs Isharani Baruah (IND) - Women's Singles Semifinal | Orleans Masters Badminton 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=tGXHtkZ1YDZQynTpl7031i8Q5JRTL3QE|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/ZMJ8sGUC-aB55yRTaccOib5vjis=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/orleans-masters-badminton-2026-presented-by-victor-semifinals-16bd3f.jpg" ch-number="11", Pitchamon Opatniputh (THA) vs Isharani Baruah (IND) - Women's Singles Semifinal | Orleans Masters Badminton 2026
+https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=tGXHtkZ1YDZQynTpl7031i8Q5JRTL3QE|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17140&type=drm&token=tGXHtkZ1YDZQynTpl7031i8Q5JRTL3QE
