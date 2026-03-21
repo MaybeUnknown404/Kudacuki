@@ -37,7 +37,7 @@ https://vid-id.indi1.workers.dev/index.mpd?id=20887&type=dash&token=iEdP8NUbALdE
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6685&type=drm&token=iEdP8NUbALdEZrGJtnXuj06ZWJyoYOUs
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/9a8HHUIC81uIfpWPK44X_sAoUjo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4962254/fb4102.jpg" ch-number="8", Swansea City vs Coventry City - EFL Championship
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="⛔ Event Ended" tvg-logo="https://thumbor.prod.vidiocdn.com/9a8HHUIC81uIfpWPK44X_sAoUjo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4962254/fb4102.jpg" ch-number="8", Swansea City vs Coventry City - EFL Championship
 https://vid-id.indi1.workers.dev/index.mpd?id=6685&type=dash&token=iEdP8NUbALdEZrGJtnXuj06ZWJyoYOUs|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
