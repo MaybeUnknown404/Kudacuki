@@ -12,7 +12,7 @@ https://vid-id.indi1.workers.dev/index.mpd?id=20902&type=dash&token=iEdP8NUbALdE
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=drm&token=iEdP8NUbALdEZrGJtnXuj06ZWJyoYOUs
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/ZMJ8sGUC-aB55yRTaccOib5vjis=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/orleans-masters-badminton-2026-presented-by-victor-semifinals-16bd3f.jpg" ch-number="3", Ruben Garcia/Lucia Rodriguez (ESP) vs Mathias Christiansen/Alexandra Boje (DEN) - Mixed Doubles Semifinal | Orleans Masters Badminton 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/ZMJ8sGUC-aB55yRTaccOib5vjis=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/orleans-masters-badminton-2026-presented-by-victor-semifinals-16bd3f.jpg" ch-number="3", Hu Zhe An (CHN) vs Toma Junior Popov (FRA) - Men's Singles Semifinal | Orleans Masters Badminton 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=iEdP8NUbALdEZrGJtnXuj06ZWJyoYOUs|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
