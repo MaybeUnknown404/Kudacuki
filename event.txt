@@ -31,61 +31,62 @@ https://vid-id.indi1.workers.dev/index.mpd?id=6685&type=dash&token=tGXHtkZ1YDZQy
 https://vid-id.indi1.workers.dev/index.mpd?id=20887&type=dash&token=tGXHtkZ1YDZQynTpl7031i8Q5JRTL3QE|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20885&type=drm&token=tGXHtkZ1YDZQynTpl7031i8Q5JRTL3QE
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/BLIGsKrWgWIGv6I-YTlORRNAmzo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4966930/50e861.jpg" ch-number="7", Kamil Majchrzak vs Learner Tien - Round 2 (Grandstand) | ATP 1000: Miami Open presented by Itau 2026
-https://vid-id.indi1.workers.dev/index.mpd?id=20885&type=dash&token=tGXHtkZ1YDZQynTpl7031i8Q5JRTL3QE|User-Agent=VidioPlayer/6.31.6
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20888&type=drm&token=tGXHtkZ1YDZQynTpl7031i8Q5JRTL3QE
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/6MSrIgcJu2LFpme6ebHvWZih-Ss=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4965320/8d69a4.jpg" ch-number="8", Zizou Bergs vs Tomas Martin Etcheverry - Round 2 (Court 7) | ATP 1000: Miami Open presented by Itau 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/6MSrIgcJu2LFpme6ebHvWZih-Ss=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4965320/8d69a4.jpg" ch-number="7", Zizou Bergs vs Tomas Martin Etcheverry - Round 2 (Court 7) | ATP 1000: Miami Open presented by Itau 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=20888&type=dash&token=tGXHtkZ1YDZQynTpl7031i8Q5JRTL3QE|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=drm&token=tGXHtkZ1YDZQynTpl7031i8Q5JRTL3QE
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/dJKu49NzOH4etGm3SpnpeptoWgs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4959886/929501.jpg" ch-number="9", Espanyol vs Getafe - LaLiga
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/dJKu49NzOH4etGm3SpnpeptoWgs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4959886/929501.jpg" ch-number="8", Espanyol vs Getafe - LaLiga
 https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=dash&token=tGXHtkZ1YDZQynTpl7031i8Q5JRTL3QE|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20890&type=drm&token=tGXHtkZ1YDZQynTpl7031i8Q5JRTL3QE
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/5XHN8sk23Ai3CULQYVOBOeTjJhk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4966926/f6a765.jpg" ch-number="10", Terence Atmane vs Arthur Rinderknech - Round 2 (Court 5) | ATP 1000: Miami Open presented by Itau 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/5XHN8sk23Ai3CULQYVOBOeTjJhk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4966926/f6a765.jpg" ch-number="9", Terence Atmane vs Arthur Rinderknech - Round 2 (Court 5) | ATP 1000: Miami Open presented by Itau 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=20890&type=dash&token=tGXHtkZ1YDZQynTpl7031i8Q5JRTL3QE|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=19404&type=drm&token=tGXHtkZ1YDZQynTpl7031i8Q5JRTL3QE
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/9Eq3tfMZloBZ_2tMYyQholWMSqc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4959616/0b6178.jpg" ch-number="11", Milan vs Torino - Serie A
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/9Eq3tfMZloBZ_2tMYyQholWMSqc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4959616/0b6178.jpg" ch-number="10", Milan vs Torino - Serie A
 https://vid-id.indi1.workers.dev/index.mpd?id=19404&type=dash&token=tGXHtkZ1YDZQynTpl7031i8Q5JRTL3QE|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20216&type=drm&token=tGXHtkZ1YDZQynTpl7031i8Q5JRTL3QE
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/ZCkFXaVvAZQZWjxyiGoTMNSGX48=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4962338/b5884b.jpg" ch-number="12", Prelims | UFC Fight Night: Evloev vs Murphy
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/ZCkFXaVvAZQZWjxyiGoTMNSGX48=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4962338/b5884b.jpg" ch-number="11", Prelims | UFC Fight Night: Evloev vs Murphy
 https://vid-id.indi1.workers.dev/index.mpd?id=20216&type=dash&token=tGXHtkZ1YDZQynTpl7031i8Q5JRTL3QE|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=drm&token=tGXHtkZ1YDZQynTpl7031i8Q5JRTL3QE
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/YqYUqWrCpAjH3tQlvbCshMu9y4M=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4966932/b51d20.jpg" ch-number="13", Damir Dzumhur vs Jannik Sinner - Round 2 (Stadium) | ATP 1000: Miami Open presented by Itau 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/YqYUqWrCpAjH3tQlvbCshMu9y4M=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4966932/b51d20.jpg" ch-number="12", Damir Dzumhur vs Jannik Sinner - Round 2 (Stadium) | ATP 1000: Miami Open presented by Itau 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=dash&token=tGXHtkZ1YDZQynTpl7031i8Q5JRTL3QE|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18189&type=drm&token=tGXHtkZ1YDZQynTpl7031i8Q5JRTL3QE
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/1sS2YhwZNf8lNObUdKXp4SZLuQw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4962253/c108a0.jpg" ch-number="14", Round 3 - Valspar Championship 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/1sS2YhwZNf8lNObUdKXp4SZLuQw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4962253/c108a0.jpg" ch-number="13", Round 3 - Valspar Championship 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=18189&type=dash&token=tGXHtkZ1YDZQynTpl7031i8Q5JRTL3QE|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6685&type=drm&token=tGXHtkZ1YDZQynTpl7031i8Q5JRTL3QE
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/9a8HHUIC81uIfpWPK44X_sAoUjo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4962254/fb4102.jpg" ch-number="15", Swansea City vs Coventry City - EFL Championship
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/9a8HHUIC81uIfpWPK44X_sAoUjo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4962254/fb4102.jpg" ch-number="14", Swansea City vs Coventry City - EFL Championship
 #https://vid-id.indi1.workers.dev/index.mpd?id=6685&type=dash&token=tGXHtkZ1YDZQynTpl7031i8Q5JRTL3QE|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=9182&type=drm&token=tGXHtkZ1YDZQynTpl7031i8Q5JRTL3QE
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/EICruPQ5E_D1VUgWIDCOpLNMCL4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4960800/b42ac8.jpg" ch-number="16", Everton vs Chelsea - Premier League
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/EICruPQ5E_D1VUgWIDCOpLNMCL4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4960800/b42ac8.jpg" ch-number="15", Everton vs Chelsea - Premier League
 #https://vid-id.indi1.workers.dev/index.mpd?id=9182&type=dash&token=tGXHtkZ1YDZQynTpl7031i8Q5JRTL3QE|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=drm&token=tGXHtkZ1YDZQynTpl7031i8Q5JRTL3QE
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/m8VcuK8J_AJsygce9gRHDFmtS0w=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4965333/33ceb0.jpg" ch-number="17", Osasuna vs Girona - LaLiga
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/m8VcuK8J_AJsygce9gRHDFmtS0w=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4965333/33ceb0.jpg" ch-number="16", Osasuna vs Girona - LaLiga
 #https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=dash&token=tGXHtkZ1YDZQynTpl7031i8Q5JRTL3QE|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17140&type=drm&token=tGXHtkZ1YDZQynTpl7031i8Q5JRTL3QE
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/cnoZlrCVA7xV3-01E7PbYXNTnpo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4965326/5a4bd0.jpg" ch-number="17", MotoGP Tissot SPRINT: Grand Prix of Brazil - MotoGP 2026 Round 2
+#https://vid-id.indi1.workers.dev/index.mpd?id=17140&type=dash&token=tGXHtkZ1YDZQynTpl7031i8Q5JRTL3QE|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -95,14 +96,14 @@ https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1ec
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17140&type=drm&token=tGXHtkZ1YDZQynTpl7031i8Q5JRTL3QE
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/cnoZlrCVA7xV3-01E7PbYXNTnpo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4965326/5a4bd0.jpg" ch-number="19", MotoGP Tissot SPRINT: Grand Prix of Brazil - MotoGP 2026 Round 2
-#https://vid-id.indi1.workers.dev/index.mpd?id=17140&type=dash&token=tGXHtkZ1YDZQynTpl7031i8Q5JRTL3QE|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20502&type=drm&token=tGXHtkZ1YDZQynTpl7031i8Q5JRTL3QE
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/oVgJnURMhIgzZrc7rnIVLunWsEE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4966913/33f965.jpg" ch-number="19", Benfica vs Vitoria SC - Liga Portugal
+#https://vid-id.indi1.workers.dev/index.mpd?id=20502&type=dash&token=tGXHtkZ1YDZQynTpl7031i8Q5JRTL3QE|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20502&type=drm&token=tGXHtkZ1YDZQynTpl7031i8Q5JRTL3QE
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/oVgJnURMhIgzZrc7rnIVLunWsEE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4966913/33f965.jpg" ch-number="20", Benfica vs Vitoria SC - Liga Portugal
-#https://vid-id.indi1.workers.dev/index.mpd?id=20502&type=dash&token=tGXHtkZ1YDZQynTpl7031i8Q5JRTL3QE|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20888&type=drm&token=tGXHtkZ1YDZQynTpl7031i8Q5JRTL3QE
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/tbudlX0AVuuWDtAq4kwQ2BBoqGw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4966927/75c3d8.jpg" ch-number="20", Corentin Moutet vs Tomas Machac - Round 2 (Court 7) | ATP 1000: Miami Open presented by Itau 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=20888&type=dash&token=tGXHtkZ1YDZQynTpl7031i8Q5JRTL3QE|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
