@@ -21,39 +21,39 @@ https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=iEdP8NUbALdE
 https://vid-id.indi1.workers.dev/index.mpd?id=18189&type=dash&token=iEdP8NUbALdEZrGJtnXuj06ZWJyoYOUs|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20888&type=drm&token=iEdP8NUbALdEZrGJtnXuj06ZWJyoYOUs
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/tbudlX0AVuuWDtAq4kwQ2BBoqGw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4966927/75c3d8.jpg" ch-number="5", Corentin Moutet vs Tomas Machac - Round 2 (Court 7) | ATP 1000: Miami Open presented by Itau 2026
-https://vid-id.indi1.workers.dev/index.mpd?id=20888&type=dash&token=iEdP8NUbALdEZrGJtnXuj06ZWJyoYOUs|User-Agent=VidioPlayer/6.31.6
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=drm&token=iEdP8NUbALdEZrGJtnXuj06ZWJyoYOUs
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/t82Mu6nxkCU4OJLnAKjk-2rcer8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4966933/cc9f8b.jpg" ch-number="6", Rei Sakamoto vs Daniil Medvedev - Round 2 (Stadium) | ATP 1000: Miami Open presented by Itau 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/t82Mu6nxkCU4OJLnAKjk-2rcer8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4966933/cc9f8b.jpg" ch-number="5", Rei Sakamoto vs Daniil Medvedev - Round 2 (Stadium) | ATP 1000: Miami Open presented by Itau 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=dash&token=iEdP8NUbALdEZrGJtnXuj06ZWJyoYOUs|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=19404&type=drm&token=iEdP8NUbALdEZrGJtnXuj06ZWJyoYOUs
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/gKTaNuUuXO8z6CKHvlgzo5UeQgA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4959617/0d93cb.jpg" ch-number="7", Juventus vs Sassuolo - Serie A
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/gKTaNuUuXO8z6CKHvlgzo5UeQgA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4959617/0d93cb.jpg" ch-number="6", Juventus vs Sassuolo - Serie A
 https://vid-id.indi1.workers.dev/index.mpd?id=19404&type=dash&token=iEdP8NUbALdEZrGJtnXuj06ZWJyoYOUs|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=9182&type=drm&token=iEdP8NUbALdEZrGJtnXuj06ZWJyoYOUs
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/jNpq_rtGEi2JwlIZ2XPCPn2axIw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4961117/01bc12.jpg" ch-number="8", Leeds United vs Brentford - Premier League
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/jNpq_rtGEi2JwlIZ2XPCPn2axIw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4961117/01bc12.jpg" ch-number="7", Leeds United vs Brentford - Premier League
 https://vid-id.indi1.workers.dev/index.mpd?id=9182&type=dash&token=iEdP8NUbALdEZrGJtnXuj06ZWJyoYOUs|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20887&type=drm&token=iEdP8NUbALdEZrGJtnXuj06ZWJyoYOUs
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/05pWEuqYq56MNgZpiFB_NsDYBd4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4966922/b15cff.jpg" ch-number="9", Alex Michelsen vs Cameron Norrie - Round 2 (Court 1) | ATP 1000: Miami Open presented by Itau 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/05pWEuqYq56MNgZpiFB_NsDYBd4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4966922/b15cff.jpg" ch-number="8", Alex Michelsen vs Cameron Norrie - Round 2 (Court 1) | ATP 1000: Miami Open presented by Itau 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=20887&type=dash&token=iEdP8NUbALdEZrGJtnXuj06ZWJyoYOUs|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=drm&token=iEdP8NUbALdEZrGJtnXuj06ZWJyoYOUs
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/1IscMDTwtXnIwSsr1xBjNhjWdJ8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4962340/1280e9.jpg" ch-number="10", Sevilla vs Valencia - LaLiga
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/1IscMDTwtXnIwSsr1xBjNhjWdJ8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4962340/1280e9.jpg" ch-number="9", Sevilla vs Valencia - LaLiga
 https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=dash&token=iEdP8NUbALdEZrGJtnXuj06ZWJyoYOUs|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20216&type=drm&token=iEdP8NUbALdEZrGJtnXuj06ZWJyoYOUs
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/5WBeEJVvyTWFWE-vI5wKg1TdO34=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4962332/771af6.jpg" ch-number="11", Kurtis Campbell vs Danny Silva - Featherweight | UFC Fight Night
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/5WBeEJVvyTWFWE-vI5wKg1TdO34=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4962332/771af6.jpg" ch-number="10", Kurtis Campbell vs Danny Silva - Featherweight | UFC Fight Night
 https://vid-id.indi1.workers.dev/index.mpd?id=20216&type=dash&token=iEdP8NUbALdEZrGJtnXuj06ZWJyoYOUs|User-Agent=VidioPlayer/6.31.6
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20888&type=drm&token=iEdP8NUbALdEZrGJtnXuj06ZWJyoYOUs
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/Wo6HtQ0U9LN3JgG1eLxFlcHxS4M=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4966928/43187b.jpg" ch-number="11", Andrey Rublev vs Alejandro Tabilo - Round 2 (Court 7) | ATP 1000: Miami Open presented by Itau 2026
+https://vid-id.indi1.workers.dev/index.mpd?id=20888&type=dash&token=iEdP8NUbALdEZrGJtnXuj06ZWJyoYOUs|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20216&type=drm&token=iEdP8NUbALdEZrGJtnXuj06ZWJyoYOUs
@@ -62,50 +62,50 @@ https://vid-id.indi1.workers.dev/index.mpd?id=20216&type=dash&token=iEdP8NUbALdE
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20888&type=drm&token=iEdP8NUbALdEZrGJtnXuj06ZWJyoYOUs
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Wo6HtQ0U9LN3JgG1eLxFlcHxS4M=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4966928/43187b.jpg" ch-number="13", Andrey Rublev vs Alejandro Tabilo - Round 2 (Court 7) | ATP 1000: Miami Open presented by Itau 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=20888&type=dash&token=iEdP8NUbALdEZrGJtnXuj06ZWJyoYOUs|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20886&type=drm&token=iEdP8NUbALdEZrGJtnXuj06ZWJyoYOUs
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/ka3OfWqqJUTNc0yKDq5ng50i2WI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4966935/8635f4.jpg" ch-number="14", Adam Walton vs Jakub Mensik - Round 2 (Butch Buhholz) | ATP 1000: Miami Open presented by Itau 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/ka3OfWqqJUTNc0yKDq5ng50i2WI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4966935/8635f4.jpg" ch-number="13", Adam Walton vs Jakub Mensik - Round 2 (Butch Buhholz) | ATP 1000: Miami Open presented by Itau 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=20886&type=dash&token=iEdP8NUbALdEZrGJtnXuj06ZWJyoYOUs|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20216&type=drm&token=iEdP8NUbALdEZrGJtnXuj06ZWJyoYOUs
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/WLSpdrLRSQgChJmS41JdsZWsQ9o=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4962334/afcb24.jpg" ch-number="15", Iwo Baraniewski vs Austen Lane - Light Heavyweight | UFC Fight Night
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/WLSpdrLRSQgChJmS41JdsZWsQ9o=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4962334/afcb24.jpg" ch-number="14", Iwo Baraniewski vs Austen Lane - Light Heavyweight | UFC Fight Night
 #https://vid-id.indi1.workers.dev/index.mpd?id=20216&type=dash&token=iEdP8NUbALdEZrGJtnXuj06ZWJyoYOUs|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18190&type=drm&token=iEdP8NUbALdEZrGJtnXuj06ZWJyoYOUs
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/aiYKUm5M6MO0a0Sp7yTkH71ImpU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4966726/ad0ee2.jpg" ch-number="16", Round 3 - Fortinet Founders Cup 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/aiYKUm5M6MO0a0Sp7yTkH71ImpU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4966726/ad0ee2.jpg" ch-number="15", Round 3 - Fortinet Founders Cup 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=18190&type=dash&token=iEdP8NUbALdEZrGJtnXuj06ZWJyoYOUs|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=drm&token=iEdP8NUbALdEZrGJtnXuj06ZWJyoYOUs
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/JJMBJq0BbEF4H4z6O-Xt_DdCBSw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4965334/d9b1b9.jpg" ch-number="17", Cancun P2 Premier Padel 2026 - Semifinals
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/JJMBJq0BbEF4H4z6O-Xt_DdCBSw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4965334/d9b1b9.jpg" ch-number="16", Cancun P2 Premier Padel 2026 - Semifinals
 #https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=dash&token=iEdP8NUbALdEZrGJtnXuj06ZWJyoYOUs|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20216&type=drm&token=iEdP8NUbALdEZrGJtnXuj06ZWJyoYOUs
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/X5qZTM7neaFT8fLarj_K8p-iar0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4962335/d35bce.jpg" ch-number="18", Michael Page vs Sam Patterson - Welterweight | UFC Fight Night
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/X5qZTM7neaFT8fLarj_K8p-iar0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4962335/d35bce.jpg" ch-number="17", Michael Page vs Sam Patterson - Welterweight | UFC Fight Night
 #https://vid-id.indi1.workers.dev/index.mpd?id=20216&type=dash&token=iEdP8NUbALdEZrGJtnXuj06ZWJyoYOUs|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20216&type=drm&token=iEdP8NUbALdEZrGJtnXuj06ZWJyoYOUs
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/FXZ0nlxnmkb3ahoLdgdSRVYkgg0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4962336/fd02b0.jpg" ch-number="19", Luke Riley vs Michael Aswell Jr. - Featherweight | UFC Fight Night
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/FXZ0nlxnmkb3ahoLdgdSRVYkgg0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4962336/fd02b0.jpg" ch-number="18", Luke Riley vs Michael Aswell Jr. - Featherweight | UFC Fight Night
 #https://vid-id.indi1.workers.dev/index.mpd?id=20216&type=dash&token=iEdP8NUbALdEZrGJtnXuj06ZWJyoYOUs|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20885&type=drm&token=iEdP8NUbALdEZrGJtnXuj06ZWJyoYOUs
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/l8w05NcFggY3T2xHFM0O3eLnvpk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4966931/80b467.jpg" ch-number="20", Ben Shelton vs Alexander Shevchenko - Round 2 (Grandstand) | ATP 1000: Miami Open presented by Itau 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/l8w05NcFggY3T2xHFM0O3eLnvpk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4966931/80b467.jpg" ch-number="19", Ben Shelton vs Alexander Shevchenko - Round 2 (Grandstand) | ATP 1000: Miami Open presented by Itau 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=20885&type=dash&token=iEdP8NUbALdEZrGJtnXuj06ZWJyoYOUs|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20216&type=drm&token=iEdP8NUbALdEZrGJtnXuj06ZWJyoYOUs
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Y4eavDUPfJqXuzi_cKmDy28jKkI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4962337/c74987.jpg" ch-number="20", Movsar Evloev vs Lerone Murphy - Featherweight | UFC Fight Night
+#https://vid-id.indi1.workers.dev/index.mpd?id=20216&type=dash&token=iEdP8NUbALdEZrGJtnXuj06ZWJyoYOUs|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
