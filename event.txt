@@ -12,9 +12,8 @@ https://vid-id.indi1.workers.dev/index.mpd?id=9182&type=dash&token=iEdP8NUbALdEZ
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17140&type=drm&token=iEdP8NUbALdEZrGJtnXuj06ZWJyoYOUs
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/mIv-20GqhrMPEN-DkeK5Un4IkvU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4965327/a777e2.jpg" ch-number="3", MotoGP Warm Up & Rider's Parade: Grand Prix of Brazil - MotoGP 2026 Round 2
-#https://vid-id.indi1.workers.dev/index.mpd?id=17140&type=dash&token=iEdP8NUbALdEZrGJtnXuj06ZWJyoYOUs|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/mIv-20GqhrMPEN-DkeK5Un4IkvU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4965327/a777e2.jpg" ch-number="3", MotoGP Warm Up & Rider's Parade: Grand Prix of Brazil - MotoGP 2026 Round 2
+https://vid-id.indi1.workers.dev/index.mpd?id=17140&type=dash&token=iEdP8NUbALdEZrGJtnXuj06ZWJyoYOUs|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=drm&token=iEdP8NUbALdEZrGJtnXuj06ZWJyoYOUs
@@ -38,7 +37,7 @@ https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=dash&token=iEdP8NUbALdE
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17140&type=drm&token=iEdP8NUbALdEZrGJtnXuj06ZWJyoYOUs
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/5YuL8Hexx-Gj0bu9Zo6x33L0DNw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4967244/fcfa8c.jpg" ch-number="8", Moto2 Qualifying: Grand Prix of Brazil - MotoGP 2026 Round 2
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="⛔ Event Ended" tvg-logo="https://thumbor.prod.vidiocdn.com/5YuL8Hexx-Gj0bu9Zo6x33L0DNw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4967244/fcfa8c.jpg" ch-number="8", Moto2 Qualifying: Grand Prix of Brazil - MotoGP 2026 Round 2
 https://vid-id.indi1.workers.dev/index.mpd?id=17140&type=dash&token=iEdP8NUbALdEZrGJtnXuj06ZWJyoYOUs|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
