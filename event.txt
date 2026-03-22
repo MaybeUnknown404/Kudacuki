@@ -47,21 +47,21 @@ https://vid-id.indi1.workers.dev/index.mpd?id=9182&type=dash&token=iEdP8NUbALdEZ
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20897&type=drm&token=iEdP8NUbALdEZrGJtnXuj06ZWJyoYOUs
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/K5x8R7AedxDo3OQwxnCk5JqUGmY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4967809/01c453.jpg" ch-number="10", Ethan Quinn vs Jiri Lehecka - Round 3 | ATP 1000: Miami Open Presented by Itau 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=20897&type=dash&token=iEdP8NUbALdEZrGJtnXuj06ZWJyoYOUs|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20885&type=drm&token=iEdP8NUbALdEZrGJtnXuj06ZWJyoYOUs
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/VmmMWOKest4Tkxyo4kI0ikh95BU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4967328/ad7322.jpg" ch-number="11", Ethan Quinn vs Jiri Lehecka - Round 3 (Grandstand) | ATP 1000: Miami Open Presented by Itau 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/VmmMWOKest4Tkxyo4kI0ikh95BU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4967328/ad7322.jpg" ch-number="10", Ethan Quinn vs Jiri Lehecka - Round 3 (Grandstand) | ATP 1000: Miami Open Presented by Itau 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=20885&type=dash&token=iEdP8NUbALdEZrGJtnXuj06ZWJyoYOUs|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20890&type=drm&token=iEdP8NUbALdEZrGJtnXuj06ZWJyoYOUs
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/CqpWVPMgk59t4PtiKA4M4tXJ2fI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4967322/5735a5.jpg" ch-number="12", Marcel Granollers/Horacio Zeballos vs Francisco Cabral/Lucas Miedler - Round 3 (Court 5) | ATP 1000: Miami Open Presented by Itau 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/CqpWVPMgk59t4PtiKA4M4tXJ2fI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4967322/5735a5.jpg" ch-number="11", Marcel Granollers/Horacio Zeballos vs Francisco Cabral/Lucas Miedler - Round 3 (Court 5) | ATP 1000: Miami Open Presented by Itau 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=20890&type=dash&token=iEdP8NUbALdEZrGJtnXuj06ZWJyoYOUs|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20897&type=drm&token=iEdP8NUbALdEZrGJtnXuj06ZWJyoYOUs
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/K5x8R7AedxDo3OQwxnCk5JqUGmY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4967809/01c453.jpg" ch-number="12", Ethan Quinn vs Jiri Lehecka - Round 3 | ATP 1000: Miami Open Presented by Itau 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=20897&type=dash&token=iEdP8NUbALdEZrGJtnXuj06ZWJyoYOUs|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -83,15 +83,15 @@ https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1ec
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20902&type=drm&token=iEdP8NUbALdEZrGJtnXuj06ZWJyoYOUs
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/qVXSZx-ug4cO-eB2tuQeWblzzuY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4966943/9f6e47.jpg" ch-number="16", Day 5 - WTA 1000: Miami Open presented by Itau 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=20902&type=dash&token=iEdP8NUbALdEZrGJtnXuj06ZWJyoYOUs|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6685&type=drm&token=iEdP8NUbALdEZrGJtnXuj06ZWJyoYOUs
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/pTvmjaHDTWH1xsmCRgSOri1ineU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4961118/c0567c.jpg" ch-number="16", Final: Arsenal vs Man City - Carabao Cup
+#https://vid-id.indi1.workers.dev/index.mpd?id=6685&type=dash&token=iEdP8NUbALdEZrGJtnXuj06ZWJyoYOUs|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6685&type=drm&token=iEdP8NUbALdEZrGJtnXuj06ZWJyoYOUs
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/pTvmjaHDTWH1xsmCRgSOri1ineU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4961118/c0567c.jpg" ch-number="17", Final: Arsenal vs Man City - Carabao Cup
-#https://vid-id.indi1.workers.dev/index.mpd?id=6685&type=dash&token=iEdP8NUbALdEZrGJtnXuj06ZWJyoYOUs|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20902&type=drm&token=iEdP8NUbALdEZrGJtnXuj06ZWJyoYOUs
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/qVXSZx-ug4cO-eB2tuQeWblzzuY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4966943/9f6e47.jpg" ch-number="17", Day 5 - WTA 1000: Miami Open presented by Itau 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=20902&type=dash&token=iEdP8NUbALdEZrGJtnXuj06ZWJyoYOUs|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
