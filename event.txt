@@ -11,102 +11,103 @@ https://vid-id.indi1.workers.dev/index.mpd?id=20902&type=dash&token=1BNxf9SC2b68
 https://vid-id.indi1.workers.dev/index.mpd?id=18189&type=dash&token=1BNxf9SC2b68zk4GsnVhCSUciO0qaxfJ|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=drm&token=1BNxf9SC2b68zk4GsnVhCSUciO0qaxfJ
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="⛔ Event Ended" tvg-logo="https://thumbor.prod.vidiocdn.com/XYdM6H8oyTVHOkyR9iRjz0LcjA4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4967033/9cc323.jpg" ch-number="3", Athletic Club vs Real Betis - LaLiga
-https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=dash&token=1BNxf9SC2b68zk4GsnVhCSUciO0qaxfJ|User-Agent=VidioPlayer/6.31.6
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20502&type=drm&token=1BNxf9SC2b68zk4GsnVhCSUciO0qaxfJ
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/GTF6PbvFQilsBluzlFI-V9NrJ78=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4966914/985a99.jpg" ch-number="4", Alverca vs Sporting - Liga Portugal
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/GTF6PbvFQilsBluzlFI-V9NrJ78=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4966914/985a99.jpg" ch-number="3", Alverca vs Sporting - Liga Portugal
 https://vid-id.indi1.workers.dev/index.mpd?id=20502&type=dash&token=1BNxf9SC2b68zk4GsnVhCSUciO0qaxfJ|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20886&type=drm&token=1BNxf9SC2b68zk4GsnVhCSUciO0qaxfJ
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/Q3OOPRrh-Aexcgoo6O9i3FDXK8c=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4967331/734be4.jpg" ch-number="5", Rafael Jodar vs Tomas Martin Etcheverry - Round 3 (Butch Buchholz) | ATP 1000: Miami Open Presented by Itau 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/Q3OOPRrh-Aexcgoo6O9i3FDXK8c=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4967331/734be4.jpg" ch-number="4", Rafael Jodar vs Tomas Martin Etcheverry - Round 3 (Butch Buchholz) | ATP 1000: Miami Open Presented by Itau 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=20886&type=dash&token=1BNxf9SC2b68zk4GsnVhCSUciO0qaxfJ|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20890&type=drm&token=1BNxf9SC2b68zk4GsnVhCSUciO0qaxfJ
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/pbW6xB54qDH85mIt004l0_j_EbI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4967324/105dc7.jpg" ch-number="6", Harri Heliovaara/Henry Patten vs Andrea Goransson/Alex Michelsen - Round 3 (Court 5) | ATP 1000: Miami Open Presented by Itau 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/pbW6xB54qDH85mIt004l0_j_EbI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4967324/105dc7.jpg" ch-number="5", Harri Heliovaara/Henry Patten vs Andrea Goransson/Alex Michelsen - Round 3 (Court 5) | ATP 1000: Miami Open Presented by Itau 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=20890&type=dash&token=1BNxf9SC2b68zk4GsnVhCSUciO0qaxfJ|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=drm&token=1BNxf9SC2b68zk4GsnVhCSUciO0qaxfJ
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/0pDbDs8HBe4p1lxKlEdzkYateco=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4967361/a6d267.jpg" ch-number="7", Carlos Alcaraz vs Sebastian Korda - Round 3 (Stadium) | ATP 1000: Miami Open Presented by Itau 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/0pDbDs8HBe4p1lxKlEdzkYateco=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4967361/a6d267.jpg" ch-number="6", Carlos Alcaraz vs Sebastian Korda - Round 3 (Stadium) | ATP 1000: Miami Open Presented by Itau 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=dash&token=1BNxf9SC2b68zk4GsnVhCSUciO0qaxfJ|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20897&type=drm&token=1BNxf9SC2b68zk4GsnVhCSUciO0qaxfJ
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/8LhFrYPdDWh5pTgjHYnn24WXDbw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4967810/ebf585.jpg" ch-number="8", Carlos Alcaraz vs Sebastian Korda - Round 3 | ATP 1000: Miami Open Presented by Itau 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/8LhFrYPdDWh5pTgjHYnn24WXDbw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4967810/ebf585.jpg" ch-number="7", Carlos Alcaraz vs Sebastian Korda - Round 3 | ATP 1000: Miami Open Presented by Itau 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=20897&type=dash&token=1BNxf9SC2b68zk4GsnVhCSUciO0qaxfJ|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20887&type=drm&token=1BNxf9SC2b68zk4GsnVhCSUciO0qaxfJ
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/DYlM0VkVQugY4ZlhOYpgXeCnmr0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4967805/780dda.jpg" ch-number="9", Santiago Gonzales/David Pel vs Luciano Darderi/Fernando Romboli - Round 3 (Court 1) | ATP 1000: Miami Open Presented by Itau 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/DYlM0VkVQugY4ZlhOYpgXeCnmr0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4967805/780dda.jpg" ch-number="8", Santiago Gonzales/David Pel vs Luciano Darderi/Fernando Romboli - Round 3 (Court 1) | ATP 1000: Miami Open Presented by Itau 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=20887&type=dash&token=1BNxf9SC2b68zk4GsnVhCSUciO0qaxfJ|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=19404&type=drm&token=1BNxf9SC2b68zk4GsnVhCSUciO0qaxfJ
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/jy_EHv9pZO1Xp6EhLtMbvDe7yMI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4966950/9be8a3.jpg" ch-number="10", Fiorentina vs Inter - Serie A
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/jy_EHv9pZO1Xp6EhLtMbvDe7yMI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4966950/9be8a3.jpg" ch-number="9", Fiorentina vs Inter - Serie A
 https://vid-id.indi1.workers.dev/index.mpd?id=19404&type=dash&token=1BNxf9SC2b68zk4GsnVhCSUciO0qaxfJ|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=drm&token=1BNxf9SC2b68zk4GsnVhCSUciO0qaxfJ
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/lyiLS6WndVBC2UBCENMFB11VDSE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4967035/f025e9.jpg" ch-number="11", Real Madrid vs Atletico Madrid - LaLiga
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/lyiLS6WndVBC2UBCENMFB11VDSE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4967035/f025e9.jpg" ch-number="10", Real Madrid vs Atletico Madrid - LaLiga
 #https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=dash&token=1BNxf9SC2b68zk4GsnVhCSUciO0qaxfJ|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20886&type=drm&token=1BNxf9SC2b68zk4GsnVhCSUciO0qaxfJ
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/IFatia6V_ucNCVDFvtG-_xUR1UA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4967332/737f50.jpg" ch-number="12", Tommy Paul vs Raphael Collignon - Round 3 (Butch Buchholz) | ATP 1000: Miami Open Presented by Itau 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/IFatia6V_ucNCVDFvtG-_xUR1UA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4967332/737f50.jpg" ch-number="11", Tommy Paul vs Raphael Collignon - Round 3 (Butch Buchholz) | ATP 1000: Miami Open Presented by Itau 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=20886&type=dash&token=1BNxf9SC2b68zk4GsnVhCSUciO0qaxfJ|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18190&type=drm&token=1BNxf9SC2b68zk4GsnVhCSUciO0qaxfJ
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/aBoQaL4hVEC1rDt5TC-ZFE9mGL4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4967242/28db56.jpg" ch-number="13", Round 4 - Fortinet Founders Cup 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/aBoQaL4hVEC1rDt5TC-ZFE9mGL4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4967242/28db56.jpg" ch-number="12", Round 4 - Fortinet Founders Cup 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=18190&type=dash&token=1BNxf9SC2b68zk4GsnVhCSUciO0qaxfJ|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20887&type=drm&token=1BNxf9SC2b68zk4GsnVhCSUciO0qaxfJ
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/k9L4trBCQ0LZHxOqU9xgk-OYeGc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4967806/5db189.jpg" ch-number="14", Marcelo Melo/Alexander Zverev vs Evan King/John Peers - Round 3 (Court 1) | ATP 1000: Miami Open Presented by Itau 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/k9L4trBCQ0LZHxOqU9xgk-OYeGc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4967806/5db189.jpg" ch-number="13", Marcelo Melo/Alexander Zverev vs Evan King/John Peers - Round 3 (Court 1) | ATP 1000: Miami Open Presented by Itau 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=20887&type=dash&token=1BNxf9SC2b68zk4GsnVhCSUciO0qaxfJ|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=drm&token=1BNxf9SC2b68zk4GsnVhCSUciO0qaxfJ
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/75NDgluR0XKYoxxrHc7ZuQXoxO4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4967249/3b9e7f.jpg" ch-number="15", Cancun P2 Premier Padel 2026 - Finals
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/75NDgluR0XKYoxxrHc7ZuQXoxO4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4967249/3b9e7f.jpg" ch-number="14", Cancun P2 Premier Padel 2026 - Finals
 #https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=dash&token=1BNxf9SC2b68zk4GsnVhCSUciO0qaxfJ|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20885&type=drm&token=1BNxf9SC2b68zk4GsnVhCSUciO0qaxfJ
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/apDRHQ5shiF_8cNl8Qj-NthtTwo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4967329/ff4720.jpg" ch-number="16", Matteo Berrettini vs Valentin Vacherot - Round 3 (Grandstand) | ATP 1000: Miami Open Presented by Itau 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/apDRHQ5shiF_8cNl8Qj-NthtTwo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4967329/ff4720.jpg" ch-number="15", Matteo Berrettini vs Valentin Vacherot - Round 3 (Grandstand) | ATP 1000: Miami Open Presented by Itau 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=20885&type=dash&token=1BNxf9SC2b68zk4GsnVhCSUciO0qaxfJ|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20886&type=drm&token=1BNxf9SC2b68zk4GsnVhCSUciO0qaxfJ
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/CSh9yWeMdIfpRbkPaplzq4IwnzU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4967333/7ac251.jpg" ch-number="17", Martin Landaluce vs Karen Khachanov - Round 3 (Butch Buchholz) | ATP 1000: Miami Open Presented by Itau 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/CSh9yWeMdIfpRbkPaplzq4IwnzU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4967333/7ac251.jpg" ch-number="16", Martin Landaluce vs Karen Khachanov - Round 3 (Butch Buchholz) | ATP 1000: Miami Open Presented by Itau 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=20886&type=dash&token=1BNxf9SC2b68zk4GsnVhCSUciO0qaxfJ|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20890&type=drm&token=1BNxf9SC2b68zk4GsnVhCSUciO0qaxfJ
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/N8lXYGXtHnHc46zwlnOlSGVk5tc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4967325/ea1750.jpg" ch-number="18", Martin Damm/Marcelo Demoliner vs Tomas Martin Etcheverri/Alejandro Tabilo - Round 3 (Court 5) | ATP 1000: Miami Open Presented by Itau 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/N8lXYGXtHnHc46zwlnOlSGVk5tc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4967325/ea1750.jpg" ch-number="17", Martin Damm/Marcelo Demoliner vs Tomas Martin Etcheverri/Alejandro Tabilo - Round 3 (Court 5) | ATP 1000: Miami Open Presented by Itau 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=20890&type=dash&token=1BNxf9SC2b68zk4GsnVhCSUciO0qaxfJ|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=drm&token=1BNxf9SC2b68zk4GsnVhCSUciO0qaxfJ
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/rWNX2ZgJg1Xh1-VbKs2B1mEyIVY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4967362/f5e79a.jpg" ch-number="19", Arthur Fils vs Stefanos Tsitsipas - Round 3 (Stadium) | ATP 1000: Miami Open Presented by Itau 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/rWNX2ZgJg1Xh1-VbKs2B1mEyIVY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4967362/f5e79a.jpg" ch-number="18", Arthur Fils vs Stefanos Tsitsipas - Round 3 (Stadium) | ATP 1000: Miami Open Presented by Itau 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=dash&token=1BNxf9SC2b68zk4GsnVhCSUciO0qaxfJ|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20887&type=drm&token=1BNxf9SC2b68zk4GsnVhCSUciO0qaxfJ
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/ocdZQ_X853x1bAkjuXiNdSio0CU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4967807/bf2943.jpg" ch-number="20", Alex de Minaur/Rinky Hijikata vs Christian Harrison/Neal Skupski - Round 3 (Court 1) | ATP 1000: Miami Open Presented by Itau 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/ocdZQ_X853x1bAkjuXiNdSio0CU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4967807/bf2943.jpg" ch-number="19", Alex de Minaur/Rinky Hijikata vs Christian Harrison/Neal Skupski - Round 3 (Court 1) | ATP 1000: Miami Open Presented by Itau 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=20887&type=dash&token=1BNxf9SC2b68zk4GsnVhCSUciO0qaxfJ|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20897&type=drm&token=1BNxf9SC2b68zk4GsnVhCSUciO0qaxfJ
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/nnXmaonWgZZ4PxdXRNpgODsOTaA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4967811/522f5e.jpg" ch-number="20", Arthur Fils vs Stefanos Tsitsipas - Round 3 | ATP 1000: Miami Open Presented by Itau 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=20897&type=dash&token=1BNxf9SC2b68zk4GsnVhCSUciO0qaxfJ|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
