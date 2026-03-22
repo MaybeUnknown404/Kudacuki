@@ -2,7 +2,7 @@
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20897&type=drm&token=iEdP8NUbALdEZrGJtnXuj06ZWJyoYOUs
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/LbPQbe0UO4dsQryao4sFZf9GKr0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4966940/95479e.jpg" ch-number="1", Martin Damm vs Alexander Zverev - Round 2 | ATP 1000: Miami Open presented by Itau 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/gORpuzUtL43IRqNbqMFtca9tP58=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/20897/round-2-atp-1000-miami-open-presented-by-itau-2026-180d92.jpg" ch-number="1", Round 2 - ATP 1000: Miami Open Presented by Itau 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=20897&type=dash&token=iEdP8NUbALdEZrGJtnXuj06ZWJyoYOUs|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -11,9 +11,9 @@ https://vid-id.indi1.workers.dev/index.mpd?id=20897&type=dash&token=iEdP8NUbALdE
 https://vid-id.indi1.workers.dev/index.mpd?id=20902&type=dash&token=iEdP8NUbALdEZrGJtnXuj06ZWJyoYOUs|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=drm&token=iEdP8NUbALdEZrGJtnXuj06ZWJyoYOUs
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/JJMBJq0BbEF4H4z6O-Xt_DdCBSw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4965334/d9b1b9.jpg" ch-number="3", Cancun P2 Premier Padel 2026 - Semifinals
-https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=dash&token=iEdP8NUbALdEZrGJtnXuj06ZWJyoYOUs|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18190&type=drm&token=iEdP8NUbALdEZrGJtnXuj06ZWJyoYOUs
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/aiYKUm5M6MO0a0Sp7yTkH71ImpU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4966726/ad0ee2.jpg" ch-number="3", Round 3 - Fortinet Founders Cup 2026
+https://vid-id.indi1.workers.dev/index.mpd?id=18190&type=dash&token=iEdP8NUbALdEZrGJtnXuj06ZWJyoYOUs|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20887&type=drm&token=iEdP8NUbALdEZrGJtnXuj06ZWJyoYOUs
@@ -21,9 +21,9 @@ https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=dash&token=iEdP8NUbALdE
 https://vid-id.indi1.workers.dev/index.mpd?id=20887&type=dash&token=iEdP8NUbALdEZrGJtnXuj06ZWJyoYOUs|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18190&type=drm&token=iEdP8NUbALdEZrGJtnXuj06ZWJyoYOUs
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/aiYKUm5M6MO0a0Sp7yTkH71ImpU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4966726/ad0ee2.jpg" ch-number="5", Round 3 - Fortinet Founders Cup 2026
-https://vid-id.indi1.workers.dev/index.mpd?id=18190&type=dash&token=iEdP8NUbALdEZrGJtnXuj06ZWJyoYOUs|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=drm&token=iEdP8NUbALdEZrGJtnXuj06ZWJyoYOUs
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/JJMBJq0BbEF4H4z6O-Xt_DdCBSw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4965334/d9b1b9.jpg" ch-number="5", Cancun P2 Premier Padel 2026 - Semifinals
+https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=dash&token=iEdP8NUbALdEZrGJtnXuj06ZWJyoYOUs|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20885&type=drm&token=iEdP8NUbALdEZrGJtnXuj06ZWJyoYOUs
@@ -41,21 +41,21 @@ https://vid-id.indi1.workers.dev/index.mpd?id=20886&type=dash&token=iEdP8NUbALdE
 https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=dash&token=iEdP8NUbALdEZrGJtnXuj06ZWJyoYOUs|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20897&type=drm&token=iEdP8NUbALdEZrGJtnXuj06ZWJyoYOUs
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/LbPQbe0UO4dsQryao4sFZf9GKr0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4966940/95479e.jpg" ch-number="9", Martin Damm vs Alexander Zverev - Round 2 | ATP 1000: Miami Open presented by Itau 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=20897&type=dash&token=iEdP8NUbALdEZrGJtnXuj06ZWJyoYOUs|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20887&type=drm&token=iEdP8NUbALdEZrGJtnXuj06ZWJyoYOUs
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/M8KD2eTI5OZeflEBhWtToGyn0Dk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4966924/836789.jpg" ch-number="9", Brandon Nakashima vs Marin Cilic - Round 2 (Court 1) | ATP 1000: Miami Open presented by Itau 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/M8KD2eTI5OZeflEBhWtToGyn0Dk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4966924/836789.jpg" ch-number="10", Brandon Nakashima vs Marin Cilic - Round 2 (Court 1) | ATP 1000: Miami Open presented by Itau 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=20887&type=dash&token=iEdP8NUbALdEZrGJtnXuj06ZWJyoYOUs|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=19672&type=drm&token=iEdP8NUbALdEZrGJtnXuj06ZWJyoYOUs
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/lYIHSM91wiDCKKBJCf3W2EXW1aE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4966916/5a3ec7.jpg" ch-number="10", 3rd Place: Alvark Tokyo vs Ryukyu Golden Kings - EASL
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/lYIHSM91wiDCKKBJCf3W2EXW1aE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4966916/5a3ec7.jpg" ch-number="11", 3rd Place: Alvark Tokyo vs Ryukyu Golden Kings - EASL
 #https://vid-id.indi1.workers.dev/index.mpd?id=19672&type=dash&token=iEdP8NUbALdEZrGJtnXuj06ZWJyoYOUs|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=19671&type=drm&token=iEdP8NUbALdEZrGJtnXuj06ZWJyoYOUs
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/_XbVPqMgWwRHnfqNR7OAc4QZzkY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4966942/9d520d.jpg" ch-number="11", Final: Taoyuan Pauian Pilots vs Utsunomiya Brex - EASL
-#https://vid-id.indi1.workers.dev/index.mpd?id=19671&type=dash&token=iEdP8NUbALdEZrGJtnXuj06ZWJyoYOUs|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -65,50 +65,50 @@ https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1ec
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=19671&type=drm&token=iEdP8NUbALdEZrGJtnXuj06ZWJyoYOUs
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/_XbVPqMgWwRHnfqNR7OAc4QZzkY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4966942/9d520d.jpg" ch-number="13", Final: Taoyuan Pauian Pilots vs Utsunomiya Brex - EASL
+#https://vid-id.indi1.workers.dev/index.mpd?id=19671&type=dash&token=iEdP8NUbALdEZrGJtnXuj06ZWJyoYOUs|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=drm&token=iEdP8NUbALdEZrGJtnXuj06ZWJyoYOUs
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/ZMJ8sGUC-aB55yRTaccOib5vjis=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/orleans-masters-badminton-2026-presented-by-victor-semifinals-16bd3f.jpg" ch-number="13", Sumire Nakade/Miyu Takahashi (JPN) vs Lin Chih-Chun/Yang Chu Yun (TPE) - Women's Doubles Final | Orleans Masters Badminton 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/ZMJ8sGUC-aB55yRTaccOib5vjis=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/orleans-masters-badminton-2026-presented-by-victor-semifinals-16bd3f.jpg" ch-number="14", Sumire Nakade/Miyu Takahashi (JPN) vs Lin Chih-Chun/Yang Chu Yun (TPE) - Women's Doubles Final | Orleans Masters Badminton 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=iEdP8NUbALdEZrGJtnXuj06ZWJyoYOUs|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=drm&token=iEdP8NUbALdEZrGJtnXuj06ZWJyoYOUs
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/uH_lJmRMfuuwkE3rvykR0iV2N3U=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4967041/6bb64a.jpg" ch-number="14", Hu Ke Yuan/Lin Xiang Yi (CHN) vs Hiroki Okamura/Kyohei Yamashita (JPN) - Men's Doubles Final | Orleans Masters Badminton 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/uH_lJmRMfuuwkE3rvykR0iV2N3U=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4967041/6bb64a.jpg" ch-number="15", Hu Ke Yuan/Lin Xiang Yi (CHN) vs Hiroki Okamura/Kyohei Yamashita (JPN) - Men's Doubles Final | Orleans Masters Badminton 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=iEdP8NUbALdEZrGJtnXuj06ZWJyoYOUs|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20654&type=drm&token=iEdP8NUbALdEZrGJtnXuj06ZWJyoYOUs
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/TKG-8O7bWYvSkmWOAa08HAMh-o0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4966918/3513ef.jpg" ch-number="15", Istanbul Genclik Spor vs Halkbank - Turkish Men's Volleyball League
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/TKG-8O7bWYvSkmWOAa08HAMh-o0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4966918/3513ef.jpg" ch-number="16", Istanbul Genclik Spor vs Halkbank - Turkish Men's Volleyball League
 #https://vid-id.indi1.workers.dev/index.mpd?id=20654&type=dash&token=iEdP8NUbALdEZrGJtnXuj06ZWJyoYOUs|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6685&type=drm&token=iEdP8NUbALdEZrGJtnXuj06ZWJyoYOUs
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/2_-oRXZfvDg70cJVKfInJwVvGto=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4962255/d0e723.jpg" ch-number="16", NEC Nijmegen vs Heerenveen - Eredivisie
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/2_-oRXZfvDg70cJVKfInJwVvGto=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4962255/d0e723.jpg" ch-number="17", NEC Nijmegen vs Heerenveen - Eredivisie
 #https://vid-id.indi1.workers.dev/index.mpd?id=6685&type=dash&token=iEdP8NUbALdEZrGJtnXuj06ZWJyoYOUs|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=9182&type=drm&token=iEdP8NUbALdEZrGJtnXuj06ZWJyoYOUs
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/K3fzTP66Lk_U2OktguGP_Oom6mQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4962256/89dcad.jpg" ch-number="17", Newcastle vs Sunderland - Premier League
-#https://vid-id.indi1.workers.dev/index.mpd?id=9182&type=dash&token=iEdP8NUbALdEZrGJtnXuj06ZWJyoYOUs|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=9183&type=drm&token=iEdP8NUbALdEZrGJtnXuj06ZWJyoYOUs
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/FKO1vTjzz-WpFlYv2kXAoG7ndOI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4962270/415f61.jpg" ch-number="18", (Data Zone) Newcastle vs Sunderland - Premier League
-#https://vid-id.indi1.workers.dev/index.mpd?id=9183&type=dash&token=iEdP8NUbALdEZrGJtnXuj06ZWJyoYOUs|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=19404&type=drm&token=iEdP8NUbALdEZrGJtnXuj06ZWJyoYOUs
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/fsiZ9-8BkGM_wRu0TG3BQVzblpk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4959620/eedecc.jpg" ch-number="19", Como vs Pisa - Serie A
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/fsiZ9-8BkGM_wRu0TG3BQVzblpk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4959620/eedecc.jpg" ch-number="18", Como vs Pisa - Serie A
 #https://vid-id.indi1.workers.dev/index.mpd?id=19404&type=dash&token=iEdP8NUbALdEZrGJtnXuj06ZWJyoYOUs|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=drm&token=iEdP8NUbALdEZrGJtnXuj06ZWJyoYOUs
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/ux5qKhH8mI4vIw0lKegBL9h_vxk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4967042/70ff11.jpg" ch-number="20", Pitchamon Opatniputh (THA) vs Nozomi Okuhara (JPN) - Women's Singles Final | Orleans Masters Badminton 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=iEdP8NUbALdEZrGJtnXuj06ZWJyoYOUs|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=9183&type=drm&token=iEdP8NUbALdEZrGJtnXuj06ZWJyoYOUs
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/FKO1vTjzz-WpFlYv2kXAoG7ndOI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4962270/415f61.jpg" ch-number="19", (Data Zone) Newcastle vs Sunderland - Premier League
+#https://vid-id.indi1.workers.dev/index.mpd?id=9183&type=dash&token=iEdP8NUbALdEZrGJtnXuj06ZWJyoYOUs|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=9182&type=drm&token=iEdP8NUbALdEZrGJtnXuj06ZWJyoYOUs
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/K3fzTP66Lk_U2OktguGP_Oom6mQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4962256/89dcad.jpg" ch-number="20", Newcastle vs Sunderland - Premier League
+#https://vid-id.indi1.workers.dev/index.mpd?id=9182&type=dash&token=iEdP8NUbALdEZrGJtnXuj06ZWJyoYOUs|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
