@@ -1,55 +1,50 @@
 #EXTM3U
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=drm&token=1BNxf9SC2b68zk4GsnVhCSUciO0qaxfJ
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/75NDgluR0XKYoxxrHc7ZuQXoxO4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4967249/3b9e7f.jpg" ch-number="1", Cancun P2 Premier Padel 2026 - Finals
-https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=dash&token=1BNxf9SC2b68zk4GsnVhCSUciO0qaxfJ|User-Agent=VidioPlayer/6.31.6
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6786&type=drm&token=1BNxf9SC2b68zk4GsnVhCSUciO0qaxfJ
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/JoqDXT5E8LtxQcbmq4W2Tet0KAo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4968416/61b682.jpg" ch-number="2", Day 6 - WTA 1000: Miami Open presented by Itau 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/JoqDXT5E8LtxQcbmq4W2Tet0KAo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4968416/61b682.jpg" ch-number="1", Day 6 - WTA 1000: Miami Open presented by Itau 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=6786&type=dash&token=1BNxf9SC2b68zk4GsnVhCSUciO0qaxfJ|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=drm&token=1BNxf9SC2b68zk4GsnVhCSUciO0qaxfJ
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/xDV36-ZtgCHaUdXlhBDsUT3yEnA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4968490/ef4a76.jpg" ch-number="3", Miami P1 Premier Padel 2026 - Day 1
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/xDV36-ZtgCHaUdXlhBDsUT3yEnA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4968490/ef4a76.jpg" ch-number="2", Miami P1 Premier Padel 2026 - Day 1
 #https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=dash&token=1BNxf9SC2b68zk4GsnVhCSUciO0qaxfJ|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6786&type=drm&token=1BNxf9SC2b68zk4GsnVhCSUciO0qaxfJ
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/VlyKfV3NTCMtwHtwwDS1AqnFKUw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4968491/423488.jpg" ch-number="4", Day 6 - WTA 1000: Miami Open presented by Itau 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/VlyKfV3NTCMtwHtwwDS1AqnFKUw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4968491/423488.jpg" ch-number="3", Day 6 - WTA 1000: Miami Open presented by Itau 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=6786&type=dash&token=1BNxf9SC2b68zk4GsnVhCSUciO0qaxfJ|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=19737&type=drm&token=1BNxf9SC2b68zk4GsnVhCSUciO0qaxfJ
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/O4H5fUfXWGXT-6BEac9W1dFb6_8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4968492/c75b08.jpg" ch-number="5", Semifinal: Vakifbank vs Galatasaray Daikin - Turkish Women's Volleyball Cup
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/O4H5fUfXWGXT-6BEac9W1dFb6_8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4968492/c75b08.jpg" ch-number="4", Semifinal: Vakifbank vs Galatasaray Daikin - Turkish Women's Volleyball Cup
 #https://vid-id.indi1.workers.dev/index.mpd?id=19737&type=dash&token=1BNxf9SC2b68zk4GsnVhCSUciO0qaxfJ|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=drm&token=1BNxf9SC2b68zk4GsnVhCSUciO0qaxfJ
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/lMJilMl9tfu1TZZWSNUXbYY2nqI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4968493/f33034.jpg" ch-number="6", Miami P1 Premier Padel 2026 - Day 2
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/lMJilMl9tfu1TZZWSNUXbYY2nqI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4968493/f33034.jpg" ch-number="5", Miami P1 Premier Padel 2026 - Day 2
 #https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=dash&token=1BNxf9SC2b68zk4GsnVhCSUciO0qaxfJ|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=19737&type=drm&token=1BNxf9SC2b68zk4GsnVhCSUciO0qaxfJ
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/5j7FXXeLacFWq5MeqgZ_Pb09d-M=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4968494/45829c.jpg" ch-number="7", Semifinal: Fenerbahce Medicana vs Eczacibasi Dynavit - Turkish Women's Volleyball Cup
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/5j7FXXeLacFWq5MeqgZ_Pb09d-M=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4968494/45829c.jpg" ch-number="6", Semifinal: Fenerbahce Medicana vs Eczacibasi Dynavit - Turkish Women's Volleyball Cup
 #https://vid-id.indi1.workers.dev/index.mpd?id=19737&type=dash&token=1BNxf9SC2b68zk4GsnVhCSUciO0qaxfJ|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20943&type=drm&token=1BNxf9SC2b68zk4GsnVhCSUciO0qaxfJ
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/s-gg40bVuAQxiOeBvrzJfqz4So8=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/20943/garuda-fight-027220.jpg" ch-number="8", Garuda Fight
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/s-gg40bVuAQxiOeBvrzJfqz4So8=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/20943/garuda-fight-027220.jpg" ch-number="7", Garuda Fight
 #https://vid-id.indi1.workers.dev/index.mpd?id=20943&type=dash&token=1BNxf9SC2b68zk4GsnVhCSUciO0qaxfJ|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20922&type=drm&token=1BNxf9SC2b68zk4GsnVhCSUciO0qaxfJ
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/-iw9LX2zJ2kJ4_UYUrF_SeGc4qQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/20922/byon-combat-showbiz-vol-7-1d0fe9.jpg" ch-number="9", BYON Combat Showbiz Vol.7
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/-iw9LX2zJ2kJ4_UYUrF_SeGc4qQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/20922/byon-combat-showbiz-vol-7-1d0fe9.jpg" ch-number="8", BYON Combat Showbiz Vol.7
 #https://vid-id.indi1.workers.dev/index.mpd?id=20922&type=dash&token=1BNxf9SC2b68zk4GsnVhCSUciO0qaxfJ|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
