@@ -37,14 +37,32 @@ https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1ec
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=drm&token=1BNxf9SC2b68zk4GsnVhCSUciO0qaxfJ
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/bNSVfm75UnvePVhth0fWo_uTrSA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969127/d04ba4.jpg" ch-number="7", VfL Wolfsburg vs Lyon - UEFA Women's Champions League
+#https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=dash&token=1BNxf9SC2b68zk4GsnVhCSUciO0qaxfJ|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=drm&token=1BNxf9SC2b68zk4GsnVhCSUciO0qaxfJ
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/ywpVixgp6hVan-NG-yPoIQm2pck=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969128/18042c.jpg" ch-number="8", Arsenal vs Chelsea - UEFA Women's Champions League
+#https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=dash&token=1BNxf9SC2b68zk4GsnVhCSUciO0qaxfJ|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=drm&token=1BNxf9SC2b68zk4GsnVhCSUciO0qaxfJ
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/dBMf_WAWW0JVeB5hVsaXQbYSxv4=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg" ch-number="9", Real Madrid vs Barcelona Femeni - UEFA Women's Champions League
+#https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=dash&token=1BNxf9SC2b68zk4GsnVhCSUciO0qaxfJ|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20943&type=drm&token=1BNxf9SC2b68zk4GsnVhCSUciO0qaxfJ
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/s-gg40bVuAQxiOeBvrzJfqz4So8=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/20943/garuda-fight-027220.jpg" ch-number="7", Garuda Fight
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/s-gg40bVuAQxiOeBvrzJfqz4So8=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/20943/garuda-fight-027220.jpg" ch-number="10", Garuda Fight
 #https://vid-id.indi1.workers.dev/index.mpd?id=20943&type=dash&token=1BNxf9SC2b68zk4GsnVhCSUciO0qaxfJ|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20922&type=drm&token=1BNxf9SC2b68zk4GsnVhCSUciO0qaxfJ
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/-iw9LX2zJ2kJ4_UYUrF_SeGc4qQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/20922/byon-combat-showbiz-vol-7-1d0fe9.jpg" ch-number="8", BYON Combat Showbiz Vol.7
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/-iw9LX2zJ2kJ4_UYUrF_SeGc4qQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/20922/byon-combat-showbiz-vol-7-1d0fe9.jpg" ch-number="11", BYON Combat Showbiz Vol.7
 #https://vid-id.indi1.workers.dev/index.mpd?id=20922&type=dash&token=1BNxf9SC2b68zk4GsnVhCSUciO0qaxfJ|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
