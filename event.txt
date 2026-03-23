@@ -17,7 +17,7 @@ https://vid-id.indi1.workers.dev/index.mpd?id=20887&type=dash&token=8Xd7jLO0LxF1
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20890&type=drm&token=8Xd7jLO0LxF1nJ4kH1jhS7RfDJpxFtqa
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/dzJYzCT8sOBxI5VFkjzabWRkbDs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969323/b815df.jpg" ch-number="4", Petr Nouza/Patrik Rikl vs Julian Cash/Lloyd Glasspool - Round 3 (Court 5) | ATP 1000: Miami Open presented by Itau 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/bTZJgqKftL0hE9qhK3ZOuMf5_xU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969324/7439d1.jpg" ch-number="4", Sander Arends/John-Patrick Smith vs Yuki Bhambri/Michael Venus - Round 3 (Court 5) | ATP 1000: Miami Open presented by Itau 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=20890&type=dash&token=8Xd7jLO0LxF1nJ4kH1jhS7RfDJpxFtqa|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -39,80 +39,80 @@ https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1ec
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6786&type=drm&token=8Xd7jLO0LxF1nJ4kH1jhS7RfDJpxFtqa
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/VlyKfV3NTCMtwHtwwDS1AqnFKUw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4968491/423488.jpg" ch-number="8", Day 6 - WTA 1000: Miami Open presented by Itau 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=6786&type=dash&token=8Xd7jLO0LxF1nJ4kH1jhS7RfDJpxFtqa|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=drm&token=8Xd7jLO0LxF1nJ4kH1jhS7RfDJpxFtqa
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/y0zkP1vrIRF_W2bYWvSPY_ZEqE4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969331/a8f43d.jpg" ch-number="8", Corentin Moutet vs Jannik Sinner - Round 3 (Stadium) | ATP 1000: Miami Open presented by Itau 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/y0zkP1vrIRF_W2bYWvSPY_ZEqE4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969331/a8f43d.jpg" ch-number="9", Corentin Moutet vs Jannik Sinner - Round 3 (Stadium) | ATP 1000: Miami Open presented by Itau 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=dash&token=8Xd7jLO0LxF1nJ4kH1jhS7RfDJpxFtqa|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20897&type=drm&token=8Xd7jLO0LxF1nJ4kH1jhS7RfDJpxFtqa
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/fF_6L_5UCBPbv0KEinIJFkqh15o=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969335/c392cb.jpg" ch-number="9", Corentin Moutet vs Jannik Sinner - Round 3 | ATP 1000: Miami Open presented by Itau 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/fF_6L_5UCBPbv0KEinIJFkqh15o=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969335/c392cb.jpg" ch-number="10", Corentin Moutet vs Jannik Sinner - Round 3 | ATP 1000: Miami Open presented by Itau 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=20897&type=dash&token=8Xd7jLO0LxF1nJ4kH1jhS7RfDJpxFtqa|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6786&type=drm&token=8Xd7jLO0LxF1nJ4kH1jhS7RfDJpxFtqa
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/VlyKfV3NTCMtwHtwwDS1AqnFKUw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4968491/423488.jpg" ch-number="10", Day 6 - WTA 1000: Miami Open presented by Itau 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=6786&type=dash&token=8Xd7jLO0LxF1nJ4kH1jhS7RfDJpxFtqa|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20890&type=drm&token=8Xd7jLO0LxF1nJ4kH1jhS7RfDJpxFtqa
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/bTZJgqKftL0hE9qhK3ZOuMf5_xU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969324/7439d1.jpg" ch-number="11", Sander Arends/John-Patrick Smith vs Yuki Bhambri/Michael Venus - Round 3 (Court 5) | ATP 1000: Miami Open presented by Itau 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=20890&type=dash&token=8Xd7jLO0LxF1nJ4kH1jhS7RfDJpxFtqa|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20887&type=drm&token=8Xd7jLO0LxF1nJ4kH1jhS7RfDJpxFtqa
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/zNvCsZBdKipQNMVEZxYtyZYNR2c=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969318/a730d2.jpg" ch-number="12", Simone Bolelli/Andrea Vavassori vs Tomas Martin Etcheverry/Alejandro Tabilo - Round of 16 (Court 1) | ATP 1000: Miami Open presented by Itau 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/zNvCsZBdKipQNMVEZxYtyZYNR2c=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969318/a730d2.jpg" ch-number="11", Simone Bolelli/Andrea Vavassori vs Tomas Martin Etcheverry/Alejandro Tabilo - Round of 16 (Court 1) | ATP 1000: Miami Open presented by Itau 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=20887&type=dash&token=8Xd7jLO0LxF1nJ4kH1jhS7RfDJpxFtqa|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=19737&type=drm&token=8Xd7jLO0LxF1nJ4kH1jhS7RfDJpxFtqa
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/O4H5fUfXWGXT-6BEac9W1dFb6_8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4968492/c75b08.jpg" ch-number="13", Semifinal: Vakifbank vs Galatasaray Daikin - Turkish Women's Volleyball Cup
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/O4H5fUfXWGXT-6BEac9W1dFb6_8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4968492/c75b08.jpg" ch-number="12", Semifinal: Vakifbank vs Galatasaray Daikin - Turkish Women's Volleyball Cup
 #https://vid-id.indi1.workers.dev/index.mpd?id=19737&type=dash&token=8Xd7jLO0LxF1nJ4kH1jhS7RfDJpxFtqa|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=drm&token=8Xd7jLO0LxF1nJ4kH1jhS7RfDJpxFtqa
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/lMJilMl9tfu1TZZWSNUXbYY2nqI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4968493/f33034.jpg" ch-number="14", Miami P1 Premier Padel 2026 - Day 2
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/lMJilMl9tfu1TZZWSNUXbYY2nqI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4968493/f33034.jpg" ch-number="13", Miami P1 Premier Padel 2026 - Day 2
 #https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=dash&token=8Xd7jLO0LxF1nJ4kH1jhS7RfDJpxFtqa|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=19737&type=drm&token=8Xd7jLO0LxF1nJ4kH1jhS7RfDJpxFtqa
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/5j7FXXeLacFWq5MeqgZ_Pb09d-M=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4968494/45829c.jpg" ch-number="15", Semifinal: Fenerbahce Medicana vs Eczacibasi Dynavit - Turkish Women's Volleyball Cup
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/5j7FXXeLacFWq5MeqgZ_Pb09d-M=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4968494/45829c.jpg" ch-number="14", Semifinal: Fenerbahce Medicana vs Eczacibasi Dynavit - Turkish Women's Volleyball Cup
 #https://vid-id.indi1.workers.dev/index.mpd?id=19737&type=dash&token=8Xd7jLO0LxF1nJ4kH1jhS7RfDJpxFtqa|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=drm&token=8Xd7jLO0LxF1nJ4kH1jhS7RfDJpxFtqa
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/bNSVfm75UnvePVhth0fWo_uTrSA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969127/d04ba4.jpg" ch-number="16", VfL Wolfsburg vs Lyon - UEFA Women's Champions League
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/bNSVfm75UnvePVhth0fWo_uTrSA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969127/d04ba4.jpg" ch-number="15", VfL Wolfsburg vs Lyon - UEFA Women's Champions League
 #https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=dash&token=8Xd7jLO0LxF1nJ4kH1jhS7RfDJpxFtqa|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6786&type=drm&token=8Xd7jLO0LxF1nJ4kH1jhS7RfDJpxFtqa
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/ZFvrrhFzVmnDjtRgJzVl1RodWMc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969304/c97e32.jpg" ch-number="17", Quarter Finals - WTA 1000: Miami Open presented by Itau 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/ZFvrrhFzVmnDjtRgJzVl1RodWMc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969304/c97e32.jpg" ch-number="16", Quarter Finals - WTA 1000: Miami Open presented by Itau 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=6786&type=dash&token=8Xd7jLO0LxF1nJ4kH1jhS7RfDJpxFtqa|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=drm&token=8Xd7jLO0LxF1nJ4kH1jhS7RfDJpxFtqa
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/ywpVixgp6hVan-NG-yPoIQm2pck=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969128/18042c.jpg" ch-number="18", Arsenal vs Chelsea - UEFA Women's Champions League
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/ywpVixgp6hVan-NG-yPoIQm2pck=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969128/18042c.jpg" ch-number="17", Arsenal vs Chelsea - UEFA Women's Champions League
 #https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=dash&token=8Xd7jLO0LxF1nJ4kH1jhS7RfDJpxFtqa|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=drm&token=8Xd7jLO0LxF1nJ4kH1jhS7RfDJpxFtqa
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/XS9hu4_eS9_RxApKcFtiGED0LZc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969308/666eb8.jpg" ch-number="19", Miami P1 Premier Padel 2026 - Day 2
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/XS9hu4_eS9_RxApKcFtiGED0LZc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969308/666eb8.jpg" ch-number="18", Miami P1 Premier Padel 2026 - Day 2
 #https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=dash&token=8Xd7jLO0LxF1nJ4kH1jhS7RfDJpxFtqa|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6786&type=drm&token=8Xd7jLO0LxF1nJ4kH1jhS7RfDJpxFtqa
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/uAmuPMHvEecLE3NjZ4z1HcQVx0I=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969305/fab9fd.jpg" ch-number="20", Quarter Finals - WTA 1000: Miami Open presented by Itau 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/uAmuPMHvEecLE3NjZ4z1HcQVx0I=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969305/fab9fd.jpg" ch-number="19", Quarter Finals - WTA 1000: Miami Open presented by Itau 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=6786&type=dash&token=8Xd7jLO0LxF1nJ4kH1jhS7RfDJpxFtqa|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=drm&token=8Xd7jLO0LxF1nJ4kH1jhS7RfDJpxFtqa
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Zp7sRoxxw7ibrAlsjwGzailcMHU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969311/c83be9.jpg" ch-number="20", Miami P1 Premier Padel 2026 - Day 3
+#https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=dash&token=8Xd7jLO0LxF1nJ4kH1jhS7RfDJpxFtqa|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
