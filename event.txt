@@ -6,76 +6,76 @@
 https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=dash&token=8Xd7jLO0LxF1nJ4kH1jhS7RfDJpxFtqa|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20887&type=drm&token=8Xd7jLO0LxF1nJ4kH1jhS7RfDJpxFtqa
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/uCpIchGR5Z5l1j4ce7TaJlnr7Go=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969646/ce8606.jpg" ch-number="2", Marcel Granollers/Horacio Zeballos vs Theo Arribage/Albano Olivetti - Round of 16 (Court 1) | ATP 1000: Miami Open Presented by Itau 2026
-https://vid-id.indi1.workers.dev/index.mpd?id=20887&type=dash&token=8Xd7jLO0LxF1nJ4kH1jhS7RfDJpxFtqa|User-Agent=VidioPlayer/6.31.6
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20885&type=drm&token=8Xd7jLO0LxF1nJ4kH1jhS7RfDJpxFtqa
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/sJPV2QbWyXPTTgvlLiZTwnvW18c=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969583/583c67.jpg" ch-number="3", Sebastian Korda vs Martin Landaluce - Round of 16 (Grandstand) | ATP 1000: Miami Open Presented by Itau 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/sJPV2QbWyXPTTgvlLiZTwnvW18c=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969583/583c67.jpg" ch-number="2", Sebastian Korda vs Martin Landaluce - Round of 16 (Grandstand) | ATP 1000: Miami Open Presented by Itau 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=20885&type=dash&token=8Xd7jLO0LxF1nJ4kH1jhS7RfDJpxFtqa|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20897&type=drm&token=8Xd7jLO0LxF1nJ4kH1jhS7RfDJpxFtqa
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/nSM059I-fLq8k6tTd4sUckdEp8k=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969591/a9e4ea.jpg" ch-number="4", Sebastian Korda vs Martin Landaluce - Round of 16 | ATP 1000: Miami Open Presented by Itau 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/nSM059I-fLq8k6tTd4sUckdEp8k=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969591/a9e4ea.jpg" ch-number="3", Sebastian Korda vs Martin Landaluce - Round of 16 | ATP 1000: Miami Open Presented by Itau 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=20897&type=dash&token=8Xd7jLO0LxF1nJ4kH1jhS7RfDJpxFtqa|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=19737&type=drm&token=8Xd7jLO0LxF1nJ4kH1jhS7RfDJpxFtqa
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/5j7FXXeLacFWq5MeqgZ_Pb09d-M=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4968494/45829c.jpg" ch-number="5", Semifinal: Fenerbahce Medicana vs Eczacibasi Dynavit - Turkish Women's Volleyball Cup
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/5j7FXXeLacFWq5MeqgZ_Pb09d-M=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4968494/45829c.jpg" ch-number="4", Semifinal: Fenerbahce Medicana vs Eczacibasi Dynavit - Turkish Women's Volleyball Cup
 https://vid-id.indi1.workers.dev/index.mpd?id=19737&type=dash&token=8Xd7jLO0LxF1nJ4kH1jhS7RfDJpxFtqa|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=drm&token=8Xd7jLO0LxF1nJ4kH1jhS7RfDJpxFtqa
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/lyrESU7w2UrOUfOzUuavrGzASl8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969595/1fece1.jpg" ch-number="6", Jiri Lehecka vs Taylor Fritz - Round of 16 (Stadium) | ATP 1000: Miami Open Presented by Itau 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/lyrESU7w2UrOUfOzUuavrGzASl8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969595/1fece1.jpg" ch-number="5", Jiri Lehecka vs Taylor Fritz - Round of 16 (Stadium) | ATP 1000: Miami Open Presented by Itau 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=dash&token=8Xd7jLO0LxF1nJ4kH1jhS7RfDJpxFtqa|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20887&type=drm&token=8Xd7jLO0LxF1nJ4kH1jhS7RfDJpxFtqa
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/vd_YbgD_O8LRtIhmdPJlhTtK48c=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969581/d90bd1.jpg" ch-number="7", Harri Heliovaara/Henry Patten vs Santiago Gonzalez/David Pel - Round of 16 (Court 1) | ATP 1000: Miami Open Presented by Itau 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=20887&type=dash&token=8Xd7jLO0LxF1nJ4kH1jhS7RfDJpxFtqa|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/vd_YbgD_O8LRtIhmdPJlhTtK48c=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969581/d90bd1.jpg" ch-number="6", Harri Heliovaara/Henry Patten vs Santiago Gonzalez/David Pel - Round of 16 (Court 1) | ATP 1000: Miami Open Presented by Itau 2026
+https://vid-id.indi1.workers.dev/index.mpd?id=20887&type=dash&token=8Xd7jLO0LxF1nJ4kH1jhS7RfDJpxFtqa|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20885&type=drm&token=8Xd7jLO0LxF1nJ4kH1jhS7RfDJpxFtqa
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/gwatnYUDcsuDA1O38y00lNtuJxw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969584/fbc047.jpg" ch-number="8", Valentin Vacherot vs Arthur Fils - Round of 16 (Grandstand) | ATP 1000: Miami Open Presented by Itau 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/gwatnYUDcsuDA1O38y00lNtuJxw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969584/fbc047.jpg" ch-number="7", Valentin Vacherot vs Arthur Fils - Round of 16 (Grandstand) | ATP 1000: Miami Open Presented by Itau 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=20885&type=dash&token=8Xd7jLO0LxF1nJ4kH1jhS7RfDJpxFtqa|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=drm&token=8Xd7jLO0LxF1nJ4kH1jhS7RfDJpxFtqa
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/bNSVfm75UnvePVhth0fWo_uTrSA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969127/d04ba4.jpg" ch-number="9", VfL Wolfsburg vs Lyon - UEFA Women's Champions League
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/bNSVfm75UnvePVhth0fWo_uTrSA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969127/d04ba4.jpg" ch-number="8", VfL Wolfsburg vs Lyon - UEFA Women's Champions League
 #https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=dash&token=8Xd7jLO0LxF1nJ4kH1jhS7RfDJpxFtqa|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6786&type=drm&token=8Xd7jLO0LxF1nJ4kH1jhS7RfDJpxFtqa
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/ZFvrrhFzVmnDjtRgJzVl1RodWMc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969304/c97e32.jpg" ch-number="10", Quarter Finals - WTA 1000: Miami Open presented by Itau 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/ZFvrrhFzVmnDjtRgJzVl1RodWMc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969304/c97e32.jpg" ch-number="9", Quarter Finals - WTA 1000: Miami Open presented by Itau 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=6786&type=dash&token=8Xd7jLO0LxF1nJ4kH1jhS7RfDJpxFtqa|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20885&type=drm&token=8Xd7jLO0LxF1nJ4kH1jhS7RfDJpxFtqa
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/_81MiZ5fHpM48pbvWSEsABYUEiQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969585/a91aa0.jpg" ch-number="11", Tomas Martin Etcheverry vs Tommy Paul - Round of 16 (Grandstand) | ATP 1000: Miami Open Presented by Itau 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/_81MiZ5fHpM48pbvWSEsABYUEiQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969585/a91aa0.jpg" ch-number="10", Tomas Martin Etcheverry vs Tommy Paul - Round of 16 (Grandstand) | ATP 1000: Miami Open Presented by Itau 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=20885&type=dash&token=8Xd7jLO0LxF1nJ4kH1jhS7RfDJpxFtqa|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20886&type=drm&token=8Xd7jLO0LxF1nJ4kH1jhS7RfDJpxFtqa
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/SwDlC1-SY2xIJjvhee7HFeiBr9M=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969589/203d69.jpg" ch-number="12", Evan King/John Peers vs Christian Harrison/Neal Skupski - Round of 16 (Butch Buchholz) | ATP 1000: Miami Open Presented by Itau 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/SwDlC1-SY2xIJjvhee7HFeiBr9M=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969589/203d69.jpg" ch-number="11", Evan King/John Peers vs Christian Harrison/Neal Skupski - Round of 16 (Butch Buchholz) | ATP 1000: Miami Open Presented by Itau 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=20886&type=dash&token=8Xd7jLO0LxF1nJ4kH1jhS7RfDJpxFtqa|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=drm&token=8Xd7jLO0LxF1nJ4kH1jhS7RfDJpxFtqa
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/ywpVixgp6hVan-NG-yPoIQm2pck=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969128/18042c.jpg" ch-number="13", Arsenal vs Chelsea - UEFA Women's Champions League
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/ywpVixgp6hVan-NG-yPoIQm2pck=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969128/18042c.jpg" ch-number="12", Arsenal vs Chelsea - UEFA Women's Champions League
 #https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=dash&token=8Xd7jLO0LxF1nJ4kH1jhS7RfDJpxFtqa|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=drm&token=8Xd7jLO0LxF1nJ4kH1jhS7RfDJpxFtqa
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/XS9hu4_eS9_RxApKcFtiGED0LZc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969308/666eb8.jpg" ch-number="14", Miami P1 Premier Padel 2026 - Day 2
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/XS9hu4_eS9_RxApKcFtiGED0LZc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969308/666eb8.jpg" ch-number="13", Miami P1 Premier Padel 2026 - Day 2
 #https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=dash&token=8Xd7jLO0LxF1nJ4kH1jhS7RfDJpxFtqa|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=drm&token=8Xd7jLO0LxF1nJ4kH1jhS7RfDJpxFtqa
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/kPH9GvE2n3Imriuyrj6B0oaKWLU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969596/daf593.jpg" ch-number="14", Alex Michelsen vs Jannik Sinner - Round of 16 (Stadium) | ATP 1000: Miami Open Presented by Itau 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=dash&token=8Xd7jLO0LxF1nJ4kH1jhS7RfDJpxFtqa|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -85,14 +85,14 @@ https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1ec
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=drm&token=8Xd7jLO0LxF1nJ4kH1jhS7RfDJpxFtqa
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/kPH9GvE2n3Imriuyrj6B0oaKWLU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969596/daf593.jpg" ch-number="16", Alex Michelsen vs Jannik Sinner - Round of 16 (Stadium) | ATP 1000: Miami Open Presented by Itau 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=dash&token=8Xd7jLO0LxF1nJ4kH1jhS7RfDJpxFtqa|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20885&type=drm&token=8Xd7jLO0LxF1nJ4kH1jhS7RfDJpxFtqa
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/fL8MhV--lsOXh2bA5XyziGUrp0k=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969586/c18c78.jpg" ch-number="16", Terence Atmane vs Frances Tiafoe - Round of 16 (Grandstand) | ATP 1000: Miami Open Presented by Itau 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=20885&type=dash&token=8Xd7jLO0LxF1nJ4kH1jhS7RfDJpxFtqa|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20885&type=drm&token=8Xd7jLO0LxF1nJ4kH1jhS7RfDJpxFtqa
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/fL8MhV--lsOXh2bA5XyziGUrp0k=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969586/c18c78.jpg" ch-number="17", Terence Atmane vs Frances Tiafoe - Round of 16 (Grandstand) | ATP 1000: Miami Open Presented by Itau 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/QsxIxjvuxAw28flsnSWloAJxJLs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969587/1fe802.jpg" ch-number="17", Ugo Humbert vs Francisco Cerundolo - Round of 16 (Grandstand) | ATP 1000: Miami Open Presented by Itau 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=20885&type=dash&token=8Xd7jLO0LxF1nJ4kH1jhS7RfDJpxFtqa|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
@@ -103,14 +103,14 @@ https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1ec
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20885&type=drm&token=8Xd7jLO0LxF1nJ4kH1jhS7RfDJpxFtqa
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/QsxIxjvuxAw28flsnSWloAJxJLs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969587/1fe802.jpg" ch-number="19", Ugo Humbert vs Francisco Cerundolo - Round of 16 (Grandstand) | ATP 1000: Miami Open Presented by Itau 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=20885&type=dash&token=8Xd7jLO0LxF1nJ4kH1jhS7RfDJpxFtqa|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20897&type=drm&token=8Xd7jLO0LxF1nJ4kH1jhS7RfDJpxFtqa
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/NPQ1dROGbjV_2QtVCux-QQg1L4A=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969593/8d714f.jpg" ch-number="19", Quentin Halys vs Alexander Zverev - Round of 16 | ATP 1000: Miami Open Presented by Itau 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=20897&type=dash&token=8Xd7jLO0LxF1nJ4kH1jhS7RfDJpxFtqa|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20897&type=drm&token=8Xd7jLO0LxF1nJ4kH1jhS7RfDJpxFtqa
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/NPQ1dROGbjV_2QtVCux-QQg1L4A=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969593/8d714f.jpg" ch-number="20", Quentin Halys vs Alexander Zverev - Round of 16 | ATP 1000: Miami Open Presented by Itau 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=20897&type=dash&token=8Xd7jLO0LxF1nJ4kH1jhS7RfDJpxFtqa|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=drm&token=8Xd7jLO0LxF1nJ4kH1jhS7RfDJpxFtqa
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/B6tbcSOVWdy_NSVK_ryrbwMvZmY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969597/a89fb6.jpg" ch-number="20", Quentin Halys vs Alexander Zverev - Round of 16 (Stadium) | ATP 1000: Miami Open Presented by Itau 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=dash&token=8Xd7jLO0LxF1nJ4kH1jhS7RfDJpxFtqa|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
