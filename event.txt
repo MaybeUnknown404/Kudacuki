@@ -11,30 +11,30 @@ https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=dash&token=QYddLIzHIHcv
 https://vid-id.indi1.workers.dev/index.mpd?id=19737&type=dash&token=QYddLIzHIHcvW9CqHBsfeIfsNTWvdn7w|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20886&type=drm&token=QYddLIzHIHcvW9CqHBsfeIfsNTWvdn7w
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/48fIgBhhuJccCHtpOApvcLe6dGA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969771/4969d0.jpg" ch-number="3", Kevin Krawietz/Neil Oberleitner vs Hugo Nys/Edouard Roger-Vasselin - Quarterfinals (Butch Buchholz) | ATP 1000: Miami Open Presented by Itau 2026
-https://vid-id.indi1.workers.dev/index.mpd?id=20886&type=dash&token=QYddLIzHIHcvW9CqHBsfeIfsNTWvdn7w|User-Agent=VidioPlayer/6.31.6
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6786&type=drm&token=QYddLIzHIHcvW9CqHBsfeIfsNTWvdn7w
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/b7kGtbhlIGZ9FZAO6BxRgm8v38k=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969306/7eac14.jpg" ch-number="4", Quarter Finals - WTA 1000: Miami Open presented by Itau 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/b7kGtbhlIGZ9FZAO6BxRgm8v38k=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969306/7eac14.jpg" ch-number="3", Quarter Finals - WTA 1000: Miami Open presented by Itau 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=6786&type=dash&token=QYddLIzHIHcvW9CqHBsfeIfsNTWvdn7w|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=drm&token=QYddLIzHIHcvW9CqHBsfeIfsNTWvdn7w
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/tsHBKIEE2VpL1ySbaeL3gYkKRDI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969129/a74028.jpg" ch-number="5", Real Madrid vs Barcelona Femeni - UEFA Women's Champions League
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/tsHBKIEE2VpL1ySbaeL3gYkKRDI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969129/a74028.jpg" ch-number="4", Real Madrid vs Barcelona Femeni - UEFA Women's Champions League
 https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=dash&token=QYddLIzHIHcvW9CqHBsfeIfsNTWvdn7w|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=drm&token=QYddLIzHIHcvW9CqHBsfeIfsNTWvdn7w
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/BEcb2H0951WMqIjb52qe-t000Ak=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969763/117c2e.jpg" ch-number="6", Martin Landaluce vs Jiri Lehecka - Quarterfinals (Stadium) | ATP 1000: Miami Open Presented by Itau 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=dash&token=QYddLIzHIHcvW9CqHBsfeIfsNTWvdn7w|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20886&type=drm&token=QYddLIzHIHcvW9CqHBsfeIfsNTWvdn7w
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/exa05p9RLlEQpfmNJWN4uGe8NkY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969756/d00a91.jpg" ch-number="5", Sadio Doumbia/Fabien Reboul vs Marcelo Arevalo/Mate Pavic - Quarterfinals (Butch Buchholz) | ATP 1000: Miami Open Presented by Itau 2026
+https://vid-id.indi1.workers.dev/index.mpd?id=20886&type=dash&token=QYddLIzHIHcvW9CqHBsfeIfsNTWvdn7w|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20897&type=drm&token=QYddLIzHIHcvW9CqHBsfeIfsNTWvdn7w
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Dky9CWd3bf5329g6_xzd-nV9b4k=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969765/da1e68.jpg" ch-number="7", Martin Landaluce vs Jiri Lehecka - Quarterfinals | ATP 1000: Miami Open Presented by Itau 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Dky9CWd3bf5329g6_xzd-nV9b4k=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969765/da1e68.jpg" ch-number="6", Martin Landaluce vs Jiri Lehecka - Quarterfinals | ATP 1000: Miami Open Presented by Itau 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=20897&type=dash&token=QYddLIzHIHcvW9CqHBsfeIfsNTWvdn7w|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=drm&token=QYddLIzHIHcvW9CqHBsfeIfsNTWvdn7w
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/BEcb2H0951WMqIjb52qe-t000Ak=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969763/117c2e.jpg" ch-number="7", Martin Landaluce vs Jiri Lehecka - Quarterfinals (Stadium) | ATP 1000: Miami Open Presented by Itau 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=dash&token=QYddLIzHIHcvW9CqHBsfeIfsNTWvdn7w|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -44,33 +44,33 @@ https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1ec
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20886&type=drm&token=QYddLIzHIHcvW9CqHBsfeIfsNTWvdn7w
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/exa05p9RLlEQpfmNJWN4uGe8NkY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969756/d00a91.jpg" ch-number="9", Sadio Doumbia/Fabien Reboul vs Marcelo Arevalo/Mate Pavic - Quarterfinals (Butch Buchholz) | ATP 1000: Miami Open Presented by Itau 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=20886&type=dash&token=QYddLIzHIHcvW9CqHBsfeIfsNTWvdn7w|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=drm&token=QYddLIzHIHcvW9CqHBsfeIfsNTWvdn7w
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/WVvGKrJXHG4a0_pAOwGtLxt803k=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969130/144b01.jpg" ch-number="10", Man United vs Bayern Munich - UEFA Women's Champions League
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/WVvGKrJXHG4a0_pAOwGtLxt803k=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969130/144b01.jpg" ch-number="9", Man United vs Bayern Munich - UEFA Women's Champions League
 #https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=dash&token=QYddLIzHIHcvW9CqHBsfeIfsNTWvdn7w|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20886&type=drm&token=QYddLIzHIHcvW9CqHBsfeIfsNTWvdn7w
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/0sxLUJjlTsphZPuT3q365Ai5kdE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969757/0207e8.jpg" ch-number="11", Sander Arends/John-Patrick Smith vs Julian Cash/Lloyd Glasspool - Quarterfinals (Butch Buchholz) | ATP 1000: Miami Open Presented by Itau 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/0sxLUJjlTsphZPuT3q365Ai5kdE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969757/0207e8.jpg" ch-number="10", Sander Arends/John-Patrick Smith vs Julian Cash/Lloyd Glasspool - Quarterfinals (Butch Buchholz) | ATP 1000: Miami Open Presented by Itau 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=20886&type=dash&token=QYddLIzHIHcvW9CqHBsfeIfsNTWvdn7w|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20885&type=drm&token=QYddLIzHIHcvW9CqHBsfeIfsNTWvdn7w
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Omj5Fn9iAla-6soMXD-FpV1Tu_Q=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969760/6ad346.jpg" ch-number="12", Simone Bolelli/Andrea Vavassori vs Christian Harrison/Neal Skupski - Quarterfinals (Grandstand) | ATP 1000: Miami Open Presented by Itau 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Omj5Fn9iAla-6soMXD-FpV1Tu_Q=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969760/6ad346.jpg" ch-number="11", Simone Bolelli/Andrea Vavassori vs Christian Harrison/Neal Skupski - Quarterfinals (Grandstand) | ATP 1000: Miami Open Presented by Itau 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=20885&type=dash&token=QYddLIzHIHcvW9CqHBsfeIfsNTWvdn7w|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6786&type=drm&token=QYddLIzHIHcvW9CqHBsfeIfsNTWvdn7w
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/FtfvA-hS2tm6R8HZG3x_-XQPFSE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969307/3d33fa.jpg" ch-number="13", Quarter Finals - WTA 1000: Miami Open presented by Itau 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/FtfvA-hS2tm6R8HZG3x_-XQPFSE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969307/3d33fa.jpg" ch-number="12", Quarter Finals - WTA 1000: Miami Open presented by Itau 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=6786&type=dash&token=QYddLIzHIHcvW9CqHBsfeIfsNTWvdn7w|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=drm&token=QYddLIzHIHcvW9CqHBsfeIfsNTWvdn7w
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/SasMw_ElcoehKhB5BzjjqyRWcS8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969767/afe2d0.jpg" ch-number="13", Tommy Paul vs Arthur Fils - Quarterfinals (Stadium) | ATP 1000: Miami Open Presented by Itau 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=dash&token=QYddLIzHIHcvW9CqHBsfeIfsNTWvdn7w|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -80,38 +80,38 @@ https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1ec
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=drm&token=QYddLIzHIHcvW9CqHBsfeIfsNTWvdn7w
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/SasMw_ElcoehKhB5BzjjqyRWcS8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969767/afe2d0.jpg" ch-number="15", Tommy Paul vs Arthur Fils - Quarterfinals (Stadium) | ATP 1000: Miami Open Presented by Itau 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=dash&token=QYddLIzHIHcvW9CqHBsfeIfsNTWvdn7w|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=drm&token=QYddLIzHIHcvW9CqHBsfeIfsNTWvdn7w
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/eM0LRSNTQbzAnvlaJW-WBbAfsFQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969417/ab10f8.jpg" ch-number="16", Miami P1 Premier Padel 2026 - Day 4
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/eM0LRSNTQbzAnvlaJW-WBbAfsFQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969417/ab10f8.jpg" ch-number="15", Miami P1 Premier Padel 2026 - Day 4
 #https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=dash&token=QYddLIzHIHcvW9CqHBsfeIfsNTWvdn7w|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18189&type=drm&token=QYddLIzHIHcvW9CqHBsfeIfsNTWvdn7w
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/BNXyLPv9sDtZ1pa2GYiBJ4YOuYE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969575/a34877.jpg" ch-number="17", Round 1 - Texas Children's Houston Open 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/BNXyLPv9sDtZ1pa2GYiBJ4YOuYE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969575/a34877.jpg" ch-number="16", Round 1 - Texas Children's Houston Open 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=18189&type=dash&token=QYddLIzHIHcvW9CqHBsfeIfsNTWvdn7w|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6786&type=drm&token=QYddLIzHIHcvW9CqHBsfeIfsNTWvdn7w
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Jz4yxKbODDMf7GAyiiu8it_2l5E=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969309/ae3eac.jpg" ch-number="18", Semi Finals - WTA 1000: Miami Open presented by Itau 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Jz4yxKbODDMf7GAyiiu8it_2l5E=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969309/ae3eac.jpg" ch-number="17", Semi Finals - WTA 1000: Miami Open presented by Itau 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=6786&type=dash&token=QYddLIzHIHcvW9CqHBsfeIfsNTWvdn7w|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18190&type=drm&token=QYddLIzHIHcvW9CqHBsfeIfsNTWvdn7w
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/czsahANHE4iA3VTDxvHPW2gRjfI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969601/3e8b11.jpg" ch-number="19", Round 1 - Ford Championship presented by Wild Horse Pass 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/czsahANHE4iA3VTDxvHPW2gRjfI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969601/3e8b11.jpg" ch-number="18", Round 1 - Ford Championship presented by Wild Horse Pass 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=18190&type=dash&token=QYddLIzHIHcvW9CqHBsfeIfsNTWvdn7w|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6786&type=drm&token=QYddLIzHIHcvW9CqHBsfeIfsNTWvdn7w
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/AUS4C8JBrI0EzbGQYIsIIs_vL9I=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969310/92fc5e.jpg" ch-number="20", Semi Finals - WTA 1000: Miami Open presented by Itau 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/AUS4C8JBrI0EzbGQYIsIIs_vL9I=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969310/92fc5e.jpg" ch-number="19", Semi Finals - WTA 1000: Miami Open presented by Itau 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=6786&type=dash&token=QYddLIzHIHcvW9CqHBsfeIfsNTWvdn7w|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17884&type=drm&token=QYddLIzHIHcvW9CqHBsfeIfsNTWvdn7w
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/cawCoUSGrX61B1PleFFp_9C9fYs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969339/8cda29.jpg" ch-number="20", Practice 1 - Formula 1 Aramco Japanese Grand Prix 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=17884&type=dash&token=QYddLIzHIHcvW9CqHBsfeIfsNTWvdn7w|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
