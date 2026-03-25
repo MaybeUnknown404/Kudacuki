@@ -12,9 +12,8 @@ https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=dash&token=zQXLVgAo82DD
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20897&type=drm&token=zQXLVgAo82DD47SkvyQKMyvyybGKc64c
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/NPQ1dROGbjV_2QtVCux-QQg1L4A=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969593/8d714f.jpg" ch-number="3", Quentin Halys vs Alexander Zverev - Round of 16 | ATP 1000: Miami Open Presented by Itau 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=20897&type=dash&token=zQXLVgAo82DD47SkvyQKMyvyybGKc64c|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/NPQ1dROGbjV_2QtVCux-QQg1L4A=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969593/8d714f.jpg" ch-number="3", Quentin Halys vs Alexander Zverev - Round of 16 | ATP 1000: Miami Open Presented by Itau 2026
+https://vid-id.indi1.workers.dev/index.mpd?id=20897&type=dash&token=zQXLVgAo82DD47SkvyQKMyvyybGKc64c|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=drm&token=zQXLVgAo82DD47SkvyQKMyvyybGKc64c
