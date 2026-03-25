@@ -107,14 +107,14 @@ https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1ec
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=drm&token=zQXLVgAo82DD47SkvyQKMyvyybGKc64c
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/go-q3Vtsa-KeriDMqzdE9neifJE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969419/a2509c.jpg" ch-number="19", Miami P1 Premier Padel 2026 - Quarterfinals
-#https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=dash&token=zQXLVgAo82DD47SkvyQKMyvyybGKc64c|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17139&type=drm&token=zQXLVgAo82DD47SkvyQKMyvyybGKc64c
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/yPSckVIIgDXvR4E99ihicnU85lI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969745/b73f86.jpg" ch-number="19", WorldWCR Superpole - WorldSBK Championship 2026 Round 2 Pirelli Portuguese Round
+#https://vid-id.indi1.workers.dev/index.mpd?id=17139&type=dash&token=zQXLVgAo82DD47SkvyQKMyvyybGKc64c|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18189&type=drm&token=zQXLVgAo82DD47SkvyQKMyvyybGKc64c
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/zUWHj_ry3EpXgUQnzIYPYwXPMis=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969576/12b5b1.jpg" ch-number="20", Round 2 - Texas Children's Houston Open 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=18189&type=dash&token=zQXLVgAo82DD47SkvyQKMyvyybGKc64c|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=drm&token=zQXLVgAo82DD47SkvyQKMyvyybGKc64c
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/go-q3Vtsa-KeriDMqzdE9neifJE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969419/a2509c.jpg" ch-number="20", Miami P1 Premier Padel 2026 - Quarterfinals
+#https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=dash&token=zQXLVgAo82DD47SkvyQKMyvyybGKc64c|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
