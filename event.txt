@@ -1,19 +1,21 @@
 #EXTM3U
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20885&type=drm&token=zQXLVgAo82DD47SkvyQKMyvyybGKc64c
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/QsxIxjvuxAw28flsnSWloAJxJLs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969587/1fe802.jpg" ch-number="1", Ugo Humbert vs Francisco Cerundolo - Round of 16 (Grandstand) | ATP 1000: Miami Open Presented by Itau 2026
+https://vid-id.indi1.workers.dev/index.mpd?id=20885&type=dash&token=zQXLVgAo82DD47SkvyQKMyvyybGKc64c|User-Agent=VidioPlayer/6.31.6
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20897&type=drm&token=zQXLVgAo82DD47SkvyQKMyvyybGKc64c
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/NPQ1dROGbjV_2QtVCux-QQg1L4A=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969593/8d714f.jpg" ch-number="1", Quentin Halys vs Alexander Zverev - Round of 16 | ATP 1000: Miami Open Presented by Itau 2026
-https://vid-id.indi1.workers.dev/index.mpd?id=20897&type=dash&token=zQXLVgAo82DD47SkvyQKMyvyybGKc64c|User-Agent=VidioPlayer/6.31.6
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/NPQ1dROGbjV_2QtVCux-QQg1L4A=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969593/8d714f.jpg" ch-number="2", Quentin Halys vs Alexander Zverev - Round of 16 | ATP 1000: Miami Open Presented by Itau 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=20897&type=dash&token=zQXLVgAo82DD47SkvyQKMyvyybGKc64c|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=drm&token=zQXLVgAo82DD47SkvyQKMyvyybGKc64c
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/B6tbcSOVWdy_NSVK_ryrbwMvZmY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969597/a89fb6.jpg" ch-number="2", Quentin Halys vs Alexander Zverev - Round of 16 (Stadium) | ATP 1000: Miami Open Presented by Itau 2026
-https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=dash&token=zQXLVgAo82DD47SkvyQKMyvyybGKc64c|User-Agent=VidioPlayer/6.31.6
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20885&type=drm&token=zQXLVgAo82DD47SkvyQKMyvyybGKc64c
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/QsxIxjvuxAw28flsnSWloAJxJLs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969587/1fe802.jpg" ch-number="3", Ugo Humbert vs Francisco Cerundolo - Round of 16 (Grandstand) | ATP 1000: Miami Open Presented by Itau 2026
-https://vid-id.indi1.workers.dev/index.mpd?id=20885&type=dash&token=zQXLVgAo82DD47SkvyQKMyvyybGKc64c|User-Agent=VidioPlayer/6.31.6
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/B6tbcSOVWdy_NSVK_ryrbwMvZmY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969597/a89fb6.jpg" ch-number="3", Quentin Halys vs Alexander Zverev - Round of 16 (Stadium) | ATP 1000: Miami Open Presented by Itau 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=dash&token=zQXLVgAo82DD47SkvyQKMyvyybGKc64c|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=drm&token=zQXLVgAo82DD47SkvyQKMyvyybGKc64c
