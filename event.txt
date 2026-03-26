@@ -6,31 +6,30 @@
 https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=dash&token=QYddLIzHIHcvW9CqHBsfeIfsNTWvdn7w|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6786&type=drm&token=QYddLIzHIHcvW9CqHBsfeIfsNTWvdn7w
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/FtfvA-hS2tm6R8HZG3x_-XQPFSE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969307/3d33fa.jpg" ch-number="2", Quarter Finals - WTA 1000: Miami Open presented by Itau 2026
-https://vid-id.indi1.workers.dev/index.mpd?id=6786&type=dash&token=QYddLIzHIHcvW9CqHBsfeIfsNTWvdn7w|User-Agent=VidioPlayer/6.31.6
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20885&type=drm&token=QYddLIzHIHcvW9CqHBsfeIfsNTWvdn7w
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/Omj5Fn9iAla-6soMXD-FpV1Tu_Q=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969760/6ad346.jpg" ch-number="3", Simone Bolelli/Andrea Vavassori vs Christian Harrison/Neal Skupski - Quarterfinals (Grandstand) | ATP 1000: Miami Open Presented by Itau 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/Omj5Fn9iAla-6soMXD-FpV1Tu_Q=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969760/6ad346.jpg" ch-number="2", Simone Bolelli/Andrea Vavassori vs Christian Harrison/Neal Skupski - Quarterfinals (Grandstand) | ATP 1000: Miami Open Presented by Itau 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=20885&type=dash&token=QYddLIzHIHcvW9CqHBsfeIfsNTWvdn7w|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=drm&token=QYddLIzHIHcvW9CqHBsfeIfsNTWvdn7w
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/SasMw_ElcoehKhB5BzjjqyRWcS8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969767/afe2d0.jpg" ch-number="4", Tommy Paul vs Arthur Fils - Quarterfinals (Stadium) | ATP 1000: Miami Open Presented by Itau 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=dash&token=QYddLIzHIHcvW9CqHBsfeIfsNTWvdn7w|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20897&type=drm&token=QYddLIzHIHcvW9CqHBsfeIfsNTWvdn7w
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/6fNjjl2kBIZFZYQAK3Qn-IEaNv8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969766/021cac.jpg" ch-number="3", Tommy Paul vs Arthur Fils - Quarterfinals | ATP 1000: Miami Open Presented by Itau 2026
+https://vid-id.indi1.workers.dev/index.mpd?id=20897&type=dash&token=QYddLIzHIHcvW9CqHBsfeIfsNTWvdn7w|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20897&type=drm&token=QYddLIzHIHcvW9CqHBsfeIfsNTWvdn7w
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/6fNjjl2kBIZFZYQAK3Qn-IEaNv8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969766/021cac.jpg" ch-number="5", Tommy Paul vs Arthur Fils - Quarterfinals | ATP 1000: Miami Open Presented by Itau 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=20897&type=dash&token=QYddLIzHIHcvW9CqHBsfeIfsNTWvdn7w|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=drm&token=QYddLIzHIHcvW9CqHBsfeIfsNTWvdn7w
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/SasMw_ElcoehKhB5BzjjqyRWcS8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969767/afe2d0.jpg" ch-number="4", Tommy Paul vs Arthur Fils - Quarterfinals (Stadium) | ATP 1000: Miami Open Presented by Itau 2026
+https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=dash&token=QYddLIzHIHcvW9CqHBsfeIfsNTWvdn7w|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=drm&token=QYddLIzHIHcvW9CqHBsfeIfsNTWvdn7w
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/eM0LRSNTQbzAnvlaJW-WBbAfsFQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969417/ab10f8.jpg" ch-number="6", Miami P1 Premier Padel 2026 - Day 4
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/eM0LRSNTQbzAnvlaJW-WBbAfsFQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969417/ab10f8.jpg" ch-number="5", Miami P1 Premier Padel 2026 - Day 4
 #https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=dash&token=QYddLIzHIHcvW9CqHBsfeIfsNTWvdn7w|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6786&type=drm&token=QYddLIzHIHcvW9CqHBsfeIfsNTWvdn7w
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Jz4yxKbODDMf7GAyiiu8it_2l5E=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969309/ae3eac.jpg" ch-number="6", Semi Finals - WTA 1000: Miami Open presented by Itau 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=6786&type=dash&token=QYddLIzHIHcvW9CqHBsfeIfsNTWvdn7w|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -40,80 +39,80 @@ https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1ec
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6786&type=drm&token=QYddLIzHIHcvW9CqHBsfeIfsNTWvdn7w
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Jz4yxKbODDMf7GAyiiu8it_2l5E=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969309/ae3eac.jpg" ch-number="8", Semi Finals - WTA 1000: Miami Open presented by Itau 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=6786&type=dash&token=QYddLIzHIHcvW9CqHBsfeIfsNTWvdn7w|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18190&type=drm&token=QYddLIzHIHcvW9CqHBsfeIfsNTWvdn7w
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/czsahANHE4iA3VTDxvHPW2gRjfI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969601/3e8b11.jpg" ch-number="9", Round 1 - Ford Championship presented by Wild Horse Pass 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/czsahANHE4iA3VTDxvHPW2gRjfI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969601/3e8b11.jpg" ch-number="8", Round 1 - Ford Championship presented by Wild Horse Pass 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=18190&type=dash&token=QYddLIzHIHcvW9CqHBsfeIfsNTWvdn7w|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6786&type=drm&token=QYddLIzHIHcvW9CqHBsfeIfsNTWvdn7w
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/AUS4C8JBrI0EzbGQYIsIIs_vL9I=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969310/92fc5e.jpg" ch-number="10", Semi Finals - WTA 1000: Miami Open presented by Itau 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/AUS4C8JBrI0EzbGQYIsIIs_vL9I=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969310/92fc5e.jpg" ch-number="9", Semi Finals - WTA 1000: Miami Open presented by Itau 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=6786&type=dash&token=QYddLIzHIHcvW9CqHBsfeIfsNTWvdn7w|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17884&type=drm&token=QYddLIzHIHcvW9CqHBsfeIfsNTWvdn7w
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/cawCoUSGrX61B1PleFFp_9C9fYs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969339/8cda29.jpg" ch-number="11", Practice 1 - Formula 1 Aramco Japanese Grand Prix 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/cawCoUSGrX61B1PleFFp_9C9fYs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969339/8cda29.jpg" ch-number="10", Practice 1 - Formula 1 Aramco Japanese Grand Prix 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=17884&type=dash&token=QYddLIzHIHcvW9CqHBsfeIfsNTWvdn7w|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17884&type=drm&token=QYddLIzHIHcvW9CqHBsfeIfsNTWvdn7w
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/8I-aZmIvOMXuH0HozdFQFhcY6_8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969340/f61bd6.jpg" ch-number="12", Practice 2 - Formula 1 Aramco Japanese Grand Prix 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/8I-aZmIvOMXuH0HozdFQFhcY6_8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969340/f61bd6.jpg" ch-number="11", Practice 2 - Formula 1 Aramco Japanese Grand Prix 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=17884&type=dash&token=QYddLIzHIHcvW9CqHBsfeIfsNTWvdn7w|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20992&type=drm&token=QYddLIzHIHcvW9CqHBsfeIfsNTWvdn7w
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/qkHVqRFBVwnqw8ZPdksCDjvjrJk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969426/b0eb16.jpg" ch-number="13", Solomon Islands vs Bulgaria - FIFA Series
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/qkHVqRFBVwnqw8ZPdksCDjvjrJk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969426/b0eb16.jpg" ch-number="12", Solomon Islands vs Bulgaria - FIFA Series
 #https://vid-id.indi1.workers.dev/index.mpd?id=20992&type=dash&token=QYddLIzHIHcvW9CqHBsfeIfsNTWvdn7w|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/drm.kt?id=19541&type=drm&token=QYddLIzHIHcvW9CqHBsfeIfsNTWvdn7w
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/8HadKqQj3QBHjjjNDak_q5uFS6U=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969603/158d79.jpg" ch-number="14", Persikad vs Persekat Tegal - Pegadaian Championship
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/8HadKqQj3QBHjjjNDak_q5uFS6U=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969603/158d79.jpg" ch-number="13", Persikad vs Persekat Tegal - Pegadaian Championship
 #https://spacetv.my.id/index.mpd?id=19541&type=dash&token=QYddLIzHIHcvW9CqHBsfeIfsNTWvdn7w|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17139&type=drm&token=QYddLIzHIHcvW9CqHBsfeIfsNTWvdn7w
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/t7_kxqGzwfbkn3KjQs7xym1GQ6E=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969749/771abb.jpg" ch-number="15", WorldSBK Free Practice 1 - WorldSBK Championship 2026 Round 2 Pirelli Portuguese Round
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/t7_kxqGzwfbkn3KjQs7xym1GQ6E=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969749/771abb.jpg" ch-number="14", WorldSBK Free Practice 1 - WorldSBK Championship 2026 Round 2 Pirelli Portuguese Round
 #https://vid-id.indi1.workers.dev/index.mpd?id=17139&type=dash&token=QYddLIzHIHcvW9CqHBsfeIfsNTWvdn7w|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=16890&type=drm&token=QYddLIzHIHcvW9CqHBsfeIfsNTWvdn7w
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/w_3SxLHhE789omIW8zCn7UDFSCs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969574/731f0d.jpg" ch-number="16", ONE Friday Fights 148
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/w_3SxLHhE789omIW8zCn7UDFSCs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969574/731f0d.jpg" ch-number="15", ONE Friday Fights 148
 #https://vid-id.indi1.workers.dev/index.mpd?id=16890&type=dash&token=QYddLIzHIHcvW9CqHBsfeIfsNTWvdn7w|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20992&type=drm&token=QYddLIzHIHcvW9CqHBsfeIfsNTWvdn7w
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/pPccZasYk-FQ-UbLoqIscacVHF8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969427/c23b35.jpg" ch-number="17", Indonesia vs Saint Kitts and Nevis - FIFA Series
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/pPccZasYk-FQ-UbLoqIscacVHF8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969427/c23b35.jpg" ch-number="16", Indonesia vs Saint Kitts and Nevis - FIFA Series
 #https://vid-id.indi1.workers.dev/index.mpd?id=20992&type=dash&token=QYddLIzHIHcvW9CqHBsfeIfsNTWvdn7w|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17139&type=drm&token=QYddLIzHIHcvW9CqHBsfeIfsNTWvdn7w
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/yPSckVIIgDXvR4E99ihicnU85lI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969745/b73f86.jpg" ch-number="18", WorldWCR Superpole - WorldSBK Championship 2026 Round 2 Pirelli Portuguese Round
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/yPSckVIIgDXvR4E99ihicnU85lI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969745/b73f86.jpg" ch-number="17", WorldWCR Superpole - WorldSBK Championship 2026 Round 2 Pirelli Portuguese Round
 #https://vid-id.indi1.workers.dev/index.mpd?id=17139&type=dash&token=QYddLIzHIHcvW9CqHBsfeIfsNTWvdn7w|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17140&type=drm&token=QYddLIzHIHcvW9CqHBsfeIfsNTWvdn7w
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/UIOxUyMXkaK7TrrSy2EAZl6T9m4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969779/d38aec.jpg" ch-number="19", Moto3 Free Practice 1: Red Bull Grand Prix of The United States - MotoGP 2026 Round 3
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/UIOxUyMXkaK7TrrSy2EAZl6T9m4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969779/d38aec.jpg" ch-number="18", Moto3 Free Practice 1: Red Bull Grand Prix of The United States - MotoGP 2026 Round 3
 #https://vid-id.indi1.workers.dev/index.mpd?id=17140&type=dash&token=QYddLIzHIHcvW9CqHBsfeIfsNTWvdn7w|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=drm&token=QYddLIzHIHcvW9CqHBsfeIfsNTWvdn7w
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/go-q3Vtsa-KeriDMqzdE9neifJE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969419/a2509c.jpg" ch-number="20", Miami P1 Premier Padel 2026 - Quarterfinals
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/go-q3Vtsa-KeriDMqzdE9neifJE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969419/a2509c.jpg" ch-number="19", Miami P1 Premier Padel 2026 - Quarterfinals
 #https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=dash&token=QYddLIzHIHcvW9CqHBsfeIfsNTWvdn7w|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17139&type=drm&token=QYddLIzHIHcvW9CqHBsfeIfsNTWvdn7w
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/llbgy9H9teWL7RMv_iZquY-JLhA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969746/fa9a4a.jpg" ch-number="20", WorldSPB - Superpole - WorldSBK Championship 2026 Round 2 Pirelli Portuguese Round
+#https://vid-id.indi1.workers.dev/index.mpd?id=17139&type=dash&token=QYddLIzHIHcvW9CqHBsfeIfsNTWvdn7w|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
