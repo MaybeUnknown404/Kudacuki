@@ -11,43 +11,43 @@ https://vid-id.indi1.workers.dev/index.mpd?id=16890&type=dash&token=grePt60eCwyq
 https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=dash&token=grePt60eCwyq4xqOmunqGvv7gFZMtkRL|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17139&type=drm&token=grePt60eCwyq4xqOmunqGvv7gFZMtkRL
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/2rmF0xK_vjX1Co2naueZ-fdplfc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969747/390af6.jpg" ch-number="3", WorldSBK Free Practice 2 - WorldSBK Championship 2026 Round 2 Pirelli Portuguese Round
-https://vid-id.indi1.workers.dev/index.mpd?id=17139&type=dash&token=grePt60eCwyq4xqOmunqGvv7gFZMtkRL|User-Agent=VidioPlayer/6.31.6
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17140&type=drm&token=grePt60eCwyq4xqOmunqGvv7gFZMtkRL
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/M2lFbYFazSpGXqLAGlgce6wASWU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969780/763f8b.jpg" ch-number="4", MotoGP Free Practice 1: Red Bull Grand Prix of The United States - MotoGP 2026 Round 3
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/M2lFbYFazSpGXqLAGlgce6wASWU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969780/763f8b.jpg" ch-number="3", MotoGP Free Practice 1: Red Bull Grand Prix of The United States - MotoGP 2026 Round 3
 https://vid-id.indi1.workers.dev/index.mpd?id=17140&type=dash&token=grePt60eCwyq4xqOmunqGvv7gFZMtkRL|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17139&type=drm&token=grePt60eCwyq4xqOmunqGvv7gFZMtkRL
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/RWMRY6VSpJBMU5aX--UzX6kNZxw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969748/19ce2d.jpg" ch-number="5", WorldSSP Superpole - WorldSBK Championship 2026 Round 2 Pirelli Portuguese Round
-#https://vid-id.indi1.workers.dev/index.mpd?id=17139&type=dash&token=grePt60eCwyq4xqOmunqGvv7gFZMtkRL|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/RWMRY6VSpJBMU5aX--UzX6kNZxw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969748/19ce2d.jpg" ch-number="4", WorldSSP Superpole - WorldSBK Championship 2026 Round 2 Pirelli Portuguese Round
+https://vid-id.indi1.workers.dev/index.mpd?id=17139&type=dash&token=grePt60eCwyq4xqOmunqGvv7gFZMtkRL|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20885&type=drm&token=grePt60eCwyq4xqOmunqGvv7gFZMtkRL
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/S2_PdrBQ8lKtLJE59ap09ZmDyfk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4971455/415362.jpg" ch-number="6", Marcel Granollers/Horacio Zeballos vs Harri Heliovaara/Henry Patten - Doubles Semifinals (Grandstand) | ATP 1000: Miami Open Presented by Itau 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/S2_PdrBQ8lKtLJE59ap09ZmDyfk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4971455/415362.jpg" ch-number="5", Marcel Granollers/Horacio Zeballos vs Harri Heliovaara/Henry Patten - Doubles Semifinals (Grandstand) | ATP 1000: Miami Open Presented by Itau 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=20885&type=dash&token=grePt60eCwyq4xqOmunqGvv7gFZMtkRL|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17140&type=drm&token=grePt60eCwyq4xqOmunqGvv7gFZMtkRL
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/b97x8ojs6vZeO4h8BL4eq-HHn_A=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969778/7a8ddf.jpg" ch-number="7", Moto3 Practice: Red Bull Grand Prix of The United States - MotoGP 2026 Round 3
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/b97x8ojs6vZeO4h8BL4eq-HHn_A=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969778/7a8ddf.jpg" ch-number="6", Moto3 Practice: Red Bull Grand Prix of The United States - MotoGP 2026 Round 3
 #https://vid-id.indi1.workers.dev/index.mpd?id=17140&type=dash&token=grePt60eCwyq4xqOmunqGvv7gFZMtkRL|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20885&type=drm&token=grePt60eCwyq4xqOmunqGvv7gFZMtkRL
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/pcFQbL-UFn0KeNEfxCpDOq3gkz0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4972379/20afd6.jpg" ch-number="8", Simone Bolelli/Andrea Vavassori vs Sander Arends/John-Patrick Smith - Doubles Semifinals (Grandstand) | ATP 1000: Miami Open Presented by Itau 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=20885&type=dash&token=grePt60eCwyq4xqOmunqGvv7gFZMtkRL|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18189&type=drm&token=grePt60eCwyq4xqOmunqGvv7gFZMtkRL
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/zUWHj_ry3EpXgUQnzIYPYwXPMis=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969576/12b5b1.jpg" ch-number="7", Round 2 - Texas Children's Houston Open 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=18189&type=dash&token=grePt60eCwyq4xqOmunqGvv7gFZMtkRL|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18189&type=drm&token=grePt60eCwyq4xqOmunqGvv7gFZMtkRL
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/zUWHj_ry3EpXgUQnzIYPYwXPMis=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969576/12b5b1.jpg" ch-number="9", Round 2 - Texas Children's Houston Open 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=18189&type=dash&token=grePt60eCwyq4xqOmunqGvv7gFZMtkRL|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=drm&token=grePt60eCwyq4xqOmunqGvv7gFZMtkRL
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/wUt37qxSVSgdVcqBTHwwjP1AJOM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4974393/cfeb15.jpg" ch-number="8", Jiri Lehecka vs Arthur Fils - Singles Semifinals | ATP 1000: Miami Open Presented by Itau 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=dash&token=grePt60eCwyq4xqOmunqGvv7gFZMtkRL|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20885&type=drm&token=grePt60eCwyq4xqOmunqGvv7gFZMtkRL
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/pcFQbL-UFn0KeNEfxCpDOq3gkz0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4972379/20afd6.jpg" ch-number="9", Simone Bolelli/Andrea Vavassori vs Sander Arends/John-Patrick Smith - Doubles Semifinals (Grandstand) | ATP 1000: Miami Open Presented by Itau 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=20885&type=dash&token=grePt60eCwyq4xqOmunqGvv7gFZMtkRL|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -63,56 +63,56 @@ https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1ec
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=drm&token=grePt60eCwyq4xqOmunqGvv7gFZMtkRL
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/wUt37qxSVSgdVcqBTHwwjP1AJOM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4974393/cfeb15.jpg" ch-number="12", Jiri Lehecka vs Arthur Fils - Singles Semifinals | ATP 1000: Miami Open Presented by Itau 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=dash&token=grePt60eCwyq4xqOmunqGvv7gFZMtkRL|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17140&type=drm&token=grePt60eCwyq4xqOmunqGvv7gFZMtkRL
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/9sAg8meAchhTq3ZZpue3VTcf8rk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969800/8f02f5.jpg" ch-number="13", MotoGP Practice: Red Bull Grand Prix of The United States - MotoGP 2026 Round 3
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/9sAg8meAchhTq3ZZpue3VTcf8rk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969800/8f02f5.jpg" ch-number="12", MotoGP Practice: Red Bull Grand Prix of The United States - MotoGP 2026 Round 3
 #https://vid-id.indi1.workers.dev/index.mpd?id=17140&type=dash&token=grePt60eCwyq4xqOmunqGvv7gFZMtkRL|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17140&type=drm&token=grePt60eCwyq4xqOmunqGvv7gFZMtkRL
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/xdwiabbYGZaJUQyAoWbwEYZbHoY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4970052/a01914.jpg" ch-number="14", Qualifying - Harley Davidson Bagger World Cup 2026: Round 1 United States
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/xdwiabbYGZaJUQyAoWbwEYZbHoY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4970052/a01914.jpg" ch-number="13", Qualifying - Harley Davidson Bagger World Cup 2026: Round 1 United States
 #https://vid-id.indi1.workers.dev/index.mpd?id=17140&type=dash&token=grePt60eCwyq4xqOmunqGvv7gFZMtkRL|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18190&type=drm&token=grePt60eCwyq4xqOmunqGvv7gFZMtkRL
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/TMyNHA0XLUQHjbDuKAYvWcJaGBM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969604/538a7c.jpg" ch-number="15", Round 2 - Ford Championship presented by Wild Horse Pass 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/TMyNHA0XLUQHjbDuKAYvWcJaGBM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969604/538a7c.jpg" ch-number="14", Round 2 - Ford Championship presented by Wild Horse Pass 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=18190&type=dash&token=grePt60eCwyq4xqOmunqGvv7gFZMtkRL|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=drm&token=grePt60eCwyq4xqOmunqGvv7gFZMtkRL
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Amg57wG7ZFh7VGO_3aa1ImqE-SQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4974948/8d8866.jpg" ch-number="16", Alexander Zverev vs Jannik Sinner - Singles Semifinals | ATP 1000: Miami Open Presented by Itau 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Amg57wG7ZFh7VGO_3aa1ImqE-SQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4974948/8d8866.jpg" ch-number="15", Alexander Zverev vs Jannik Sinner - Singles Semifinals | ATP 1000: Miami Open Presented by Itau 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=dash&token=grePt60eCwyq4xqOmunqGvv7gFZMtkRL|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17884&type=drm&token=grePt60eCwyq4xqOmunqGvv7gFZMtkRL
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/4cGhvxsUz3rHV9DadXSwl9tbxCk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969345/5d5e5c.jpg" ch-number="17", Practice 3 - Formula 1 Aramco Japanese Grand Prix 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/4cGhvxsUz3rHV9DadXSwl9tbxCk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969345/5d5e5c.jpg" ch-number="16", Practice 3 - Formula 1 Aramco Japanese Grand Prix 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=17884&type=dash&token=grePt60eCwyq4xqOmunqGvv7gFZMtkRL|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17884&type=drm&token=grePt60eCwyq4xqOmunqGvv7gFZMtkRL
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/fhTYImuBVQyzrDMvXlfs4plRm9M=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969347/6bcf99.jpg" ch-number="18", Qualifying - Formula 1 Aramco Japanese Grand Prix 2025
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/fhTYImuBVQyzrDMvXlfs4plRm9M=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969347/6bcf99.jpg" ch-number="17", Qualifying - Formula 1 Aramco Japanese Grand Prix 2025
 #https://vid-id.indi1.workers.dev/index.mpd?id=17884&type=dash&token=grePt60eCwyq4xqOmunqGvv7gFZMtkRL|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/drm.kt?id=20833&type=drm&token=grePt60eCwyq4xqOmunqGvv7gFZMtkRL
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/I0tzVGRKBs0cXp00_OTbpVCg10o=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969752/4f40c3.jpg" ch-number="19", Persela Lamongan vs Persiba Balikpapan - Pegadaian Championship
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/I0tzVGRKBs0cXp00_OTbpVCg10o=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969752/4f40c3.jpg" ch-number="18", Persela Lamongan vs Persiba Balikpapan - Pegadaian Championship
 #https://spacetv.my.id/index.mpd?id=20833&type=dash&token=grePt60eCwyq4xqOmunqGvv7gFZMtkRL|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/drm.kt?id=19541&type=drm&token=grePt60eCwyq4xqOmunqGvv7gFZMtkRL
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/2Ix_mWZ1w8VZqZuZ3FPuKPPrthQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969750/a52132.jpg" ch-number="20", Adhyaksa FC vs Sumsel United - Pegadaian Championship
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/2Ix_mWZ1w8VZqZuZ3FPuKPPrthQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969750/a52132.jpg" ch-number="19", Adhyaksa FC vs Sumsel United - Pegadaian Championship
 #https://spacetv.my.id/index.mpd?id=19541&type=dash&token=grePt60eCwyq4xqOmunqGvv7gFZMtkRL|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17139&type=drm&token=grePt60eCwyq4xqOmunqGvv7gFZMtkRL
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/ibMbQd-yR_oOTv8CP--RURo04xg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969801/0cdbbb.jpg" ch-number="20", WorldSBK Free Practice 3 - WorldSBK Championship 2026 Round 2 Pirelli Portuguese Round
+#https://vid-id.indi1.workers.dev/index.mpd?id=17139&type=dash&token=grePt60eCwyq4xqOmunqGvv7gFZMtkRL|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
