@@ -1,83 +1,84 @@
 #EXTM3U
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18189&type=drm&token=7I2JOVrBAScME36ZfNi2gc8QVmaQFmBC
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="⛔ Event Ended" tvg-logo="https://thumbor.prod.vidiocdn.com/Xe1NcvE3UArc_J6ZQVwOKQOmH2Y=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4970020/1df369.jpg" ch-number="1", Round 3 - Texas Children's Houston Open 2026
-https://vid-id.indi1.workers.dev/index.mpd?id=18189&type=dash&token=7I2JOVrBAScME36ZfNi2gc8QVmaQFmBC|User-Agent=VidioPlayer/6.31.6
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=drm&token=7I2JOVrBAScME36ZfNi2gc8QVmaQFmBC
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/vXj8p6glz-KbLj_7pNrL8RXBwIk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969423/3d1e72.jpg" ch-number="2", Miami P1 Premier Padel 2026 - Semifinals
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/vXj8p6glz-KbLj_7pNrL8RXBwIk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969423/3d1e72.jpg" ch-number="1", Miami P1 Premier Padel 2026 - Semifinals
 https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=dash&token=7I2JOVrBAScME36ZfNi2gc8QVmaQFmBC|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20216&type=drm&token=7I2JOVrBAScME36ZfNi2gc8QVmaQFmBC
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/-bS75c5kIWkihOXPqycHTdwSR54=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4970022/6de356.jpg" ch-number="3", Prelims | UFC Fight Night: Adesanya vs Pyfer
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/-bS75c5kIWkihOXPqycHTdwSR54=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4970022/6de356.jpg" ch-number="2", Prelims | UFC Fight Night: Adesanya vs Pyfer
 https://vid-id.indi1.workers.dev/index.mpd?id=20216&type=dash&token=7I2JOVrBAScME36ZfNi2gc8QVmaQFmBC|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18190&type=drm&token=7I2JOVrBAScME36ZfNi2gc8QVmaQFmBC
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/35ih2IaCNxqDm7SRp_YkCh3nvqI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4970021/be3bad.jpg" ch-number="4", Round 3 - Ford Championship presented by Wild Horse Pass 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/35ih2IaCNxqDm7SRp_YkCh3nvqI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4970021/be3bad.jpg" ch-number="3", Round 3 - Ford Championship presented by Wild Horse Pass 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=18190&type=dash&token=7I2JOVrBAScME36ZfNi2gc8QVmaQFmBC|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20216&type=drm&token=7I2JOVrBAScME36ZfNi2gc8QVmaQFmBC
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/DK-wYTpaTCKyr-HbGOObxgAP22k=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4970023/a07414.jpg" ch-number="5", Terrance McKinney vs Kyle Nelson - Lightweight | UFC Fight Night
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/DK-wYTpaTCKyr-HbGOObxgAP22k=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4970023/a07414.jpg" ch-number="4", Terrance McKinney vs Kyle Nelson - Lightweight | UFC Fight Night
 #https://vid-id.indi1.workers.dev/index.mpd?id=20216&type=dash&token=7I2JOVrBAScME36ZfNi2gc8QVmaQFmBC|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20216&type=drm&token=7I2JOVrBAScME36ZfNi2gc8QVmaQFmBC
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/0HrJuKNOwF0u6vtzdIG5cucmxkc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4970024/4b791e.jpg" ch-number="6", Mansur Abdul Malik vs Yousri Belgaroui - Middleweight | UFC Fight Night
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/0HrJuKNOwF0u6vtzdIG5cucmxkc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4970024/4b791e.jpg" ch-number="5", Mansur Abdul Malik vs Yousri Belgaroui - Middleweight | UFC Fight Night
 #https://vid-id.indi1.workers.dev/index.mpd?id=20216&type=dash&token=7I2JOVrBAScME36ZfNi2gc8QVmaQFmBC|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20216&type=drm&token=7I2JOVrBAScME36ZfNi2gc8QVmaQFmBC
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/wVJv5Z1RoD7hFNj2zUCEutxivu8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4970025/6b9b36.jpg" ch-number="7", Julian Erosa vs Lerryan Douglas - Featherweight | UFC Fight Night
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/wVJv5Z1RoD7hFNj2zUCEutxivu8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4970025/6b9b36.jpg" ch-number="6", Julian Erosa vs Lerryan Douglas - Featherweight | UFC Fight Night
 #https://vid-id.indi1.workers.dev/index.mpd?id=20216&type=dash&token=7I2JOVrBAScME36ZfNi2gc8QVmaQFmBC|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20216&type=drm&token=7I2JOVrBAScME36ZfNi2gc8QVmaQFmBC
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/QbR1vhNEnpd2gFUfV0VStHN4NKU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4970026/2ecc18.jpg" ch-number="8", Michael Chiesa vs Niko Price - Welterweight | UFC Fight Night
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/QbR1vhNEnpd2gFUfV0VStHN4NKU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4970026/2ecc18.jpg" ch-number="7", Michael Chiesa vs Niko Price - Welterweight | UFC Fight Night
 #https://vid-id.indi1.workers.dev/index.mpd?id=20216&type=dash&token=7I2JOVrBAScME36ZfNi2gc8QVmaQFmBC|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20216&type=drm&token=7I2JOVrBAScME36ZfNi2gc8QVmaQFmBC
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/s3DRLC8Yd04cOPRaBs24i_On-xE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4970027/2610a0.jpg" ch-number="9", Alexa Grasso vs Maycee Barber - Women Flyweight | UFC Fight Night
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/s3DRLC8Yd04cOPRaBs24i_On-xE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4970027/2610a0.jpg" ch-number="8", Alexa Grasso vs Maycee Barber - Women Flyweight | UFC Fight Night
 #https://vid-id.indi1.workers.dev/index.mpd?id=20216&type=dash&token=7I2JOVrBAScME36ZfNi2gc8QVmaQFmBC|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20216&type=drm&token=7I2JOVrBAScME36ZfNi2gc8QVmaQFmBC
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/9KhR1ElI2oPT0qCHKXFSLkEPphw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4970028/113353.jpg" ch-number="10", Israel Adesanya vs Joe Pyfer - Middleweight | UFC Fight Night
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/9KhR1ElI2oPT0qCHKXFSLkEPphw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4970028/113353.jpg" ch-number="9", Israel Adesanya vs Joe Pyfer - Middleweight | UFC Fight Night
 #https://vid-id.indi1.workers.dev/index.mpd?id=20216&type=dash&token=7I2JOVrBAScME36ZfNi2gc8QVmaQFmBC|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17884&type=drm&token=7I2JOVrBAScME36ZfNi2gc8QVmaQFmBC
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/fyYa45pWSN_CCai2yoIRSb5RI3U=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969353/3a1028.jpg" ch-number="11", Race - Formula 1 Aramco Japanese Grand Prix 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/fyYa45pWSN_CCai2yoIRSb5RI3U=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969353/3a1028.jpg" ch-number="10", Race - Formula 1 Aramco Japanese Grand Prix 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=17884&type=dash&token=7I2JOVrBAScME36ZfNi2gc8QVmaQFmBC|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/drm.kt?id=19541&type=drm&token=7I2JOVrBAScME36ZfNi2gc8QVmaQFmBC
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/WpDudqjC3N27ZDnK_zmA3jxTPjA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4970029/022af3.jpg" ch-number="12", Garudayaksa FC vs FC Bekasi City - Pegadaian Championship
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/WpDudqjC3N27ZDnK_zmA3jxTPjA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4970029/022af3.jpg" ch-number="11", Garudayaksa FC vs FC Bekasi City - Pegadaian Championship
 #https://spacetv.my.id/index.mpd?id=19541&type=dash&token=7I2JOVrBAScME36ZfNi2gc8QVmaQFmBC|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/drm.kt?id=19543&type=drm&token=7I2JOVrBAScME36ZfNi2gc8QVmaQFmBC
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/UwzvTcf5m-QaEIMnok96r8Nb5Co=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4970030/1f8f25.jpg" ch-number="13", PS. Barito Putera vs Persiku Kudus - Pegadaian Championship
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/UwzvTcf5m-QaEIMnok96r8Nb5Co=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4970030/1f8f25.jpg" ch-number="12", PS. Barito Putera vs Persiku Kudus - Pegadaian Championship
 #https://spacetv.my.id/index.mpd?id=19543&type=dash&token=7I2JOVrBAScME36ZfNi2gc8QVmaQFmBC|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=drm&token=7I2JOVrBAScME36ZfNi2gc8QVmaQFmBC
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/jzkr_Peh3RD0NuqLQWa79tsDJzE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969424/c1ae48.jpg" ch-number="14", Chelsea vs Aston Villa - Women's Super League
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/jzkr_Peh3RD0NuqLQWa79tsDJzE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969424/c1ae48.jpg" ch-number="13", Chelsea vs Aston Villa - Women's Super League
 #https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=dash&token=7I2JOVrBAScME36ZfNi2gc8QVmaQFmBC|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/drm.kt?id=20833&type=drm&token=7I2JOVrBAScME36ZfNi2gc8QVmaQFmBC
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/nfmRMT1rHA8QCjBhABD00j34htI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4970032/160969.jpg" ch-number="14", PSIS Semarang vs Persipal FC - Pegadaian Championship
+#https://spacetv.my.id/index.mpd?id=20833&type=dash&token=7I2JOVrBAScME36ZfNi2gc8QVmaQFmBC|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -87,32 +88,32 @@ https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1ec
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/drm.kt?id=20833&type=drm&token=7I2JOVrBAScME36ZfNi2gc8QVmaQFmBC
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/nfmRMT1rHA8QCjBhABD00j34htI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4970032/160969.jpg" ch-number="16", PSIS Semarang vs Persipal FC - Pegadaian Championship
-#https://spacetv.my.id/index.mpd?id=20833&type=dash&token=7I2JOVrBAScME36ZfNi2gc8QVmaQFmBC|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17140&type=drm&token=7I2JOVrBAScME36ZfNi2gc8QVmaQFmBC
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/7aDTztCBVhuiBSsiVvLddhWuTi0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4970054/55a62c.jpg" ch-number="17", Race 2 - Harley Davidson Bagger World Cup 2026: Round 1 United States
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/7aDTztCBVhuiBSsiVvLddhWuTi0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4970054/55a62c.jpg" ch-number="16", Race 2 - Harley Davidson Bagger World Cup 2026: Round 1 United States
 #https://vid-id.indi1.workers.dev/index.mpd?id=17140&type=dash&token=7I2JOVrBAScME36ZfNi2gc8QVmaQFmBC|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=19737&type=drm&token=7I2JOVrBAScME36ZfNi2gc8QVmaQFmBC
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/7fDPW9FtJrmt-WmVQXfkF1i1txM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4970035/9b32fa.jpg" ch-number="18", Zeren Spor vs Fenerbahce Medicana - Turkish Women's Volleyball League
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/7fDPW9FtJrmt-WmVQXfkF1i1txM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4970035/9b32fa.jpg" ch-number="17", Zeren Spor vs Fenerbahce Medicana - Turkish Women's Volleyball League
 #https://vid-id.indi1.workers.dev/index.mpd?id=19737&type=dash&token=7I2JOVrBAScME36ZfNi2gc8QVmaQFmBC|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17140&type=drm&token=7I2JOVrBAScME36ZfNi2gc8QVmaQFmBC
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/MjG-U-mZ8EPI334f-eOIT2fz41g=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969810/a2a7d5.jpg" ch-number="19", MotoGP Warm Up & Rider's Parade: Red Bull Grand Prix of The United States - MotoGP 2026 Round 3
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/MjG-U-mZ8EPI334f-eOIT2fz41g=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969810/a2a7d5.jpg" ch-number="18", MotoGP Warm Up & Rider's Parade: Red Bull Grand Prix of The United States - MotoGP 2026 Round 3
 #https://vid-id.indi1.workers.dev/index.mpd?id=17140&type=dash&token=7I2JOVrBAScME36ZfNi2gc8QVmaQFmBC|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17140&type=drm&token=7I2JOVrBAScME36ZfNi2gc8QVmaQFmBC
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/rpkJIvTBHRdlvQBkJZKvSrwsZOE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969811/f64283.jpg" ch-number="20", Moto3 Race: Red Bull Grand Prix of The United States - MotoGP 2026 Round 3
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/rpkJIvTBHRdlvQBkJZKvSrwsZOE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969811/f64283.jpg" ch-number="19", Moto3 Race: Red Bull Grand Prix of The United States - MotoGP 2026 Round 3
 #https://vid-id.indi1.workers.dev/index.mpd?id=17140&type=dash&token=7I2JOVrBAScME36ZfNi2gc8QVmaQFmBC|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18189&type=drm&token=7I2JOVrBAScME36ZfNi2gc8QVmaQFmBC
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/9mMNXrQO-JIZq5dAKB3WyfFfabk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4971456/bdb2ab.jpg" ch-number="20", Round 4 - Texas Children's Houston Open 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=18189&type=dash&token=7I2JOVrBAScME36ZfNi2gc8QVmaQFmBC|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
