@@ -2,7 +2,7 @@
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20943&type=drm&token=X4ikY8qXHKnYpUc48OsCUD8uLx5LQk1v
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/AA-lI24OA5N7XuqRwijfdG5mwLg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969787/b286f2.jpg" ch-number="1", Fajril Fajril vs Dian Bokir - Boxing - Super Bantamweight
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/s-gg40bVuAQxiOeBvrzJfqz4So8=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/20943/garuda-fight-027220.jpg" ch-number="1", First Blood GLP
 https://vid-id.indi1.workers.dev/index.mpd?id=20943&type=dash&token=X4ikY8qXHKnYpUc48OsCUD8uLx5LQk1v|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
