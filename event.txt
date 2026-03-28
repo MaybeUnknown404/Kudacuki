@@ -1,30 +1,29 @@
 #EXTM3U
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20942&type=drm&token=X4ikY8qXHKnYpUc48OsCUD8uLx5LQk1v
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/NIvik4I7SD3j490ERrKIEs0zzHA=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/20942/first-blood-glp-559aeb.jpg" ch-number="1", First Blood GLP
+https://vid-id.indi1.workers.dev/index.mpd?id=20942&type=dash&token=X4ikY8qXHKnYpUc48OsCUD8uLx5LQk1v|User-Agent=VidioPlayer/6.31.6
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/drm.kt?id=20833&type=drm&token=X4ikY8qXHKnYpUc48OsCUD8uLx5LQk1v
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/I0tzVGRKBs0cXp00_OTbpVCg10o=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969752/4f40c3.jpg" ch-number="1", Persela Lamongan vs Persiba Balikpapan - Pegadaian Championship
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/I0tzVGRKBs0cXp00_OTbpVCg10o=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969752/4f40c3.jpg" ch-number="2", Persela Lamongan vs Persiba Balikpapan - Pegadaian Championship
 https://spacetv.my.id/index.mpd?id=20833&type=dash&token=X4ikY8qXHKnYpUc48OsCUD8uLx5LQk1v|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/drm.kt?id=19541&type=drm&token=X4ikY8qXHKnYpUc48OsCUD8uLx5LQk1v
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/2Ix_mWZ1w8VZqZuZ3FPuKPPrthQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969750/a52132.jpg" ch-number="2", Adhyaksa FC vs Sumsel United - Pegadaian Championship
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/2Ix_mWZ1w8VZqZuZ3FPuKPPrthQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969750/a52132.jpg" ch-number="3", Adhyaksa FC vs Sumsel United - Pegadaian Championship
 https://spacetv.my.id/index.mpd?id=19541&type=dash&token=X4ikY8qXHKnYpUc48OsCUD8uLx5LQk1v|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17139&type=drm&token=X4ikY8qXHKnYpUc48OsCUD8uLx5LQk1v
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/ibMbQd-yR_oOTv8CP--RURo04xg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969801/0cdbbb.jpg" ch-number="3", WorldSBK Free Practice 3 - WorldSBK Championship 2026 Round 2 Pirelli Portuguese Round
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/ibMbQd-yR_oOTv8CP--RURo04xg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969801/0cdbbb.jpg" ch-number="4", WorldSBK Free Practice 3 - WorldSBK Championship 2026 Round 2 Pirelli Portuguese Round
 https://vid-id.indi1.workers.dev/index.mpd?id=17139&type=dash&token=X4ikY8qXHKnYpUc48OsCUD8uLx5LQk1v|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/drm.kt?id=19543&type=drm&token=X4ikY8qXHKnYpUc48OsCUD8uLx5LQk1v
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/suWhcuMGXKUriJmKMmhBAhKeQCM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969754/7495a5.jpg" ch-number="4", Persipura Jayapura vs Deltras FC - Pegadaian Championship
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/suWhcuMGXKUriJmKMmhBAhKeQCM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969754/7495a5.jpg" ch-number="5", Persipura Jayapura vs Deltras FC - Pegadaian Championship
 https://spacetv.my.id/index.mpd?id=19543&type=dash&token=X4ikY8qXHKnYpUc48OsCUD8uLx5LQk1v|User-Agent=VidioPlayer/6.31.6
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20942&type=drm&token=X4ikY8qXHKnYpUc48OsCUD8uLx5LQk1v
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/NIvik4I7SD3j490ERrKIEs0zzHA=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/20942/first-blood-glp-559aeb.jpg" ch-number="5", Ajeng Gitni vs Elvin Indah - Pro Boxing - Miniflyweight
-#https://vid-id.indi1.workers.dev/index.mpd?id=20942&type=dash&token=X4ikY8qXHKnYpUc48OsCUD8uLx5LQk1v|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17139&type=drm&token=X4ikY8qXHKnYpUc48OsCUD8uLx5LQk1v
