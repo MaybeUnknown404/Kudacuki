@@ -32,9 +32,8 @@ https://spacetv.my.id/index.mpd?id=19541&type=dash&token=X4ikY8qXHKnYpUc48OsCUD8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=19737&type=drm&token=X4ikY8qXHKnYpUc48OsCUD8uLx5LQk1v
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/JTUs4i21I6PUZE6KCb6CU5lkrwI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4970034/7280ba.jpg" ch-number="7", Turk Hava Yollari vs Galatasaray Daikin - Turkish Women's Volleyball League
-#https://vid-id.indi1.workers.dev/index.mpd?id=19737&type=dash&token=X4ikY8qXHKnYpUc48OsCUD8uLx5LQk1v|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/JTUs4i21I6PUZE6KCb6CU5lkrwI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4970034/7280ba.jpg" ch-number="7", Turk Hava Yollari vs Galatasaray Daikin - Turkish Women's Volleyball League
+https://vid-id.indi1.workers.dev/index.mpd?id=19737&type=dash&token=X4ikY8qXHKnYpUc48OsCUD8uLx5LQk1v|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=19388&type=drm&token=X4ikY8qXHKnYpUc48OsCUD8uLx5LQk1v
