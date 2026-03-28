@@ -2,7 +2,7 @@
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18189&type=drm&token=7I2JOVrBAScME36ZfNi2gc8QVmaQFmBC
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/Xe1NcvE3UArc_J6ZQVwOKQOmH2Y=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4970020/1df369.jpg" ch-number="1", Round 3 - Texas Children's Houston Open 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="⛔ Event Ended" tvg-logo="https://thumbor.prod.vidiocdn.com/Xe1NcvE3UArc_J6ZQVwOKQOmH2Y=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4970020/1df369.jpg" ch-number="1", Round 3 - Texas Children's Houston Open 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=18189&type=dash&token=7I2JOVrBAScME36ZfNi2gc8QVmaQFmBC|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -17,9 +17,8 @@ https://vid-id.indi1.workers.dev/index.mpd?id=20216&type=dash&token=7I2JOVrBAScM
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18190&type=drm&token=7I2JOVrBAScME36ZfNi2gc8QVmaQFmBC
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/35ih2IaCNxqDm7SRp_YkCh3nvqI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4970021/be3bad.jpg" ch-number="4", Round 3 - Ford Championship presented by Wild Horse Pass 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=18190&type=dash&token=7I2JOVrBAScME36ZfNi2gc8QVmaQFmBC|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/35ih2IaCNxqDm7SRp_YkCh3nvqI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4970021/be3bad.jpg" ch-number="4", Round 3 - Ford Championship presented by Wild Horse Pass 2026
+https://vid-id.indi1.workers.dev/index.mpd?id=18190&type=dash&token=7I2JOVrBAScME36ZfNi2gc8QVmaQFmBC|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20216&type=drm&token=7I2JOVrBAScME36ZfNi2gc8QVmaQFmBC
