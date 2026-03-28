@@ -17,7 +17,7 @@ https://spacetv.my.id/index.mpd?id=19541&type=dash&token=X4ikY8qXHKnYpUc48OsCUD8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17139&type=drm&token=X4ikY8qXHKnYpUc48OsCUD8uLx5LQk1v
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/ibMbQd-yR_oOTv8CP--RURo04xg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969801/0cdbbb.jpg" ch-number="4", WorldSBK Free Practice 3 - WorldSBK Championship 2026 Round 2 Pirelli Portuguese Round
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="⛔ Event Ended" tvg-logo="https://thumbor.prod.vidiocdn.com/ibMbQd-yR_oOTv8CP--RURo04xg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969801/0cdbbb.jpg" ch-number="4", WorldSBK Free Practice 3 - WorldSBK Championship 2026 Round 2 Pirelli Portuguese Round
 https://vid-id.indi1.workers.dev/index.mpd?id=17139&type=dash&token=X4ikY8qXHKnYpUc48OsCUD8uLx5LQk1v|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
