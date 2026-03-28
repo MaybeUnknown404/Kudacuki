@@ -12,7 +12,7 @@ https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=dash&token=X4ikY8qXHKnY
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17139&type=drm&token=X4ikY8qXHKnYpUc48OsCUD8uLx5LQk1v
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/0sVFY0XFByFIWIaabhYnbjH3g0Y=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4970008/1e9b12.jpg" ch-number="3", WorldWCR Race 1 - WorldSBK Championship 2026 Round 2 Pirelli Portuguese Round
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="⛔ Event Ended" tvg-logo="https://thumbor.prod.vidiocdn.com/0sVFY0XFByFIWIaabhYnbjH3g0Y=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4970008/1e9b12.jpg" ch-number="3", WorldWCR Race 1 - WorldSBK Championship 2026 Round 2 Pirelli Portuguese Round
 https://vid-id.indi1.workers.dev/index.mpd?id=17139&type=dash&token=X4ikY8qXHKnYpUc48OsCUD8uLx5LQk1v|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -32,9 +32,8 @@ https://vid-id.indi1.workers.dev/index.mpd?id=19388&type=dash&token=X4ikY8qXHKnY
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17139&type=drm&token=X4ikY8qXHKnYpUc48OsCUD8uLx5LQk1v
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/baaCqTwQ1O5PLSG6kYU9IjcCKEw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4970009/a0a001.jpg" ch-number="7", WorldSPB Race 1 - WorldSBK Championship 2026 Round 2 Pirelli Portuguese Round
-#https://vid-id.indi1.workers.dev/index.mpd?id=17139&type=dash&token=X4ikY8qXHKnYpUc48OsCUD8uLx5LQk1v|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/baaCqTwQ1O5PLSG6kYU9IjcCKEw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4970009/a0a001.jpg" ch-number="7", WorldSPB Race 1 - WorldSBK Championship 2026 Round 2 Pirelli Portuguese Round
+https://vid-id.indi1.workers.dev/index.mpd?id=17139&type=dash&token=X4ikY8qXHKnYpUc48OsCUD8uLx5LQk1v|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=drm&token=X4ikY8qXHKnYpUc48OsCUD8uLx5LQk1v
