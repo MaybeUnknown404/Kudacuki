@@ -17,20 +17,18 @@ https://spacetv.my.id/index.mpd?id=19543&type=dash&token=X4ikY8qXHKnYpUc48OsCUD8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17139&type=drm&token=X4ikY8qXHKnYpUc48OsCUD8uLx5LQk1v
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/3sgKGcMcgwF8AgEH5TDm7OixgHo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4970007/c01275.jpg" ch-number="4", WorldSBK Tissot Superpole - WorldSBK Championship 2026 Round 2 Pirelli Portuguese Round
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="⛔ Event Ended" tvg-logo="https://thumbor.prod.vidiocdn.com/3sgKGcMcgwF8AgEH5TDm7OixgHo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4970007/c01275.jpg" ch-number="4", WorldSBK Tissot Superpole - WorldSBK Championship 2026 Round 2 Pirelli Portuguese Round
 https://vid-id.indi1.workers.dev/index.mpd?id=17139&type=dash&token=X4ikY8qXHKnYpUc48OsCUD8uLx5LQk1v|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=drm&token=X4ikY8qXHKnYpUc48OsCUD8uLx5LQk1v
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/QbJR3ISEAXcaSafBJ0BXAsjmnYM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969421/441f19.jpg" ch-number="5", Everton vs Liverpool - Women's Super League
-#https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=dash&token=X4ikY8qXHKnYpUc48OsCUD8uLx5LQk1v|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/QbJR3ISEAXcaSafBJ0BXAsjmnYM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969421/441f19.jpg" ch-number="5", Everton vs Liverpool - Women's Super League
+https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=dash&token=X4ikY8qXHKnYpUc48OsCUD8uLx5LQk1v|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17139&type=drm&token=X4ikY8qXHKnYpUc48OsCUD8uLx5LQk1v
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/0sVFY0XFByFIWIaabhYnbjH3g0Y=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4970008/1e9b12.jpg" ch-number="6", WorldWCR Race 1 - WorldSBK Championship 2026 Round 2 Pirelli Portuguese Round
-#https://vid-id.indi1.workers.dev/index.mpd?id=17139&type=dash&token=X4ikY8qXHKnYpUc48OsCUD8uLx5LQk1v|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/0sVFY0XFByFIWIaabhYnbjH3g0Y=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4970008/1e9b12.jpg" ch-number="6", WorldWCR Race 1 - WorldSBK Championship 2026 Round 2 Pirelli Portuguese Round
+https://vid-id.indi1.workers.dev/index.mpd?id=17139&type=dash&token=X4ikY8qXHKnYpUc48OsCUD8uLx5LQk1v|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/drm.kt?id=19541&type=drm&token=X4ikY8qXHKnYpUc48OsCUD8uLx5LQk1v
