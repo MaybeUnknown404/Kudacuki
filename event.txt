@@ -2,12 +2,12 @@
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=drm&token=7I2JOVrBAScME36ZfNi2gc8QVmaQFmBC
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/vXj8p6glz-KbLj_7pNrL8RXBwIk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969423/3d1e72.jpg" ch-number="1", Miami P1 Premier Padel 2026 - Semifinals
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="⛔ Event Ended" tvg-logo="https://thumbor.prod.vidiocdn.com/vXj8p6glz-KbLj_7pNrL8RXBwIk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969423/3d1e72.jpg" ch-number="1", Miami P1 Premier Padel 2026 - Semifinals
 https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=dash&token=7I2JOVrBAScME36ZfNi2gc8QVmaQFmBC|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20216&type=drm&token=7I2JOVrBAScME36ZfNi2gc8QVmaQFmBC
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/-bS75c5kIWkihOXPqycHTdwSR54=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4970022/6de356.jpg" ch-number="2", Prelims | UFC Fight Night: Adesanya vs Pyfer
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="⛔ Event Ended" tvg-logo="https://thumbor.prod.vidiocdn.com/-bS75c5kIWkihOXPqycHTdwSR54=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4970022/6de356.jpg" ch-number="2", Prelims | UFC Fight Night: Adesanya vs Pyfer
 https://vid-id.indi1.workers.dev/index.mpd?id=20216&type=dash&token=7I2JOVrBAScME36ZfNi2gc8QVmaQFmBC|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -17,9 +17,8 @@ https://vid-id.indi1.workers.dev/index.mpd?id=18190&type=dash&token=7I2JOVrBAScM
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20216&type=drm&token=7I2JOVrBAScME36ZfNi2gc8QVmaQFmBC
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/DK-wYTpaTCKyr-HbGOObxgAP22k=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4970023/a07414.jpg" ch-number="4", Terrance McKinney vs Kyle Nelson - Lightweight | UFC Fight Night
-#https://vid-id.indi1.workers.dev/index.mpd?id=20216&type=dash&token=7I2JOVrBAScME36ZfNi2gc8QVmaQFmBC|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/DK-wYTpaTCKyr-HbGOObxgAP22k=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4970023/a07414.jpg" ch-number="4", Terrance McKinney vs Kyle Nelson - Lightweight | UFC Fight Night
+https://vid-id.indi1.workers.dev/index.mpd?id=20216&type=dash&token=7I2JOVrBAScME36ZfNi2gc8QVmaQFmBC|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20216&type=drm&token=7I2JOVrBAScME36ZfNi2gc8QVmaQFmBC
