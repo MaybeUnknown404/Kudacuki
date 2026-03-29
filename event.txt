@@ -6,115 +6,110 @@
 https://spacetv.my.id/index.mpd?id=19543&type=dash&token=7I2JOVrBAScME36ZfNi2gc8QVmaQFmBC|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/drm.kt?id=19541&type=drm&token=7I2JOVrBAScME36ZfNi2gc8QVmaQFmBC
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/WpDudqjC3N27ZDnK_zmA3jxTPjA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4970029/022af3.jpg" ch-number="2", Garudayaksa FC vs FC Bekasi City - Pegadaian Championship
-https://spacetv.my.id/index.mpd?id=19541&type=dash&token=7I2JOVrBAScME36ZfNi2gc8QVmaQFmBC|User-Agent=VidioPlayer/6.31.6
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=drm&token=7I2JOVrBAScME36ZfNi2gc8QVmaQFmBC
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/jzkr_Peh3RD0NuqLQWa79tsDJzE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969424/c1ae48.jpg" ch-number="3", Chelsea vs Aston Villa - Women's Super League
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/jzkr_Peh3RD0NuqLQWa79tsDJzE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969424/c1ae48.jpg" ch-number="2", Chelsea vs Aston Villa - Women's Super League
 #https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=dash&token=7I2JOVrBAScME36ZfNi2gc8QVmaQFmBC|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/drm.kt?id=20833&type=drm&token=7I2JOVrBAScME36ZfNi2gc8QVmaQFmBC
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/nfmRMT1rHA8QCjBhABD00j34htI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4970032/160969.jpg" ch-number="4", PSIS Semarang vs Persipal FC - Pegadaian Championship
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/nfmRMT1rHA8QCjBhABD00j34htI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4970032/160969.jpg" ch-number="3", PSIS Semarang vs Persipal FC - Pegadaian Championship
 #https://spacetv.my.id/index.mpd?id=20833&type=dash&token=7I2JOVrBAScME36ZfNi2gc8QVmaQFmBC|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/drm.kt?id=19543&type=drm&token=7I2JOVrBAScME36ZfNi2gc8QVmaQFmBC
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/BVL_4crI3ZU0cl1U1ofQks0Bcn0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4970031/5dca81.jpg" ch-number="5", Kendal Tornado FC vs PSS Sleman - Pegadaian Championship
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/BVL_4crI3ZU0cl1U1ofQks0Bcn0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4970031/5dca81.jpg" ch-number="4", Kendal Tornado FC vs PSS Sleman - Pegadaian Championship
 #https://spacetv.my.id/index.mpd?id=19543&type=dash&token=7I2JOVrBAScME36ZfNi2gc8QVmaQFmBC|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17140&type=drm&token=7I2JOVrBAScME36ZfNi2gc8QVmaQFmBC
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/7aDTztCBVhuiBSsiVvLddhWuTi0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4970054/55a62c.jpg" ch-number="6", Race 2 - Harley Davidson Bagger World Cup 2026: Round 1 United States
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/7aDTztCBVhuiBSsiVvLddhWuTi0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4970054/55a62c.jpg" ch-number="5", Race 2 - Harley Davidson Bagger World Cup 2026: Round 1 United States
 #https://vid-id.indi1.workers.dev/index.mpd?id=17140&type=dash&token=7I2JOVrBAScME36ZfNi2gc8QVmaQFmBC|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=19737&type=drm&token=7I2JOVrBAScME36ZfNi2gc8QVmaQFmBC
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/7fDPW9FtJrmt-WmVQXfkF1i1txM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4970035/9b32fa.jpg" ch-number="7", Zeren Spor vs Fenerbahce Medicana - Turkish Women's Volleyball League
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/7fDPW9FtJrmt-WmVQXfkF1i1txM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4970035/9b32fa.jpg" ch-number="6", Zeren Spor vs Fenerbahce Medicana - Turkish Women's Volleyball League
 #https://vid-id.indi1.workers.dev/index.mpd?id=19737&type=dash&token=7I2JOVrBAScME36ZfNi2gc8QVmaQFmBC|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17140&type=drm&token=7I2JOVrBAScME36ZfNi2gc8QVmaQFmBC
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/MjG-U-mZ8EPI334f-eOIT2fz41g=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969810/a2a7d5.jpg" ch-number="8", MotoGP Warm Up & Rider's Parade: Red Bull Grand Prix of The United States - MotoGP 2026 Round 3
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/MjG-U-mZ8EPI334f-eOIT2fz41g=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969810/a2a7d5.jpg" ch-number="7", MotoGP Warm Up & Rider's Parade: Red Bull Grand Prix of The United States - MotoGP 2026 Round 3
 #https://vid-id.indi1.workers.dev/index.mpd?id=17140&type=dash&token=7I2JOVrBAScME36ZfNi2gc8QVmaQFmBC|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17140&type=drm&token=7I2JOVrBAScME36ZfNi2gc8QVmaQFmBC
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/rpkJIvTBHRdlvQBkJZKvSrwsZOE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969811/f64283.jpg" ch-number="9", Moto3 Race: Red Bull Grand Prix of The United States - MotoGP 2026 Round 3
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/rpkJIvTBHRdlvQBkJZKvSrwsZOE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969811/f64283.jpg" ch-number="8", Moto3 Race: Red Bull Grand Prix of The United States - MotoGP 2026 Round 3
 #https://vid-id.indi1.workers.dev/index.mpd?id=17140&type=dash&token=7I2JOVrBAScME36ZfNi2gc8QVmaQFmBC|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18189&type=drm&token=7I2JOVrBAScME36ZfNi2gc8QVmaQFmBC
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/9mMNXrQO-JIZq5dAKB3WyfFfabk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4971456/bdb2ab.jpg" ch-number="10", Round 4 - Texas Children's Houston Open 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/9mMNXrQO-JIZq5dAKB3WyfFfabk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4971456/bdb2ab.jpg" ch-number="9", Round 4 - Texas Children's Houston Open 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=18189&type=dash&token=7I2JOVrBAScME36ZfNi2gc8QVmaQFmBC|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17140&type=drm&token=7I2JOVrBAScME36ZfNi2gc8QVmaQFmBC
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/uh_MK4mODXmFlC0XnDg_BamlM74=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4971457/cc887b.jpg" ch-number="11", Moto2 Race: Red Bull Grand Prix of The United States - MotoGP 2026 Round 3
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/uh_MK4mODXmFlC0XnDg_BamlM74=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4971457/cc887b.jpg" ch-number="10", Moto2 Race: Red Bull Grand Prix of The United States - MotoGP 2026 Round 3
 #https://vid-id.indi1.workers.dev/index.mpd?id=17140&type=dash&token=7I2JOVrBAScME36ZfNi2gc8QVmaQFmBC|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20897&type=drm&token=7I2JOVrBAScME36ZfNi2gc8QVmaQFmBC
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/J31VOBSDzIdbaIQXEyCUCuf7czo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4979784/9f9d28.jpg" ch-number="12", Jiri Lehecka vs Jannik Sinner - Finals | ATP 1000: Miami Open Presented by Itau 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/J31VOBSDzIdbaIQXEyCUCuf7czo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4979784/9f9d28.jpg" ch-number="11", Jiri Lehecka vs Jannik Sinner - Finals | ATP 1000: Miami Open Presented by Itau 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=20897&type=dash&token=7I2JOVrBAScME36ZfNi2gc8QVmaQFmBC|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17140&type=drm&token=7I2JOVrBAScME36ZfNi2gc8QVmaQFmBC
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/RtVMSvI49tqOqctgab7wUGRoSRQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4975079/11e934.jpg" ch-number="13", MotoGP Race: Red Bull Grand Prix of The United States - MotoGP 2026 Round 3
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/RtVMSvI49tqOqctgab7wUGRoSRQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4975079/11e934.jpg" ch-number="12", MotoGP Race: Red Bull Grand Prix of The United States - MotoGP 2026 Round 3
 #https://vid-id.indi1.workers.dev/index.mpd?id=17140&type=dash&token=7I2JOVrBAScME36ZfNi2gc8QVmaQFmBC|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=drm&token=7I2JOVrBAScME36ZfNi2gc8QVmaQFmBC
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/QEV-vmW4-r34LapyjVeCooSjeyk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969425/4065d8.jpg" ch-number="14", Miami P1 Premier Padel 2026 - Finals
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/QEV-vmW4-r34LapyjVeCooSjeyk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969425/4065d8.jpg" ch-number="13", Miami P1 Premier Padel 2026 - Finals
 #https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=dash&token=7I2JOVrBAScME36ZfNi2gc8QVmaQFmBC|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18190&type=drm&token=7I2JOVrBAScME36ZfNi2gc8QVmaQFmBC
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/vjqBFeX1zAOKt8gRRhtVLx7ue2k=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4980163/e9ca5c.jpg" ch-number="15", Round 4 - Ford Championship presented by Wild Horse Pass 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/vjqBFeX1zAOKt8gRRhtVLx7ue2k=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4980163/e9ca5c.jpg" ch-number="14", Round 4 - Ford Championship presented by Wild Horse Pass 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=18190&type=dash&token=7I2JOVrBAScME36ZfNi2gc8QVmaQFmBC|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20992&type=drm&token=7I2JOVrBAScME36ZfNi2gc8QVmaQFmBC
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/iedwSYI8BWExo7BoWHVkOVSssV8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4980160/4c93d5.jpg" ch-number="16", 3rd Place: Saint Kitts and Nevis vs Solomon Islands - FIFA Series
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/iedwSYI8BWExo7BoWHVkOVSssV8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4980160/4c93d5.jpg" ch-number="15", 3rd Place: Saint Kitts and Nevis vs Solomon Islands - FIFA Series
 #https://vid-id.indi1.workers.dev/index.mpd?id=20992&type=dash&token=7I2JOVrBAScME36ZfNi2gc8QVmaQFmBC|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20992&type=drm&token=7I2JOVrBAScME36ZfNi2gc8QVmaQFmBC
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Nl7l6lEyd1hxiGL8W2fGWSvV9r4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4980161/7b31ac.jpg" ch-number="17", Final: Indonesia vs Bulgaria - FIFA Series
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Nl7l6lEyd1hxiGL8W2fGWSvV9r4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4980161/7b31ac.jpg" ch-number="16", Final: Indonesia vs Bulgaria - FIFA Series
 #https://vid-id.indi1.workers.dev/index.mpd?id=20992&type=dash&token=7I2JOVrBAScME36ZfNi2gc8QVmaQFmBC|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=19737&type=drm&token=7I2JOVrBAScME36ZfNi2gc8QVmaQFmBC
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/2qyowoPN_0KrbFJhf5x0hIz6MUc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4974395/19671a.jpg" ch-number="18", Eczacibasi Dynavit vs Vakifbank - Turkish Women's Volleyball League
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/2qyowoPN_0KrbFJhf5x0hIz6MUc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4974395/19671a.jpg" ch-number="17", Eczacibasi Dynavit vs Vakifbank - Turkish Women's Volleyball League
 #https://vid-id.indi1.workers.dev/index.mpd?id=19737&type=dash&token=7I2JOVrBAScME36ZfNi2gc8QVmaQFmBC|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6317&type=drm&token=7I2JOVrBAScME36ZfNi2gc8QVmaQFmBC
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/0ZNcAQ_zR1-B1Q1SXhkTd0PXPps=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4975080/a65877.jpg" ch-number="19", Bayern Munich vs Man United - UEFA Women's Champions League
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/0ZNcAQ_zR1-B1Q1SXhkTd0PXPps=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4975080/a65877.jpg" ch-number="18", Bayern Munich vs Man United - UEFA Women's Champions League
 #https://vid-id.indi1.workers.dev/index.mpd?id=6317&type=dash&token=7I2JOVrBAScME36ZfNi2gc8QVmaQFmBC|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=drm&token=7I2JOVrBAScME36ZfNi2gc8QVmaQFmBC
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/3WNOE_XXraEVao--pqnVtPj-Ke4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4975947/0198d3.jpg" ch-number="20", Chelsea vs Arsenal - UEFA Women's Champions League
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/3WNOE_XXraEVao--pqnVtPj-Ke4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4975947/0198d3.jpg" ch-number="19", Chelsea vs Arsenal - UEFA Women's Champions League
 #https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=dash&token=7I2JOVrBAScME36ZfNi2gc8QVmaQFmBC|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
