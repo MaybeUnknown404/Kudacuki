@@ -16,15 +16,15 @@ https://vid-id.indi1.workers.dev/index.mpd?id=20885&type=dash&token=a0zJ23Z21LC3
 https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=dash&token=a0zJ23Z21LC3AE3XTiIv1hbNH8TGTXet|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20885&type=drm&token=a0zJ23Z21LC3AE3XTiIv1hbNH8TGTXet
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/i2AjUBR_mqagPOb-zsLDFGnryqE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4981202/1503a8.jpg" ch-number="4", Karim Bennani vs Quentin Halys - Round 1 | ATP 250: Grand Prix Hassan II 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=20885&type=dash&token=a0zJ23Z21LC3AE3XTiIv1hbNH8TGTXet|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20992&type=drm&token=a0zJ23Z21LC3AE3XTiIv1hbNH8TGTXet
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Xwvkgfb19l2RxPxLESxPuMX28lk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4980877/b17129.jpg" ch-number="4", Awarding Ceremony Final FIFA Series 2026 Indonesia
+#https://vid-id.indi1.workers.dev/index.mpd?id=20992&type=dash&token=a0zJ23Z21LC3AE3XTiIv1hbNH8TGTXet|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20992&type=drm&token=a0zJ23Z21LC3AE3XTiIv1hbNH8TGTXet
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Xwvkgfb19l2RxPxLESxPuMX28lk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4980877/b17129.jpg" ch-number="5", Awarding Ceremony Final FIFA Series 2026 Indonesia
-#https://vid-id.indi1.workers.dev/index.mpd?id=20992&type=dash&token=a0zJ23Z21LC3AE3XTiIv1hbNH8TGTXet|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20885&type=drm&token=a0zJ23Z21LC3AE3XTiIv1hbNH8TGTXet
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/i2AjUBR_mqagPOb-zsLDFGnryqE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4981202/1503a8.jpg" ch-number="5", Karim Bennani vs Quentin Halys - Round 1 | ATP 250: Grand Prix Hassan II 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=20885&type=dash&token=a0zJ23Z21LC3AE3XTiIv1hbNH8TGTXet|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
