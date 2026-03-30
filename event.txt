@@ -92,13 +92,13 @@ https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1ec
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6786&type=drm&token=a0zJ23Z21LC3AE3XTiIv1hbNH8TGTXet
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/clpu3Z3_8sBq3nj3xXwGX328qJs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4980967/46eba8.jpg" ch-number="16", Day 1 - WTA 500: Credit One Charleston Open 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/GyC0InOFtqSPXyZ4Qyv5GkU4hxg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4980967/f3e41e.jpg" ch-number="16", Day 1 - WTA 500: Credit One Charleston Open 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=6786&type=dash&token=a0zJ23Z21LC3AE3XTiIv1hbNH8TGTXet|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6786&type=drm&token=a0zJ23Z21LC3AE3XTiIv1hbNH8TGTXet
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/PUkSn9n3cbMKWJguZSCVTXZHAbs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4980968/ca68a5.jpg" ch-number="17", Day 2 - WTA 500: Credit One Charleston Open 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/tYjr21QrSL_R7N8-GcFAWidCGo0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4980968/293f81.jpg" ch-number="17", Day 2 - WTA 500: Credit One Charleston Open 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=6786&type=dash&token=a0zJ23Z21LC3AE3XTiIv1hbNH8TGTXet|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
@@ -116,7 +116,7 @@ https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1ec
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6786&type=drm&token=a0zJ23Z21LC3AE3XTiIv1hbNH8TGTXet
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/APqLe9PX2e0P9Rrb8hZ5vEvNl00=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4980969/4b367b.jpg" ch-number="20", Day 2 - WTA 500: Credit One Charleston Open 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/LwBAyaNBd87yiz2b8sCOl75QnCM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4980969/051f87.jpg" ch-number="20", Day 2 - WTA 500: Credit One Charleston Open 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=6786&type=dash&token=a0zJ23Z21LC3AE3XTiIv1hbNH8TGTXet|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
