@@ -1,14 +1,14 @@
 #EXTM3U
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=drm&token=a0zJ23Z21LC3AE3XTiIv1hbNH8TGTXet
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/_s6U70tym4BKKjvdmSGFgqn9vGI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4981200/02c99f.jpg" ch-number="1", Stefan Horia Haita vs Joel Schwaerzler - Qualifiers | ATP 250: Tiriac Open presented by Unicredit Bank 2026
-https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=dash&token=a0zJ23Z21LC3AE3XTiIv1hbNH8TGTXet|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20992&type=drm&token=a0zJ23Z21LC3AE3XTiIv1hbNH8TGTXet
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/Nl7l6lEyd1hxiGL8W2fGWSvV9r4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4980161/7b31ac.jpg" ch-number="1", Final: Indonesia vs Bulgaria - FIFA Series
+https://vid-id.indi1.workers.dev/index.mpd?id=20992&type=dash&token=a0zJ23Z21LC3AE3XTiIv1hbNH8TGTXet|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20992&type=drm&token=a0zJ23Z21LC3AE3XTiIv1hbNH8TGTXet
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/Nl7l6lEyd1hxiGL8W2fGWSvV9r4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4980161/7b31ac.jpg" ch-number="2", Final: Indonesia vs Bulgaria - FIFA Series
-https://vid-id.indi1.workers.dev/index.mpd?id=20992&type=dash&token=a0zJ23Z21LC3AE3XTiIv1hbNH8TGTXet|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=drm&token=a0zJ23Z21LC3AE3XTiIv1hbNH8TGTXet
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/_s6U70tym4BKKjvdmSGFgqn9vGI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4981200/02c99f.jpg" ch-number="2", Stefan Horia Haita vs Joel Schwaerzler - Qualifiers | ATP 250: Tiriac Open presented by Unicredit Bank 2026
+https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=dash&token=a0zJ23Z21LC3AE3XTiIv1hbNH8TGTXet|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20885&type=drm&token=a0zJ23Z21LC3AE3XTiIv1hbNH8TGTXet
