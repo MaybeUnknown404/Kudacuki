@@ -1,66 +1,66 @@
 #EXTM3U
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20885&type=drm&token=krVB7fS0foZni6uYIUM7Qbp0QPMSOHZm
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/23JLnHOaO76_d9rVrKCwNn33xDw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4996363/4e9347.jpg" ch-number="1", Ignacio Buse vs Matteo Berrettini - Round 1 | ATP 250: Grand Prix Hassan II 2026
-https://vid-id.indi1.workers.dev/index.mpd?id=20885&type=dash&token=krVB7fS0foZni6uYIUM7Qbp0QPMSOHZm|User-Agent=VidioPlayer/6.31.6
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6786&type=drm&token=krVB7fS0foZni6uYIUM7Qbp0QPMSOHZm
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/GyC0InOFtqSPXyZ4Qyv5GkU4hxg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4980967/f3e41e.jpg" ch-number="2", Day 1 - WTA 500: Credit One Charleston Open 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/GyC0InOFtqSPXyZ4Qyv5GkU4hxg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4980967/f3e41e.jpg" ch-number="1", Day 1 - WTA 500: Credit One Charleston Open 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=6786&type=dash&token=krVB7fS0foZni6uYIUM7Qbp0QPMSOHZm|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=drm&token=krVB7fS0foZni6uYIUM7Qbp0QPMSOHZm
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/y2BwVZoqcfonDRfZNpEm9VYSd9w=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4996312/5a2c11.jpg" ch-number="3", Sebastian Baez vs Vilius Gaubas - Round 1 | ATP 250: Tiriac Open presented by Unicredit Bank 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/y2BwVZoqcfonDRfZNpEm9VYSd9w=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4996312/5a2c11.jpg" ch-number="2", Sebastian Baez vs Vilius Gaubas - Round 1 | ATP 250: Tiriac Open presented by Unicredit Bank 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=dash&token=krVB7fS0foZni6uYIUM7Qbp0QPMSOHZm|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20885&type=drm&token=krVB7fS0foZni6uYIUM7Qbp0QPMSOHZm
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/aa9OUino7pnC4epQ0wcI7KHF364=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4996364/1f0b29.jpg" ch-number="4", Luca van Assche vs Hugo Gaston - Round 1 | ATP 250: Grand Prix Hassan II 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=20885&type=dash&token=krVB7fS0foZni6uYIUM7Qbp0QPMSOHZm|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/aa9OUino7pnC4epQ0wcI7KHF364=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4996364/1f0b29.jpg" ch-number="3", Luca van Assche vs Hugo Gaston - Round 1 | ATP 250: Grand Prix Hassan II 2026
+https://vid-id.indi1.workers.dev/index.mpd?id=20885&type=dash&token=krVB7fS0foZni6uYIUM7Qbp0QPMSOHZm|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=drm&token=krVB7fS0foZni6uYIUM7Qbp0QPMSOHZm
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/VqkmLl967P6R6SsXMPi8XzOO0JA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4996313/872ae2.jpg" ch-number="5", Daniel Altmaier vs Pedro Martinez - Round 1 | ATP 250: Tiriac Open presented by Unicredit Bank 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/VqkmLl967P6R6SsXMPi8XzOO0JA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4996313/872ae2.jpg" ch-number="4", Daniel Altmaier vs Pedro Martinez - Round 1 | ATP 250: Tiriac Open presented by Unicredit Bank 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=dash&token=krVB7fS0foZni6uYIUM7Qbp0QPMSOHZm|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20886&type=drm&token=krVB7fS0foZni6uYIUM7Qbp0QPMSOHZm
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Q2ULpHBtLVvlvWC_HnXaG-yVw_c=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4996366/ed814a.jpg" ch-number="6", Tomas Martin Etcheverry vs Federico Agustin Gomez - Round 1 | ATP 250: Fayez Sarofim & Co. U.S. Men's Clay Court Championship 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Q2ULpHBtLVvlvWC_HnXaG-yVw_c=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4996366/ed814a.jpg" ch-number="5", Tomas Martin Etcheverry vs Federico Agustin Gomez - Round 1 | ATP 250: Fayez Sarofim & Co. U.S. Men's Clay Court Championship 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=20886&type=dash&token=krVB7fS0foZni6uYIUM7Qbp0QPMSOHZm|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20886&type=drm&token=krVB7fS0foZni6uYIUM7Qbp0QPMSOHZm
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/ZvmrfWeULDWH0N33XRUYMFDXLHs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4996367/e4da7e.jpg" ch-number="7", Martin Damm vs Brandon Nakashima - Round 1 | ATP 250: Fayez Sarofim & Co. U.S. Men's Clay Court Championship 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/ZvmrfWeULDWH0N33XRUYMFDXLHs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4996367/e4da7e.jpg" ch-number="6", Martin Damm vs Brandon Nakashima - Round 1 | ATP 250: Fayez Sarofim & Co. U.S. Men's Clay Court Championship 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=20886&type=dash&token=krVB7fS0foZni6uYIUM7Qbp0QPMSOHZm|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20886&type=drm&token=krVB7fS0foZni6uYIUM7Qbp0QPMSOHZm
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/LgPvA5K7sgUQE0dWL_jPF_IdUhI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4996368/a89271.jpg" ch-number="8", Alex Michelsen vs Coleman Wong - Round 1 | ATP 250: Fayez Sarofim & Co. U.S. Men's Clay Court Championship 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/LgPvA5K7sgUQE0dWL_jPF_IdUhI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4996368/a89271.jpg" ch-number="7", Alex Michelsen vs Coleman Wong - Round 1 | ATP 250: Fayez Sarofim & Co. U.S. Men's Clay Court Championship 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=20886&type=dash&token=krVB7fS0foZni6uYIUM7Qbp0QPMSOHZm|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20886&type=drm&token=krVB7fS0foZni6uYIUM7Qbp0QPMSOHZm
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/3VNShkdlgsvdulRtm6UiSB4hHSk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4996369/22f73c.jpg" ch-number="9", Alexei Popyrin vs Patrick Kypson - Round 1 | ATP 250: Fayez Sarofim & Co. U.S. Men's Clay Court Championship 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/3VNShkdlgsvdulRtm6UiSB4hHSk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4996369/22f73c.jpg" ch-number="8", Alexei Popyrin vs Patrick Kypson - Round 1 | ATP 250: Fayez Sarofim & Co. U.S. Men's Clay Court Championship 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=20886&type=dash&token=krVB7fS0foZni6uYIUM7Qbp0QPMSOHZm|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20885&type=drm&token=krVB7fS0foZni6uYIUM7Qbp0QPMSOHZm
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/MMWQMw14mrDcMh2dmNyIW0l-6WU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4997577/f36ef1.jpg" ch-number="10", Marco Trungelliti vs Kamil Majchrzak - Round 2 | ATP 250: Grand Prix Hassan II 2026 - Round 2 | ATP 250: Grand Prix Hassan II 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/MMWQMw14mrDcMh2dmNyIW0l-6WU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4997577/f36ef1.jpg" ch-number="9", Marco Trungelliti vs Kamil Majchrzak - Round 2 | ATP 250: Grand Prix Hassan II 2026 - Round 2 | ATP 250: Grand Prix Hassan II 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=20885&type=dash&token=krVB7fS0foZni6uYIUM7Qbp0QPMSOHZm|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=drm&token=krVB7fS0foZni6uYIUM7Qbp0QPMSOHZm
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/a5SA6vdBCuw28cIfoLF7vVKTHOw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4997581/3df6c4.jpg" ch-number="11", Elmer Moller vs Mariano Navone - Round 2 | ATP 250: Tiriac Open presented by Unicredit Bank 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/a5SA6vdBCuw28cIfoLF7vVKTHOw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4997581/3df6c4.jpg" ch-number="10", Elmer Moller vs Mariano Navone - Round 2 | ATP 250: Tiriac Open presented by Unicredit Bank 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=dash&token=krVB7fS0foZni6uYIUM7Qbp0QPMSOHZm|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20885&type=drm&token=krVB7fS0foZni6uYIUM7Qbp0QPMSOHZm
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/hWl-u8cr1xtvftmX0u4IVa1h8S0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4997578/c34733.jpg" ch-number="11", Corentin Moutet vs Taha Baadi - Round 2 | ATP 250: Grand Prix Hassan II 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=20885&type=dash&token=krVB7fS0foZni6uYIUM7Qbp0QPMSOHZm|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -71,7 +71,7 @@ https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1ec
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20885&type=drm&token=krVB7fS0foZni6uYIUM7Qbp0QPMSOHZm
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/hWl-u8cr1xtvftmX0u4IVa1h8S0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4997578/c34733.jpg" ch-number="13", Corentin Moutet vs Taha Baadi - Round 2 | ATP 250: Grand Prix Hassan II 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/tM072G_ffdUC7hbVEhWSc7RG_wo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4997579/eb9b35.jpg" ch-number="13", Luciano Darderi vs Mattia Bellucci - Round 2 | ATP 250: Grand Prix Hassan II 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=20885&type=dash&token=krVB7fS0foZni6uYIUM7Qbp0QPMSOHZm|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
@@ -82,38 +82,32 @@ https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1ec
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20885&type=drm&token=krVB7fS0foZni6uYIUM7Qbp0QPMSOHZm
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/tM072G_ffdUC7hbVEhWSc7RG_wo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4997579/eb9b35.jpg" ch-number="15", Luciano Darderi vs Mattia Bellucci - Round 2 | ATP 250: Grand Prix Hassan II 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=20885&type=dash&token=krVB7fS0foZni6uYIUM7Qbp0QPMSOHZm|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6786&type=drm&token=krVB7fS0foZni6uYIUM7Qbp0QPMSOHZm
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/tYjr21QrSL_R7N8-GcFAWidCGo0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4980968/293f81.jpg" ch-number="16", Day 2 - WTA 500: Credit One Charleston Open 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/tYjr21QrSL_R7N8-GcFAWidCGo0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4980968/293f81.jpg" ch-number="15", Day 2 - WTA 500: Credit One Charleston Open 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=6786&type=dash&token=krVB7fS0foZni6uYIUM7Qbp0QPMSOHZm|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20885&type=drm&token=krVB7fS0foZni6uYIUM7Qbp0QPMSOHZm
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/2hdeswl3rptMAFLyBavcIPxbjtI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4997580/9121f7.jpg" ch-number="17", Karim Bennani vs Yannick Hanfmann - Round 2 | ATP 250: Grand Prix Hassan II 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/2hdeswl3rptMAFLyBavcIPxbjtI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4997580/9121f7.jpg" ch-number="16", Karim Bennani vs Yannick Hanfmann - Round 2 | ATP 250: Grand Prix Hassan II 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=20885&type=dash&token=krVB7fS0foZni6uYIUM7Qbp0QPMSOHZm|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6317&type=drm&token=krVB7fS0foZni6uYIUM7Qbp0QPMSOHZm
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/0ZNcAQ_zR1-B1Q1SXhkTd0PXPps=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4975080/a65877.jpg" ch-number="18", Bayern Munich vs Man United - UEFA Women's Champions League
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/0ZNcAQ_zR1-B1Q1SXhkTd0PXPps=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4975080/a65877.jpg" ch-number="17", Bayern Munich vs Man United - UEFA Women's Champions League
 #https://vid-id.indi1.workers.dev/index.mpd?id=6317&type=dash&token=krVB7fS0foZni6uYIUM7Qbp0QPMSOHZm|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=drm&token=krVB7fS0foZni6uYIUM7Qbp0QPMSOHZm
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/3WNOE_XXraEVao--pqnVtPj-Ke4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4975947/0198d3.jpg" ch-number="19", Chelsea vs Arsenal - UEFA Women's Champions League
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/3WNOE_XXraEVao--pqnVtPj-Ke4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4975947/0198d3.jpg" ch-number="18", Chelsea vs Arsenal - UEFA Women's Champions League
 #https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=dash&token=krVB7fS0foZni6uYIUM7Qbp0QPMSOHZm|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6786&type=drm&token=krVB7fS0foZni6uYIUM7Qbp0QPMSOHZm
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/LwBAyaNBd87yiz2b8sCOl75QnCM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4980969/051f87.jpg" ch-number="20", Day 2 - WTA 500: Credit One Charleston Open 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/LwBAyaNBd87yiz2b8sCOl75QnCM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4980969/051f87.jpg" ch-number="19", Day 2 - WTA 500: Credit One Charleston Open 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=6786&type=dash&token=krVB7fS0foZni6uYIUM7Qbp0QPMSOHZm|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
