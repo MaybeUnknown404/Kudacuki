@@ -11,9 +11,9 @@ https://vid-id.indi1.workers.dev/index.mpd?id=20564&type=dash&token=5G6rEQLClbjq
 https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=dash&token=5G6rEQLClbjqWZAseqqAvZog0UZGB4t6|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6786&type=drm&token=5G6rEQLClbjqWZAseqqAvZog0UZGB4t6
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/tYjr21QrSL_R7N8-GcFAWidCGo0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4980968/293f81.jpg" ch-number="3", Day 2 - WTA 500: Credit One Charleston Open 2026
-https://vid-id.indi1.workers.dev/index.mpd?id=6786&type=dash&token=5G6rEQLClbjqWZAseqqAvZog0UZGB4t6|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20902&type=drm&token=5G6rEQLClbjqWZAseqqAvZog0UZGB4t6
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/yeBV8SidQrqv1s1qlvoZ7Xwm06M=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4998124/c3ce2f.jpg" ch-number="3", Day 2 - WTA 500: Credit One Charleston Open 2026
+https://vid-id.indi1.workers.dev/index.mpd?id=20902&type=dash&token=5G6rEQLClbjqWZAseqqAvZog0UZGB4t6|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20885&type=drm&token=5G6rEQLClbjqWZAseqqAvZog0UZGB4t6
