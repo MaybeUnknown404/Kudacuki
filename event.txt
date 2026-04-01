@@ -2,15 +2,13 @@
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20885&type=drm&token=5G6rEQLClbjqWZAseqqAvZog0UZGB4t6
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/MMWQMw14mrDcMh2dmNyIW0l-6WU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4997577/f36ef1.jpg" ch-number="1", Marco Trungelliti vs Kamil Majchrzak - Round 2 | ATP 250: Grand Prix Hassan II 2026 - Round 2 | ATP 250: Grand Prix Hassan II 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=20885&type=dash&token=5G6rEQLClbjqWZAseqqAvZog0UZGB4t6|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/MMWQMw14mrDcMh2dmNyIW0l-6WU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4997577/f36ef1.jpg" ch-number="1", Marco Trungelliti vs Kamil Majchrzak - Round 2 | ATP 250: Grand Prix Hassan II 2026 - Round 2 | ATP 250: Grand Prix Hassan II 2026
+https://vid-id.indi1.workers.dev/index.mpd?id=20885&type=dash&token=5G6rEQLClbjqWZAseqqAvZog0UZGB4t6|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=drm&token=5G6rEQLClbjqWZAseqqAvZog0UZGB4t6
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/a5SA6vdBCuw28cIfoLF7vVKTHOw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4997581/3df6c4.jpg" ch-number="2", Elmer Moller vs Mariano Navone - Round 2 | ATP 250: Tiriac Open presented by Unicredit Bank 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=dash&token=5G6rEQLClbjqWZAseqqAvZog0UZGB4t6|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/a5SA6vdBCuw28cIfoLF7vVKTHOw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4997581/3df6c4.jpg" ch-number="2", Elmer Moller vs Mariano Navone - Round 2 | ATP 250: Tiriac Open presented by Unicredit Bank 2026
+https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=dash&token=5G6rEQLClbjqWZAseqqAvZog0UZGB4t6|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=drm&token=5G6rEQLClbjqWZAseqqAvZog0UZGB4t6
