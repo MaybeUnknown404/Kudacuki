@@ -6,55 +6,53 @@
 https://vid-id.indi1.workers.dev/index.mpd?id=6686&type=dash&token=RhbWWv3rgtNWOE4XvUILZhue01BYFC2U|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20886&type=drm&token=RhbWWv3rgtNWOE4XvUILZhue01BYFC2U
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/f2lenmMTCJz3oKHjYFHzRQNe22E=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5004804/6ad7cc.jpg" ch-number="2", Ben Shelton vs Thiago Agustin Tirante - Quarterfinals | ATP 250: Fayez Sarofim & Co. U.S. Men's Clay Court Championship 2026
-https://vid-id.indi1.workers.dev/index.mpd?id=20886&type=dash&token=RhbWWv3rgtNWOE4XvUILZhue01BYFC2U|User-Agent=VidioPlayer/6.31.6
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18189&type=drm&token=RhbWWv3rgtNWOE4XvUILZhue01BYFC2U
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/yy9Olui0ao2OboDmzantZNuamAs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4996371/7729c3.jpg" ch-number="3", Round 2 - Valero Texas Open 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/yy9Olui0ao2OboDmzantZNuamAs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4996371/7729c3.jpg" ch-number="2", Round 2 - Valero Texas Open 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=18189&type=dash&token=RhbWWv3rgtNWOE4XvUILZhue01BYFC2U|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6786&type=drm&token=RhbWWv3rgtNWOE4XvUILZhue01BYFC2U
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/_Brwcu-339IHogbihDcesdKQcPU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4997595/42afef.jpg" ch-number="4", Quarter Finals - WTA 500: Credit One Charleston Open 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=6786&type=dash&token=RhbWWv3rgtNWOE4XvUILZhue01BYFC2U|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20886&type=drm&token=RhbWWv3rgtNWOE4XvUILZhue01BYFC2U
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/Bk2HcEukFvjkpBY6iZ6jPCsPdZM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5004805/5fa221.jpg" ch-number="3", Tomas Martin Etcheverry vs Tommy Paul - Quarterfinals | ATP 250: Fayez Sarofim & Co. U.S. Men's Clay Court Championship 2026
+https://vid-id.indi1.workers.dev/index.mpd?id=20886&type=dash&token=RhbWWv3rgtNWOE4XvUILZhue01BYFC2U|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18190&type=drm&token=RhbWWv3rgtNWOE4XvUILZhue01BYFC2U
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/u7jjlQHd5Tt_9YKaUOfkUBGg5ko=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5004993/51e009.jpg" ch-number="5", Round 2 - Aramco Championship 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=18190&type=dash&token=RhbWWv3rgtNWOE4XvUILZhue01BYFC2U|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/u7jjlQHd5Tt_9YKaUOfkUBGg5ko=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5004993/51e009.jpg" ch-number="4", Round 2 - Aramco Championship 2026
+https://vid-id.indi1.workers.dev/index.mpd?id=18190&type=dash&token=RhbWWv3rgtNWOE4XvUILZhue01BYFC2U|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20886&type=drm&token=RhbWWv3rgtNWOE4XvUILZhue01BYFC2U
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Bk2HcEukFvjkpBY6iZ6jPCsPdZM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5004805/5fa221.jpg" ch-number="6", Tomas Martin Etcheverry vs Tommy Paul - Quarterfinals | ATP 250: Fayez Sarofim & Co. U.S. Men's Clay Court Championship 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=20886&type=dash&token=RhbWWv3rgtNWOE4XvUILZhue01BYFC2U|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6786&type=drm&token=RhbWWv3rgtNWOE4XvUILZhue01BYFC2U
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/_Brwcu-339IHogbihDcesdKQcPU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4997595/42afef.jpg" ch-number="5", Quarter Finals - WTA 500: Credit One Charleston Open 2026
+https://vid-id.indi1.workers.dev/index.mpd?id=6786&type=dash&token=RhbWWv3rgtNWOE4XvUILZhue01BYFC2U|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21099&type=drm&token=RhbWWv3rgtNWOE4XvUILZhue01BYFC2U
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/xrBV3s2Zi7S5iMJ1tlG1ThnKmlk=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21099/matchday-21-hydroplus-soccer-league-u-15-1dbedf.jpg" ch-number="7", SSB ANJELO vs TANGSEL WOMEN - HYDROPLUS Soccer League U-15
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/xrBV3s2Zi7S5iMJ1tlG1ThnKmlk=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21099/matchday-21-hydroplus-soccer-league-u-15-1dbedf.jpg" ch-number="6", SSB ANJELO vs TANGSEL WOMEN - HYDROPLUS Soccer League U-15
 #https://vid-id.indi1.workers.dev/index.mpd?id=21099&type=dash&token=RhbWWv3rgtNWOE4XvUILZhue01BYFC2U|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20886&type=drm&token=RhbWWv3rgtNWOE4XvUILZhue01BYFC2U
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/HEvYW8x6-hW69DnMOPSEoOcGImc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5004806/73e98a.jpg" ch-number="8", Alexei Popyrin vs Frances Tiafoe - Quarterfinals | ATP 250: Fayez Sarofim & Co. U.S. Men's Clay Court Championship 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/HEvYW8x6-hW69DnMOPSEoOcGImc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5004806/73e98a.jpg" ch-number="7", Alexei Popyrin vs Frances Tiafoe - Quarterfinals | ATP 250: Fayez Sarofim & Co. U.S. Men's Clay Court Championship 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=20886&type=dash&token=RhbWWv3rgtNWOE4XvUILZhue01BYFC2U|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21100&type=drm&token=RhbWWv3rgtNWOE4XvUILZhue01BYFC2U
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Mi84gThIrElOpPdIzJHAYzMfUus=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21100/triple-crown-i-pertiwi-cup-2026-9a5478.jpg" ch-number="9", Triple Crown I Pertiwi Cup 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Mi84gThIrElOpPdIzJHAYzMfUus=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21100/triple-crown-i-pertiwi-cup-2026-9a5478.jpg" ch-number="8", Triple Crown I Pertiwi Cup 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=21100&type=dash&token=RhbWWv3rgtNWOE4XvUILZhue01BYFC2U|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=19354&type=drm&token=RhbWWv3rgtNWOE4XvUILZhue01BYFC2U
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/6_-fqQqYXW9njsEkF-YFY7ssjvo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4997644/d28255.jpg" ch-number="10", PSM Makassar vs PERSIS - BRI Super League
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/6_-fqQqYXW9njsEkF-YFY7ssjvo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4997644/d28255.jpg" ch-number="9", PSM Makassar vs PERSIS - BRI Super League
 #https://vid-id.indi1.workers.dev/index.mpd?id=19354&type=dash&token=RhbWWv3rgtNWOE4XvUILZhue01BYFC2U|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/drm.kt?id=19543&type=drm&token=RhbWWv3rgtNWOE4XvUILZhue01BYFC2U
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Y64_-b0ojuayoSlFLUCTYhTFUzM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4997642/61d181.jpg" ch-number="10", PSS Sleman vs Persipal FC - Pegadaian Championship
+#https://spacetv.my.id/index.mpd?id=19543&type=dash&token=RhbWWv3rgtNWOE4XvUILZhue01BYFC2U|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -64,50 +62,44 @@ https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1ec
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/drm.kt?id=19543&type=drm&token=RhbWWv3rgtNWOE4XvUILZhue01BYFC2U
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Y64_-b0ojuayoSlFLUCTYhTFUzM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4997642/61d181.jpg" ch-number="12", PSS Sleman vs Persipal FC - Pegadaian Championship
-#https://spacetv.my.id/index.mpd?id=19543&type=dash&token=RhbWWv3rgtNWOE4XvUILZhue01BYFC2U|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=drm&token=RhbWWv3rgtNWOE4XvUILZhue01BYFC2U
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Q13XMYnoXhKNqiyyX5PZwoku1WU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5005000/d03a72.jpg" ch-number="14", Mariano Navone vs Botic van de Zandschulp - Semifinal | ATP 250: Tiriac Open presented by Unicredit Bank 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Q13XMYnoXhKNqiyyX5PZwoku1WU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5005000/d03a72.jpg" ch-number="13", Mariano Navone vs Botic van de Zandschulp - Semifinal | ATP 250: Tiriac Open presented by Unicredit Bank 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=dash&token=RhbWWv3rgtNWOE4XvUILZhue01BYFC2U|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=drm&token=RhbWWv3rgtNWOE4XvUILZhue01BYFC2U
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/sejEkRwNhWuAUyKvkSADZVWa2A4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4997651/9f7b61.jpg" ch-number="15", Genclerbirligi vs Goztepe - Trendyol Super Lig
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/sejEkRwNhWuAUyKvkSADZVWa2A4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4997651/9f7b61.jpg" ch-number="14", Genclerbirligi vs Goztepe - Trendyol Super Lig
 #https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=dash&token=RhbWWv3rgtNWOE4XvUILZhue01BYFC2U|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=19354&type=drm&token=RhbWWv3rgtNWOE4XvUILZhue01BYFC2U
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/h90bYmeft5V-p7pWi8NsT9HXeOk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4997647/938771.jpg" ch-number="16", PERSEBAYA Surabaya vs PERSITA - BRI Super League
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/h90bYmeft5V-p7pWi8NsT9HXeOk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4997647/938771.jpg" ch-number="15", PERSEBAYA Surabaya vs PERSITA - BRI Super League
 #https://vid-id.indi1.workers.dev/index.mpd?id=19354&type=dash&token=RhbWWv3rgtNWOE4XvUILZhue01BYFC2U|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=19355&type=drm&token=RhbWWv3rgtNWOE4XvUILZhue01BYFC2U
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/SNeZXoPE0A_XzHe5BIlOR4FtHnU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4997649/a847a3.jpg" ch-number="17", Jelang Kick Off - PERSEBAYA Surabaya vs PERSITA - BRI Super League
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/SNeZXoPE0A_XzHe5BIlOR4FtHnU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4997649/a847a3.jpg" ch-number="16", Jelang Kick Off - PERSEBAYA Surabaya vs PERSITA - BRI Super League
 #https://vid-id.indi1.workers.dev/index.mpd?id=19355&type=dash&token=RhbWWv3rgtNWOE4XvUILZhue01BYFC2U|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20288&type=drm&token=RhbWWv3rgtNWOE4XvUILZhue01BYFC2U
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/PIt9G_Nq6HVTjLTW6MuqxI3wAgM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4997652/93a13e.jpg" ch-number="18", Man City vs Liverpool - FA Cup
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/PIt9G_Nq6HVTjLTW6MuqxI3wAgM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4997652/93a13e.jpg" ch-number="17", Man City vs Liverpool - FA Cup
 #https://vid-id.indi1.workers.dev/index.mpd?id=20288&type=dash&token=RhbWWv3rgtNWOE4XvUILZhue01BYFC2U|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/drm.kt?id=19543&type=drm&token=RhbWWv3rgtNWOE4XvUILZhue01BYFC2U
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Jr0BIeqfCcgfFG7j_e_c3d4h894=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4997643/772674.jpg" ch-number="19", Persiba Balikpapan vs Persipura Jayapura - Pegadaian Championship
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Jr0BIeqfCcgfFG7j_e_c3d4h894=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4997643/772674.jpg" ch-number="18", Persiba Balikpapan vs Persipura Jayapura - Pegadaian Championship
 #https://spacetv.my.id/index.mpd?id=19543&type=dash&token=RhbWWv3rgtNWOE4XvUILZhue01BYFC2U|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=drm&token=RhbWWv3rgtNWOE4XvUILZhue01BYFC2U
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/LC8EbZt6CYesXnpHo78QDB9AQvM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4997654/013902.jpg" ch-number="20", Real Sociedad vs Levante - LaLiga
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/LC8EbZt6CYesXnpHo78QDB9AQvM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4997654/013902.jpg" ch-number="19", Real Sociedad vs Levante - LaLiga
 #https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=dash&token=RhbWWv3rgtNWOE4XvUILZhue01BYFC2U|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
