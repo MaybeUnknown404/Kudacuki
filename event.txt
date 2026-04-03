@@ -71,38 +71,38 @@ https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1ec
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=drm&token=MgCKpxUfZXPGf3hbRzq0jTAnJESaXaxt
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/YPl0RZOduIWcS_RFXIvzoA2RPn8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5003675/e0a902.jpg" ch-number="15", Alex Molcan vs Mariano Navone - Quarterfinal | ATP 250: Tiriac Open presented by Unicredit Bank 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=dash&token=MgCKpxUfZXPGf3hbRzq0jTAnJESaXaxt|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6786&type=drm&token=MgCKpxUfZXPGf3hbRzq0jTAnJESaXaxt
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Ncy4CI2a5InoPNaVhLUhqaI4Ypo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4981605/4ee5ef.jpg" ch-number="16", Quarter Finals - WTA 500: Credit One Charleston Open 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Ncy4CI2a5InoPNaVhLUhqaI4Ypo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4981605/4ee5ef.jpg" ch-number="15", Quarter Finals - WTA 500: Credit One Charleston Open 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=6786&type=dash&token=MgCKpxUfZXPGf3hbRzq0jTAnJESaXaxt|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=drm&token=MgCKpxUfZXPGf3hbRzq0jTAnJESaXaxt
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/cGqQnsOVSM6B03-f7fcXAZRUxTQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5003676/48ac10.jpg" ch-number="17", Sebastian Baez/Titouan Droguet vs Daniel Merida/Adrian Mannarino - Quarterfinal | ATP 250: Tiriac Open presented by Unicredit Bank 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=dash&token=MgCKpxUfZXPGf3hbRzq0jTAnJESaXaxt|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6686&type=drm&token=MgCKpxUfZXPGf3hbRzq0jTAnJESaXaxt
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/nCMSK0QEL-3uKc1whWGn6Xz07JU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4981232/485ee0.jpg" ch-number="18", Quarter Finals - WTA 250: Copa Colsanitas Colsubsidio 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/nCMSK0QEL-3uKc1whWGn6Xz07JU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4981232/485ee0.jpg" ch-number="16", Quarter Finals - WTA 250: Copa Colsanitas Colsubsidio 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=6686&type=dash&token=MgCKpxUfZXPGf3hbRzq0jTAnJESaXaxt|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=drm&token=MgCKpxUfZXPGf3hbRzq0jTAnJESaXaxt
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/YPl0RZOduIWcS_RFXIvzoA2RPn8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5003675/e0a902.jpg" ch-number="17", Alex Molcan vs Mariano Navone - Quarterfinal | ATP 250: Tiriac Open presented by Unicredit Bank 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=dash&token=MgCKpxUfZXPGf3hbRzq0jTAnJESaXaxt|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=drm&token=MgCKpxUfZXPGf3hbRzq0jTAnJESaXaxt
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/_N8g7mLIGTS3VVMjpBW_tz7iE5E=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4981738/981297.jpg" ch-number="19", Rayo Vallecano vs Elche - LaLiga
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/_N8g7mLIGTS3VVMjpBW_tz7iE5E=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4981738/981297.jpg" ch-number="18", Rayo Vallecano vs Elche - LaLiga
 #https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=dash&token=MgCKpxUfZXPGf3hbRzq0jTAnJESaXaxt|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20594&type=drm&token=MgCKpxUfZXPGf3hbRzq0jTAnJESaXaxt
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/yrIAuN_iIUfjRJidhyEJmvemaMk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4996319/ec7348.jpg" ch-number="20", Coventry City vs Derby County - EFL Championship
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/yrIAuN_iIUfjRJidhyEJmvemaMk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4996319/ec7348.jpg" ch-number="19", Coventry City vs Derby County - EFL Championship
 #https://vid-id.indi1.workers.dev/index.mpd?id=20594&type=dash&token=MgCKpxUfZXPGf3hbRzq0jTAnJESaXaxt|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20502&type=drm&token=MgCKpxUfZXPGf3hbRzq0jTAnJESaXaxt
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/_gsaddXtU4czfHb9EqX3vwjCEkU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4996318/d3d6f4.jpg" ch-number="20", Sporting vs Santa Clara - Liga Portugal
+#https://vid-id.indi1.workers.dev/index.mpd?id=20502&type=dash&token=MgCKpxUfZXPGf3hbRzq0jTAnJESaXaxt|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
