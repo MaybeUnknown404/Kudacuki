@@ -7,9 +7,8 @@ https://vid-id.indi1.workers.dev/index.mpd?id=21099&type=dash&token=RhbWWv3rgtNW
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21100&type=drm&token=RhbWWv3rgtNWOE4XvUILZhue01BYFC2U
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Mi84gThIrElOpPdIzJHAYzMfUus=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21100/triple-crown-i-pertiwi-cup-2026-9a5478.jpg" ch-number="2", Triple Crown I Pertiwi Cup 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=21100&type=dash&token=RhbWWv3rgtNWOE4XvUILZhue01BYFC2U|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/lrMnvCeWEV3MlmLprk0Oio6_d-E=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4998117/426b38.jpg" ch-number="2", Triple Crown I Pertiwi Cup 2026
+https://vid-id.indi1.workers.dev/index.mpd?id=21100&type=dash&token=RhbWWv3rgtNWOE4XvUILZhue01BYFC2U|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=19354&type=drm&token=RhbWWv3rgtNWOE4XvUILZhue01BYFC2U
