@@ -1,20 +1,19 @@
 #EXTM3U
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21099&type=drm&token=RhbWWv3rgtNWOE4XvUILZhue01BYFC2U
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/ndp7pIaUztrNi7DYXefXORnF0DE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4998112/379cdf.jpg" ch-number="1", SSB ANJELO vs TANGSEL WOMEN - HYDROPLUS Soccer League U-15
+https://vid-id.indi1.workers.dev/index.mpd?id=21099&type=dash&token=RhbWWv3rgtNWOE4XvUILZhue01BYFC2U|User-Agent=VidioPlayer/6.31.6
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18190&type=drm&token=RhbWWv3rgtNWOE4XvUILZhue01BYFC2U
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/u7jjlQHd5Tt_9YKaUOfkUBGg5ko=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5004993/51e009.jpg" ch-number="1", Round 2 - Aramco Championship 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/u7jjlQHd5Tt_9YKaUOfkUBGg5ko=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5004993/51e009.jpg" ch-number="2", Round 2 - Aramco Championship 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=18190&type=dash&token=RhbWWv3rgtNWOE4XvUILZhue01BYFC2U|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20886&type=drm&token=RhbWWv3rgtNWOE4XvUILZhue01BYFC2U
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/HEvYW8x6-hW69DnMOPSEoOcGImc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5004806/73e98a.jpg" ch-number="2", Alexei Popyrin vs Frances Tiafoe - Quarterfinals | ATP 250: Fayez Sarofim & Co. U.S. Men's Clay Court Championship 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/HEvYW8x6-hW69DnMOPSEoOcGImc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5004806/73e98a.jpg" ch-number="3", Alexei Popyrin vs Frances Tiafoe - Quarterfinals | ATP 250: Fayez Sarofim & Co. U.S. Men's Clay Court Championship 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=20886&type=dash&token=RhbWWv3rgtNWOE4XvUILZhue01BYFC2U|User-Agent=VidioPlayer/6.31.6
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21099&type=drm&token=RhbWWv3rgtNWOE4XvUILZhue01BYFC2U
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/xrBV3s2Zi7S5iMJ1tlG1ThnKmlk=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21099/matchday-21-hydroplus-soccer-league-u-15-1dbedf.jpg" ch-number="3", SSB ANJELO vs TANGSEL WOMEN - HYDROPLUS Soccer League U-15
-#https://vid-id.indi1.workers.dev/index.mpd?id=21099&type=dash&token=RhbWWv3rgtNWOE4XvUILZhue01BYFC2U|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21100&type=drm&token=RhbWWv3rgtNWOE4XvUILZhue01BYFC2U
