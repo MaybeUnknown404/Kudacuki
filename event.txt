@@ -22,7 +22,7 @@ https://vid-id.indi1.workers.dev/index.mpd?id=205&type=dash&token=ilHmFiUy7NVv9t
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20955&type=drm&token=ilHmFiUy7NVv9tcDVyPzGmIuPdkcHk0u
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/OGAXJNl9tGFgYtZ_zQgsE11VmQ0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5006549/59ec68.jpg" ch-number="6", Cameron Norrie vs Miomir Kecmanovic - Round 1 | ATP 1000: Rolex Monte-Carlo Masters 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="⛔ Event Ended" tvg-logo="https://thumbor.prod.vidiocdn.com/OGAXJNl9tGFgYtZ_zQgsE11VmQ0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5006549/59ec68.jpg" ch-number="6", Cameron Norrie vs Miomir Kecmanovic - Round 1 | ATP 1000: Rolex Monte-Carlo Masters 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=20955&type=dash&token=ilHmFiUy7NVv9tcDVyPzGmIuPdkcHk0u|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -32,7 +32,7 @@ https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=dash&token=ilHmFiUy7NVv
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20887&type=drm&token=ilHmFiUy7NVv9tcDVyPzGmIuPdkcHk0u
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/69VF_eN5o8Prrakb6QFI-w4FXiQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5006548/003def.jpg" ch-number="8", Cameron Norrie vs Miomir Kecmanovic - Round 1 (Court Rainier III) | ATP 1000: Rolex Monte-Carlo Masters 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="⛔ Event Ended" tvg-logo="https://thumbor.prod.vidiocdn.com/69VF_eN5o8Prrakb6QFI-w4FXiQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5006548/003def.jpg" ch-number="8", Cameron Norrie vs Miomir Kecmanovic - Round 1 (Court Rainier III) | ATP 1000: Rolex Monte-Carlo Masters 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=20887&type=dash&token=ilHmFiUy7NVv9tcDVyPzGmIuPdkcHk0u|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -62,15 +62,13 @@ https://vid-id.indi1.workers.dev/index.mpd?id=17139&type=dash&token=ilHmFiUy7NVv
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20887&type=drm&token=ilHmFiUy7NVv9tcDVyPzGmIuPdkcHk0u
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/bokvdmsaBZzyW87LEiKzUqJ_uBo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5006552/dd36ac.jpg" ch-number="14", Gael Monfils vs Tallon Griekspoor - Round 1 (Court Rainier III) | ATP 1000: Rolex Monte-Carlo Masters 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=20887&type=dash&token=ilHmFiUy7NVv9tcDVyPzGmIuPdkcHk0u|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/bokvdmsaBZzyW87LEiKzUqJ_uBo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5006552/dd36ac.jpg" ch-number="14", Gael Monfils vs Tallon Griekspoor - Round 1 (Court Rainier III) | ATP 1000: Rolex Monte-Carlo Masters 2026
+https://vid-id.indi1.workers.dev/index.mpd?id=20887&type=dash&token=ilHmFiUy7NVv9tcDVyPzGmIuPdkcHk0u|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20955&type=drm&token=ilHmFiUy7NVv9tcDVyPzGmIuPdkcHk0u
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/PjJtqWtBJDFgAjYwiQJT2_X_Wkg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5006550/aa3aad.jpg" ch-number="15", Gael Monfils vs Tallon Griekspoor - Round 1 | ATP 1000: Rolex Monte-Carlo Masters 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=20955&type=dash&token=ilHmFiUy7NVv9tcDVyPzGmIuPdkcHk0u|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/PjJtqWtBJDFgAjYwiQJT2_X_Wkg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5006550/aa3aad.jpg" ch-number="15", Gael Monfils vs Tallon Griekspoor - Round 1 | ATP 1000: Rolex Monte-Carlo Masters 2026
+https://vid-id.indi1.workers.dev/index.mpd?id=20955&type=dash&token=ilHmFiUy7NVv9tcDVyPzGmIuPdkcHk0u|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20890&type=drm&token=ilHmFiUy7NVv9tcDVyPzGmIuPdkcHk0u
