@@ -1,49 +1,49 @@
 #EXTM3U
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=19404&type=drm&token=o5XcHXozRVcOCpS17Dw6NRLd5sFnVBFN
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/4hUEAGkxnnMpANkmAI8S87kln0U=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5006226/b6b1a1.jpg" ch-number="1", Inter vs Roma - Serie A
+https://vid-id.indi1.workers.dev/index.mpd?id=19404&type=dash&token=o5XcHXozRVcOCpS17Dw6NRLd5sFnVBFN|User-Agent=VidioPlayer/6.31.6
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20249&type=drm&token=o5XcHXozRVcOCpS17Dw6NRLd5sFnVBFN
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/Mt37C5RH78ehcyCPducbrr5bpgw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4999103/c1fdd5.jpg" ch-number="1", West Ham vs Leeds United - FA Cup
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/Mt37C5RH78ehcyCPducbrr5bpgw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4999103/c1fdd5.jpg" ch-number="2", West Ham vs Leeds United - FA Cup
 https://vid-id.indi1.workers.dev/index.mpd?id=20249&type=dash&token=o5XcHXozRVcOCpS17Dw6NRLd5sFnVBFN|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=drm&token=o5XcHXozRVcOCpS17Dw6NRLd5sFnVBFN
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/kGSvtOR5E-LWv3MH9DirKQyXzI4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4998482/24055f.jpg" ch-number="2", Oviedo vs Sevilla - LaLiga
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/kGSvtOR5E-LWv3MH9DirKQyXzI4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4998482/24055f.jpg" ch-number="3", Oviedo vs Sevilla - LaLiga
 https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=dash&token=o5XcHXozRVcOCpS17Dw6NRLd5sFnVBFN|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=drm&token=o5XcHXozRVcOCpS17Dw6NRLd5sFnVBFN
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/Brk5m7GSbJfLZSU3huYUf8tsCE4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5005230/379350.jpg" ch-number="3", Fenerbahce vs Besiktas - Trendyol Super Lig
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/Brk5m7GSbJfLZSU3huYUf8tsCE4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5005230/379350.jpg" ch-number="4", Fenerbahce vs Besiktas - Trendyol Super Lig
 https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=dash&token=o5XcHXozRVcOCpS17Dw6NRLd5sFnVBFN|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18189&type=drm&token=o5XcHXozRVcOCpS17Dw6NRLd5sFnVBFN
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/yRPWj-8o6for2kMbWssYNrzl1_w=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5007186/9c3e6b.jpg" ch-number="4", Round 4 - Valero Texas Open 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/yRPWj-8o6for2kMbWssYNrzl1_w=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5007186/9c3e6b.jpg" ch-number="5", Round 4 - Valero Texas Open 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=18189&type=dash&token=o5XcHXozRVcOCpS17Dw6NRLd5sFnVBFN|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20902&type=drm&token=o5XcHXozRVcOCpS17Dw6NRLd5sFnVBFN
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/xw35nccVMR-ft3c5769sOXqdpj0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5005223/9aa6ba.jpg" ch-number="5", Final - WTA 250: Copa Colsanitas Colsubsidio 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/xw35nccVMR-ft3c5769sOXqdpj0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5005223/9aa6ba.jpg" ch-number="6", Final - WTA 250: Copa Colsanitas Colsubsidio 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=20902&type=dash&token=o5XcHXozRVcOCpS17Dw6NRLd5sFnVBFN|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20564&type=drm&token=o5XcHXozRVcOCpS17Dw6NRLd5sFnVBFN
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/tjD3cl6-cjt06TjJ6QwM7N-2f5Q=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5005224/cd48c2.jpg" ch-number="6", Final - WTA 500: Credit One Charleston Open 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/tjD3cl6-cjt06TjJ6QwM7N-2f5Q=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5005224/cd48c2.jpg" ch-number="7", Final - WTA 500: Credit One Charleston Open 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=20564&type=dash&token=o5XcHXozRVcOCpS17Dw6NRLd5sFnVBFN|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20887&type=drm&token=o5XcHXozRVcOCpS17Dw6NRLd5sFnVBFN
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/elU2PMOMAamnGc-EdII9APu-p2w=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5006553/26c71f.jpg" ch-number="7", Moise Kouame vs Ugo Humbert - Round 1 (Court Rainier III) | ATP 1000: Rolex Monte-Carlo Masters 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/elU2PMOMAamnGc-EdII9APu-p2w=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5006553/26c71f.jpg" ch-number="8", Moise Kouame vs Ugo Humbert - Round 1 (Court Rainier III) | ATP 1000: Rolex Monte-Carlo Masters 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=20887&type=dash&token=o5XcHXozRVcOCpS17Dw6NRLd5sFnVBFN|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20955&type=drm&token=o5XcHXozRVcOCpS17Dw6NRLd5sFnVBFN
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/QwmiUqCZwfUcFTpiG2NfgXliRIA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5006551/8d7e22.jpg" ch-number="8", Moise Kouame vs Ugo Humbert - Round 1 | ATP 1000: Rolex Monte-Carlo Masters 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/QwmiUqCZwfUcFTpiG2NfgXliRIA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5006551/8d7e22.jpg" ch-number="9", Moise Kouame vs Ugo Humbert - Round 1 | ATP 1000: Rolex Monte-Carlo Masters 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=20955&type=dash&token=o5XcHXozRVcOCpS17Dw6NRLd5sFnVBFN|User-Agent=VidioPlayer/6.31.6
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=19404&type=drm&token=o5XcHXozRVcOCpS17Dw6NRLd5sFnVBFN
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/4hUEAGkxnnMpANkmAI8S87kln0U=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5006226/b6b1a1.jpg" ch-number="9", Inter vs Roma - Serie A
-https://vid-id.indi1.workers.dev/index.mpd?id=19404&type=dash&token=o5XcHXozRVcOCpS17Dw6NRLd5sFnVBFN|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=drm&token=o5XcHXozRVcOCpS17Dw6NRLd5sFnVBFN
