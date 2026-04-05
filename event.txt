@@ -7,60 +7,54 @@ https://vid-id.indi1.workers.dev/index.mpd?id=18190&type=dash&token=ilHmFiUy7NVv
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20216&type=drm&token=ilHmFiUy7NVv9tcDVyPzGmIuPdkcHk0u
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/njAZmuj51P8aPrDO-JY4k-SDEvw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4998486/656120.jpg" ch-number="2", Prelims | UFC Fight Night: Moicano vs Duncan
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/7-OyW4GiYjZc_3aEkgF5H7tvVSI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4998487/c657af.jpg" ch-number="2", Jose Delano vs Robert Ruchala - Featherweight | UFC Fight Night
 https://vid-id.indi1.workers.dev/index.mpd?id=20216&type=dash&token=ilHmFiUy7NVv9tcDVyPzGmIuPdkcHk0u|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20216&type=drm&token=ilHmFiUy7NVv9tcDVyPzGmIuPdkcHk0u
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/7-OyW4GiYjZc_3aEkgF5H7tvVSI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4998487/c657af.jpg" ch-number="3", Jose Delano vs Robert Ruchala - Featherweight | UFC Fight Night
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/qlWcLni3CBiZYC-hXaT8gr2yB9k=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4998488/b5d25c.jpg" ch-number="3", Tommy McMillen vs Manolo Zecchini - Featherweight | UFC Fight Night
 #https://vid-id.indi1.workers.dev/index.mpd?id=20216&type=dash&token=ilHmFiUy7NVv9tcDVyPzGmIuPdkcHk0u|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20216&type=drm&token=ilHmFiUy7NVv9tcDVyPzGmIuPdkcHk0u
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/qlWcLni3CBiZYC-hXaT8gr2yB9k=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4998488/b5d25c.jpg" ch-number="4", Tommy McMillen vs Manolo Zecchini - Featherweight | UFC Fight Night
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/9dXMOrX9rWSFzII5X6GU1pnJECc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4998489/639814.jpg" ch-number="4", Ethyn Ewing vs Rafael Estevam - Bantamweight | UFC Fight Night
 #https://vid-id.indi1.workers.dev/index.mpd?id=20216&type=dash&token=ilHmFiUy7NVv9tcDVyPzGmIuPdkcHk0u|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20216&type=drm&token=ilHmFiUy7NVv9tcDVyPzGmIuPdkcHk0u
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/9dXMOrX9rWSFzII5X6GU1pnJECc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4998489/639814.jpg" ch-number="5", Ethyn Ewing vs Rafael Estevam - Bantamweight | UFC Fight Night
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/S-zEv8vHPCrmmU5lwH--VmlVgAU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4998490/492759.jpg" ch-number="5", Abdul Rakhman Yakhyaev vs Brendson Ribeiro - Light Heavyweight | UFC Fight Night
 #https://vid-id.indi1.workers.dev/index.mpd?id=20216&type=dash&token=ilHmFiUy7NVv9tcDVyPzGmIuPdkcHk0u|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20216&type=drm&token=ilHmFiUy7NVv9tcDVyPzGmIuPdkcHk0u
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/S-zEv8vHPCrmmU5lwH--VmlVgAU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4998490/492759.jpg" ch-number="6", Abdul Rakhman Yakhyaev vs Brendson Ribeiro - Light Heavyweight | UFC Fight Night
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/nzwyvMpDB4Px19Pi3tptweFghHI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4998491/f1d7d8.jpg" ch-number="6", Virna Jandiroba vs Tabatha Ricci - Women's Strawweight | UFC Fight Night
 #https://vid-id.indi1.workers.dev/index.mpd?id=20216&type=dash&token=ilHmFiUy7NVv9tcDVyPzGmIuPdkcHk0u|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20216&type=drm&token=ilHmFiUy7NVv9tcDVyPzGmIuPdkcHk0u
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/nzwyvMpDB4Px19Pi3tptweFghHI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4998491/f1d7d8.jpg" ch-number="7", Virna Jandiroba vs Tabatha Ricci - Women's Strawweight | UFC Fight Night
-#https://vid-id.indi1.workers.dev/index.mpd?id=20216&type=dash&token=ilHmFiUy7NVv9tcDVyPzGmIuPdkcHk0u|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20216&type=drm&token=ilHmFiUy7NVv9tcDVyPzGmIuPdkcHk0u
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/TzZZe30727OyDKxgPPfbUW_Su-o=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4998492/c91a01.jpg" ch-number="8", Renato Moicano vs Chris Duncan - Lightweight | UFC Fight Night
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/TzZZe30727OyDKxgPPfbUW_Su-o=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4998492/c91a01.jpg" ch-number="7", Renato Moicano vs Chris Duncan - Lightweight | UFC Fight Night
 #https://vid-id.indi1.workers.dev/index.mpd?id=20216&type=dash&token=ilHmFiUy7NVv9tcDVyPzGmIuPdkcHk0u|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=19355&type=drm&token=ilHmFiUy7NVv9tcDVyPzGmIuPdkcHk0u
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/yS4nVCZ6CqgPfwGFrimiOo2DieU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5000768/57c243.jpg" ch-number="9", Jelang Kick Off - Bhayangkara Presisi Lampung FC vs PERSIJA - BRI Super League
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/yS4nVCZ6CqgPfwGFrimiOo2DieU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5000768/57c243.jpg" ch-number="8", Jelang Kick Off - Bhayangkara Presisi Lampung FC vs PERSIJA - BRI Super League
 #https://vid-id.indi1.workers.dev/index.mpd?id=19355&type=dash&token=ilHmFiUy7NVv9tcDVyPzGmIuPdkcHk0u|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/drm.kt?id=19883&type=drm&token=ilHmFiUy7NVv9tcDVyPzGmIuPdkcHk0u
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/8RcLpMj5NQVQYa_nANKKki9bcdM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4999295/7538ca.jpg" ch-number="10", Persikad vs PSMS Medan - Pegadaian Championship
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/8RcLpMj5NQVQYa_nANKKki9bcdM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4999295/7538ca.jpg" ch-number="9", Persikad vs PSMS Medan - Pegadaian Championship
 #https://spacetv.my.id/index.mpd?id=19883&type=dash&token=ilHmFiUy7NVv9tcDVyPzGmIuPdkcHk0u|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/drm.kt?id=20833&type=drm&token=ilHmFiUy7NVv9tcDVyPzGmIuPdkcHk0u
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/PXYMkfyAuPhVU_CL4e47QOlWNhw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5000555/24de05.jpg" ch-number="11", PSIS Semarang vs PS. Barito Putera - Pegadaian Championship
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/PXYMkfyAuPhVU_CL4e47QOlWNhw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5000555/24de05.jpg" ch-number="10", PSIS Semarang vs PS. Barito Putera - Pegadaian Championship
 #https://spacetv.my.id/index.mpd?id=20833&type=dash&token=ilHmFiUy7NVv9tcDVyPzGmIuPdkcHk0u|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
@@ -72,37 +66,43 @@ https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1ec
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=drm&token=ilHmFiUy7NVv9tcDVyPzGmIuPdkcHk0u
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/SHjz4Z2VOCTrA8Dw_zd5YTXdSHE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4998726/742cde.jpg" ch-number="14", Samsunspor vs Konyaspor - Trendyol Super Lig
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/SHjz4Z2VOCTrA8Dw_zd5YTXdSHE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4998726/742cde.jpg" ch-number="13", Samsunspor vs Konyaspor - Trendyol Super Lig
 #https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=dash&token=ilHmFiUy7NVv9tcDVyPzGmIuPdkcHk0u|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=19355&type=drm&token=ilHmFiUy7NVv9tcDVyPzGmIuPdkcHk0u
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/ovL9pTYniGdRdGhIuKMLHjRPMOg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5000769/7bdbf8.jpg" ch-number="16", Jelang Kick Off - Semen Padang FC vs PERSIB - BRI Super League
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/ovL9pTYniGdRdGhIuKMLHjRPMOg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5000769/7bdbf8.jpg" ch-number="14", Jelang Kick Off - Semen Padang FC vs PERSIB - BRI Super League
 #https://vid-id.indi1.workers.dev/index.mpd?id=19355&type=dash&token=ilHmFiUy7NVv9tcDVyPzGmIuPdkcHk0u|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=205&type=drm&token=ilHmFiUy7NVv9tcDVyPzGmIuPdkcHk0u
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/_JGmJOUi5glVbFSsaXXnWicGOAc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5000740/58ba64.jpg" ch-number="17", Madura United FC vs Borneo FC Samarinda - BRI Super League
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/_JGmJOUi5glVbFSsaXXnWicGOAc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5000740/58ba64.jpg" ch-number="16", Madura United FC vs Borneo FC Samarinda - BRI Super League
 #https://vid-id.indi1.workers.dev/index.mpd?id=205&type=dash&token=ilHmFiUy7NVv9tcDVyPzGmIuPdkcHk0u|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/drm.kt?id=20833&type=drm&token=ilHmFiUy7NVv9tcDVyPzGmIuPdkcHk0u
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/TxZaEcfXdbNMJt1ovOVT3f8GZDY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5000556/85b8f2.jpg" ch-number="18", Deltras FC vs Persela Lamongan - Pegadaian Championship
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/TxZaEcfXdbNMJt1ovOVT3f8GZDY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5000556/85b8f2.jpg" ch-number="17", Deltras FC vs Persela Lamongan - Pegadaian Championship
 #https://spacetv.my.id/index.mpd?id=20833&type=dash&token=ilHmFiUy7NVv9tcDVyPzGmIuPdkcHk0u|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=drm&token=ilHmFiUy7NVv9tcDVyPzGmIuPdkcHk0u
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/nn8ZLGmst7nbEGR3LpAc8PPHBfI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4998479/8dc422.jpg" ch-number="19", Getafe vs Athletic Club - LaLiga
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/nn8ZLGmst7nbEGR3LpAc8PPHBfI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4998479/8dc422.jpg" ch-number="18", Getafe vs Athletic Club - LaLiga
 #https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=dash&token=ilHmFiUy7NVv9tcDVyPzGmIuPdkcHk0u|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=19354&type=drm&token=ilHmFiUy7NVv9tcDVyPzGmIuPdkcHk0u
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/a35hkHT0VGfk_JUaWGCmZkJOmN8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5000771/a790e9.jpg" ch-number="20", Semen Padang FC vs PERSIB - BRI Super League
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/a35hkHT0VGfk_JUaWGCmZkJOmN8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5000771/a790e9.jpg" ch-number="19", Semen Padang FC vs PERSIB - BRI Super League
 #https://vid-id.indi1.workers.dev/index.mpd?id=19354&type=dash&token=ilHmFiUy7NVv9tcDVyPzGmIuPdkcHk0u|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6685&type=drm&token=ilHmFiUy7NVv9tcDVyPzGmIuPdkcHk0u
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/ND8ITWX9UpqOtdb74vd5BBpUoHk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4998477/d1d53b.jpg" ch-number="20", FC Volendam vs Feyenoord - Eredivisie
+#https://vid-id.indi1.workers.dev/index.mpd?id=6685&type=dash&token=ilHmFiUy7NVv9tcDVyPzGmIuPdkcHk0u|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
