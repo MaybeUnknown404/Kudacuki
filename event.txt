@@ -11,40 +11,40 @@ https://vid-id.indi1.workers.dev/index.mpd?id=6685&type=dash&token=o5XcHXozRVcOC
 https://vid-id.indi1.workers.dev/index.mpd?id=19404&type=dash&token=o5XcHXozRVcOCpS17Dw6NRLd5sFnVBFN|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20890&type=drm&token=o5XcHXozRVcOCpS17Dw6NRLd5sFnVBFN
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/XBmXY74B-l1bAHHRgFSVzIEUORo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5007605/0d3ab0.jpg" ch-number="3", Cristian Garin vs Matteo Arnaldi - Round 1 (Court EA de Massy) | ATP 1000: Rolex Monte-Carlo Masters 2026
-https://vid-id.indi1.workers.dev/index.mpd?id=20890&type=dash&token=o5XcHXozRVcOCpS17Dw6NRLd5sFnVBFN|User-Agent=VidioPlayer/6.31.6
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20955&type=drm&token=o5XcHXozRVcOCpS17Dw6NRLd5sFnVBFN
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/A_Smy6ADIHQ8zJsSoTEI4cM6qZ0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5007953/a8756c.jpg" ch-number="4", Francisco Cerundolo vs Stefanos Tsitsipas - Round 1 | ATP 1000: Rolex Monte-Carlo Masters 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/A_Smy6ADIHQ8zJsSoTEI4cM6qZ0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5007953/a8756c.jpg" ch-number="3", Francisco Cerundolo vs Stefanos Tsitsipas - Round 1 | ATP 1000: Rolex Monte-Carlo Masters 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=20955&type=dash&token=o5XcHXozRVcOCpS17Dw6NRLd5sFnVBFN|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20887&type=drm&token=o5XcHXozRVcOCpS17Dw6NRLd5sFnVBFN
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/n2i0oSd_zSY7gj9ZSbwWN9fjRCM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5007615/dbfbb3.jpg" ch-number="5", Francisco Cerundolo vs Stefanos Tsitsipas - Round 1 (Court Rainier III) | ATP 1000: Rolex Monte-Carlo Masters 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/n2i0oSd_zSY7gj9ZSbwWN9fjRCM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5007615/dbfbb3.jpg" ch-number="4", Francisco Cerundolo vs Stefanos Tsitsipas - Round 1 (Court Rainier III) | ATP 1000: Rolex Monte-Carlo Masters 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=20887&type=dash&token=o5XcHXozRVcOCpS17Dw6NRLd5sFnVBFN|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20891&type=drm&token=o5XcHXozRVcOCpS17Dw6NRLd5sFnVBFN
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/MBr1cMsu-KD38vXGr3mCs1nKV68=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5007619/475659.jpg" ch-number="6", Daniel Altmaier vs Tomas Machac - Round 1 (Court 9) | ATP 1000: Rolex Monte-Carlo Masters 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/MBr1cMsu-KD38vXGr3mCs1nKV68=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5007619/475659.jpg" ch-number="5", Daniel Altmaier vs Tomas Machac - Round 1 (Court 9) | ATP 1000: Rolex Monte-Carlo Masters 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=20891&type=dash&token=o5XcHXozRVcOCpS17Dw6NRLd5sFnVBFN|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20888&type=drm&token=o5XcHXozRVcOCpS17Dw6NRLd5sFnVBFN
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/aImcUVV8vq-_Is-w9q9ceyXcA18=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5007610/23e09c.jpg" ch-number="7", Joao Fonseca vs Gabriel Diallo - Round 1 (Court des Princes) | ATP 1000: Rolex Monte-Carlo Masters 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/aImcUVV8vq-_Is-w9q9ceyXcA18=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5007610/23e09c.jpg" ch-number="6", Joao Fonseca vs Gabriel Diallo - Round 1 (Court des Princes) | ATP 1000: Rolex Monte-Carlo Masters 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=20888&type=dash&token=o5XcHXozRVcOCpS17Dw6NRLd5sFnVBFN|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20890&type=drm&token=o5XcHXozRVcOCpS17Dw6NRLd5sFnVBFN
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/ZlBynKbgNGf2XfBLLNAaqNqyh90=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5007606/a48b30.jpg" ch-number="8", Denis Shapovalov vs Alexander Blockx - Round 1 (Court EA de Massy) | ATP 1000: Rolex Monte-Carlo Masters 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=20890&type=dash&token=o5XcHXozRVcOCpS17Dw6NRLd5sFnVBFN|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/ZlBynKbgNGf2XfBLLNAaqNqyh90=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5007606/a48b30.jpg" ch-number="7", Denis Shapovalov vs Alexander Blockx - Round 1 (Court EA de Massy) | ATP 1000: Rolex Monte-Carlo Masters 2026
+https://vid-id.indi1.workers.dev/index.mpd?id=20890&type=dash&token=o5XcHXozRVcOCpS17Dw6NRLd5sFnVBFN|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20887&type=drm&token=o5XcHXozRVcOCpS17Dw6NRLd5sFnVBFN
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/v-yAoefJkysrwTSNRKVVqYnoW5I=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5007616/26439e.jpg" ch-number="9", Valentin Vacherot vs Juan Manuel Cerundolo - Round 1 (Court Rainier III) | ATP 1000: Rolex Monte-Carlo Masters 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/v-yAoefJkysrwTSNRKVVqYnoW5I=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5007616/26439e.jpg" ch-number="8", Valentin Vacherot vs Juan Manuel Cerundolo - Round 1 (Court Rainier III) | ATP 1000: Rolex Monte-Carlo Masters 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=20887&type=dash&token=o5XcHXozRVcOCpS17Dw6NRLd5sFnVBFN|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20888&type=drm&token=o5XcHXozRVcOCpS17Dw6NRLd5sFnVBFN
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/K6Ox1CywW-0JzW2mod865orzXNs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5007611/4b0823.jpg" ch-number="9", Flavio Cobolli vs Francisco Comesana - Round 1 (Court des Princes) | ATP 1000: Rolex Monte-Carlo Masters 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=20888&type=dash&token=o5XcHXozRVcOCpS17Dw6NRLd5sFnVBFN|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -54,39 +54,39 @@ https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1ec
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20888&type=drm&token=o5XcHXozRVcOCpS17Dw6NRLd5sFnVBFN
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/K6Ox1CywW-0JzW2mod865orzXNs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5007611/4b0823.jpg" ch-number="11", Flavio Cobolli vs Francisco Comesana - Round 1 (Court des Princes) | ATP 1000: Rolex Monte-Carlo Masters 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=20888&type=dash&token=o5XcHXozRVcOCpS17Dw6NRLd5sFnVBFN|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=19404&type=drm&token=o5XcHXozRVcOCpS17Dw6NRLd5sFnVBFN
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Y4EQbB-Q98dt1ku6O1aic3Nw7Tk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5006234/9d1347.jpg" ch-number="12", Juventus vs Genoa - Serie A
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Y4EQbB-Q98dt1ku6O1aic3Nw7Tk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5006234/9d1347.jpg" ch-number="11", Juventus vs Genoa - Serie A
 #https://vid-id.indi1.workers.dev/index.mpd?id=19404&type=dash&token=o5XcHXozRVcOCpS17Dw6NRLd5sFnVBFN|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=19677&type=drm&token=o5XcHXozRVcOCpS17Dw6NRLd5sFnVBFN
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/UFfJN_el5F9HoOxB61Nrn6TslH4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5005228/4c4d67.jpg" ch-number="13", Semifinal: Galatasaray HDI Sigorta vs Fenerbahce Medicana - Turkish Volleyball Cup
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/UFfJN_el5F9HoOxB61Nrn6TslH4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5005228/4c4d67.jpg" ch-number="12", Semifinal: Galatasaray HDI Sigorta vs Fenerbahce Medicana - Turkish Volleyball Cup
 #https://vid-id.indi1.workers.dev/index.mpd?id=19677&type=dash&token=o5XcHXozRVcOCpS17Dw6NRLd5sFnVBFN|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=drm&token=o5XcHXozRVcOCpS17Dw6NRLd5sFnVBFN
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/YM-t3dMH94qDL1MUsIc_IqR_hPI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5005232/c61cec.jpg" ch-number="14", Kocaelispor vs Istanbul Basaksehir - Trendyol Super Lig
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/YM-t3dMH94qDL1MUsIc_IqR_hPI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5005232/c61cec.jpg" ch-number="13", Kocaelispor vs Istanbul Basaksehir - Trendyol Super Lig
 #https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=dash&token=o5XcHXozRVcOCpS17Dw6NRLd5sFnVBFN|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20502&type=drm&token=o5XcHXozRVcOCpS17Dw6NRLd5sFnVBFN
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/khI3J_z88QiH9iYdXBzlaH-zn4M=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5005229/9d0df7.jpg" ch-number="15", Casa Pia vs Benfica - Liga Portugal
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/khI3J_z88QiH9iYdXBzlaH-zn4M=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5005229/9d0df7.jpg" ch-number="14", Casa Pia vs Benfica - Liga Portugal
 #https://vid-id.indi1.workers.dev/index.mpd?id=20502&type=dash&token=o5XcHXozRVcOCpS17Dw6NRLd5sFnVBFN|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=19404&type=drm&token=o5XcHXozRVcOCpS17Dw6NRLd5sFnVBFN
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/WQ9mvkmm5m3X1Q8Q0DUprut9qws=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5006237/595df0.jpg" ch-number="16", Napoli vs Milan - Serie A
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/WQ9mvkmm5m3X1Q8Q0DUprut9qws=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5006237/595df0.jpg" ch-number="15", Napoli vs Milan - Serie A
 #https://vid-id.indi1.workers.dev/index.mpd?id=19404&type=dash&token=o5XcHXozRVcOCpS17Dw6NRLd5sFnVBFN|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6685&type=drm&token=o5XcHXozRVcOCpS17Dw6NRLd5sFnVBFN
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/yXlE0PtYwOWdP_AseeWQI9Q7dFU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5006195/ed7735.jpg" ch-number="16", Hull City vs Coventry City - EFL Championship
+#https://vid-id.indi1.workers.dev/index.mpd?id=6685&type=dash&token=o5XcHXozRVcOCpS17Dw6NRLd5sFnVBFN|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -96,15 +96,15 @@ https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1ec
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6685&type=drm&token=o5XcHXozRVcOCpS17Dw6NRLd5sFnVBFN
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/yXlE0PtYwOWdP_AseeWQI9Q7dFU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5006195/ed7735.jpg" ch-number="18", Hull City vs Coventry City - EFL Championship
-#https://vid-id.indi1.workers.dev/index.mpd?id=6685&type=dash&token=o5XcHXozRVcOCpS17Dw6NRLd5sFnVBFN|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6786&type=drm&token=o5XcHXozRVcOCpS17Dw6NRLd5sFnVBFN
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/ps77sbSiLdBI3D597a4PWDOnZFs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5007596/35e07e.jpg" ch-number="18", Day 1 - WTA 500: Upper Austria Ladies Linz 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=6786&type=dash&token=o5XcHXozRVcOCpS17Dw6NRLd5sFnVBFN|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6786&type=drm&token=o5XcHXozRVcOCpS17Dw6NRLd5sFnVBFN
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/ps77sbSiLdBI3D597a4PWDOnZFs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5007596/35e07e.jpg" ch-number="19", Day 1 - WTA 500: Upper Austria Ladies Linz 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=6786&type=dash&token=o5XcHXozRVcOCpS17Dw6NRLd5sFnVBFN|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6317&type=drm&token=o5XcHXozRVcOCpS17Dw6NRLd5sFnVBFN
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/gc2uZAhopaQpNMuSYWQ65hnTbhc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5007599/ec5a87.jpg" ch-number="19", Sporting vs Arsenal - UEFA Champions League
+#https://vid-id.indi1.workers.dev/index.mpd?id=6317&type=dash&token=o5XcHXozRVcOCpS17Dw6NRLd5sFnVBFN|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
