@@ -21,14 +21,14 @@ https://vid-id.indi1.workers.dev/index.mpd?id=19677&type=dash&token=o5XcHXozRVcO
 https://vid-id.indi1.workers.dev/index.mpd?id=20890&type=dash&token=o5XcHXozRVcOCpS17Dw6NRLd5sFnVBFN|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20887&type=drm&token=o5XcHXozRVcOCpS17Dw6NRLd5sFnVBFN
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/n2i0oSd_zSY7gj9ZSbwWN9fjRCM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5007615/dbfbb3.jpg" ch-number="5", Francisco Cerundolo vs Stefanos Tsitsipas - Round 1 (Court Rainier III) | ATP 1000: Rolex Monte-Carlo Masters 2026
-https://vid-id.indi1.workers.dev/index.mpd?id=20887&type=dash&token=o5XcHXozRVcOCpS17Dw6NRLd5sFnVBFN|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20955&type=drm&token=o5XcHXozRVcOCpS17Dw6NRLd5sFnVBFN
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/A_Smy6ADIHQ8zJsSoTEI4cM6qZ0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5007953/a8756c.jpg" ch-number="5", Francisco Cerundolo vs Stefanos Tsitsipas - Round 1 | ATP 1000: Rolex Monte-Carlo Masters 2026
+https://vid-id.indi1.workers.dev/index.mpd?id=20955&type=dash&token=o5XcHXozRVcOCpS17Dw6NRLd5sFnVBFN|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20955&type=drm&token=o5XcHXozRVcOCpS17Dw6NRLd5sFnVBFN
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/A_Smy6ADIHQ8zJsSoTEI4cM6qZ0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5007953/a8756c.jpg" ch-number="6", Francisco Cerundolo vs Stefanos Tsitsipas - Round 1 | ATP 1000: Rolex Monte-Carlo Masters 2026
-https://vid-id.indi1.workers.dev/index.mpd?id=20955&type=dash&token=o5XcHXozRVcOCpS17Dw6NRLd5sFnVBFN|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20887&type=drm&token=o5XcHXozRVcOCpS17Dw6NRLd5sFnVBFN
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/n2i0oSd_zSY7gj9ZSbwWN9fjRCM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5007615/dbfbb3.jpg" ch-number="6", Francisco Cerundolo vs Stefanos Tsitsipas - Round 1 (Court Rainier III) | ATP 1000: Rolex Monte-Carlo Masters 2026
+https://vid-id.indi1.workers.dev/index.mpd?id=20887&type=dash&token=o5XcHXozRVcOCpS17Dw6NRLd5sFnVBFN|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20891&type=drm&token=o5XcHXozRVcOCpS17Dw6NRLd5sFnVBFN
@@ -42,9 +42,8 @@ https://vid-id.indi1.workers.dev/index.mpd?id=20888&type=dash&token=o5XcHXozRVcO
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6685&type=drm&token=o5XcHXozRVcOCpS17Dw6NRLd5sFnVBFN
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/HKpOifjpHaxvBg2W2EFtcabJWsU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5006194/3d020d.jpg" ch-number="9", Ipswich vs Birmingham - EFL Championship
-#https://vid-id.indi1.workers.dev/index.mpd?id=6685&type=dash&token=o5XcHXozRVcOCpS17Dw6NRLd5sFnVBFN|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/HKpOifjpHaxvBg2W2EFtcabJWsU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5006194/3d020d.jpg" ch-number="9", Ipswich vs Birmingham - EFL Championship
+https://vid-id.indi1.workers.dev/index.mpd?id=6685&type=dash&token=o5XcHXozRVcOCpS17Dw6NRLd5sFnVBFN|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20955&type=drm&token=o5XcHXozRVcOCpS17Dw6NRLd5sFnVBFN
@@ -53,9 +52,9 @@ https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1ec
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20890&type=drm&token=o5XcHXozRVcOCpS17Dw6NRLd5sFnVBFN
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/ZlBynKbgNGf2XfBLLNAaqNqyh90=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5007606/a48b30.jpg" ch-number="11", Denis Shapovalov vs Alexander Blockx - Round 1 (Court EA de Massy) | ATP 1000: Rolex Monte-Carlo Masters 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=20890&type=dash&token=o5XcHXozRVcOCpS17Dw6NRLd5sFnVBFN|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20887&type=drm&token=o5XcHXozRVcOCpS17Dw6NRLd5sFnVBFN
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/v-yAoefJkysrwTSNRKVVqYnoW5I=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5007616/26439e.jpg" ch-number="11", Valentin Vacherot vs Juan Manuel Cerundolo - Round 1 (Court Rainier III) | ATP 1000: Rolex Monte-Carlo Masters 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=20887&type=dash&token=o5XcHXozRVcOCpS17Dw6NRLd5sFnVBFN|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -65,9 +64,9 @@ https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1ec
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20887&type=drm&token=o5XcHXozRVcOCpS17Dw6NRLd5sFnVBFN
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/v-yAoefJkysrwTSNRKVVqYnoW5I=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5007616/26439e.jpg" ch-number="13", Valentin Vacherot vs Juan Manuel Cerundolo - Round 1 (Court Rainier III) | ATP 1000: Rolex Monte-Carlo Masters 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=20887&type=dash&token=o5XcHXozRVcOCpS17Dw6NRLd5sFnVBFN|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20890&type=drm&token=o5XcHXozRVcOCpS17Dw6NRLd5sFnVBFN
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/ZlBynKbgNGf2XfBLLNAaqNqyh90=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5007606/a48b30.jpg" ch-number="13", Denis Shapovalov vs Alexander Blockx - Round 1 (Court EA de Massy) | ATP 1000: Rolex Monte-Carlo Masters 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=20890&type=dash&token=o5XcHXozRVcOCpS17Dw6NRLd5sFnVBFN|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -101,14 +100,14 @@ https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1ec
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6685&type=drm&token=o5XcHXozRVcOCpS17Dw6NRLd5sFnVBFN
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/yXlE0PtYwOWdP_AseeWQI9Q7dFU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5006195/ed7735.jpg" ch-number="19", Hull City vs Coventry City - EFL Championship
-#https://vid-id.indi1.workers.dev/index.mpd?id=6685&type=dash&token=o5XcHXozRVcOCpS17Dw6NRLd5sFnVBFN|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=drm&token=o5XcHXozRVcOCpS17Dw6NRLd5sFnVBFN
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/pnXPEmAZtucst9cpsub-l8dMHb0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5005233/123272.jpg" ch-number="19", Girona vs Villarreal - LaLiga
+#https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=dash&token=o5XcHXozRVcOCpS17Dw6NRLd5sFnVBFN|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=drm&token=o5XcHXozRVcOCpS17Dw6NRLd5sFnVBFN
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/pnXPEmAZtucst9cpsub-l8dMHb0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5005233/123272.jpg" ch-number="20", Girona vs Villarreal - LaLiga
-#https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=dash&token=o5XcHXozRVcOCpS17Dw6NRLd5sFnVBFN|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6685&type=drm&token=o5XcHXozRVcOCpS17Dw6NRLd5sFnVBFN
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/yXlE0PtYwOWdP_AseeWQI9Q7dFU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5006195/ed7735.jpg" ch-number="20", Hull City vs Coventry City - EFL Championship
+#https://vid-id.indi1.workers.dev/index.mpd?id=6685&type=dash&token=o5XcHXozRVcOCpS17Dw6NRLd5sFnVBFN|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
