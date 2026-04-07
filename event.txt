@@ -7,7 +7,7 @@ https://vid-id.indi1.workers.dev/index.mpd?id=20887&type=dash&token=Cux6BdiUjj9j
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20888&type=drm&token=Cux6BdiUjj9jLJ9OnKheWZR90u6WmRC2
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/fbOYCa9nhUPBj5MvhBnisMKJa34=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5007987/89030c.jpg" ch-number="2", Alexei Popyrin vs Casper Ruud - Round 1 (Court des Princes) | ATP 1000: Rolex Monte-Carlo Masters 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/mSKeA7ApJQX9elIrnu0YzEuq6FE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5007988/2b6b47.jpg" ch-number="2", Cameron Norrie vs Alex de Minaur - Round 2 (Court des Princes) | ATP 1000: Rolex Monte-Carlo Masters 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=20888&type=dash&token=Cux6BdiUjj9jLJ9OnKheWZR90u6WmRC2|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
