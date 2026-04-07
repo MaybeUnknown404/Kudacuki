@@ -22,26 +22,25 @@ https://vid-id.indi1.workers.dev/index.mpd?id=20955&type=dash&token=Cux6BdiUjj9j
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6786&type=drm&token=Cux6BdiUjj9jLJ9OnKheWZR90u6WmRC2
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/ps77sbSiLdBI3D597a4PWDOnZFs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5007596/35e07e.jpg" ch-number="5", Day 1 - WTA 500: Upper Austria Ladies Linz 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=6786&type=dash&token=Cux6BdiUjj9jLJ9OnKheWZR90u6WmRC2|User-Agent=VidioPlayer/6.31.6
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/ps77sbSiLdBI3D597a4PWDOnZFs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5007596/35e07e.jpg" ch-number="5", Day 1 - WTA 500: Upper Austria Ladies Linz 2026
+https://vid-id.indi1.workers.dev/index.mpd?id=6786&type=dash&token=Cux6BdiUjj9jLJ9OnKheWZR90u6WmRC2|User-Agent=VidioPlayer/6.31.6
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20955&type=drm&token=Cux6BdiUjj9jLJ9OnKheWZR90u6WmRC2
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/V_IQKwJRcfUXrwuXZl-KgWR4mVE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5008010/6eace5.jpg" ch-number="6", Ugo Humbert vs Jannik Sinner - Round 2 | ATP 1000: Rolex Monte-Carlo Masters 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=20955&type=dash&token=Cux6BdiUjj9jLJ9OnKheWZR90u6WmRC2|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20891&type=drm&token=Cux6BdiUjj9jLJ9OnKheWZR90u6WmRC2
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/GoAIWY8HFtwAxw2OEq8shpAfna4=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/20891/round-1-2-court-9-atp-1000-rolex-monte-carlo-masters-2026-127b85.jpg" ch-number="6", Marin Cilic vs Alexander Shevchenko - Round 1 (Court 9) | ATP 1000: Rolex Monte-Carlo Masters 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/GoAIWY8HFtwAxw2OEq8shpAfna4=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/20891/round-1-2-court-9-atp-1000-rolex-monte-carlo-masters-2026-127b85.jpg" ch-number="7", Marin Cilic vs Alexander Shevchenko - Round 1 (Court 9) | ATP 1000: Rolex Monte-Carlo Masters 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=20891&type=dash&token=Cux6BdiUjj9jLJ9OnKheWZR90u6WmRC2|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20897&type=drm&token=Cux6BdiUjj9jLJ9OnKheWZR90u6WmRC2
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/CJ4D-9A0Bcw1vXHTncL-B52kTfg=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/20897/round-1-2-court-11-atp-1000-rolex-monte-carlo-masters-2026-a3a686.jpg" ch-number="7", Kevin Krawietz/Tim Puetz vs Robert Cash/JJ Tracy - Round 1 (Court 11) | ATP 1000: Rolex Monte-Carlo Masters 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/CJ4D-9A0Bcw1vXHTncL-B52kTfg=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/20897/round-1-2-court-11-atp-1000-rolex-monte-carlo-masters-2026-a3a686.jpg" ch-number="8", Kevin Krawietz/Tim Puetz vs Robert Cash/JJ Tracy - Round 1 (Court 11) | ATP 1000: Rolex Monte-Carlo Masters 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=20897&type=dash&token=Cux6BdiUjj9jLJ9OnKheWZR90u6WmRC2|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20955&type=drm&token=Cux6BdiUjj9jLJ9OnKheWZR90u6WmRC2
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/V_IQKwJRcfUXrwuXZl-KgWR4mVE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5008010/6eace5.jpg" ch-number="8", Ugo Humbert vs Jannik Sinner - Round 2 | ATP 1000: Rolex Monte-Carlo Masters 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=20955&type=dash&token=Cux6BdiUjj9jLJ9OnKheWZR90u6WmRC2|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
