@@ -2,57 +2,48 @@
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20955&type=drm&token=4SrfZdfBZbXufcUbqQnwuThrmEO5ynda
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/bpgEpEHzR6kGoxKZqaWQLRPyxCI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5008214/841fa8.jpg" ch-number="1", Daniil Medvedev vs Matteo Berrettini - Round 2 | ATP 1000: Rolex Monte-Carlo Masters 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=20955&type=dash&token=4SrfZdfBZbXufcUbqQnwuThrmEO5ynda|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/bpgEpEHzR6kGoxKZqaWQLRPyxCI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5008214/841fa8.jpg" ch-number="1", Daniil Medvedev vs Matteo Berrettini - Round 2 | ATP 1000: Rolex Monte-Carlo Masters 2026
+https://vid-id.indi1.workers.dev/index.mpd?id=20955&type=dash&token=4SrfZdfBZbXufcUbqQnwuThrmEO5ynda|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20887&type=drm&token=4SrfZdfBZbXufcUbqQnwuThrmEO5ynda
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/7RQyPPgypi4EkmBFBBxYr7Z2TuU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5008197/0c385d.jpg" ch-number="2", Daniil Medvedev vs Matteo Berrettini - Round 2 (Court Rainier III) | ATP 1000: Rolex Monte-Carlo Masters 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=20887&type=dash&token=4SrfZdfBZbXufcUbqQnwuThrmEO5ynda|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/7RQyPPgypi4EkmBFBBxYr7Z2TuU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5008197/0c385d.jpg" ch-number="2", Daniil Medvedev vs Matteo Berrettini - Round 2 (Court Rainier III) | ATP 1000: Rolex Monte-Carlo Masters 2026
+https://vid-id.indi1.workers.dev/index.mpd?id=20887&type=dash&token=4SrfZdfBZbXufcUbqQnwuThrmEO5ynda|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20891&type=drm&token=4SrfZdfBZbXufcUbqQnwuThrmEO5ynda
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/kFP8mF4Qjo30vCgQyeWkbxyYvcg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5008211/5f0c15.jpg" ch-number="3", Sadio Doumbia/Fabien Reboul vs Alexander Erler/Lucas Miedler - Round 2 (Court 9) | ATP 1000: Rolex Monte-Carlo Masters 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=20891&type=dash&token=4SrfZdfBZbXufcUbqQnwuThrmEO5ynda|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/kFP8mF4Qjo30vCgQyeWkbxyYvcg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5008211/5f0c15.jpg" ch-number="3", Sadio Doumbia/Fabien Reboul vs Alexander Erler/Lucas Miedler - Round 2 (Court 9) | ATP 1000: Rolex Monte-Carlo Masters 2026
+https://vid-id.indi1.workers.dev/index.mpd?id=20891&type=dash&token=4SrfZdfBZbXufcUbqQnwuThrmEO5ynda|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20888&type=drm&token=4SrfZdfBZbXufcUbqQnwuThrmEO5ynda
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/SpTP9bfk0bjTo28FkHF1Msskiao=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5008207/5fd782.jpg" ch-number="4", Andrey Rublev vs Zizou Bergs - Round 2 (Court des Princes) | ATP 1000: Rolex Monte-Carlo Masters 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=20888&type=dash&token=4SrfZdfBZbXufcUbqQnwuThrmEO5ynda|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/SpTP9bfk0bjTo28FkHF1Msskiao=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5008207/5fd782.jpg" ch-number="4", Andrey Rublev vs Zizou Bergs - Round 2 (Court des Princes) | ATP 1000: Rolex Monte-Carlo Masters 2026
+https://vid-id.indi1.workers.dev/index.mpd?id=20888&type=dash&token=4SrfZdfBZbXufcUbqQnwuThrmEO5ynda|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20890&type=drm&token=4SrfZdfBZbXufcUbqQnwuThrmEO5ynda
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/m3kj4AhzK0Fa_ETLTkBd5nAO9k8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5008204/563aef.jpg" ch-number="5", Jiri Lehecka vs Alejandro Tabilo - Round 2 (Court EA de Massy) | ATP 1000: Rolex Monte-Carlo Masters 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=20890&type=dash&token=4SrfZdfBZbXufcUbqQnwuThrmEO5ynda|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/m3kj4AhzK0Fa_ETLTkBd5nAO9k8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5008204/563aef.jpg" ch-number="5", Jiri Lehecka vs Alejandro Tabilo - Round 2 (Court EA de Massy) | ATP 1000: Rolex Monte-Carlo Masters 2026
+https://vid-id.indi1.workers.dev/index.mpd?id=20890&type=dash&token=4SrfZdfBZbXufcUbqQnwuThrmEO5ynda|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20890&type=drm&token=4SrfZdfBZbXufcUbqQnwuThrmEO5ynda
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/XzXlE7n66np4yF-z1uM7P0GU9SI=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/20890/round-2-court-ea-de-massy-atp-1000-rolex-monte-carlo-masters-2026-75ec7f.jpg" ch-number="6", Jiri Lehecka vs Alejandro Tabilo - Round 2 (Court EA de Massy) | ATP 1000: Rolex Monte-Carlo Masters 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=20890&type=dash&token=4SrfZdfBZbXufcUbqQnwuThrmEO5ynda|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/XzXlE7n66np4yF-z1uM7P0GU9SI=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/20890/round-2-court-ea-de-massy-atp-1000-rolex-monte-carlo-masters-2026-75ec7f.jpg" ch-number="6", Jiri Lehecka vs Alejandro Tabilo - Round 2 (Court EA de Massy) | ATP 1000: Rolex Monte-Carlo Masters 2026
+https://vid-id.indi1.workers.dev/index.mpd?id=20890&type=dash&token=4SrfZdfBZbXufcUbqQnwuThrmEO5ynda|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20887&type=drm&token=4SrfZdfBZbXufcUbqQnwuThrmEO5ynda
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/5bkdj2hUwZ-TQ7wmCxDNObkUy74=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/20887/round-2-court-rainier-iii-atp-1000-rolex-monte-carlo-masters-2026-862714.jpg" ch-number="7", Daniil Medvedev vs Matteo Berrettini - Round 2 (Court Rainier III) | ATP 1000: Rolex Monte-Carlo Masters 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=20887&type=dash&token=4SrfZdfBZbXufcUbqQnwuThrmEO5ynda|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/5bkdj2hUwZ-TQ7wmCxDNObkUy74=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/20887/round-2-court-rainier-iii-atp-1000-rolex-monte-carlo-masters-2026-862714.jpg" ch-number="7", Daniil Medvedev vs Matteo Berrettini - Round 2 (Court Rainier III) | ATP 1000: Rolex Monte-Carlo Masters 2026
+https://vid-id.indi1.workers.dev/index.mpd?id=20887&type=dash&token=4SrfZdfBZbXufcUbqQnwuThrmEO5ynda|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20888&type=drm&token=4SrfZdfBZbXufcUbqQnwuThrmEO5ynda
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/1Ee_vqiJ-14Z1WhmsQk2QALqlnU=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/20888/round-2-court-des-princes-atp-1000-rolex-monte-carlo-masters-2026-4b5914.jpg" ch-number="8", Andrey Rublev vs Zizou Bergs - Round 2 (Court des Princes) | ATP 1000: Rolex Monte-Carlo Masters 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=20888&type=dash&token=4SrfZdfBZbXufcUbqQnwuThrmEO5ynda|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/1Ee_vqiJ-14Z1WhmsQk2QALqlnU=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/20888/round-2-court-des-princes-atp-1000-rolex-monte-carlo-masters-2026-4b5914.jpg" ch-number="8", Andrey Rublev vs Zizou Bergs - Round 2 (Court des Princes) | ATP 1000: Rolex Monte-Carlo Masters 2026
+https://vid-id.indi1.workers.dev/index.mpd?id=20888&type=dash&token=4SrfZdfBZbXufcUbqQnwuThrmEO5ynda|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20891&type=drm&token=4SrfZdfBZbXufcUbqQnwuThrmEO5ynda
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/HDUI3soaEDd9F9e0QvWPuZaSU_U=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/20891/round-2-court-9-atp-1000-rolex-monte-carlo-masters-2026-3e43cb.jpg" ch-number="9", Sadio Doumbia/Fabien Reboul vs Alexander Erler/Lucas Miedler - Round 2 (Court 9) | ATP 1000: Rolex Monte-Carlo Masters 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=20891&type=dash&token=4SrfZdfBZbXufcUbqQnwuThrmEO5ynda|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/HDUI3soaEDd9F9e0QvWPuZaSU_U=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/20891/round-2-court-9-atp-1000-rolex-monte-carlo-masters-2026-3e43cb.jpg" ch-number="9", Sadio Doumbia/Fabien Reboul vs Alexander Erler/Lucas Miedler - Round 2 (Court 9) | ATP 1000: Rolex Monte-Carlo Masters 2026
+https://vid-id.indi1.workers.dev/index.mpd?id=20891&type=dash&token=4SrfZdfBZbXufcUbqQnwuThrmEO5ynda|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6786&type=drm&token=4SrfZdfBZbXufcUbqQnwuThrmEO5ynda
