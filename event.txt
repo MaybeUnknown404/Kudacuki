@@ -84,26 +84,26 @@ https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1ec
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21160&type=drm&token=vBDGPuBqNOmt29y4fjIsuHay4xZtBINN
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/7JlNySgw1ctijfevDqQSH21FlTU=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21160/liputan-6-sctv-51707e.jpg" ch-number="17", ?LIVE | Istana Jawab Isu 'Turunkan Prabowo' yang Disebut Saiful Mujani & Polemik Motor untuk MBG
+#https://vid-id.indi1.workers.dev/index.mpd?id=21160&type=dash&token=vBDGPuBqNOmt29y4fjIsuHay4xZtBINN|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20955&type=drm&token=vBDGPuBqNOmt29y4fjIsuHay4xZtBINN
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/TgSnFbJBdu2Ao62J5kseW5N9kBo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5009817/de1bc0.jpg" ch-number="17", Carlos Alcaraz vs Alexander Bublik - Quarterfinals | ATP 1000: Rolex Monte-Carlo Masters 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/TgSnFbJBdu2Ao62J5kseW5N9kBo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5009817/de1bc0.jpg" ch-number="18", Carlos Alcaraz vs Alexander Bublik - Quarterfinals | ATP 1000: Rolex Monte-Carlo Masters 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=20955&type=dash&token=vBDGPuBqNOmt29y4fjIsuHay4xZtBINN|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21095&type=drm&token=vBDGPuBqNOmt29y4fjIsuHay4xZtBINN
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/RgZ3VffFscrtQYOdCwLSIKCQnec=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21095/baku-hantam-the-brutal-selection-tangerang-97ee21.jpg" ch-number="18", Baku Hantam: The Brutal Selection Tangerang
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/RgZ3VffFscrtQYOdCwLSIKCQnec=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21095/baku-hantam-the-brutal-selection-tangerang-97ee21.jpg" ch-number="19", Baku Hantam: The Brutal Selection Tangerang
 #https://vid-id.indi1.workers.dev/index.mpd?id=21095&type=dash&token=vBDGPuBqNOmt29y4fjIsuHay4xZtBINN|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=drm&token=vBDGPuBqNOmt29y4fjIsuHay4xZtBINN
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/0dSNeslTK-VMlPfHkxcwFvbxVMs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5008235/931897.jpg" ch-number="19", European Championships 2026 - Quarterfinals & Semifinals
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/0dSNeslTK-VMlPfHkxcwFvbxVMs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5008235/931897.jpg" ch-number="20", European Championships 2026 - Quarterfinals & Semifinals
 #https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=vBDGPuBqNOmt29y4fjIsuHay4xZtBINN|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21146&type=drm&token=vBDGPuBqNOmt29y4fjIsuHay4xZtBINN
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/YIrm1g9MbFHH3Wo0vxzq7OLcoHA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5008461/1386bf.jpg" ch-number="20", Poland vs Ukraine - Billie Jean King Cup Qualifiers
-#https://vid-id.indi1.workers.dev/index.mpd?id=21146&type=dash&token=vBDGPuBqNOmt29y4fjIsuHay4xZtBINN|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
