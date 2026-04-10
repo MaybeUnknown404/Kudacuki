@@ -6,101 +6,98 @@
 https://vid-id.indi1.workers.dev/index.mpd?id=20888&type=dash&token=vBDGPuBqNOmt29y4fjIsuHay4xZtBINN|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20955&type=drm&token=vBDGPuBqNOmt29y4fjIsuHay4xZtBINN
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/fDWJc3_7sjXuyI3a8zpT0CKELfc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5009815/365db0.jpg" ch-number="3", Joao Fonseca vs Alexander Zverev - Quarterfinals | ATP 1000: Rolex Monte-Carlo Masters 2026
-https://vid-id.indi1.workers.dev/index.mpd?id=20955&type=dash&token=vBDGPuBqNOmt29y4fjIsuHay4xZtBINN|User-Agent=VidioPlayer/6.31.6
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21142&type=drm&token=vBDGPuBqNOmt29y4fjIsuHay4xZtBINN
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/ccHy1eQbGGqqnnpQrYUvKvBGPwY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5008456/3b65b5.jpg" ch-number="4", Kazakhstan vs Canada - Billie Jean King Cup Qualifiers
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/ccHy1eQbGGqqnnpQrYUvKvBGPwY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5008456/3b65b5.jpg" ch-number="3", Kazakhstan vs Canada - Billie Jean King Cup Qualifiers
 https://vid-id.indi1.workers.dev/index.mpd?id=21142&type=dash&token=vBDGPuBqNOmt29y4fjIsuHay4xZtBINN|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21143&type=drm&token=vBDGPuBqNOmt29y4fjIsuHay4xZtBINN
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/vvyzf4gljZC1a_mAUB05HmfklRA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5008457/f9a031.jpg" ch-number="5", Italy vs Japan - Billie Jean King Cup Qualifiers
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/vvyzf4gljZC1a_mAUB05HmfklRA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5008457/f9a031.jpg" ch-number="4", Italy vs Japan - Billie Jean King Cup Qualifiers
 https://vid-id.indi1.workers.dev/index.mpd?id=21143&type=dash&token=vBDGPuBqNOmt29y4fjIsuHay4xZtBINN|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21145&type=drm&token=vBDGPuBqNOmt29y4fjIsuHay4xZtBINN
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/au0movTgrkzjiIHKR_PNSnAosqU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5008459/a1c451.jpg" ch-number="6", Switzerland vs Czechia - Billie Jean King Cup Qualifiers
-#https://vid-id.indi1.workers.dev/index.mpd?id=21145&type=dash&token=vBDGPuBqNOmt29y4fjIsuHay4xZtBINN|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20564&type=drm&token=vBDGPuBqNOmt29y4fjIsuHay4xZtBINN
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/PFG1slu7MmSVJVzeCzH4gIIvpPc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5008005/25424d.jpg" ch-number="5", Quarter Finals - WTA 500: Upper Austria Ladies Linz 2026
+https://vid-id.indi1.workers.dev/index.mpd?id=20564&type=dash&token=vBDGPuBqNOmt29y4fjIsuHay4xZtBINN|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20955&type=drm&token=vBDGPuBqNOmt29y4fjIsuHay4xZtBINN
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/8EcY8PYKu9nn1W65mmG70Zoy0TA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5009816/6cca37.jpg" ch-number="7", Felix Auger-Aliassime vs Jannik Sinner - Quarterfinals | ATP 1000: Rolex Monte-Carlo Masters 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=20955&type=dash&token=vBDGPuBqNOmt29y4fjIsuHay4xZtBINN|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/8EcY8PYKu9nn1W65mmG70Zoy0TA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5009816/6cca37.jpg" ch-number="6", Felix Auger-Aliassime vs Jannik Sinner - Quarterfinals | ATP 1000: Rolex Monte-Carlo Masters 2026
+https://vid-id.indi1.workers.dev/index.mpd?id=20955&type=dash&token=vBDGPuBqNOmt29y4fjIsuHay4xZtBINN|User-Agent=VidioPlayer/6.31.6
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21145&type=drm&token=vBDGPuBqNOmt29y4fjIsuHay4xZtBINN
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/au0movTgrkzjiIHKR_PNSnAosqU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5008459/a1c451.jpg" ch-number="7", Switzerland vs Czechia - Billie Jean King Cup Qualifiers
+https://vid-id.indi1.workers.dev/index.mpd?id=21145&type=dash&token=vBDGPuBqNOmt29y4fjIsuHay4xZtBINN|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21144&type=drm&token=vBDGPuBqNOmt29y4fjIsuHay4xZtBINN
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/iBhZhYcNy7V_fjTe_iclwzuK74E=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5008458/fcbb53.jpg" ch-number="8", Slovenia vs Spain - Billie Jean King Cup Qualifiers
-#https://vid-id.indi1.workers.dev/index.mpd?id=21144&type=dash&token=vBDGPuBqNOmt29y4fjIsuHay4xZtBINN|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20564&type=drm&token=vBDGPuBqNOmt29y4fjIsuHay4xZtBINN
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/PFG1slu7MmSVJVzeCzH4gIIvpPc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5008005/25424d.jpg" ch-number="9", Quarter Finals - WTA 500: Upper Austria Ladies Linz 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=20564&type=dash&token=vBDGPuBqNOmt29y4fjIsuHay4xZtBINN|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/iBhZhYcNy7V_fjTe_iclwzuK74E=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5008458/fcbb53.jpg" ch-number="8", Slovenia vs Spain - Billie Jean King Cup Qualifiers
+https://vid-id.indi1.workers.dev/index.mpd?id=21144&type=dash&token=vBDGPuBqNOmt29y4fjIsuHay4xZtBINN|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=16890&type=drm&token=vBDGPuBqNOmt29y4fjIsuHay4xZtBINN
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/wCDckK8HhPSBTweiyMxO4CO9d0Q=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5009492/1b2cbd.jpg" ch-number="11", ONE Friday Fights 150
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/wCDckK8HhPSBTweiyMxO4CO9d0Q=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5009492/1b2cbd.jpg" ch-number="10", ONE Friday Fights 150
 #https://vid-id.indi1.workers.dev/index.mpd?id=16890&type=dash&token=vBDGPuBqNOmt29y4fjIsuHay4xZtBINN|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=19354&type=drm&token=vBDGPuBqNOmt29y4fjIsuHay4xZtBINN
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/JCwNBGJ9rA5Zktl0eDM3FfysIqo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5008007/f6c6bd.jpg" ch-number="12", PERSITA vs Arema FC - BRI Super League
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/JCwNBGJ9rA5Zktl0eDM3FfysIqo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5008007/f6c6bd.jpg" ch-number="11", PERSITA vs Arema FC - BRI Super League
 #https://vid-id.indi1.workers.dev/index.mpd?id=19354&type=dash&token=vBDGPuBqNOmt29y4fjIsuHay4xZtBINN|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20955&type=drm&token=vBDGPuBqNOmt29y4fjIsuHay4xZtBINN
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Cxksfm8xyZui-wr5PqruGc9nKsM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5009817/ff8ff4.jpg" ch-number="13", Carlos Alcaraz vs Alexander Bublik - Quarterfinals | ATP 1000: Rolex Monte-Carlo Masters 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Cxksfm8xyZui-wr5PqruGc9nKsM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5009817/ff8ff4.jpg" ch-number="12", Carlos Alcaraz vs Alexander Bublik - Quarterfinals | ATP 1000: Rolex Monte-Carlo Masters 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=20955&type=dash&token=vBDGPuBqNOmt29y4fjIsuHay4xZtBINN|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21095&type=drm&token=vBDGPuBqNOmt29y4fjIsuHay4xZtBINN
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/RgZ3VffFscrtQYOdCwLSIKCQnec=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21095/baku-hantam-the-brutal-selection-tangerang-97ee21.jpg" ch-number="14", Baku Hantam: The Brutal Selection Tangerang
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/RgZ3VffFscrtQYOdCwLSIKCQnec=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21095/baku-hantam-the-brutal-selection-tangerang-97ee21.jpg" ch-number="13", Baku Hantam: The Brutal Selection Tangerang
 #https://vid-id.indi1.workers.dev/index.mpd?id=21095&type=dash&token=vBDGPuBqNOmt29y4fjIsuHay4xZtBINN|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21146&type=drm&token=vBDGPuBqNOmt29y4fjIsuHay4xZtBINN
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/YIrm1g9MbFHH3Wo0vxzq7OLcoHA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5008461/1386bf.jpg" ch-number="15", Poland vs Ukraine - Billie Jean King Cup Qualifiers
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/YIrm1g9MbFHH3Wo0vxzq7OLcoHA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5008461/1386bf.jpg" ch-number="14", Poland vs Ukraine - Billie Jean King Cup Qualifiers
 #https://vid-id.indi1.workers.dev/index.mpd?id=21146&type=dash&token=vBDGPuBqNOmt29y4fjIsuHay4xZtBINN|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21147&type=drm&token=vBDGPuBqNOmt29y4fjIsuHay4xZtBINN
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Zbg12NRLnPESC3wVFAIZbbgA5HI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5008460/9091b3.jpg" ch-number="16", Belgium vs USA - Billie Jean King Cup Qualifiers
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Zbg12NRLnPESC3wVFAIZbbgA5HI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5008460/9091b3.jpg" ch-number="15", Belgium vs USA - Billie Jean King Cup Qualifiers
 #https://vid-id.indi1.workers.dev/index.mpd?id=21147&type=dash&token=vBDGPuBqNOmt29y4fjIsuHay4xZtBINN|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=drm&token=vBDGPuBqNOmt29y4fjIsuHay4xZtBINN
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/0dSNeslTK-VMlPfHkxcwFvbxVMs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5008235/931897.jpg" ch-number="17", European Championships 2026 - Quarterfinals & Semifinals
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/0dSNeslTK-VMlPfHkxcwFvbxVMs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5008235/931897.jpg" ch-number="16", European Championships 2026 - Quarterfinals & Semifinals
 #https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=vBDGPuBqNOmt29y4fjIsuHay4xZtBINN|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=drm&token=vBDGPuBqNOmt29y4fjIsuHay4xZtBINN
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/heLWPZB8joQSE0RBkkaOmfpww1A=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/orleans-masters-badminton-2026-presented-by-victor-finals-a15fcf.jpg" ch-number="18", European Championships 2026 - Quarterfinals & Semifinals
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/heLWPZB8joQSE0RBkkaOmfpww1A=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/orleans-masters-badminton-2026-presented-by-victor-finals-a15fcf.jpg" ch-number="17", European Championships 2026 - Quarterfinals & Semifinals
 #https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=vBDGPuBqNOmt29y4fjIsuHay4xZtBINN|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20888&type=drm&token=vBDGPuBqNOmt29y4fjIsuHay4xZtBINN
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/q5flMObrQA5S5ldiQfY644k60yw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5009811/9bef2e.jpg" ch-number="19", Kevin Krawietz/Tim Puetz vs Julian Cash/Lloyd Glasspool - Quarterfinals (Court des Princes) | ATP 1000: Rolex Monte-Carlo Masters 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/q5flMObrQA5S5ldiQfY644k60yw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5009811/9bef2e.jpg" ch-number="18", Kevin Krawietz/Tim Puetz vs Julian Cash/Lloyd Glasspool - Quarterfinals (Court des Princes) | ATP 1000: Rolex Monte-Carlo Masters 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=20888&type=dash&token=vBDGPuBqNOmt29y4fjIsuHay4xZtBINN|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20955&type=drm&token=vBDGPuBqNOmt29y4fjIsuHay4xZtBINN
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/OirDD7BouXaIBNjeawow7YZsvB8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5010130/de8581.jpg" ch-number="20", Valentin Vacherot vs Alex de Minaur - Quarterfinals | ATP 1000: Rolex Monte-Carlo Masters 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/OirDD7BouXaIBNjeawow7YZsvB8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5010130/de8581.jpg" ch-number="19", Valentin Vacherot vs Alex de Minaur - Quarterfinals | ATP 1000: Rolex Monte-Carlo Masters 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=20955&type=dash&token=vBDGPuBqNOmt29y4fjIsuHay4xZtBINN|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=drm&token=vBDGPuBqNOmt29y4fjIsuHay4xZtBINN
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/ZiqM8b5xwGLMsg550oMfkPwKTtc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5008428/a552c0.jpg" ch-number="20", Besiktas vs Antalyaspor - Trendyol Super Lig
+#https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=dash&token=vBDGPuBqNOmt29y4fjIsuHay4xZtBINN|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
