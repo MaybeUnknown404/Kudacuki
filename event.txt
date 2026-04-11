@@ -47,9 +47,8 @@ https://vid-id.indi1.workers.dev/index.mpd?id=21145&type=dash&token=7Rc0pXqUl0g2
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6686&type=drm&token=7Rc0pXqUl0g2U6n0w2i8fPpl6lOCQK0D
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/deuaHY5AHbh8m6pdmcqAtd_e96g=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5009494/70f605.jpg" ch-number="11", Norwich City vs Ipswich - EFL Championship
-#https://vid-id.indi1.workers.dev/index.mpd?id=6686&type=dash&token=7Rc0pXqUl0g2U6n0w2i8fPpl6lOCQK0D|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/deuaHY5AHbh8m6pdmcqAtd_e96g=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5009494/70f605.jpg" ch-number="11", Norwich City vs Ipswich - EFL Championship
+https://vid-id.indi1.workers.dev/index.mpd?id=6686&type=dash&token=7Rc0pXqUl0g2U6n0w2i8fPpl6lOCQK0D|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=19355&type=drm&token=7Rc0pXqUl0g2U6n0w2i8fPpl6lOCQK0D
