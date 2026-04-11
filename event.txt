@@ -52,15 +52,13 @@ https://vid-id.indi1.workers.dev/index.mpd?id=6686&type=dash&token=7Rc0pXqUl0g2U
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=19355&type=drm&token=7Rc0pXqUl0g2U6n0w2i8fPpl6lOCQK0D
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/3lcqK8vWwHix3K-ap1OfAnZbyK8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5008218/1d4c24.jpg" ch-number="12", Jelang Kick Off - PERSIJA vs PERSEBAYA Surabaya - BRI Super League
-#https://vid-id.indi1.workers.dev/index.mpd?id=19355&type=dash&token=7Rc0pXqUl0g2U6n0w2i8fPpl6lOCQK0D|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/3lcqK8vWwHix3K-ap1OfAnZbyK8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5008218/1d4c24.jpg" ch-number="12", Jelang Kick Off - PERSIJA vs PERSEBAYA Surabaya - BRI Super League
+https://vid-id.indi1.workers.dev/index.mpd?id=19355&type=dash&token=7Rc0pXqUl0g2U6n0w2i8fPpl6lOCQK0D|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20955&type=drm&token=7Rc0pXqUl0g2U6n0w2i8fPpl6lOCQK0D
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/1Uc8wYZNp6gIbpnblP4GL6XgrWU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5011607/9da14d.jpg" ch-number="13", Alexander Zverev vs Jannik Sinner - Semifinals | ATP 1000: Rolex Monte Carlo Masters 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=20955&type=dash&token=7Rc0pXqUl0g2U6n0w2i8fPpl6lOCQK0D|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/1Uc8wYZNp6gIbpnblP4GL6XgrWU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5011607/9da14d.jpg" ch-number="13", Alexander Zverev vs Jannik Sinner - Semifinals | ATP 1000: Rolex Monte Carlo Masters 2026
+https://vid-id.indi1.workers.dev/index.mpd?id=20955&type=dash&token=7Rc0pXqUl0g2U6n0w2i8fPpl6lOCQK0D|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=19354&type=drm&token=7Rc0pXqUl0g2U6n0w2i8fPpl6lOCQK0D
