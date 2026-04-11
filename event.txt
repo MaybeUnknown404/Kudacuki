@@ -12,9 +12,8 @@ https://vid-id.indi1.workers.dev/index.mpd?id=16890&type=dash&token=7Rc0pXqUl0g2
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21141&type=drm&token=7Rc0pXqUl0g2U6n0w2i8fPpl6lOCQK0D
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/qXXZOI86RRe_IPsleOuSRiCzjjM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5010124/78c6ac.jpg" ch-number="3", Australia vs Great Britain - Billie Jean King Cup Qualifiers
-#https://vid-id.indi1.workers.dev/index.mpd?id=21141&type=dash&token=7Rc0pXqUl0g2U6n0w2i8fPpl6lOCQK0D|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/qXXZOI86RRe_IPsleOuSRiCzjjM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5010124/78c6ac.jpg" ch-number="3", Australia vs Great Britain - Billie Jean King Cup Qualifiers
+https://vid-id.indi1.workers.dev/index.mpd?id=21141&type=dash&token=7Rc0pXqUl0g2U6n0w2i8fPpl6lOCQK0D|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17139&type=drm&token=7Rc0pXqUl0g2U6n0w2i8fPpl6lOCQK0D
