@@ -1,14 +1,14 @@
 #EXTM3U
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21099&type=drm&token=7Rc0pXqUl0g2U6n0w2i8fPpl6lOCQK0D
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/7bAFHSka7af6rjI_4q2Wr7WWwgI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5008032/bbd8c4.jpg" ch-number="1", GELORA PUTRI vs DIKLAT PUTRI KOTA TANGERANG - HYDROPLUS Soccer League U-15
-https://vid-id.indi1.workers.dev/index.mpd?id=21099&type=dash&token=7Rc0pXqUl0g2U6n0w2i8fPpl6lOCQK0D|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17139&type=drm&token=7Rc0pXqUl0g2U6n0w2i8fPpl6lOCQK0D
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/9gAzY_3Q6Aej4xeiWwpYIiMouqs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5008438/ae247c.jpg" ch-number="1", Race 1 - Asia Road Racing Championship 2026: Round 1 Sepang, Malaysia
+https://vid-id.indi1.workers.dev/index.mpd?id=17139&type=dash&token=7Rc0pXqUl0g2U6n0w2i8fPpl6lOCQK0D|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17139&type=drm&token=7Rc0pXqUl0g2U6n0w2i8fPpl6lOCQK0D
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/9gAzY_3Q6Aej4xeiWwpYIiMouqs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5008438/ae247c.jpg" ch-number="2", Race 1 - Asia Road Racing Championship 2026: Round 1 Sepang, Malaysia
-https://vid-id.indi1.workers.dev/index.mpd?id=17139&type=dash&token=7Rc0pXqUl0g2U6n0w2i8fPpl6lOCQK0D|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21099&type=drm&token=7Rc0pXqUl0g2U6n0w2i8fPpl6lOCQK0D
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/7bAFHSka7af6rjI_4q2Wr7WWwgI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5008032/bbd8c4.jpg" ch-number="2", GELORA PUTRI vs DIKLAT PUTRI KOTA TANGERANG - HYDROPLUS Soccer League U-15
+https://vid-id.indi1.workers.dev/index.mpd?id=21099&type=dash&token=7Rc0pXqUl0g2U6n0w2i8fPpl6lOCQK0D|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=19354&type=drm&token=7Rc0pXqUl0g2U6n0w2i8fPpl6lOCQK0D
