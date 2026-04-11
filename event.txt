@@ -2,8 +2,9 @@
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20989&type=drm&token=7Rc0pXqUl0g2U6n0w2i8fPpl6lOCQK0D
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/2B4EadYa_jDxb8VumAYd0XJ8J8o=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5008087/1c3aba.jpg" ch-number="1", Yudi Cahyadi vs Ajuldihamro Simbolon - Featherweight MMA Title Fight | One Pride 89
-https://vid-id.indi1.workers.dev/index.mpd?id=20989&type=dash&token=7Rc0pXqUl0g2U6n0w2i8fPpl6lOCQK0D|User-Agent=VidioPlayer/6.31.6
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/ufplbCmVtFuKpuvmydjC4EpMYN4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5008083/72e850.jpg" ch-number="1", Nendi Speed vs Edowar Virnanda - KOL Hystrike Dirty Punching | One Pride 89
+#https://vid-id.indi1.workers.dev/index.mpd?id=20989&type=dash&token=7Rc0pXqUl0g2U6n0w2i8fPpl6lOCQK0D|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20955&type=drm&token=7Rc0pXqUl0g2U6n0w2i8fPpl6lOCQK0D
@@ -21,34 +22,34 @@ https://vid-id.indi1.workers.dev/index.mpd?id=9182&type=dash&token=7Rc0pXqUl0g2U
 https://vid-id.indi1.workers.dev/index.mpd?id=19375&type=dash&token=7Rc0pXqUl0g2U6n0w2i8fPpl6lOCQK0D|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20989&type=drm&token=7Rc0pXqUl0g2U6n0w2i8fPpl6lOCQK0D
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/2B4EadYa_jDxb8VumAYd0XJ8J8o=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5008087/1c3aba.jpg" ch-number="5", Yudi Cahyadi vs Ajuldihamro Simbolon - Featherweight MMA Title Fight | One Pride 89
+https://vid-id.indi1.workers.dev/index.mpd?id=20989&type=dash&token=7Rc0pXqUl0g2U6n0w2i8fPpl6lOCQK0D|User-Agent=VidioPlayer/6.31.6
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=drm&token=7Rc0pXqUl0g2U6n0w2i8fPpl6lOCQK0D
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/tjXsKCmbnPZkySqofnMWsj6LQSM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5008237/70a69c.jpg" ch-number="5", European Championships 2026 - Semifinals & Finals
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/tjXsKCmbnPZkySqofnMWsj6LQSM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5008237/70a69c.jpg" ch-number="6", European Championships 2026 - Semifinals & Finals
 https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=7Rc0pXqUl0g2U6n0w2i8fPpl6lOCQK0D|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21146&type=drm&token=7Rc0pXqUl0g2U6n0w2i8fPpl6lOCQK0D
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/TYeDPBP0NS86ok488nWq32Itbp8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5010129/73f8f5.jpg" ch-number="6", Poland vs Ukraine - Billie Jean King Cup Qualifiers
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/TYeDPBP0NS86ok488nWq32Itbp8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5010129/73f8f5.jpg" ch-number="7", Poland vs Ukraine - Billie Jean King Cup Qualifiers
 https://vid-id.indi1.workers.dev/index.mpd?id=21146&type=dash&token=7Rc0pXqUl0g2U6n0w2i8fPpl6lOCQK0D|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21145&type=drm&token=7Rc0pXqUl0g2U6n0w2i8fPpl6lOCQK0D
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/wJdoP9glq3uUZnI2d5BaEcTJM9U=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5010131/64743d.jpg" ch-number="7", Switzerland vs Czechia - Billie Jean King Cup Qualifiers
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/wJdoP9glq3uUZnI2d5BaEcTJM9U=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5010131/64743d.jpg" ch-number="8", Switzerland vs Czechia - Billie Jean King Cup Qualifiers
 https://vid-id.indi1.workers.dev/index.mpd?id=21145&type=dash&token=7Rc0pXqUl0g2U6n0w2i8fPpl6lOCQK0D|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21147&type=drm&token=7Rc0pXqUl0g2U6n0w2i8fPpl6lOCQK0D
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/8zPB8BNV6cDKPiCS3iE7YcqmAjI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5010225/1b25d5.jpg" ch-number="8", Belgium vs USA - Billie Jean King Cup Qualifiers
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/8zPB8BNV6cDKPiCS3iE7YcqmAjI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5010225/1b25d5.jpg" ch-number="9", Belgium vs USA - Billie Jean King Cup Qualifiers
 https://vid-id.indi1.workers.dev/index.mpd?id=21147&type=dash&token=7Rc0pXqUl0g2U6n0w2i8fPpl6lOCQK0D|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=19388&type=drm&token=7Rc0pXqUl0g2U6n0w2i8fPpl6lOCQK0D
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/ETu6sBEh95BEVAbp8yRt3eysATU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5008089/76aa17.jpg" ch-number="9", Rajadamnern April Inferno Lightweight Title
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/ETu6sBEh95BEVAbp8yRt3eysATU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5008089/76aa17.jpg" ch-number="10", Rajadamnern April Inferno Lightweight Title
 https://vid-id.indi1.workers.dev/index.mpd?id=19388&type=dash&token=7Rc0pXqUl0g2U6n0w2i8fPpl6lOCQK0D|User-Agent=VidioPlayer/6.31.6
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17938&type=drm&token=7Rc0pXqUl0g2U6n0w2i8fPpl6lOCQK0D
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="⛔ Event Ended" tvg-logo="https://thumbor.prod.vidiocdn.com/idmg_uQSIv-6jPEmJ5-z01P5SKc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5008445/040088.jpg" ch-number="10", Torino vs Verona - Serie A
-https://vid-id.indi1.workers.dev/index.mpd?id=17938&type=dash&token=7Rc0pXqUl0g2U6n0w2i8fPpl6lOCQK0D|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6686&type=drm&token=7Rc0pXqUl0g2U6n0w2i8fPpl6lOCQK0D
