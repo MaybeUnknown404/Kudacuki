@@ -96,20 +96,20 @@ https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1ec
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20887&type=drm&token=220pJet1s6VKvUzbcbH32hvFTpFPYP0E
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/G8y1hQD5LH1qKT2bMwraseSAtvA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5013058/7f78f8.jpg" ch-number="18", Doubles Final - ATP 1000: Rolex Monte Carlo Masters 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=20887&type=dash&token=220pJet1s6VKvUzbcbH32hvFTpFPYP0E|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=drm&token=220pJet1s6VKvUzbcbH32hvFTpFPYP0E
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/heLWPZB8joQSE0RBkkaOmfpww1A=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/orleans-masters-badminton-2026-presented-by-victor-finals-a15fcf.jpg" ch-number="18", European Championships 2026 - Finals
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/heLWPZB8joQSE0RBkkaOmfpww1A=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/orleans-masters-badminton-2026-presented-by-victor-finals-a15fcf.jpg" ch-number="19", European Championships 2026 - Finals
 #https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=220pJet1s6VKvUzbcbH32hvFTpFPYP0E|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=19404&type=drm&token=220pJet1s6VKvUzbcbH32hvFTpFPYP0E
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/KifqyySB39bf-qfiVoVloaaSXKU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5008518/5d7437.jpg" ch-number="19", Genoa vs Sassuolo - Serie A
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/KifqyySB39bf-qfiVoVloaaSXKU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5008518/5d7437.jpg" ch-number="20", Genoa vs Sassuolo - Serie A
 #https://vid-id.indi1.workers.dev/index.mpd?id=19404&type=dash&token=220pJet1s6VKvUzbcbH32hvFTpFPYP0E|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17139&type=drm&token=220pJet1s6VKvUzbcbH32hvFTpFPYP0E
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/pkddbArDbvQUYLPjxk_MmQWhQsk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5009495/0362aa.jpg" ch-number="20", Falkirk vs Rangers - Scottish Premiership
-#https://vid-id.indi1.workers.dev/index.mpd?id=17139&type=dash&token=220pJet1s6VKvUzbcbH32hvFTpFPYP0E|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
