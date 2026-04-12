@@ -12,7 +12,7 @@ https://vid-id.indi1.workers.dev/index.mpd?id=205&type=dash&token=220pJet1s6VKvU
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17139&type=drm&token=220pJet1s6VKvUzbcbH32hvFTpFPYP0E
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="⛔ Event Ended" tvg-logo="https://thumbor.prod.vidiocdn.com/F8dHAhqvFiTtEWTTk6zpeD8-vfo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5008530/8cb3a7.jpg" ch-number="4", Race 2 - Asia Road Racing Championship 2026: Round 1 Sepang, Malaysia
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/F8dHAhqvFiTtEWTTk6zpeD8-vfo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5008530/8cb3a7.jpg" ch-number="4", Race 2 - Asia Road Racing Championship 2026: Round 1 Sepang, Malaysia
 https://vid-id.indi1.workers.dev/index.mpd?id=17139&type=dash&token=220pJet1s6VKvUzbcbH32hvFTpFPYP0E|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
