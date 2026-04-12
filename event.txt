@@ -64,15 +64,15 @@ https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1ec
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=drm&token=220pJet1s6VKvUzbcbH32hvFTpFPYP0E
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/xGZ7fYxJ0usa2iFYYfVKcz5NdTQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5008504/5ffc16.jpg" ch-number="14", Osasuna vs Real Betis - LaLiga
-#https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=dash&token=220pJet1s6VKvUzbcbH32hvFTpFPYP0E|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=19353&type=drm&token=220pJet1s6VKvUzbcbH32hvFTpFPYP0E
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/0Q47gMAhB38ejn8Ygnxc9lR-T-k=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5008233/a325c7.jpg" ch-number="14", Malut United FC vs Dewa United Banten FC - BRI Super League
+#https://vid-id.indi1.workers.dev/index.mpd?id=19353&type=dash&token=220pJet1s6VKvUzbcbH32hvFTpFPYP0E|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=19353&type=drm&token=220pJet1s6VKvUzbcbH32hvFTpFPYP0E
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/0Q47gMAhB38ejn8Ygnxc9lR-T-k=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5008233/a325c7.jpg" ch-number="16", Malut United FC vs Dewa United Banten FC - BRI Super League
-#https://vid-id.indi1.workers.dev/index.mpd?id=19353&type=dash&token=220pJet1s6VKvUzbcbH32hvFTpFPYP0E|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=drm&token=220pJet1s6VKvUzbcbH32hvFTpFPYP0E
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/xGZ7fYxJ0usa2iFYYfVKcz5NdTQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5008504/5ffc16.jpg" ch-number="15", Osasuna vs Real Betis - LaLiga
+#https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=dash&token=220pJet1s6VKvUzbcbH32hvFTpFPYP0E|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
