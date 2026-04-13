@@ -61,15 +61,15 @@ https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1ec
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=9182&type=drm&token=NEH5a5ADS7dmlIEQLiwNdK794ATiQSsX
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/MohPpEFoZErMH54X33jH_aU3gF0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5013052/02c381.jpg" ch-number="12", Man United vs Leeds United - Premier League
-#https://vid-id.indi1.workers.dev/index.mpd?id=9182&type=dash&token=NEH5a5ADS7dmlIEQLiwNdK794ATiQSsX|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=drm&token=NEH5a5ADS7dmlIEQLiwNdK794ATiQSsX
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/IhwYExGY8EhfQ8qCAcyrDb2GhfY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5013051/e17da2.jpg" ch-number="12", Levante vs Getafe - LaLiga
+#https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=dash&token=NEH5a5ADS7dmlIEQLiwNdK794ATiQSsX|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=drm&token=NEH5a5ADS7dmlIEQLiwNdK794ATiQSsX
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/IhwYExGY8EhfQ8qCAcyrDb2GhfY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5013051/e17da2.jpg" ch-number="13", Levante vs Getafe - LaLiga
-#https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=dash&token=NEH5a5ADS7dmlIEQLiwNdK794ATiQSsX|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=9182&type=drm&token=NEH5a5ADS7dmlIEQLiwNdK794ATiQSsX
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/MohPpEFoZErMH54X33jH_aU3gF0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5013052/02c381.jpg" ch-number="13", Man United vs Leeds United - Premier League
+#https://vid-id.indi1.workers.dev/index.mpd?id=9182&type=dash&token=NEH5a5ADS7dmlIEQLiwNdK794ATiQSsX|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
