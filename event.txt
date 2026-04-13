@@ -11,19 +11,19 @@ https://vid-id.indi1.workers.dev/index.mpd?id=20888&type=dash&token=NEH5a5ADS7dm
 https://vid-id.indi1.workers.dev/index.mpd?id=20890&type=dash&token=NEH5a5ADS7dmlIEQLiwNdK794ATiQSsX|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20887&type=drm&token=NEH5a5ADS7dmlIEQLiwNdK794ATiQSsX
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/HMxwRVAi4oA8-wKet8keq6efSac=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014302/7671c2.jpg" ch-number="3", Reilly Opelka vs Ethan Quinn - Round 1 (Pista Andres Gimeno) | ATP 500: Barcelona Open Banc Sabadell 2026
+https://vid-id.indi1.workers.dev/index.mpd?id=20887&type=dash&token=NEH5a5ADS7dmlIEQLiwNdK794ATiQSsX|User-Agent=VidioPlayer/6.31.6
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20955&type=drm&token=NEH5a5ADS7dmlIEQLiwNdK794ATiQSsX
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/77dWXCWLKxYhiQyvcou39tqbD7o=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014097/1cfef2.jpg" ch-number="3", Tomas Martin Etcheverry vs Jack Draper - Round 1 | ATP 500: Barcelona Open Banc Sabadell 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/77dWXCWLKxYhiQyvcou39tqbD7o=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014097/1cfef2.jpg" ch-number="4", Tomas Martin Etcheverry vs Jack Draper - Round 1 | ATP 500: Barcelona Open Banc Sabadell 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=20955&type=dash&token=NEH5a5ADS7dmlIEQLiwNdK794ATiQSsX|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21165&type=drm&token=NEH5a5ADS7dmlIEQLiwNdK794ATiQSsX
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/0pBC3T35yXuEhiyggQmmqtiNXJQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5011599/d4ef5e.jpg" ch-number="4", Indonesia vs Timor-Leste - ASEAN U17 Boys' Championship
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/0pBC3T35yXuEhiyggQmmqtiNXJQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5011599/d4ef5e.jpg" ch-number="5", Indonesia vs Timor-Leste - ASEAN U17 Boys' Championship
 https://vid-id.indi1.workers.dev/index.mpd?id=21165&type=dash&token=NEH5a5ADS7dmlIEQLiwNdK794ATiQSsX|User-Agent=VidioPlayer/6.31.6
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20887&type=drm&token=NEH5a5ADS7dmlIEQLiwNdK794ATiQSsX
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/m9Ij5BTIM3q50euXi1Cl1L9iAAE=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/20887/round-1-pista-andres-gimeno-atp-500-barcelona-open-banc-sabadell-202-cb50eb.jpg" ch-number="5", Reilly Opelka vs Ethan Quinn - Round 1 (Pista Andres Gimeno) | ATP 500: Barcelona Open Banc Sabadell 2026
-https://vid-id.indi1.workers.dev/index.mpd?id=20887&type=dash&token=NEH5a5ADS7dmlIEQLiwNdK794ATiQSsX|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=19738&type=drm&token=NEH5a5ADS7dmlIEQLiwNdK794ATiQSsX
