@@ -7,15 +7,15 @@
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20890&type=drm&token=NEH5a5ADS7dmlIEQLiwNdK794ATiQSsX
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/nIBpAO0AMh2a_VUyyJ32DIrJ5zs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014305/59f3ab.jpg" ch-number="2", Botic van de Zandschulp vs Marc-Andre Huesler - Round 1 (Court 1) | ATP 500: BMW Open 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=20890&type=dash&token=NEH5a5ADS7dmlIEQLiwNdK794ATiQSsX|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20955&type=drm&token=NEH5a5ADS7dmlIEQLiwNdK794ATiQSsX
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/z-GGLAsyAmW8hUKCZsxTKPhXZmo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014096/88dd86.jpg" ch-number="2", Ignacio Buse vs Corentin Moutet - Round 1 | ATP 500: Barcelona Open Banc Sabadell 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=20955&type=dash&token=NEH5a5ADS7dmlIEQLiwNdK794ATiQSsX|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20955&type=drm&token=NEH5a5ADS7dmlIEQLiwNdK794ATiQSsX
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/z-GGLAsyAmW8hUKCZsxTKPhXZmo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014096/88dd86.jpg" ch-number="3", Ignacio Buse vs Corentin Moutet - Round 1 | ATP 500: Barcelona Open Banc Sabadell 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=20955&type=dash&token=NEH5a5ADS7dmlIEQLiwNdK794ATiQSsX|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20890&type=drm&token=NEH5a5ADS7dmlIEQLiwNdK794ATiQSsX
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/nIBpAO0AMh2a_VUyyJ32DIrJ5zs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014305/59f3ab.jpg" ch-number="3", Botic van de Zandschulp vs Marc-Andre Huesler - Round 1 (Court 1) | ATP 500: BMW Open 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=20890&type=dash&token=NEH5a5ADS7dmlIEQLiwNdK794ATiQSsX|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -25,15 +25,15 @@ https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1ec
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20955&type=drm&token=NEH5a5ADS7dmlIEQLiwNdK794ATiQSsX
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/77dWXCWLKxYhiQyvcou39tqbD7o=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014097/1cfef2.jpg" ch-number="5", Tomas Martin Etcheverry vs Jack Draper - Round 1 | ATP 500: Barcelona Open Banc Sabadell 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=20955&type=dash&token=NEH5a5ADS7dmlIEQLiwNdK794ATiQSsX|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20890&type=drm&token=NEH5a5ADS7dmlIEQLiwNdK794ATiQSsX
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/WXvykOI76sNJ1caYhhO-vCHYzcU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014306/e74aaa.jpg" ch-number="5", Gabriel Diallo vs Vitaly Sachko - Round 1 (Court 1) | ATP 500: BMW Open 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=20890&type=dash&token=NEH5a5ADS7dmlIEQLiwNdK794ATiQSsX|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20890&type=drm&token=NEH5a5ADS7dmlIEQLiwNdK794ATiQSsX
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/WXvykOI76sNJ1caYhhO-vCHYzcU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014306/e74aaa.jpg" ch-number="6", Gabriel Diallo vs Vitaly Sachko - Round 1 (Court 1) | ATP 500: BMW Open 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=20890&type=dash&token=NEH5a5ADS7dmlIEQLiwNdK794ATiQSsX|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20955&type=drm&token=NEH5a5ADS7dmlIEQLiwNdK794ATiQSsX
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/77dWXCWLKxYhiQyvcou39tqbD7o=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014097/1cfef2.jpg" ch-number="6", Tomas Martin Etcheverry vs Jack Draper - Round 1 | ATP 500: Barcelona Open Banc Sabadell 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=20955&type=dash&token=NEH5a5ADS7dmlIEQLiwNdK794ATiQSsX|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -55,15 +55,15 @@ https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1ec
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=19738&type=drm&token=NEH5a5ADS7dmlIEQLiwNdK794ATiQSsX
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/kK2e9X-B3i9A3Ndojy9KH6bJ2Rk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5013092/77b5ca.jpg" ch-number="10", Fenerbahce Medicana vs Bursa BBSK - Turkish Men's Volleyball League
-#https://vid-id.indi1.workers.dev/index.mpd?id=19738&type=dash&token=NEH5a5ADS7dmlIEQLiwNdK794ATiQSsX|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20890&type=drm&token=NEH5a5ADS7dmlIEQLiwNdK794ATiQSsX
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/hMoDzRUd0C6QxGuZwTQ3CFo1UdY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014307/32a5ae.jpg" ch-number="10", Zizou Bergs/Arthur Rinderknech vs Orlando Luz/Rafael Matos - Round of 16 (Court 1) | ATP 500: BMW Open 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=20890&type=dash&token=NEH5a5ADS7dmlIEQLiwNdK794ATiQSsX|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20890&type=drm&token=NEH5a5ADS7dmlIEQLiwNdK794ATiQSsX
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/hMoDzRUd0C6QxGuZwTQ3CFo1UdY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014307/32a5ae.jpg" ch-number="11", Zizou Bergs/Arthur Rinderknech vs Orlando Luz/Rafael Matos - Round of 16 (Court 1) | ATP 500: BMW Open 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=20890&type=dash&token=NEH5a5ADS7dmlIEQLiwNdK794ATiQSsX|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=19738&type=drm&token=NEH5a5ADS7dmlIEQLiwNdK794ATiQSsX
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/kK2e9X-B3i9A3Ndojy9KH6bJ2Rk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5013092/77b5ca.jpg" ch-number="11", Fenerbahce Medicana vs Bursa BBSK - Turkish Men's Volleyball League
+#https://vid-id.indi1.workers.dev/index.mpd?id=19738&type=dash&token=NEH5a5ADS7dmlIEQLiwNdK794ATiQSsX|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -97,15 +97,15 @@ https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1ec
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=drm&token=NEH5a5ADS7dmlIEQLiwNdK794ATiQSsX
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/IhwYExGY8EhfQ8qCAcyrDb2GhfY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5013051/e17da2.jpg" ch-number="17", Levante vs Getafe - LaLiga
-#https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=dash&token=NEH5a5ADS7dmlIEQLiwNdK794ATiQSsX|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=9182&type=drm&token=NEH5a5ADS7dmlIEQLiwNdK794ATiQSsX
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/MohPpEFoZErMH54X33jH_aU3gF0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5013052/02c381.jpg" ch-number="17", Man United vs Leeds United - Premier League
+#https://vid-id.indi1.workers.dev/index.mpd?id=9182&type=dash&token=NEH5a5ADS7dmlIEQLiwNdK794ATiQSsX|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=9182&type=drm&token=NEH5a5ADS7dmlIEQLiwNdK794ATiQSsX
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/MohPpEFoZErMH54X33jH_aU3gF0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5013052/02c381.jpg" ch-number="18", Man United vs Leeds United - Premier League
-#https://vid-id.indi1.workers.dev/index.mpd?id=9182&type=dash&token=NEH5a5ADS7dmlIEQLiwNdK794ATiQSsX|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=drm&token=NEH5a5ADS7dmlIEQLiwNdK794ATiQSsX
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/IhwYExGY8EhfQ8qCAcyrDb2GhfY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5013051/e17da2.jpg" ch-number="18", Levante vs Getafe - LaLiga
+#https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=dash&token=NEH5a5ADS7dmlIEQLiwNdK794ATiQSsX|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
