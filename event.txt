@@ -1,39 +1,39 @@
 #EXTM3U
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20887&type=drm&token=hP0yJkZCG0MkqHqZbLujMKgc3NC1oq0y
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/_l9bakLy3HFwLNxybx6WT7kXQV4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014780/6c0e7a.jpg" ch-number="1", Pedro Martinez vs Lorenzo Sonego - Round 1 (Pista Andres Gimeno) | ATP 500: Barcelona Open Banc Sabadell 2026
-https://vid-id.indi1.workers.dev/index.mpd?id=20887&type=dash&token=hP0yJkZCG0MkqHqZbLujMKgc3NC1oq0y|User-Agent=VidioPlayer/6.31.6
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20888&type=drm&token=hP0yJkZCG0MkqHqZbLujMKgc3NC1oq0y
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/AUhGT0dm16-4-LgpoCr3vBkwGDc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014791/5bf1cd.jpg" ch-number="2", Alejandro Tabilo v Joao Fonseca - Round 1 | ATP 500: BMW Open 2026
-https://vid-id.indi1.workers.dev/index.mpd?id=20888&type=dash&token=hP0yJkZCG0MkqHqZbLujMKgc3NC1oq0y|User-Agent=VidioPlayer/6.31.6
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20890&type=drm&token=hP0yJkZCG0MkqHqZbLujMKgc3NC1oq0y
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/zOJM8uU5dU-6IWvNWuf5bLl7IyE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014770/57c9e7.jpg" ch-number="3", Tallon Griekspoor vs Denis Shapovalov - Round 1 (Court 1) | ATP 500: BMW Open 2026
-https://vid-id.indi1.workers.dev/index.mpd?id=20890&type=dash&token=hP0yJkZCG0MkqHqZbLujMKgc3NC1oq0y|User-Agent=VidioPlayer/6.31.6
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20891&type=drm&token=hP0yJkZCG0MkqHqZbLujMKgc3NC1oq0y
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/bSzr5_V3pTfb3ivtY5trAfOM2Tg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014775/8022cc.jpg" ch-number="4", Zhizhen Zhang vs Luciano Darderi - Round 1 (Court 2) | ATP 500: BMW Open 2026
-https://vid-id.indi1.workers.dev/index.mpd?id=20891&type=dash&token=hP0yJkZCG0MkqHqZbLujMKgc3NC1oq0y|User-Agent=VidioPlayer/6.31.6
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=drm&token=hP0yJkZCG0MkqHqZbLujMKgc3NC1oq0y
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/4hGPrGHeI9qvVP_fXvwfMO09qGU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5013050/381ab2.jpg" ch-number="5", Newgiza P2 Premier Padel 2026 - Day 2
-https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=dash&token=hP0yJkZCG0MkqHqZbLujMKgc3NC1oq0y|User-Agent=VidioPlayer/6.31.6
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21157&type=drm&token=hP0yJkZCG0MkqHqZbLujMKgc3NC1oq0y
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/iTYvi7apnlABsyFJh2BJvijtIEw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5013053/dd4df6.jpg" ch-number="6", Brunei Darussalam vs Cambodia - ASEAN U17 Boys' Championship
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/iTYvi7apnlABsyFJh2BJvijtIEw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5013053/dd4df6.jpg" ch-number="1", Brunei Darussalam vs Cambodia - ASEAN U17 Boys' Championship
 https://vid-id.indi1.workers.dev/index.mpd?id=21157&type=dash&token=hP0yJkZCG0MkqHqZbLujMKgc3NC1oq0y|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20955&type=drm&token=hP0yJkZCG0MkqHqZbLujMKgc3NC1oq0y
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/xhsEP8PDjggUNp0FaM-zayofADk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014786/3def55.jpg" ch-number="7", Alex de Minaur vs Sebastian Ofner - Round 1 | ATP 500: Barcelona Open Banc Sabadell 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/xhsEP8PDjggUNp0FaM-zayofADk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014786/3def55.jpg" ch-number="2", Alex de Minaur vs Sebastian Ofner - Round 1 | ATP 500: Barcelona Open Banc Sabadell 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=20955&type=dash&token=hP0yJkZCG0MkqHqZbLujMKgc3NC1oq0y|User-Agent=VidioPlayer/6.31.6
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20887&type=drm&token=hP0yJkZCG0MkqHqZbLujMKgc3NC1oq0y
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/_l9bakLy3HFwLNxybx6WT7kXQV4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014780/6c0e7a.jpg" ch-number="3", Pedro Martinez vs Lorenzo Sonego - Round 1 (Pista Andres Gimeno) | ATP 500: Barcelona Open Banc Sabadell 2026
+https://vid-id.indi1.workers.dev/index.mpd?id=20887&type=dash&token=hP0yJkZCG0MkqHqZbLujMKgc3NC1oq0y|User-Agent=VidioPlayer/6.31.6
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20888&type=drm&token=hP0yJkZCG0MkqHqZbLujMKgc3NC1oq0y
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/AUhGT0dm16-4-LgpoCr3vBkwGDc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014791/5bf1cd.jpg" ch-number="4", Alejandro Tabilo v Joao Fonseca - Round 1 | ATP 500: BMW Open 2026
+https://vid-id.indi1.workers.dev/index.mpd?id=20888&type=dash&token=hP0yJkZCG0MkqHqZbLujMKgc3NC1oq0y|User-Agent=VidioPlayer/6.31.6
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20890&type=drm&token=hP0yJkZCG0MkqHqZbLujMKgc3NC1oq0y
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/zOJM8uU5dU-6IWvNWuf5bLl7IyE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014770/57c9e7.jpg" ch-number="5", Tallon Griekspoor vs Denis Shapovalov - Round 1 (Court 1) | ATP 500: BMW Open 2026
+https://vid-id.indi1.workers.dev/index.mpd?id=20890&type=dash&token=hP0yJkZCG0MkqHqZbLujMKgc3NC1oq0y|User-Agent=VidioPlayer/6.31.6
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20891&type=drm&token=hP0yJkZCG0MkqHqZbLujMKgc3NC1oq0y
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/bSzr5_V3pTfb3ivtY5trAfOM2Tg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014775/8022cc.jpg" ch-number="6", Zhizhen Zhang vs Luciano Darderi - Round 1 (Court 2) | ATP 500: BMW Open 2026
+https://vid-id.indi1.workers.dev/index.mpd?id=20891&type=dash&token=hP0yJkZCG0MkqHqZbLujMKgc3NC1oq0y|User-Agent=VidioPlayer/6.31.6
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=drm&token=hP0yJkZCG0MkqHqZbLujMKgc3NC1oq0y
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/4hGPrGHeI9qvVP_fXvwfMO09qGU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5013050/381ab2.jpg" ch-number="7", Newgiza P2 Premier Padel 2026 - Day 2
+https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=dash&token=hP0yJkZCG0MkqHqZbLujMKgc3NC1oq0y|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20887&type=drm&token=hP0yJkZCG0MkqHqZbLujMKgc3NC1oq0y
