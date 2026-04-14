@@ -11,36 +11,37 @@ https://vid-id.indi1.workers.dev/index.mpd?id=20435&type=dash&token=URjtg0vX5wak
 https://vid-id.indi1.workers.dev/index.mpd?id=6317&type=dash&token=URjtg0vX5waky20pvKKc7NNfmwm5jb23|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20887&type=drm&token=URjtg0vX5waky20pvKKc7NNfmwm5jb23
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/xFhEEuwrjdwBu_hfIW4NsNAhV94=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014784/ceaa1e.jpg" ch-number="3", Arthur Fils vs Terence Atmane - Round 1 (Pista Andres Gimeno) | ATP 500: Barcelona Open Banc Sabadell 2026
-https://vid-id.indi1.workers.dev/index.mpd?id=20887&type=dash&token=URjtg0vX5waky20pvKKc7NNfmwm5jb23|User-Agent=VidioPlayer/6.31.6
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6786&type=drm&token=URjtg0vX5waky20pvKKc7NNfmwm5jb23
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/ZlLxHa23MCCG_G_b_5c6zPdDqqQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014087/51e2a5.jpg" ch-number="4", Day 1 - WTA 500: Porsche Tennis Grand Prix 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/ZlLxHa23MCCG_G_b_5c6zPdDqqQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014087/51e2a5.jpg" ch-number="3", Day 1 - WTA 500: Porsche Tennis Grand Prix 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=6786&type=dash&token=URjtg0vX5waky20pvKKc7NNfmwm5jb23|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6685&type=drm&token=URjtg0vX5waky20pvKKc7NNfmwm5jb23
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/26YLa4UnfcYD-GFxi3bMIp2RM24=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014308/19720e.jpg" ch-number="5", Portsmouth vs Ipswich - EFL Championship
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/26YLa4UnfcYD-GFxi3bMIp2RM24=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014308/19720e.jpg" ch-number="4", Portsmouth vs Ipswich - EFL Championship
 https://vid-id.indi1.workers.dev/index.mpd?id=6685&type=dash&token=URjtg0vX5waky20pvKKc7NNfmwm5jb23|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=drm&token=URjtg0vX5waky20pvKKc7NNfmwm5jb23
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/wVyfmRreHmcz_oeXUcsyGfI1syg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014309/cd2c48.jpg" ch-number="6", Newgiza P2 Premier Padel 2026 - Day 3
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/wVyfmRreHmcz_oeXUcsyGfI1syg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014309/cd2c48.jpg" ch-number="5", Newgiza P2 Premier Padel 2026 - Day 3
 #https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=dash&token=URjtg0vX5waky20pvKKc7NNfmwm5jb23|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21157&type=drm&token=URjtg0vX5waky20pvKKc7NNfmwm5jb23
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/iD_2SwIqeTnjHePRHnRGSd23wYc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5013055/948242.jpg" ch-number="7", Philippines vs Laos - ASEAN U17 Boys' Championship
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/iD_2SwIqeTnjHePRHnRGSd23wYc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5013055/948242.jpg" ch-number="6", Philippines vs Laos - ASEAN U17 Boys' Championship
 #https://vid-id.indi1.workers.dev/index.mpd?id=21157&type=dash&token=URjtg0vX5waky20pvKKc7NNfmwm5jb23|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20888&type=drm&token=URjtg0vX5waky20pvKKc7NNfmwm5jb23
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/gdxjh0zPJbmdzzV9fWjnBckJ_oI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015539/35fb85.jpg" ch-number="8", Arthur Rinderknech v Joao Fonseca - Round of 16 | ATP 500: BMW Open 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/gdxjh0zPJbmdzzV9fWjnBckJ_oI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015539/35fb85.jpg" ch-number="7", Arthur Rinderknech v Joao Fonseca - Round of 16 | ATP 500: BMW Open 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=20888&type=dash&token=URjtg0vX5waky20pvKKc7NNfmwm5jb23|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20955&type=drm&token=URjtg0vX5waky20pvKKc7NNfmwm5jb23
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/ouwbeZHgibvG3Y_dRKuhYFaR6G4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015534/35450b.jpg" ch-number="8", Nuno Borges vs Tomas Martin Etcheverry - Round of 16 | ATP 500: Barcelona Open Banc Sabadell 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=20955&type=dash&token=URjtg0vX5waky20pvKKc7NNfmwm5jb23|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -56,39 +57,39 @@ https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1ec
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20955&type=drm&token=URjtg0vX5waky20pvKKc7NNfmwm5jb23
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/ouwbeZHgibvG3Y_dRKuhYFaR6G4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015534/35450b.jpg" ch-number="11", Nuno Borges vs Tomas Martin Etcheverry - Round of 16 | ATP 500: Barcelona Open Banc Sabadell 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=20955&type=dash&token=URjtg0vX5waky20pvKKc7NNfmwm5jb23|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20888&type=drm&token=URjtg0vX5waky20pvKKc7NNfmwm5jb23
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/IrgERInXUIQ3P_7nt0Oc2FTGN8Q=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/20888/round-2-atp-500-bmw-open-2026-b4daa8.jpg" ch-number="12", Arthur Rinderknech v Joao Fonseca - Round of 16 | ATP 500: BMW Open 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/IrgERInXUIQ3P_7nt0Oc2FTGN8Q=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/20888/round-2-atp-500-bmw-open-2026-b4daa8.jpg" ch-number="11", Arthur Rinderknech v Joao Fonseca - Round of 16 | ATP 500: BMW Open 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=20888&type=dash&token=URjtg0vX5waky20pvKKc7NNfmwm5jb23|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20890&type=drm&token=URjtg0vX5waky20pvKKc7NNfmwm5jb23
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/-vj-LPV0z_iNVrt6ruAPT_xqtKQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/20890/round-2-court-1-atp-500-bmw-open-2026-d9725b.jpg" ch-number="13", Sander Arends/David Pel v Jakob Schnaitter/Mark Wallner - Round of 16 (Court 1) | ATP 500: BMW Open 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/-vj-LPV0z_iNVrt6ruAPT_xqtKQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/20890/round-2-court-1-atp-500-bmw-open-2026-d9725b.jpg" ch-number="12", Sander Arends/David Pel v Jakob Schnaitter/Mark Wallner - Round of 16 (Court 1) | ATP 500: BMW Open 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=20890&type=dash&token=URjtg0vX5waky20pvKKc7NNfmwm5jb23|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20887&type=drm&token=URjtg0vX5waky20pvKKc7NNfmwm5jb23
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/vBL0Pb74F1xOEdr4uy50CtdF15A=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015529/ccd94a.jpg" ch-number="14", Julian Cash/Lloyd Glasspool vs Constantin Frantzen/Robin Haase - Round of 16 | ATP 500: Barcelona Open Banc Sabadell 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/-ffcNg7g2S4rC92lMYz9jfKygfs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015544/58cd2f.jpg" ch-number="13", Julian Cash/Lloyd Glasspool vs Constantin Frantzen/Robin Haase - Round of 16 (Pista Andres Gimeno) | ATP 500: Barcelona Open Banc Sabadell 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=20887&type=dash&token=URjtg0vX5waky20pvKKc7NNfmwm5jb23|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6786&type=drm&token=URjtg0vX5waky20pvKKc7NNfmwm5jb23
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/lZbAUfxzxtQx804a85YInoghnWU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014088/205673.jpg" ch-number="15", Day 2 - WTA 500: Porsche Tennis Grand Prix 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=6786&type=dash&token=URjtg0vX5waky20pvKKc7NNfmwm5jb23|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20887&type=drm&token=URjtg0vX5waky20pvKKc7NNfmwm5jb23
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/zkZ6Ev8a0cn8xFZ8kY3kiRRL59I=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/20887/round-2-pista-andres-gimeno-atp-500-barcelona-open-banc-sabadell-2026-b884f9.jpg" ch-number="14", Julian Cash/Lloyd Glasspool vs Constantin Frantzen/Robin Haase - Round of 16 (Pista Andres Gimeno) | ATP 500: Barcelona Open Banc Sabadell 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=20887&type=dash&token=URjtg0vX5waky20pvKKc7NNfmwm5jb23|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20888&type=drm&token=URjtg0vX5waky20pvKKc7NNfmwm5jb23
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/dxWaBNoXlsh0QtX3s6qLsZzBx2M=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015540/a2955c.jpg" ch-number="16", Fabian Marozsan vs Stefanos Tsitsipas - Round of 32 | ATP 500: BMW Open 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/dxWaBNoXlsh0QtX3s6qLsZzBx2M=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015540/a2955c.jpg" ch-number="15", Fabian Marozsan vs Stefanos Tsitsipas - Round of 32 | ATP 500: BMW Open 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=20888&type=dash&token=URjtg0vX5waky20pvKKc7NNfmwm5jb23|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6786&type=drm&token=URjtg0vX5waky20pvKKc7NNfmwm5jb23
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/lZbAUfxzxtQx804a85YInoghnWU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014088/205673.jpg" ch-number="16", Day 2 - WTA 500: Porsche Tennis Grand Prix 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=6786&type=dash&token=URjtg0vX5waky20pvKKc7NNfmwm5jb23|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
