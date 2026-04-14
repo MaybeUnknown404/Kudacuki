@@ -24,9 +24,9 @@ https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1ec
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20890&type=drm&token=hP0yJkZCG0MkqHqZbLujMKgc3NC1oq0y
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/zOJM8uU5dU-6IWvNWuf5bLl7IyE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014770/57c9e7.jpg" ch-number="5", Tallon Griekspoor vs Denis Shapovalov - Round 1 (Court 1) | ATP 500: BMW Open 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=20890&type=dash&token=hP0yJkZCG0MkqHqZbLujMKgc3NC1oq0y|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20955&type=drm&token=hP0yJkZCG0MkqHqZbLujMKgc3NC1oq0y
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/xhsEP8PDjggUNp0FaM-zayofADk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014786/3def55.jpg" ch-number="5", Alex de Minaur vs Sebastian Ofner - Round 1 | ATP 500: Barcelona Open Banc Sabadell 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=20955&type=dash&token=hP0yJkZCG0MkqHqZbLujMKgc3NC1oq0y|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -36,9 +36,9 @@ https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1ec
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20955&type=drm&token=hP0yJkZCG0MkqHqZbLujMKgc3NC1oq0y
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/xhsEP8PDjggUNp0FaM-zayofADk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014786/3def55.jpg" ch-number="7", Alex de Minaur vs Sebastian Ofner - Round 1 | ATP 500: Barcelona Open Banc Sabadell 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=20955&type=dash&token=hP0yJkZCG0MkqHqZbLujMKgc3NC1oq0y|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20890&type=drm&token=hP0yJkZCG0MkqHqZbLujMKgc3NC1oq0y
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/zOJM8uU5dU-6IWvNWuf5bLl7IyE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014770/57c9e7.jpg" ch-number="7", Tallon Griekspoor vs Denis Shapovalov - Round 1 (Court 1) | ATP 500: BMW Open 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=20890&type=dash&token=hP0yJkZCG0MkqHqZbLujMKgc3NC1oq0y|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
