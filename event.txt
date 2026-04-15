@@ -13,98 +13,98 @@ https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1ec
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20888&type=drm&token=P3fVIuFlzeN7jNAqww1hI8tMnvZvDJFE
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/FlybiGX_m9f5b5nRxfEtynYCElU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015828/701d66.jpg" ch-number="4", Botic van de Zandschulp vs Francisco Cerundolo - Round of 16 | ATP 500: BMW Open 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=20888&type=dash&token=P3fVIuFlzeN7jNAqww1hI8tMnvZvDJFE|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20890&type=drm&token=P3fVIuFlzeN7jNAqww1hI8tMnvZvDJFE
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/0sYOYxpJ7Zi-FUiCcJgcxwkQ4RI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015824/0af39a.jpg" ch-number="5", Petr Nouza/Bart Stevens vs Jakob Schnaitter/Mark Wallner - Quarterfinals (Court 1) | ATP 500: BMW Open 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=20890&type=dash&token=P3fVIuFlzeN7jNAqww1hI8tMnvZvDJFE|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6686&type=drm&token=P3fVIuFlzeN7jNAqww1hI8tMnvZvDJFE
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/WXToC8IP5BkSEfxRPv4SJ7Mqks0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014336/30e2b7.jpg" ch-number="4", Round of 16 - WTA 250: Open Capfinances Rouen Metropole 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/WXToC8IP5BkSEfxRPv4SJ7Mqks0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014336/30e2b7.jpg" ch-number="6", Round of 16 - WTA 250: Open Capfinances Rouen Metropole 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=6686&type=dash&token=P3fVIuFlzeN7jNAqww1hI8tMnvZvDJFE|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6786&type=drm&token=P3fVIuFlzeN7jNAqww1hI8tMnvZvDJFE
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/2hEdweVku921OvjJccM114qY-xg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014337/cb52d4.jpg" ch-number="5", Day 3 - WTA 500: Porsche Tennis Grand Prix 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/2hEdweVku921OvjJccM114qY-xg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014337/cb52d4.jpg" ch-number="7", Day 3 - WTA 500: Porsche Tennis Grand Prix 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=6786&type=dash&token=P3fVIuFlzeN7jNAqww1hI8tMnvZvDJFE|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20888&type=drm&token=P3fVIuFlzeN7jNAqww1hI8tMnvZvDJFE
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/pScO0sW2L34uH90382AcKM8VvF4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015829/75fc6b.jpg" ch-number="8", Daniel Altmaier vs Alex Molcan - Round of 16 | ATP 500: BMW Open 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=20888&type=dash&token=P3fVIuFlzeN7jNAqww1hI8tMnvZvDJFE|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20890&type=drm&token=P3fVIuFlzeN7jNAqww1hI8tMnvZvDJFE
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/nI6XCOXZ0IlYfT6TJJW3VXMd7V0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015825/42d861.jpg" ch-number="9", Orlando Luz/Rafael Matos vs Luke Johnson/Jan Zielinski - Quarterfinals (Court 1) | ATP 500: BMW Open 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=20890&type=dash&token=P3fVIuFlzeN7jNAqww1hI8tMnvZvDJFE|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21165&type=drm&token=P3fVIuFlzeN7jNAqww1hI8tMnvZvDJFE
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/t-DCxuDLsNICGMQIolZF9cC0wpk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014318/41b0e2.jpg" ch-number="6", Malaysia vs Indonesia - ASEAN U17 Boys' Championship
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/t-DCxuDLsNICGMQIolZF9cC0wpk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014318/41b0e2.jpg" ch-number="11", Malaysia vs Indonesia - ASEAN U17 Boys' Championship
 #https://vid-id.indi1.workers.dev/index.mpd?id=21165&type=dash&token=P3fVIuFlzeN7jNAqww1hI8tMnvZvDJFE|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20888&type=drm&token=P3fVIuFlzeN7jNAqww1hI8tMnvZvDJFE
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/k3Pl1hxUFvyK8jvL7_bsXLMUQNw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015830/827474.jpg" ch-number="12", Alexander Zverev vs Gabriel Diallo - Round of 16 | ATP 500: BMW Open 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=20888&type=dash&token=P3fVIuFlzeN7jNAqww1hI8tMnvZvDJFE|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=19738&type=drm&token=P3fVIuFlzeN7jNAqww1hI8tMnvZvDJFE
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/hZV3u06pvIYyuuG9OkZDHtLtPP8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014322/2c967c.jpg" ch-number="8", Bursa BBSK vs Fenerbahce Medicana - Turkish Men's Volleyball League
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/hZV3u06pvIYyuuG9OkZDHtLtPP8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014322/2c967c.jpg" ch-number="13", Bursa BBSK vs Fenerbahce Medicana - Turkish Men's Volleyball League
 #https://vid-id.indi1.workers.dev/index.mpd?id=19738&type=dash&token=P3fVIuFlzeN7jNAqww1hI8tMnvZvDJFE|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=drm&token=P3fVIuFlzeN7jNAqww1hI8tMnvZvDJFE
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/X9ybSQqIpGroDYXLUwJdEKuX31M=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014335/f10fc2.jpg" ch-number="9", Newgiza P2 Premier Padel 2026 - Quarterfinals
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/X9ybSQqIpGroDYXLUwJdEKuX31M=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014335/f10fc2.jpg" ch-number="14", Newgiza P2 Premier Padel 2026 - Quarterfinals
 #https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=dash&token=P3fVIuFlzeN7jNAqww1hI8tMnvZvDJFE|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6786&type=drm&token=P3fVIuFlzeN7jNAqww1hI8tMnvZvDJFE
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/4C5xGOt_3ZzmdP_z5UOVZAfl0nY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014338/98a5a8.jpg" ch-number="10", Day 3 - WTA 500: Porsche Tennis Grand Prix 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/4C5xGOt_3ZzmdP_z5UOVZAfl0nY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014338/98a5a8.jpg" ch-number="15", Day 3 - WTA 500: Porsche Tennis Grand Prix 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=6786&type=dash&token=P3fVIuFlzeN7jNAqww1hI8tMnvZvDJFE|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20890&type=drm&token=P3fVIuFlzeN7jNAqww1hI8tMnvZvDJFE
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/7_tl3mTD9KdkbA_rIqcNT5YPctM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015826/fd9dbe.jpg" ch-number="16", Yuki Bhambri/Michael Venus vs Luciano Darderi/Santiago Gonzalez - Quarterfinals (Court 1) | ATP 500: BMW Open 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=20890&type=dash&token=P3fVIuFlzeN7jNAqww1hI8tMnvZvDJFE|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20888&type=drm&token=P3fVIuFlzeN7jNAqww1hI8tMnvZvDJFE
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/fV4xFRtZT3Zve54_oXPweI8IjJY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015831/f4caea.jpg" ch-number="17", Denis Shapovalov vs Fabian Marozsan - Round of 16 | ATP 500: BMW Open 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=20888&type=dash&token=P3fVIuFlzeN7jNAqww1hI8tMnvZvDJFE|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6317&type=drm&token=P3fVIuFlzeN7jNAqww1hI8tMnvZvDJFE
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/JSMgLR7H5Y3BRtQcTHrByQJS5y4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014320/15cc4c.jpg" ch-number="11", AZ Alkmaar vs Shakhtar Donetsk - UEFA Conference League
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/JSMgLR7H5Y3BRtQcTHrByQJS5y4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014320/15cc4c.jpg" ch-number="18", AZ Alkmaar vs Shakhtar Donetsk - UEFA Conference League
 #https://vid-id.indi1.workers.dev/index.mpd?id=6317&type=dash&token=P3fVIuFlzeN7jNAqww1hI8tMnvZvDJFE|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=drm&token=P3fVIuFlzeN7jNAqww1hI8tMnvZvDJFE
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/KYL3_tZUUpTN8nEku15901fP5G4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014321/ea70e1.jpg" ch-number="12", Celta Vigo vs SC Freiburg - UEFA Europa League
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/KYL3_tZUUpTN8nEku15901fP5G4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014321/ea70e1.jpg" ch-number="19", Celta Vigo vs SC Freiburg - UEFA Europa League
 #https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=dash&token=P3fVIuFlzeN7jNAqww1hI8tMnvZvDJFE|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18189&type=drm&token=P3fVIuFlzeN7jNAqww1hI8tMnvZvDJFE
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/RvVtq7KIizCPzIsveOcH1d9f0Uc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015418/451525.jpg" ch-number="13", RBC Heritage 2026 - Round 1
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/RvVtq7KIizCPzIsveOcH1d9f0Uc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015418/451525.jpg" ch-number="20", RBC Heritage 2026 - Round 1
 #https://vid-id.indi1.workers.dev/index.mpd?id=18189&type=dash&token=P3fVIuFlzeN7jNAqww1hI8tMnvZvDJFE|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=19603&type=drm&token=P3fVIuFlzeN7jNAqww1hI8tMnvZvDJFE
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/mK8gzm_8GnLxSjGM5mKC1c9sX4M=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015459/d7ea45.jpg" ch-number="14", Nottingham Forest vs Porto - UEFA Europa League
-#https://vid-id.indi1.workers.dev/index.mpd?id=19603&type=dash&token=P3fVIuFlzeN7jNAqww1hI8tMnvZvDJFE|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=19644&type=drm&token=P3fVIuFlzeN7jNAqww1hI8tMnvZvDJFE
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/geZCGz-YDCvhZPXNj6VYTSV_lp8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015454/4ae603.jpg" ch-number="15", AEK Athens vs Rayo Vallecano - UEFA Conference League
-#https://vid-id.indi1.workers.dev/index.mpd?id=19644&type=dash&token=P3fVIuFlzeN7jNAqww1hI8tMnvZvDJFE|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=19602&type=drm&token=P3fVIuFlzeN7jNAqww1hI8tMnvZvDJFE
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/dUx4zkybUzProgQVt-gtIvy8aF4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015461/38ab12.jpg" ch-number="16", Real Betis vs Braga - UEFA Europa League
-#https://vid-id.indi1.workers.dev/index.mpd?id=19602&type=dash&token=P3fVIuFlzeN7jNAqww1hI8tMnvZvDJFE|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=19736&type=drm&token=P3fVIuFlzeN7jNAqww1hI8tMnvZvDJFE
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/wRU7JDiABW7HDqL3ZB9ZyeYlEo4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015458/2f8528.jpg" ch-number="17", Strasbourg vs Mainz - UEFA Conference League
-#https://vid-id.indi1.workers.dev/index.mpd?id=19736&type=dash&token=P3fVIuFlzeN7jNAqww1hI8tMnvZvDJFE|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=drm&token=P3fVIuFlzeN7jNAqww1hI8tMnvZvDJFE
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/yfMm4tGznLlmoqEg-k9XKKP7Zv4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015445/2a6f9c.jpg" ch-number="18", Fiorentina vs Crystal Palace - UEFA Conference League
-#https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=dash&token=P3fVIuFlzeN7jNAqww1hI8tMnvZvDJFE|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=drm&token=P3fVIuFlzeN7jNAqww1hI8tMnvZvDJFE
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/gCykyP-6O2ZgMQSqtC3VxL4kMeo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015443/55abb1.jpg" ch-number="19", Aston Villa vs Bologna - UEFA Europa League
-#https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=dash&token=P3fVIuFlzeN7jNAqww1hI8tMnvZvDJFE|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18190&type=drm&token=P3fVIuFlzeN7jNAqww1hI8tMnvZvDJFE
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/5kZD1AWxQZSouUVHkmEUO4MIdvY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015421/ce7adc.jpg" ch-number="20", Round 1 - JM Eagle LA Championship presented by Plastpro 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=18190&type=dash&token=P3fVIuFlzeN7jNAqww1hI8tMnvZvDJFE|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
