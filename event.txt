@@ -1,29 +1,29 @@
 #EXTM3U
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20888&type=drm&token=URjtg0vX5waky20pvKKc7NNfmwm5jb23
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/gdxjh0zPJbmdzzV9fWjnBckJ_oI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015539/35fb85.jpg" ch-number="1", Arthur Rinderknech v Joao Fonseca - Round of 16 | ATP 500: BMW Open 2026
-https://vid-id.indi1.workers.dev/index.mpd?id=20888&type=dash&token=URjtg0vX5waky20pvKKc7NNfmwm5jb23|User-Agent=VidioPlayer/6.31.6
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20890&type=drm&token=URjtg0vX5waky20pvKKc7NNfmwm5jb23
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/Ekkie_TKTRP0nA1sdPbDAFwK19o=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015536/2fc04f.jpg" ch-number="2", Sander Arends/David Pel v Jakob Schnaitter/Mark Wallner - Round of 16 (Court 1) | ATP 500: BMW Open 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/Ekkie_TKTRP0nA1sdPbDAFwK19o=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015536/2fc04f.jpg" ch-number="1", Sander Arends/David Pel v Jakob Schnaitter/Mark Wallner - Round of 16 (Court 1) | ATP 500: BMW Open 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=20890&type=dash&token=URjtg0vX5waky20pvKKc7NNfmwm5jb23|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=drm&token=URjtg0vX5waky20pvKKc7NNfmwm5jb23
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/wVyfmRreHmcz_oeXUcsyGfI1syg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014309/cd2c48.jpg" ch-number="3", Newgiza P2 Premier Padel 2026 - Day 3
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/wVyfmRreHmcz_oeXUcsyGfI1syg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014309/cd2c48.jpg" ch-number="2", Newgiza P2 Premier Padel 2026 - Day 3
 https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=dash&token=URjtg0vX5waky20pvKKc7NNfmwm5jb23|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21157&type=drm&token=URjtg0vX5waky20pvKKc7NNfmwm5jb23
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/iD_2SwIqeTnjHePRHnRGSd23wYc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5013055/948242.jpg" ch-number="4", Philippines vs Laos - ASEAN U17 Boys' Championship
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/iD_2SwIqeTnjHePRHnRGSd23wYc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5013055/948242.jpg" ch-number="3", Philippines vs Laos - ASEAN U17 Boys' Championship
 https://vid-id.indi1.workers.dev/index.mpd?id=21157&type=dash&token=URjtg0vX5waky20pvKKc7NNfmwm5jb23|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21172&type=drm&token=URjtg0vX5waky20pvKKc7NNfmwm5jb23
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/fL8ki5pcWBeG0jfyiu1bKLyI-i8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014764/473ce7.jpg" ch-number="5", 3rd Place: New Caledonia vs Indonesia - FIFA Series
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/fL8ki5pcWBeG0jfyiu1bKLyI-i8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014764/473ce7.jpg" ch-number="4", 3rd Place: New Caledonia vs Indonesia - FIFA Series
 https://vid-id.indi1.workers.dev/index.mpd?id=21172&type=dash&token=URjtg0vX5waky20pvKKc7NNfmwm5jb23|User-Agent=VidioPlayer/6.31.6
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20888&type=drm&token=URjtg0vX5waky20pvKKc7NNfmwm5jb23
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/gdxjh0zPJbmdzzV9fWjnBckJ_oI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015539/35fb85.jpg" ch-number="5", Arthur Rinderknech v Joao Fonseca - Round of 16 | ATP 500: BMW Open 2026
+https://vid-id.indi1.workers.dev/index.mpd?id=20888&type=dash&token=URjtg0vX5waky20pvKKc7NNfmwm5jb23|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20955&type=drm&token=URjtg0vX5waky20pvKKc7NNfmwm5jb23
