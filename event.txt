@@ -1,9 +1,9 @@
 #EXTM3U
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20888&type=drm&token=P3fVIuFlzeN7jNAqww1hI8tMnvZvDJFE
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/FlybiGX_m9f5b5nRxfEtynYCElU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015828/701d66.jpg" ch-number="2", Botic van de Zandschulp vs Francisco Cerundolo - Round of 16 | ATP 500: BMW Open 2026
-https://vid-id.indi1.workers.dev/index.mpd?id=20888&type=dash&token=P3fVIuFlzeN7jNAqww1hI8tMnvZvDJFE|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20891&type=drm&token=P3fVIuFlzeN7jNAqww1hI8tMnvZvDJFE
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/B0363tmQ_T6RsVqUTd8GyMupw0g=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5016134/f0abf4.jpg" ch-number="2", Daniel Rincon/Oriol Roca Batalla vs Austin Krajicek/Nikola Mektic - Round of 16 (Pista Rafa Nadal) | ATP 500: Barcelona Open Banc Sabadell 2026
+https://vid-id.indi1.workers.dev/index.mpd?id=20891&type=dash&token=P3fVIuFlzeN7jNAqww1hI8tMnvZvDJFE|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20890&type=drm&token=P3fVIuFlzeN7jNAqww1hI8tMnvZvDJFE
@@ -11,14 +11,14 @@ https://vid-id.indi1.workers.dev/index.mpd?id=20888&type=dash&token=P3fVIuFlzeN7
 https://vid-id.indi1.workers.dev/index.mpd?id=20890&type=dash&token=P3fVIuFlzeN7jNAqww1hI8tMnvZvDJFE|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20891&type=drm&token=P3fVIuFlzeN7jNAqww1hI8tMnvZvDJFE
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/B0363tmQ_T6RsVqUTd8GyMupw0g=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5016134/f0abf4.jpg" ch-number="4", Daniel Rincon/Oriol Roca Batalla vs Austin Krajicek/Nikola Mektic - Round of 16 (Pista Rafa Nadal) | ATP 500: Barcelona Open Banc Sabadell 2026
-https://vid-id.indi1.workers.dev/index.mpd?id=20891&type=dash&token=P3fVIuFlzeN7jNAqww1hI8tMnvZvDJFE|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6686&type=drm&token=P3fVIuFlzeN7jNAqww1hI8tMnvZvDJFE
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/WXToC8IP5BkSEfxRPv4SJ7Mqks0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014336/30e2b7.jpg" ch-number="4", Round of 16 - WTA 250: Open Capfinances Rouen Metropole 2026
+https://vid-id.indi1.workers.dev/index.mpd?id=6686&type=dash&token=P3fVIuFlzeN7jNAqww1hI8tMnvZvDJFE|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6686&type=drm&token=P3fVIuFlzeN7jNAqww1hI8tMnvZvDJFE
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/WXToC8IP5BkSEfxRPv4SJ7Mqks0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014336/30e2b7.jpg" ch-number="5", Round of 16 - WTA 250: Open Capfinances Rouen Metropole 2026
-https://vid-id.indi1.workers.dev/index.mpd?id=6686&type=dash&token=P3fVIuFlzeN7jNAqww1hI8tMnvZvDJFE|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20887&type=drm&token=P3fVIuFlzeN7jNAqww1hI8tMnvZvDJFE
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/OEZm0EIpROiBSDMlk_zJNWcGlbA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015838/a57685.jpg" ch-number="5", Hugo Nys/Edouard Roger-Vasselin vs Fransisco Cabral/Joe Salisbury - Round of 16 (Pista Andres Gimeno) | ATP 500: Barcelona Open Banc Sabadell 2026
+https://vid-id.indi1.workers.dev/index.mpd?id=20887&type=dash&token=P3fVIuFlzeN7jNAqww1hI8tMnvZvDJFE|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6786&type=drm&token=P3fVIuFlzeN7jNAqww1hI8tMnvZvDJFE
@@ -26,9 +26,9 @@ https://vid-id.indi1.workers.dev/index.mpd?id=6686&type=dash&token=P3fVIuFlzeN7j
 https://vid-id.indi1.workers.dev/index.mpd?id=6786&type=dash&token=P3fVIuFlzeN7jNAqww1hI8tMnvZvDJFE|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20887&type=drm&token=P3fVIuFlzeN7jNAqww1hI8tMnvZvDJFE
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/OEZm0EIpROiBSDMlk_zJNWcGlbA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015838/a57685.jpg" ch-number="7", Hugo Nys/Edouard Roger-Vasselin vs Fransisco Cabral/Joe Salisbury - Round of 16 (Pista Andres Gimeno) | ATP 500: Barcelona Open Banc Sabadell 2026
-https://vid-id.indi1.workers.dev/index.mpd?id=20887&type=dash&token=P3fVIuFlzeN7jNAqww1hI8tMnvZvDJFE|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20888&type=drm&token=P3fVIuFlzeN7jNAqww1hI8tMnvZvDJFE
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/pScO0sW2L34uH90382AcKM8VvF4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015829/75fc6b.jpg" ch-number="7", Daniel Altmaier vs Alex Molcan - Round of 16 | ATP 500: BMW Open 2026
+https://vid-id.indi1.workers.dev/index.mpd?id=20888&type=dash&token=P3fVIuFlzeN7jNAqww1hI8tMnvZvDJFE|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20955&type=drm&token=P3fVIuFlzeN7jNAqww1hI8tMnvZvDJFE
@@ -49,56 +49,56 @@ https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1ec
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20888&type=drm&token=P3fVIuFlzeN7jNAqww1hI8tMnvZvDJFE
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/pScO0sW2L34uH90382AcKM8VvF4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015829/75fc6b.jpg" ch-number="11", Daniel Altmaier vs Alex Molcan - Round of 16 | ATP 500: BMW Open 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=20888&type=dash&token=P3fVIuFlzeN7jNAqww1hI8tMnvZvDJFE|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=19738&type=drm&token=P3fVIuFlzeN7jNAqww1hI8tMnvZvDJFE
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/hZV3u06pvIYyuuG9OkZDHtLtPP8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014322/2c967c.jpg" ch-number="13", Bursa BBSK vs Fenerbahce Medicana - Turkish Men's Volleyball League
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/hZV3u06pvIYyuuG9OkZDHtLtPP8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014322/2c967c.jpg" ch-number="12", Bursa BBSK vs Fenerbahce Medicana - Turkish Men's Volleyball League
 #https://vid-id.indi1.workers.dev/index.mpd?id=19738&type=dash&token=P3fVIuFlzeN7jNAqww1hI8tMnvZvDJFE|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=drm&token=P3fVIuFlzeN7jNAqww1hI8tMnvZvDJFE
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/X9ybSQqIpGroDYXLUwJdEKuX31M=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014335/f10fc2.jpg" ch-number="14", Newgiza P2 Premier Padel 2026 - Quarterfinals
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/X9ybSQqIpGroDYXLUwJdEKuX31M=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014335/f10fc2.jpg" ch-number="13", Newgiza P2 Premier Padel 2026 - Quarterfinals
 #https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=dash&token=P3fVIuFlzeN7jNAqww1hI8tMnvZvDJFE|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20887&type=drm&token=P3fVIuFlzeN7jNAqww1hI8tMnvZvDJFE
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/YvHlBo3Vg3FKcxn9nJ5ABoJIRdQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015839/f71f63.jpg" ch-number="15", Guido Andreozzi/Manuel Guinard vs Robert Cash/JJ Tracy - Round of 16 (Pista Andres Gimeno) | ATP 500: Barcelona Open Banc Sabadell 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/YvHlBo3Vg3FKcxn9nJ5ABoJIRdQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015839/f71f63.jpg" ch-number="14", Guido Andreozzi/Manuel Guinard vs Robert Cash/JJ Tracy - Round of 16 (Pista Andres Gimeno) | ATP 500: Barcelona Open Banc Sabadell 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=20887&type=dash&token=P3fVIuFlzeN7jNAqww1hI8tMnvZvDJFE|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20955&type=drm&token=P3fVIuFlzeN7jNAqww1hI8tMnvZvDJFE
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/GY95Fy0pHd1W_6Wb5tp-C_IBHEY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015833/fd8149.jpg" ch-number="16", Corentin Moutet vs Lorenzo Musetti - Round of 16 | ATP 500: Barcelona Open Banc Sabadell 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/GY95Fy0pHd1W_6Wb5tp-C_IBHEY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015833/fd8149.jpg" ch-number="15", Corentin Moutet vs Lorenzo Musetti - Round of 16 | ATP 500: Barcelona Open Banc Sabadell 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=20955&type=dash&token=P3fVIuFlzeN7jNAqww1hI8tMnvZvDJFE|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20890&type=drm&token=P3fVIuFlzeN7jNAqww1hI8tMnvZvDJFE
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/7_tl3mTD9KdkbA_rIqcNT5YPctM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015826/fd9dbe.jpg" ch-number="17", Yuki Bhambri/Michael Venus vs Luciano Darderi/Santiago Gonzalez - Quarterfinals (Court 1) | ATP 500: BMW Open 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/7_tl3mTD9KdkbA_rIqcNT5YPctM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015826/fd9dbe.jpg" ch-number="16", Yuki Bhambri/Michael Venus vs Luciano Darderi/Santiago Gonzalez - Quarterfinals (Court 1) | ATP 500: BMW Open 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=20890&type=dash&token=P3fVIuFlzeN7jNAqww1hI8tMnvZvDJFE|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20888&type=drm&token=P3fVIuFlzeN7jNAqww1hI8tMnvZvDJFE
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/k3Pl1hxUFvyK8jvL7_bsXLMUQNw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015830/827474.jpg" ch-number="18", Alexander Zverev vs Gabriel Diallo - Round of 16 | ATP 500: BMW Open 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/k3Pl1hxUFvyK8jvL7_bsXLMUQNw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015830/827474.jpg" ch-number="17", Alexander Zverev vs Gabriel Diallo - Round of 16 | ATP 500: BMW Open 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=20888&type=dash&token=P3fVIuFlzeN7jNAqww1hI8tMnvZvDJFE|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6786&type=drm&token=P3fVIuFlzeN7jNAqww1hI8tMnvZvDJFE
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/4C5xGOt_3ZzmdP_z5UOVZAfl0nY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014338/98a5a8.jpg" ch-number="19", Day 3 - WTA 500: Porsche Tennis Grand Prix 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/4C5xGOt_3ZzmdP_z5UOVZAfl0nY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014338/98a5a8.jpg" ch-number="18", Day 3 - WTA 500: Porsche Tennis Grand Prix 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=6786&type=dash&token=P3fVIuFlzeN7jNAqww1hI8tMnvZvDJFE|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20654&type=drm&token=P3fVIuFlzeN7jNAqww1hI8tMnvZvDJFE
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/uvToyo_aPPsMRBybQd5NNESMfBQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5016056/56249d.jpg" ch-number="20", Final - Game 4: Fenerbahce Medicana vs Vakifbank - Turkish Women's Volleyball League
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/uvToyo_aPPsMRBybQd5NNESMfBQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5016056/56249d.jpg" ch-number="19", Final - Game 4: Fenerbahce Medicana vs Vakifbank - Turkish Women's Volleyball League
 #https://vid-id.indi1.workers.dev/index.mpd?id=20654&type=dash&token=P3fVIuFlzeN7jNAqww1hI8tMnvZvDJFE|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=drm&token=P3fVIuFlzeN7jNAqww1hI8tMnvZvDJFE
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/KYL3_tZUUpTN8nEku15901fP5G4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014321/ea70e1.jpg" ch-number="20", Celta Vigo vs SC Freiburg - UEFA Europa League
+#https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=dash&token=P3fVIuFlzeN7jNAqww1hI8tMnvZvDJFE|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
