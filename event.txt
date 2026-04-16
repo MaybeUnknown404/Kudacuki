@@ -12,21 +12,18 @@ https://vid-id.indi1.workers.dev/index.mpd?id=21157&type=dash&token=P3fVIuFlzeN7
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20888&type=drm&token=P3fVIuFlzeN7jNAqww1hI8tMnvZvDJFE
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/FlybiGX_m9f5b5nRxfEtynYCElU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015828/701d66.jpg" ch-number="4", Botic van de Zandschulp vs Francisco Cerundolo - Round of 16 | ATP 500: BMW Open 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=20888&type=dash&token=P3fVIuFlzeN7jNAqww1hI8tMnvZvDJFE|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/FlybiGX_m9f5b5nRxfEtynYCElU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015828/701d66.jpg" ch-number="4", Botic van de Zandschulp vs Francisco Cerundolo - Round of 16 | ATP 500: BMW Open 2026
+https://vid-id.indi1.workers.dev/index.mpd?id=20888&type=dash&token=P3fVIuFlzeN7jNAqww1hI8tMnvZvDJFE|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20890&type=drm&token=P3fVIuFlzeN7jNAqww1hI8tMnvZvDJFE
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/0sYOYxpJ7Zi-FUiCcJgcxwkQ4RI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015824/0af39a.jpg" ch-number="5", Petr Nouza/Bart Stevens vs Jakob Schnaitter/Mark Wallner - Quarterfinals (Court 1) | ATP 500: BMW Open 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=20890&type=dash&token=P3fVIuFlzeN7jNAqww1hI8tMnvZvDJFE|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/0sYOYxpJ7Zi-FUiCcJgcxwkQ4RI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015824/0af39a.jpg" ch-number="5", Petr Nouza/Bart Stevens vs Jakob Schnaitter/Mark Wallner - Quarterfinals (Court 1) | ATP 500: BMW Open 2026
+https://vid-id.indi1.workers.dev/index.mpd?id=20890&type=dash&token=P3fVIuFlzeN7jNAqww1hI8tMnvZvDJFE|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20891&type=drm&token=P3fVIuFlzeN7jNAqww1hI8tMnvZvDJFE
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/B0363tmQ_T6RsVqUTd8GyMupw0g=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5016134/f0abf4.jpg" ch-number="6", Daniel Rincon/Oriol Roca Batalla vs Austin Krajicek/Nikola Mektic - Round of 16 (Pista Rafa Nadal) | ATP 500: Barcelona Open Banc Sabadell 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=20891&type=dash&token=P3fVIuFlzeN7jNAqww1hI8tMnvZvDJFE|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/B0363tmQ_T6RsVqUTd8GyMupw0g=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5016134/f0abf4.jpg" ch-number="6", Daniel Rincon/Oriol Roca Batalla vs Austin Krajicek/Nikola Mektic - Round of 16 (Pista Rafa Nadal) | ATP 500: Barcelona Open Banc Sabadell 2026
+https://vid-id.indi1.workers.dev/index.mpd?id=20891&type=dash&token=P3fVIuFlzeN7jNAqww1hI8tMnvZvDJFE|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6686&type=drm&token=P3fVIuFlzeN7jNAqww1hI8tMnvZvDJFE
