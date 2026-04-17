@@ -2,7 +2,7 @@
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=19404&type=drm&token=t8JAAeezCLfL3tKIVkaao4m5V7BfX1bm
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/nDSBRK8gNraBFGwRMJSFCpXN7W8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015506/8ba054.jpg" ch-number="1", Sassuolo vs Como - Serie A
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="⛔ Event Ended" tvg-logo="https://thumbor.prod.vidiocdn.com/nDSBRK8gNraBFGwRMJSFCpXN7W8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015506/8ba054.jpg" ch-number="1", Sassuolo vs Como - Serie A
 https://vid-id.indi1.workers.dev/index.mpd?id=19404&type=dash&token=t8JAAeezCLfL3tKIVkaao4m5V7BfX1bm|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -32,9 +32,8 @@ https://vid-id.indi1.workers.dev/index.mpd?id=18189&type=dash&token=t8JAAeezCLfL
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=19404&type=drm&token=t8JAAeezCLfL3tKIVkaao4m5V7BfX1bm
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/bl25GOQcL5ek-q0MQn1H3SMpOW8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015517/034dbf.jpg" ch-number="7", Inter vs Cagliari - Serie A
-#https://vid-id.indi1.workers.dev/index.mpd?id=19404&type=dash&token=t8JAAeezCLfL3tKIVkaao4m5V7BfX1bm|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/bl25GOQcL5ek-q0MQn1H3SMpOW8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015517/034dbf.jpg" ch-number="7", Inter vs Cagliari - Serie A
+https://vid-id.indi1.workers.dev/index.mpd?id=19404&type=dash&token=t8JAAeezCLfL3tKIVkaao4m5V7BfX1bm|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6685&type=drm&token=t8JAAeezCLfL3tKIVkaao4m5V7BfX1bm
