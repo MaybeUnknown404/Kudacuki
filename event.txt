@@ -12,7 +12,7 @@ https://vid-id.indi1.workers.dev/index.mpd?id=19404&type=dash&token=t8JAAeezCLfL
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=drm&token=t8JAAeezCLfL3tKIVkaao4m5V7BfX1bm
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/MTXjnWJs9q-_--jwpB-N2owqK4o=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015448/ccfa98.jpg" ch-number="3", Newgiza P2 Premier Padel 2026 - Finals
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="⛔ Event Ended" tvg-logo="https://thumbor.prod.vidiocdn.com/MTXjnWJs9q-_--jwpB-N2owqK4o=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015448/ccfa98.jpg" ch-number="3", Newgiza P2 Premier Padel 2026 - Finals
 https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=dash&token=t8JAAeezCLfL3tKIVkaao4m5V7BfX1bm|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
