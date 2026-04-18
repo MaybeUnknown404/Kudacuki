@@ -21,15 +21,15 @@ https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=dash&token=Or7TP8C4hf9bY
 https://vid-id.indi1.workers.dev/index.mpd?id=18189&type=dash&token=Or7TP8C4hf9bYyvPbadnwK22U9g1rjTS|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=9182&type=drm&token=Or7TP8C4hf9bYyvPbadnwK22U9g1rjTS
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/pJg2K7aeKvb5Tr3gWBtNuddtyNI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015502/b06a99.jpg" ch-number="5", Chelsea vs Man United - Premier League
-#https://vid-id.indi1.workers.dev/index.mpd?id=9182&type=dash&token=Or7TP8C4hf9bYyvPbadnwK22U9g1rjTS|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=19404&type=drm&token=Or7TP8C4hf9bYyvPbadnwK22U9g1rjTS
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Hv8UeHN9ueDR-xbxP4xt3zmrPSc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015571/77390d.jpg" ch-number="5", Roma vs Atalanta - Serie A
+#https://vid-id.indi1.workers.dev/index.mpd?id=19404&type=dash&token=Or7TP8C4hf9bYyvPbadnwK22U9g1rjTS|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=19404&type=drm&token=Or7TP8C4hf9bYyvPbadnwK22U9g1rjTS
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Hv8UeHN9ueDR-xbxP4xt3zmrPSc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015571/77390d.jpg" ch-number="6", Roma vs Atalanta - Serie A
-#https://vid-id.indi1.workers.dev/index.mpd?id=19404&type=dash&token=Or7TP8C4hf9bYyvPbadnwK22U9g1rjTS|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=9182&type=drm&token=Or7TP8C4hf9bYyvPbadnwK22U9g1rjTS
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/pJg2K7aeKvb5Tr3gWBtNuddtyNI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015502/b06a99.jpg" ch-number="6", Chelsea vs Man United - Premier League
+#https://vid-id.indi1.workers.dev/index.mpd?id=9182&type=dash&token=Or7TP8C4hf9bYyvPbadnwK22U9g1rjTS|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
