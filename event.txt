@@ -1,31 +1,32 @@
 #EXTM3U
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17139&type=drm&token=t8JAAeezCLfL3tKIVkaao4m5V7BfX1bm
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="⛔ Event Ended" tvg-logo="https://thumbor.prod.vidiocdn.com/6pgA0s2AZlI5HvBD4XrHHefvxi0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015489/05b23b.jpg" ch-number="1", WorldSBK Free Practice 3 - WorldSBK Championship 2026 Round 3 Pirelli Dutch Round
-https://vid-id.indi1.workers.dev/index.mpd?id=17139&type=dash&token=t8JAAeezCLfL3tKIVkaao4m5V7BfX1bm|User-Agent=VidioPlayer/6.31.6
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=19354&type=drm&token=t8JAAeezCLfL3tKIVkaao4m5V7BfX1bm
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/k8QPxLqYMsJ257EGuAMoR3rS4NU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015520/078654.jpg" ch-number="2", Arema FC vs PERSIS - BRI Super League
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/k8QPxLqYMsJ257EGuAMoR3rS4NU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015520/078654.jpg" ch-number="1", Arema FC vs PERSIS - BRI Super League
 https://vid-id.indi1.workers.dev/index.mpd?id=19354&type=dash&token=t8JAAeezCLfL3tKIVkaao4m5V7BfX1bm|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21157&type=drm&token=t8JAAeezCLfL3tKIVkaao4m5V7BfX1bm
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/f3DfzGiJ6_2f3H68_SynwvCoFtQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015564/37bf0c.jpg" ch-number="3", Myanmar vs Philippines - ASEAN U17 Boys' Championship
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/f3DfzGiJ6_2f3H68_SynwvCoFtQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015564/37bf0c.jpg" ch-number="2", Myanmar vs Philippines - ASEAN U17 Boys' Championship
 #https://vid-id.indi1.workers.dev/index.mpd?id=21157&type=dash&token=t8JAAeezCLfL3tKIVkaao4m5V7BfX1bm|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=drm&token=t8JAAeezCLfL3tKIVkaao4m5V7BfX1bm
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/3c5iPS8LaAc-gXYrwDuwAnLtxRs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5017676/c7571c.jpg" ch-number="3", Practice: 6 Hours of Imola, Italy - WEC 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=dash&token=t8JAAeezCLfL3tKIVkaao4m5V7BfX1bm|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21177&type=drm&token=t8JAAeezCLfL3tKIVkaao4m5V7BfX1bm
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/dlY1WOg1DRwNLnO8b0B3oxvLb_I=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015565/cdb61a.jpg" ch-number="4", Thailand vs Laos - ASEAN U17 Boys' Championship
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/dlY1WOg1DRwNLnO8b0B3oxvLb_I=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015565/cdb61a.jpg" ch-number="5", Thailand vs Laos - ASEAN U17 Boys' Championship
 #https://vid-id.indi1.workers.dev/index.mpd?id=21177&type=dash&token=t8JAAeezCLfL3tKIVkaao4m5V7BfX1bm|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=drm&token=t8JAAeezCLfL3tKIVkaao4m5V7BfX1bm
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/3c5iPS8LaAc-gXYrwDuwAnLtxRs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5017676/c7571c.jpg" ch-number="6", Practice: 6 Hours of Imola, Italy - WEC 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=dash&token=t8JAAeezCLfL3tKIVkaao4m5V7BfX1bm|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/drm.kt?id=19541&type=drm&token=t8JAAeezCLfL3tKIVkaao4m5V7BfX1bm
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/_qeQ-ZnOnQYFZY3lj2ZDZhS8isQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015559/48098e.jpg" ch-number="6", FC Bekasi City vs Adhyaksa FC - Pegadaian Championship
+#https://spacetv.my.id/index.mpd?id=19541&type=dash&token=t8JAAeezCLfL3tKIVkaao4m5V7BfX1bm|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -35,45 +36,45 @@ https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1ec
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/drm.kt?id=19541&type=drm&token=t8JAAeezCLfL3tKIVkaao4m5V7BfX1bm
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/_qeQ-ZnOnQYFZY3lj2ZDZhS8isQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015559/48098e.jpg" ch-number="8", FC Bekasi City vs Adhyaksa FC - Pegadaian Championship
-#https://spacetv.my.id/index.mpd?id=19541&type=dash&token=t8JAAeezCLfL3tKIVkaao4m5V7BfX1bm|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20890&type=drm&token=t8JAAeezCLfL3tKIVkaao4m5V7BfX1bm
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/TNZPkyKwruKSr5cDjXSp9tpwm-8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5019455/3ff2e8.jpg" ch-number="9", Orlando Luz/Rafael Matos vs Theo Arribage/Albano Olivetti - Semifinal (Centre Court) | ATP 500: BMW Open 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/TNZPkyKwruKSr5cDjXSp9tpwm-8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5019455/3ff2e8.jpg" ch-number="8", Orlando Luz/Rafael Matos vs Theo Arribage/Albano Olivetti - Semifinal (Centre Court) | ATP 500: BMW Open 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=20890&type=dash&token=t8JAAeezCLfL3tKIVkaao4m5V7BfX1bm|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17139&type=drm&token=t8JAAeezCLfL3tKIVkaao4m5V7BfX1bm
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/fti4-OV08-VQa2WmcLpYoz7XHco=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015491/c1f588.jpg" ch-number="10", WorldSBK Tissot Superpole - WorldSBK Championship 2026 Round 3 Pirelli Dutch Round
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/fti4-OV08-VQa2WmcLpYoz7XHco=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015491/c1f588.jpg" ch-number="9", WorldSBK Tissot Superpole - WorldSBK Championship 2026 Round 3 Pirelli Dutch Round
 #https://vid-id.indi1.workers.dev/index.mpd?id=17139&type=dash&token=t8JAAeezCLfL3tKIVkaao4m5V7BfX1bm|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17139&type=drm&token=t8JAAeezCLfL3tKIVkaao4m5V7BfX1bm
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/HidLLlGnbfEUSf72yYWTNSMVeEY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015492/e33dfc.jpg" ch-number="11", WorldWCR Race 1 - WorldSBK Championship 2026 Round 3 Pirelli Dutch Round
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/HidLLlGnbfEUSf72yYWTNSMVeEY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015492/e33dfc.jpg" ch-number="10", WorldWCR Race 1 - WorldSBK Championship 2026 Round 3 Pirelli Dutch Round
 #https://vid-id.indi1.workers.dev/index.mpd?id=17139&type=dash&token=t8JAAeezCLfL3tKIVkaao4m5V7BfX1bm|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/drm.kt?id=19584&type=drm&token=t8JAAeezCLfL3tKIVkaao4m5V7BfX1bm
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Gt-VgvdCbY-MO1lMENhS4AWww6s=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015563/e70c72.jpg" ch-number="12", Persipura Jayapura vs PSIS Semarang - Pegadaian Championship
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Gt-VgvdCbY-MO1lMENhS4AWww6s=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015563/e70c72.jpg" ch-number="11", Persipura Jayapura vs PSIS Semarang - Pegadaian Championship
 #https://spacetv.my.id/index.mpd?id=19584&type=dash&token=t8JAAeezCLfL3tKIVkaao4m5V7BfX1bm|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17139&type=drm&token=t8JAAeezCLfL3tKIVkaao4m5V7BfX1bm
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/t3W8jaXLOlBE9RTOKry_wDsPUUc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015493/7180be.jpg" ch-number="13", WorldSPB Race 1 - WorldSBK Championship 2026 Round 3 Pirelli Dutch Round
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/t3W8jaXLOlBE9RTOKry_wDsPUUc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015493/7180be.jpg" ch-number="12", WorldSPB Race 1 - WorldSBK Championship 2026 Round 3 Pirelli Dutch Round
 #https://vid-id.indi1.workers.dev/index.mpd?id=17139&type=dash&token=t8JAAeezCLfL3tKIVkaao4m5V7BfX1bm|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=9182&type=drm&token=t8JAAeezCLfL3tKIVkaao4m5V7BfX1bm
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/I_qYltgT8vzn7AulTpRRX-GVkwU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015499/79edb6.jpg" ch-number="14", Brentford vs Fulham - Premier League
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/I_qYltgT8vzn7AulTpRRX-GVkwU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015499/79edb6.jpg" ch-number="13", Brentford vs Fulham - Premier League
 #https://vid-id.indi1.workers.dev/index.mpd?id=9182&type=dash&token=t8JAAeezCLfL3tKIVkaao4m5V7BfX1bm|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=19355&type=drm&token=t8JAAeezCLfL3tKIVkaao4m5V7BfX1bm
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/5ZjZmQlNJvnRdZtjHFMGKspFw5M=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015522/acc6e1.jpg" ch-number="15", Jelang Kick Off - PSBS Biak vs PERSIJA - BRI Super League
+#https://vid-id.indi1.workers.dev/index.mpd?id=19355&type=dash&token=t8JAAeezCLfL3tKIVkaao4m5V7BfX1bm|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -89,9 +90,9 @@ https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1ec
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=19355&type=drm&token=t8JAAeezCLfL3tKIVkaao4m5V7BfX1bm
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/5ZjZmQlNJvnRdZtjHFMGKspFw5M=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015522/acc6e1.jpg" ch-number="18", Jelang Kick Off - PSBS Biak vs PERSIJA - BRI Super League
-#https://vid-id.indi1.workers.dev/index.mpd?id=19355&type=dash&token=t8JAAeezCLfL3tKIVkaao4m5V7BfX1bm|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/drm.kt?id=19543&type=drm&token=t8JAAeezCLfL3tKIVkaao4m5V7BfX1bm
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/dfXh8BnLhz0mHjItLcQ9rnxdfHw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015562/87d002.jpg" ch-number="18", PS. Barito Putera vs Persiba Balikpapan - Pegadaian Championship
+#https://spacetv.my.id/index.mpd?id=19543&type=dash&token=t8JAAeezCLfL3tKIVkaao4m5V7BfX1bm|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
