@@ -2,7 +2,7 @@
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=19404&type=drm&token=Or7TP8C4hf9bYyvPbadnwK22U9g1rjTS
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/N9uFIsmrTnaeU1ukQAYxYT_-0PE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015572/1f5940.jpg" ch-number="1", Cremonese vs Torino - Serie A
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="⛔ Event Ended" tvg-logo="https://thumbor.prod.vidiocdn.com/N9uFIsmrTnaeU1ukQAYxYT_-0PE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015572/1f5940.jpg" ch-number="1", Cremonese vs Torino - Serie A
 https://vid-id.indi1.workers.dev/index.mpd?id=19404&type=dash&token=Or7TP8C4hf9bYyvPbadnwK22U9g1rjTS|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -57,15 +57,13 @@ https://vid-id.indi1.workers.dev/index.mpd?id=21157&type=dash&token=Or7TP8C4hf9b
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=9182&type=drm&token=Or7TP8C4hf9bYyvPbadnwK22U9g1rjTS
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/X2UeGvfeBBOjw87FSNETZpfdqew=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5017180/86e292.jpg" ch-number="13", Everton vs Liverpool - Premier League
-#https://vid-id.indi1.workers.dev/index.mpd?id=9182&type=dash&token=Or7TP8C4hf9bYyvPbadnwK22U9g1rjTS|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/X2UeGvfeBBOjw87FSNETZpfdqew=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5017180/86e292.jpg" ch-number="13", Everton vs Liverpool - Premier League
+https://vid-id.indi1.workers.dev/index.mpd?id=9182&type=dash&token=Or7TP8C4hf9bYyvPbadnwK22U9g1rjTS|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=9183&type=drm&token=Or7TP8C4hf9bYyvPbadnwK22U9g1rjTS
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/vfKEKTAiJuFhGBqHUKQpls6whNo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015510/c4d001.jpg" ch-number="14", Aston Villa vs Sunderland - Premier League
-#https://vid-id.indi1.workers.dev/index.mpd?id=9183&type=dash&token=Or7TP8C4hf9bYyvPbadnwK22U9g1rjTS|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/vfKEKTAiJuFhGBqHUKQpls6whNo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015510/c4d001.jpg" ch-number="14", Aston Villa vs Sunderland - Premier League
+https://vid-id.indi1.workers.dev/index.mpd?id=9183&type=dash&token=Or7TP8C4hf9bYyvPbadnwK22U9g1rjTS|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=19404&type=drm&token=Or7TP8C4hf9bYyvPbadnwK22U9g1rjTS
