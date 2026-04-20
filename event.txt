@@ -115,8 +115,8 @@ https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1ec
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6317&type=drm&token=kDli4py9umNjwq6waDCWBC33clkHEt0S
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/RwamWjB64tYR_rsuQiN-48oJDpc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5021453/4f218b.jpg" ch-number="20", Real Sociedad vs Getafe - LaLiga
-#https://vid-id.indi1.workers.dev/index.mpd?id=6317&type=dash&token=kDli4py9umNjwq6waDCWBC33clkHEt0S|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6685&type=drm&token=kDli4py9umNjwq6waDCWBC33clkHEt0S
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/PX2CRL6FK9ETPNCd8yzEO2om-wc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5021454/7929cb.jpg" ch-number="20", Telstar vs Sparta Rotterdam - Eredivisie
+#https://vid-id.indi1.workers.dev/index.mpd?id=6685&type=dash&token=kDli4py9umNjwq6waDCWBC33clkHEt0S|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
