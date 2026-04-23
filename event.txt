@@ -21,40 +21,34 @@ https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=dash&token=vqNjm5DSjgLN
 https://vid-id.indi1.workers.dev/index.mpd?id=19353&type=dash&token=vqNjm5DSjgLNWEEnPYvA0TELdoe8AcvB|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20887&type=drm&token=vqNjm5DSjgLNWEEnPYvA0TELdoe8AcvB
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/H3PzC4ro1dtEamWoPwMKvEGhc-w=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5022660/a955dc.jpg" ch-number="5", Terence Atmane vs Miomir Kecmanovic - Round 1 (Court 4) | ATP 1000: Mutua Madrid Open 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=20887&type=dash&token=vqNjm5DSjgLNWEEnPYvA0TELdoe8AcvB|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20955&type=drm&token=vqNjm5DSjgLNWEEnPYvA0TELdoe8AcvB
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/xma6XWN8xv9Bu_j73M1SS4WydRQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5022670/fa2824.jpg" ch-number="5", Pablo Carreno Busta vs Marton Fucsovics - Round 1 | ATP 1000: Mutua Madrid Open 2026
+https://vid-id.indi1.workers.dev/index.mpd?id=20955&type=dash&token=vqNjm5DSjgLNWEEnPYvA0TELdoe8AcvB|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20955&type=drm&token=vqNjm5DSjgLNWEEnPYvA0TELdoe8AcvB
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/xma6XWN8xv9Bu_j73M1SS4WydRQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5022670/fa2824.jpg" ch-number="6", Pablo Carreno Busta vs Marton Fucsovics - Round 1 | ATP 1000: Mutua Madrid Open 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=20955&type=dash&token=vqNjm5DSjgLNWEEnPYvA0TELdoe8AcvB|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20887&type=drm&token=vqNjm5DSjgLNWEEnPYvA0TELdoe8AcvB
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/H3PzC4ro1dtEamWoPwMKvEGhc-w=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5022660/a955dc.jpg" ch-number="6", Terence Atmane vs Miomir Kecmanovic - Round 1 (Court 4) | ATP 1000: Mutua Madrid Open 2026
+https://vid-id.indi1.workers.dev/index.mpd?id=20887&type=dash&token=vqNjm5DSjgLNWEEnPYvA0TELdoe8AcvB|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20890&type=drm&token=vqNjm5DSjgLNWEEnPYvA0TELdoe8AcvB
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/8-JAkiqYB7Qt6aPjAQGkdMRJFEs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5022662/5c3eef.jpg" ch-number="7", Cristian Garin vs Alexander Blockx - Round 1 (Court 6) | ATP 1000: Mutua Madrid Open 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=20890&type=dash&token=vqNjm5DSjgLNWEEnPYvA0TELdoe8AcvB|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20897&type=drm&token=vqNjm5DSjgLNWEEnPYvA0TELdoe8AcvB
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/j-ch8c4XD4fMof-tNAgkAEfu-JI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5022666/9ee61f.jpg" ch-number="8", Yannick Hanfmann vs Marcos Giron - Round 1 (Court 8) | ATP 1000: Mutua Madrid Open 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=20897&type=dash&token=vqNjm5DSjgLNWEEnPYvA0TELdoe8AcvB|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6786&type=drm&token=vqNjm5DSjgLNWEEnPYvA0TELdoe8AcvB
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/XDddZxVqf1ZDmVZhaNNaMKSSpAU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5021679/77e247.jpg" ch-number="9", Day 2 - WTA 1000: Mutua Madrid Open 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=6786&type=dash&token=vqNjm5DSjgLNWEEnPYvA0TELdoe8AcvB|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/8-JAkiqYB7Qt6aPjAQGkdMRJFEs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5022662/5c3eef.jpg" ch-number="7", Cristian Garin vs Alexander Blockx - Round 1 (Court 6) | ATP 1000: Mutua Madrid Open 2026
+https://vid-id.indi1.workers.dev/index.mpd?id=20890&type=dash&token=vqNjm5DSjgLNWEEnPYvA0TELdoe8AcvB|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=drm&token=vqNjm5DSjgLNWEEnPYvA0TELdoe8AcvB
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Bl1TZ5WN56uNdidvJ-bjGnDiBLM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5022668/fbaa92.jpg" ch-number="10", Pablo Carreno Busta vs Marton Fucsovics - Round 1 (Manolo Santana Stadium) | ATP 1000: Mutua Madrid Open 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=dash&token=vqNjm5DSjgLNWEEnPYvA0TELdoe8AcvB|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/Bl1TZ5WN56uNdidvJ-bjGnDiBLM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5022668/fbaa92.jpg" ch-number="8", Pablo Carreno Busta vs Marton Fucsovics - Round 1 (Manolo Santana Stadium) | ATP 1000: Mutua Madrid Open 2026
+https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=dash&token=vqNjm5DSjgLNWEEnPYvA0TELdoe8AcvB|User-Agent=VidioPlayer/6.31.6
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20897&type=drm&token=vqNjm5DSjgLNWEEnPYvA0TELdoe8AcvB
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/j-ch8c4XD4fMof-tNAgkAEfu-JI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5022666/9ee61f.jpg" ch-number="9", Yannick Hanfmann vs Marcos Giron - Round 1 (Court 8) | ATP 1000: Mutua Madrid Open 2026
+https://vid-id.indi1.workers.dev/index.mpd?id=20897&type=dash&token=vqNjm5DSjgLNWEEnPYvA0TELdoe8AcvB|User-Agent=VidioPlayer/6.31.6
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6786&type=drm&token=vqNjm5DSjgLNWEEnPYvA0TELdoe8AcvB
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/XDddZxVqf1ZDmVZhaNNaMKSSpAU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5021679/77e247.jpg" ch-number="10", Day 2 - WTA 1000: Mutua Madrid Open 2026
+https://vid-id.indi1.workers.dev/index.mpd?id=6786&type=dash&token=vqNjm5DSjgLNWEEnPYvA0TELdoe8AcvB|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20897&type=drm&token=vqNjm5DSjgLNWEEnPYvA0TELdoe8AcvB
