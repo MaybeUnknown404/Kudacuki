@@ -7,7 +7,7 @@ https://vid-id.indi1.workers.dev/index.mpd?id=20955&type=dash&token=HGvXoCN6gVkv
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6786&type=drm&token=HGvXoCN6gVkvF8mliHQswR5PYgbrAyKX
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/XDddZxVqf1ZDmVZhaNNaMKSSpAU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5021679/77e247.jpg" ch-number="2", Day 2 - WTA 1000: Mutua Madrid Open 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="⛔ Event Ended" tvg-logo="https://thumbor.prod.vidiocdn.com/XDddZxVqf1ZDmVZhaNNaMKSSpAU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5021679/77e247.jpg" ch-number="2", Day 2 - WTA 1000: Mutua Madrid Open 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=6786&type=dash&token=HGvXoCN6gVkvF8mliHQswR5PYgbrAyKX|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -17,12 +17,12 @@ https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=dash&token=HGvXoCN6gVkv
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18190&type=drm&token=HGvXoCN6gVkvF8mliHQswR5PYgbrAyKX
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/WZ8AL5fvV3uPjuOBzkOlGPmLN2Y=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5022214/2991ba.jpg" ch-number="4", Round 1 (Day Session) - The Chevron Championship 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="⛔ Event Ended" tvg-logo="https://thumbor.prod.vidiocdn.com/WZ8AL5fvV3uPjuOBzkOlGPmLN2Y=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5022214/2991ba.jpg" ch-number="4", Round 1 (Day Session) - The Chevron Championship 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=18190&type=dash&token=HGvXoCN6gVkvF8mliHQswR5PYgbrAyKX|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=drm&token=HGvXoCN6gVkvF8mliHQswR5PYgbrAyKX
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/bMAW4dgHEjUu2PIECH1ZFt7OptM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5021545/a173d9.jpg" ch-number="5", Levante vs Sevilla - LaLiga
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="⛔ Event Ended" tvg-logo="https://thumbor.prod.vidiocdn.com/bMAW4dgHEjUu2PIECH1ZFt7OptM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5021545/a173d9.jpg" ch-number="5", Levante vs Sevilla - LaLiga
 https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=dash&token=HGvXoCN6gVkvF8mliHQswR5PYgbrAyKX|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -42,9 +42,8 @@ https://vid-id.indi1.workers.dev/index.mpd?id=6685&type=dash&token=HGvXoCN6gVkvF
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18189&type=drm&token=HGvXoCN6gVkvF8mliHQswR5PYgbrAyKX
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/0cmvLLykRX6_npTcB709yeV76lk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5022012/7c8d03.jpg" ch-number="9", Zurich Classic of New Orleans 2026 - Round 1
-#https://vid-id.indi1.workers.dev/index.mpd?id=18189&type=dash&token=HGvXoCN6gVkvF8mliHQswR5PYgbrAyKX|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/0cmvLLykRX6_npTcB709yeV76lk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5022012/7c8d03.jpg" ch-number="9", Zurich Classic of New Orleans 2026 - Round 1
+https://vid-id.indi1.workers.dev/index.mpd?id=18189&type=dash&token=HGvXoCN6gVkvF8mliHQswR5PYgbrAyKX|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=drm&token=HGvXoCN6gVkvF8mliHQswR5PYgbrAyKX
