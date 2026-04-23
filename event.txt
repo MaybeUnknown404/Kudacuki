@@ -11,9 +11,9 @@ https://vid-id.indi1.workers.dev/index.mpd?id=6786&type=dash&token=vqNjm5DSjgLNW
 https://vid-id.indi1.workers.dev/index.mpd?id=20886&type=dash&token=vqNjm5DSjgLNWEEnPYvA0TELdoe8AcvB|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20890&type=drm&token=vqNjm5DSjgLNWEEnPYvA0TELdoe8AcvB
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/fPgvreomnTo-FJwTgyxj9QBOUTc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5022664/98418c.jpg" ch-number="3", Vilius Gaubas vs Sebastian Baez - Round 1 (Court 6) | ATP 1000: Mutua Madrid Open 2026
-https://vid-id.indi1.workers.dev/index.mpd?id=20890&type=dash&token=vqNjm5DSjgLNWEEnPYvA0TELdoe8AcvB|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=drm&token=vqNjm5DSjgLNWEEnPYvA0TELdoe8AcvB
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/9qSuSsgTf6uFGBDgeQH5ZCFtAlA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5021536/df821c.jpg" ch-number="3", Brussels P2 Premier Padel 2026 - Day 3
+https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=dash&token=vqNjm5DSjgLNWEEnPYvA0TELdoe8AcvB|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=drm&token=vqNjm5DSjgLNWEEnPYvA0TELdoe8AcvB
@@ -21,48 +21,50 @@ https://vid-id.indi1.workers.dev/index.mpd?id=20890&type=dash&token=vqNjm5DSjgLN
 https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=dash&token=vqNjm5DSjgLNWEEnPYvA0TELdoe8AcvB|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=drm&token=vqNjm5DSjgLNWEEnPYvA0TELdoe8AcvB
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/9qSuSsgTf6uFGBDgeQH5ZCFtAlA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5021536/df821c.jpg" ch-number="5", Brussels P2 Premier Padel 2026 - Day 3
-https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=dash&token=vqNjm5DSjgLNWEEnPYvA0TELdoe8AcvB|User-Agent=VidioPlayer/6.31.6
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18190&type=drm&token=vqNjm5DSjgLNWEEnPYvA0TELdoe8AcvB
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/WZ8AL5fvV3uPjuOBzkOlGPmLN2Y=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5022214/2991ba.jpg" ch-number="6", Round 1 (Day Session) - The Chevron Championship 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/WZ8AL5fvV3uPjuOBzkOlGPmLN2Y=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5022214/2991ba.jpg" ch-number="5", Round 1 (Day Session) - The Chevron Championship 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=18190&type=dash&token=vqNjm5DSjgLNWEEnPYvA0TELdoe8AcvB|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20955&type=drm&token=vqNjm5DSjgLNWEEnPYvA0TELdoe8AcvB
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/cOUVhGF5RMGR1_EiNWgMgXaGFr8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5022671/a3986d.jpg" ch-number="7", Camilo Ugo Carabelli vs Gael Monfils - Round 1 | ATP 1000: Mutua Madrid Open 2026
-https://vid-id.indi1.workers.dev/index.mpd?id=20955&type=dash&token=vqNjm5DSjgLNWEEnPYvA0TELdoe8AcvB|User-Agent=VidioPlayer/6.31.6
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/cOUVhGF5RMGR1_EiNWgMgXaGFr8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5022671/a3986d.jpg" ch-number="6", Camilo Ugo Carabelli vs Gael Monfils - Round 1 | ATP 1000: Mutua Madrid Open 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=20955&type=dash&token=vqNjm5DSjgLNWEEnPYvA0TELdoe8AcvB|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20886&type=drm&token=vqNjm5DSjgLNWEEnPYvA0TELdoe8AcvB
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/cIFDGzU6A9Ix8j3seCu1-xCYUtU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5022676/4fa37a.jpg" ch-number="8", Marco Trungelliti vs Daniel Merida - Round 1 (Stadium 3) | ATP 1000: Mutua Madrid Open 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/cIFDGzU6A9Ix8j3seCu1-xCYUtU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5022676/4fa37a.jpg" ch-number="7", Marco Trungelliti vs Daniel Merida - Round 1 (Stadium 3) | ATP 1000: Mutua Madrid Open 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=20886&type=dash&token=vqNjm5DSjgLNWEEnPYvA0TELdoe8AcvB|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20890&type=drm&token=vqNjm5DSjgLNWEEnPYvA0TELdoe8AcvB
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/ZpocEzEJbpZY-Csq21pTFRDcrOg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5022665/31f4eb.jpg" ch-number="9", Daniel Altmaier vs Juan Manuel Cerundolo - Round 1 (Court 6) | ATP 1000: Mutua Madrid Open 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/ZpocEzEJbpZY-Csq21pTFRDcrOg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5022665/31f4eb.jpg" ch-number="8", Daniel Altmaier vs Juan Manuel Cerundolo - Round 1 (Court 6) | ATP 1000: Mutua Madrid Open 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=20890&type=dash&token=vqNjm5DSjgLNWEEnPYvA0TELdoe8AcvB|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6317&type=drm&token=vqNjm5DSjgLNWEEnPYvA0TELdoe8AcvB
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/n2sSEuVBoB7Qdrcfh-7Pe-qGlew=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5022640/009c2f.jpg" ch-number="10", Rally Islas Canarias SS1 Circuito Islas Canarias - WRC Rally Islas Canarias 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/n2sSEuVBoB7Qdrcfh-7Pe-qGlew=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5022640/009c2f.jpg" ch-number="9", Rally Islas Canarias SS1 Circuito Islas Canarias - WRC Rally Islas Canarias 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=6317&type=dash&token=vqNjm5DSjgLNWEEnPYvA0TELdoe8AcvB|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6685&type=drm&token=vqNjm5DSjgLNWEEnPYvA0TELdoe8AcvB
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/I_E6bfL5Dsmv1d7wspDR1JU_Ndk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5021540/014deb.jpg" ch-number="11", Go Ahead Eagles vs AZ Alkmaar
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/I_E6bfL5Dsmv1d7wspDR1JU_Ndk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5021540/014deb.jpg" ch-number="10", Go Ahead Eagles vs AZ Alkmaar
 #https://vid-id.indi1.workers.dev/index.mpd?id=6685&type=dash&token=vqNjm5DSjgLNWEEnPYvA0TELdoe8AcvB|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=drm&token=vqNjm5DSjgLNWEEnPYvA0TELdoe8AcvB
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/bMAW4dgHEjUu2PIECH1ZFt7OptM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5021545/a173d9.jpg" ch-number="12", Levante vs Sevilla - LaLiga
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/bMAW4dgHEjUu2PIECH1ZFt7OptM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5021545/a173d9.jpg" ch-number="11", Levante vs Sevilla - LaLiga
 #https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=dash&token=vqNjm5DSjgLNWEEnPYvA0TELdoe8AcvB|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20885&type=drm&token=vqNjm5DSjgLNWEEnPYvA0TELdoe8AcvB
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/huP08xcTpaFv8OYsAk-OT6xwBbo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5022674/497bd6.jpg" ch-number="12", Martin Landaluce vs Adam Walton - Round 1 (Arantxa Sanchez Stadium) | ATP 1000: Mutua Madrid Open 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=20885&type=dash&token=vqNjm5DSjgLNWEEnPYvA0TELdoe8AcvB|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -72,44 +74,44 @@ https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1ec
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20885&type=drm&token=vqNjm5DSjgLNWEEnPYvA0TELdoe8AcvB
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/huP08xcTpaFv8OYsAk-OT6xwBbo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5022674/497bd6.jpg" ch-number="14", Martin Landaluce vs Adam Walton - Round 1 (Arantxa Sanchez Stadium) | ATP 1000: Mutua Madrid Open 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=20885&type=dash&token=vqNjm5DSjgLNWEEnPYvA0TELdoe8AcvB|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6317&type=drm&token=vqNjm5DSjgLNWEEnPYvA0TELdoe8AcvB
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Av7U-JYEl2uGvxlbc1NUBfaGbm0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5021550/de99fa.jpg" ch-number="15", Rayo Vallecano vs Espanyol - LaLiga
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Av7U-JYEl2uGvxlbc1NUBfaGbm0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5021550/de99fa.jpg" ch-number="14", Rayo Vallecano vs Espanyol - LaLiga
 #https://vid-id.indi1.workers.dev/index.mpd?id=6317&type=dash&token=vqNjm5DSjgLNWEEnPYvA0TELdoe8AcvB|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6685&type=drm&token=vqNjm5DSjgLNWEEnPYvA0TELdoe8AcvB
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/F8yWLTqon1_ydwSkxyBDz6cc8Ok=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5021542/38a00e.jpg" ch-number="16", PSV vs PEC Zwolle - Eredivisie
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/F8yWLTqon1_ydwSkxyBDz6cc8Ok=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5021542/38a00e.jpg" ch-number="15", PSV vs PEC Zwolle - Eredivisie
 #https://vid-id.indi1.workers.dev/index.mpd?id=6685&type=dash&token=vqNjm5DSjgLNWEEnPYvA0TELdoe8AcvB|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18189&type=drm&token=vqNjm5DSjgLNWEEnPYvA0TELdoe8AcvB
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/0cmvLLykRX6_npTcB709yeV76lk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5022012/7c8d03.jpg" ch-number="17", Zurich Classic of New Orleans 2026 - Round 1
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/0cmvLLykRX6_npTcB709yeV76lk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5022012/7c8d03.jpg" ch-number="16", Zurich Classic of New Orleans 2026 - Round 1
 #https://vid-id.indi1.workers.dev/index.mpd?id=18189&type=dash&token=vqNjm5DSjgLNWEEnPYvA0TELdoe8AcvB|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=drm&token=vqNjm5DSjgLNWEEnPYvA0TELdoe8AcvB
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/m1BlxGTx9dk7LdmQ3ZkIsKpSHU8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5021546/904e39.jpg" ch-number="18", Oviedo vs Villarreal - LaLiga
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/m1BlxGTx9dk7LdmQ3ZkIsKpSHU8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5021546/904e39.jpg" ch-number="17", Oviedo vs Villarreal - LaLiga
 #https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=dash&token=vqNjm5DSjgLNWEEnPYvA0TELdoe8AcvB|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18190&type=drm&token=vqNjm5DSjgLNWEEnPYvA0TELdoe8AcvB
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/7UIMG5EMNulnoH8nu2e3NtBX5pU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5022215/0daad3.jpg" ch-number="19", Round 1 (Night Session) - The Chevron Championship 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/7UIMG5EMNulnoH8nu2e3NtBX5pU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5022215/0daad3.jpg" ch-number="18", Round 1 (Night Session) - The Chevron Championship 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=18190&type=dash&token=vqNjm5DSjgLNWEEnPYvA0TELdoe8AcvB|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=19623&type=drm&token=vqNjm5DSjgLNWEEnPYvA0TELdoe8AcvB
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/qfmJWmeBxwoh0TxurxyQyuKW3AA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5023057/a5bad7.jpg" ch-number="20", Day 1 - NFL Draft 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/qfmJWmeBxwoh0TxurxyQyuKW3AA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5023057/a5bad7.jpg" ch-number="19", Day 1 - NFL Draft 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=19623&type=dash&token=vqNjm5DSjgLNWEEnPYvA0TELdoe8AcvB|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21210&type=drm&token=vqNjm5DSjgLNWEEnPYvA0TELdoe8AcvB
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/PZVB_QWzbF4KEKx8GmKngYfuyqI=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21210/campus-league-2026-basketball-1ad1a8.jpg" ch-number="20", Universitas Ma Chung vs Universitas Ciputra Makassar (Grup E | Putri) - CL Basketball 2026 - Regional Surabaya
+#https://vid-id.indi1.workers.dev/index.mpd?id=21210&type=dash&token=vqNjm5DSjgLNWEEnPYvA0TELdoe8AcvB|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
