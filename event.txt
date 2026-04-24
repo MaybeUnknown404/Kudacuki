@@ -1,14 +1,15 @@
 #EXTM3U
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21210&type=drm&token=HGvXoCN6gVkvF8mliHQswR5PYgbrAyKX
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/jhdyy-N3m0_5d42lvH15rduNapA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5022170/b2ad1b.jpg" ch-number="1", Universitas Airlangga vs Universitas Surabaya (Grup F | Putri) - CL Basketball 2026 - Regional Surabaya
-https://vid-id.indi1.workers.dev/index.mpd?id=21210&type=dash&token=HGvXoCN6gVkvF8mliHQswR5PYgbrAyKX|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21204&type=drm&token=HGvXoCN6gVkvF8mliHQswR5PYgbrAyKX
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/tVWM_d74K0ejinmp5B0c4adf4F8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5021958/0d3d45.jpg" ch-number="1", BYON Combat Showbiz Vol.7: Weigh-In + Press Conference
+https://vid-id.indi1.workers.dev/index.mpd?id=21204&type=dash&token=HGvXoCN6gVkvF8mliHQswR5PYgbrAyKX|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21204&type=drm&token=HGvXoCN6gVkvF8mliHQswR5PYgbrAyKX
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/tVWM_d74K0ejinmp5B0c4adf4F8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5021958/0d3d45.jpg" ch-number="2", BYON Combat Showbiz Vol.7: Weigh-In + Press Conference
-https://vid-id.indi1.workers.dev/index.mpd?id=21204&type=dash&token=HGvXoCN6gVkvF8mliHQswR5PYgbrAyKX|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21210&type=drm&token=HGvXoCN6gVkvF8mliHQswR5PYgbrAyKX
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/PZVB_QWzbF4KEKx8GmKngYfuyqI=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21210/campus-league-2026-basketball-1ad1a8.jpg" ch-number="2", Universitas Cenderawasih vs Politeknik Perkapalan Negeri Surabaya (Grup A | Putra) - CL Basketball 2026 - Regional Surabaya
+#https://vid-id.indi1.workers.dev/index.mpd?id=21210&type=dash&token=HGvXoCN6gVkvF8mliHQswR5PYgbrAyKX|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=drm&token=HGvXoCN6gVkvF8mliHQswR5PYgbrAyKX
