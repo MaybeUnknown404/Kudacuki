@@ -27,7 +27,7 @@ https://vid-id.indi1.workers.dev/index.mpd?id=17140&type=dash&token=HGvXoCN6gVkv
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21210&type=drm&token=HGvXoCN6gVkvF8mliHQswR5PYgbrAyKX
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/8us3KMef0mkQolNbnwa9ia10npk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5022173/167b02.jpg" ch-number="7", Universitas Brawijaya vs Universitas Negeri Malang (Grup C | Putra) - CL Basketball 2026 - Regional Surabaya
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/DLTNZB1tzNzhP8zTaj5TWQPEYbQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5022174/71fc0e.jpg" ch-number="7", Universitas Surabaya vs Institut Teknologi Sepuluh Nopember (Grup D | Putra) - CL Basketball 2026 - Regional Surabaya
 https://vid-id.indi1.workers.dev/index.mpd?id=21210&type=dash&token=HGvXoCN6gVkvF8mliHQswR5PYgbrAyKX|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
