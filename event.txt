@@ -13,21 +13,21 @@ https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1ec
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=drm&token=aIFuBvqHZMwIwxkExVL0w7iph77VQmsb
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/sOBuz-jPH1BAmTDVtpCFWJdgDho=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18250/bwf-thomas-uber-cup-finals-2026-group-stage-court-2-9809c9.jpg" ch-number="3", Chinese Taipei vs Sweden - BWF Thomas Cup Finals 2026 - Group Stage (Court 2)
+#https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=dash&token=aIFuBvqHZMwIwxkExVL0w7iph77VQmsb|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=drm&token=aIFuBvqHZMwIwxkExVL0w7iph77VQmsb
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/NYeyOYm3lzaHDNJxGNlV6mbJaWI=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/bwf-thomas-uber-cup-finals-2026-group-stage-court-3-f3527e.jpg" ch-number="3", Japan vs South Africa - BWF Uber Cup Finals 2026 - Group Stage (Court 3)
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/NYeyOYm3lzaHDNJxGNlV6mbJaWI=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/bwf-thomas-uber-cup-finals-2026-group-stage-court-3-f3527e.jpg" ch-number="4", Japan vs South Africa - BWF Uber Cup Finals 2026 - Group Stage (Court 3)
 #https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=dash&token=aIFuBvqHZMwIwxkExVL0w7iph77VQmsb|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=drm&token=aIFuBvqHZMwIwxkExVL0w7iph77VQmsb
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/F2pqF79QF_XACITip8O-2FE5G7Q=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/bwf-thomas-uber-cup-finals-2026-group-stage-court-1-e1677b.jpg" ch-number="4", Malaysia vs Turkiye - BWF Uber Cup Finals 2026 - Group Stage (Court 1)
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/F2pqF79QF_XACITip8O-2FE5G7Q=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/bwf-thomas-uber-cup-finals-2026-group-stage-court-1-e1677b.jpg" ch-number="5", Malaysia vs Turkiye - BWF Uber Cup Finals 2026 - Group Stage (Court 1)
 #https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=aIFuBvqHZMwIwxkExVL0w7iph77VQmsb|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=drm&token=aIFuBvqHZMwIwxkExVL0w7iph77VQmsb
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/sOBuz-jPH1BAmTDVtpCFWJdgDho=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18250/bwf-thomas-uber-cup-finals-2026-group-stage-court-2-9809c9.jpg" ch-number="5", Chinese Taipei vs Sweden - BWF Thomas Cup Finals 2026 - Group Stage (Court 2)
-#https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=dash&token=aIFuBvqHZMwIwxkExVL0w7iph77VQmsb|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -49,68 +49,68 @@ https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1ec
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20922&type=drm&token=aIFuBvqHZMwIwxkExVL0w7iph77VQmsb
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/J_Xr4UnBVcAdcfrXNpTN0BmLEVI=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/20922/byon-combat-showbiz-vol-7-92dd89.jpg" ch-number="9", Jai JMT vs Fatkur Rozi - UCC Kickstriking Bout - BYON Combat Showbiz Vol.7
-#https://vid-id.indi1.workers.dev/index.mpd?id=20922&type=dash&token=aIFuBvqHZMwIwxkExVL0w7iph77VQmsb|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17140&type=drm&token=aIFuBvqHZMwIwxkExVL0w7iph77VQmsb
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/N0Rn_0c5hwJL261qDXlhrHHhnYU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5022646/b5e70c.jpg" ch-number="11", MotoGP Free Practice 2: Grand Prix of Spain - MotoGP 2026 Round 4
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/N0Rn_0c5hwJL261qDXlhrHHhnYU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5022646/b5e70c.jpg" ch-number="10", MotoGP Free Practice 2: Grand Prix of Spain - MotoGP 2026 Round 4
 #https://vid-id.indi1.workers.dev/index.mpd?id=17140&type=dash&token=aIFuBvqHZMwIwxkExVL0w7iph77VQmsb|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20922&type=drm&token=aIFuBvqHZMwIwxkExVL0w7iph77VQmsb
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/cpxWWuEQfs9npaYb_ly4LbJTVv4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5021967/572a5a.jpg" ch-number="12", Charles Ebu vs Amir Zolfi - UCC Kickstriking Bout - BYON Combat Showbiz Vol.7
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/cpxWWuEQfs9npaYb_ly4LbJTVv4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5021967/572a5a.jpg" ch-number="11", Charles Ebu vs Amir Zolfi - UCC Kickstriking Bout - BYON Combat Showbiz Vol.7
 #https://vid-id.indi1.workers.dev/index.mpd?id=20922&type=dash&token=aIFuBvqHZMwIwxkExVL0w7iph77VQmsb|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/drm.kt?id=19543&type=drm&token=aIFuBvqHZMwIwxkExVL0w7iph77VQmsb
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/RLCQOO1gfLYgnWhMv_RkPAK3uKA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5022285/e9fe49.jpg" ch-number="13", Persela Lamongan vs PS. Barito Putera - Pegadaian Championship
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/RLCQOO1gfLYgnWhMv_RkPAK3uKA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5022285/e9fe49.jpg" ch-number="12", Persela Lamongan vs PS. Barito Putera - Pegadaian Championship
 #https://spacetv.my.id/index.mpd?id=19543&type=dash&token=aIFuBvqHZMwIwxkExVL0w7iph77VQmsb|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/drm.kt?id=19541&type=drm&token=aIFuBvqHZMwIwxkExVL0w7iph77VQmsb
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/E2lda3HZbcbyJo89ScXvanLBwAU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5022287/0a961f.jpg" ch-number="14", Sriwijaya FC vs Garudayaksa FC - Pegadaian Championship
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/E2lda3HZbcbyJo89ScXvanLBwAU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5022287/0a961f.jpg" ch-number="13", Sriwijaya FC vs Garudayaksa FC - Pegadaian Championship
 #https://spacetv.my.id/index.mpd?id=19541&type=dash&token=aIFuBvqHZMwIwxkExVL0w7iph77VQmsb|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=drm&token=aIFuBvqHZMwIwxkExVL0w7iph77VQmsb
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/s7Qo_JmNjanzs0f54Bi5RuFh2G8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5025235/a1a14b.jpg" ch-number="15", Rally Islas Canarias SS10 Arucas - Teror 1 - WRC Rally Islas Canarias 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/s7Qo_JmNjanzs0f54Bi5RuFh2G8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5025235/a1a14b.jpg" ch-number="14", Rally Islas Canarias SS10 Arucas - Teror 1 - WRC Rally Islas Canarias 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=dash&token=aIFuBvqHZMwIwxkExVL0w7iph77VQmsb|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=19354&type=drm&token=aIFuBvqHZMwIwxkExVL0w7iph77VQmsb
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/GovToI_AO3H6T4YaGdTB4Wka6lQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5022121/ebe49f.jpg" ch-number="16", Madura United FC vs Dewa United Banten FC - BRI Super League
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/GovToI_AO3H6T4YaGdTB4Wka6lQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5022121/ebe49f.jpg" ch-number="15", Madura United FC vs Dewa United Banten FC - BRI Super League
 #https://vid-id.indi1.workers.dev/index.mpd?id=19354&type=dash&token=aIFuBvqHZMwIwxkExVL0w7iph77VQmsb|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20922&type=drm&token=aIFuBvqHZMwIwxkExVL0w7iph77VQmsb
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/jOgHBLKCs4JNP2zcEcp1OgXFSdE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5021968/d4988e.jpg" ch-number="17", Masdewa vs Bashir Mazreavi - UCC Kickstriking Bout - BYON Combat Showbiz Vol.7
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/jOgHBLKCs4JNP2zcEcp1OgXFSdE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5021968/d4988e.jpg" ch-number="16", Masdewa vs Bashir Mazreavi - UCC Kickstriking Bout - BYON Combat Showbiz Vol.7
 #https://vid-id.indi1.workers.dev/index.mpd?id=20922&type=dash&token=aIFuBvqHZMwIwxkExVL0w7iph77VQmsb|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20564&type=drm&token=aIFuBvqHZMwIwxkExVL0w7iph77VQmsb
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/DYoR6rTUA9kbJ2pJp5F3l9WtL-I=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5022128/5011d4.jpg" ch-number="18", Day 4 - WTA 1000: Mutua Madrid Open 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/DYoR6rTUA9kbJ2pJp5F3l9WtL-I=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5022128/5011d4.jpg" ch-number="17", Day 4 - WTA 1000: Mutua Madrid Open 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=20564&type=dash&token=aIFuBvqHZMwIwxkExVL0w7iph77VQmsb|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20888&type=drm&token=aIFuBvqHZMwIwxkExVL0w7iph77VQmsb
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/N6qQIWbL_IaAKD0P9IsejW6jyIw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5026011/8029df.jpg" ch-number="19", Francisco Cerundolo vs Yannick Hanfmann - Round 2 (Court 5) | ATP 1000: Mutua Madrid Open 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/N6qQIWbL_IaAKD0P9IsejW6jyIw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5026011/8029df.jpg" ch-number="18", Francisco Cerundolo vs Yannick Hanfmann - Round 2 (Court 5) | ATP 1000: Mutua Madrid Open 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=20888&type=dash&token=aIFuBvqHZMwIwxkExVL0w7iph77VQmsb|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20885&type=drm&token=aIFuBvqHZMwIwxkExVL0w7iph77VQmsb
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/mAZgNTs8wQo9ftw8mjtZLorC17w=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5026010/7d754f.jpg" ch-number="20", Alejandro Davidovich Fokina vs Pablo Carreno Busta - Round 2 (Arantxa Sanchez Stadium) | ATP 1000: Mutua Madrid Open 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/mAZgNTs8wQo9ftw8mjtZLorC17w=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5026010/7d754f.jpg" ch-number="19", Alejandro Davidovich Fokina vs Pablo Carreno Busta - Round 2 (Arantxa Sanchez Stadium) | ATP 1000: Mutua Madrid Open 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=20885&type=dash&token=aIFuBvqHZMwIwxkExVL0w7iph77VQmsb|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20886&type=drm&token=aIFuBvqHZMwIwxkExVL0w7iph77VQmsb
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/MWGdfgoIdtQfYtaKxS_rk1gfk-8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5026015/c2c1b3.jpg" ch-number="20", Karen Khachanov vs Adam Walton - Round 2 (Stadium 3) | ATP 1000: Mutua Madrid Open 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=20886&type=dash&token=aIFuBvqHZMwIwxkExVL0w7iph77VQmsb|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
