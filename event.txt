@@ -17,7 +17,7 @@ https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=dash&token=X7lvQ68BwMgy
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20955&type=drm&token=X7lvQ68BwMgyFpP7hCvsz2M2AxuDuYvJ
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/ir7GRBKxknNaoRXf_MygAYMTUxE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5026713/94bb15.jpg" ch-number="4", Jannik Sinner vs Elmer Moller - Round 3 | ATP 1000: Mutua Madrid Open 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/-rBtjvDNRrcM_w83W_i3I0R429c=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/20955/round-3-atp-1000-mutua-madrid-open-2026-9dbdd8.jpg" ch-number="4", Round 3 - ATP 1000: Mutua Madrid Open 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=20955&type=dash&token=X7lvQ68BwMgyFpP7hCvsz2M2AxuDuYvJ|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -101,8 +101,8 @@ https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1ec
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20887&type=drm&token=X7lvQ68BwMgyFpP7hCvsz2M2AxuDuYvJ
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Jga8YmjOKbeAAYo3dYl3YKqX2Nc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5026723/3f6866.jpg" ch-number="20", Marcelo Melo/Alexander Zverev vs Luciano Darderi/Stefanos Tsitsipas - Round of 32 (Court 4) | ATP 1000: Mutua Madrid Open 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=20887&type=dash&token=X7lvQ68BwMgyFpP7hCvsz2M2AxuDuYvJ|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20955&type=drm&token=X7lvQ68BwMgyFpP7hCvsz2M2AxuDuYvJ
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/ir7GRBKxknNaoRXf_MygAYMTUxE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5026713/94bb15.jpg" ch-number="20", Jannik Sinner vs Elmer Moller - Round 3 | ATP 1000: Mutua Madrid Open 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=20955&type=dash&token=X7lvQ68BwMgyFpP7hCvsz2M2AxuDuYvJ|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
