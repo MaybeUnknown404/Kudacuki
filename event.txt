@@ -1,14 +1,14 @@
 #EXTM3U
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20216&type=drm&token=X7lvQ68BwMgyFpP7hCvsz2M2AxuDuYvJ
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/Wbi5VZKa3t7C4vZB4nwYvsPwOq8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5023068/8c2af8.jpg" ch-number="1", Marcus Buchecha vs Ryan Spann - Heavyweight | UFC Fight Night
-https://vid-id.indi1.workers.dev/index.mpd?id=20216&type=dash&token=X7lvQ68BwMgyFpP7hCvsz2M2AxuDuYvJ|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21099&type=drm&token=X7lvQ68BwMgyFpP7hCvsz2M2AxuDuYvJ
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/OdYOXjztIrcsPR1NMncZcOrhhyo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5026065/8e4dbc.jpg" ch-number="1", ROKET FC vs PUTRI TANGSEL CITY - HYDROPLUS Soccer League U-18
+https://vid-id.indi1.workers.dev/index.mpd?id=21099&type=dash&token=X7lvQ68BwMgyFpP7hCvsz2M2AxuDuYvJ|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21099&type=drm&token=X7lvQ68BwMgyFpP7hCvsz2M2AxuDuYvJ
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/6R8AysrYvYQ45Jq6OZ_DZNHWwrM=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21099/hydroplus-soccer-league-8673ab.jpg" ch-number="2", ROKET FC vs PUTRI TANGSEL CITY - HYDROPLUS Soccer League U-18
-https://vid-id.indi1.workers.dev/index.mpd?id=21099&type=dash&token=X7lvQ68BwMgyFpP7hCvsz2M2AxuDuYvJ|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20216&type=drm&token=X7lvQ68BwMgyFpP7hCvsz2M2AxuDuYvJ
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/Wbi5VZKa3t7C4vZB4nwYvsPwOq8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5023068/8c2af8.jpg" ch-number="2", Marcus Buchecha vs Ryan Spann - Heavyweight | UFC Fight Night
+https://vid-id.indi1.workers.dev/index.mpd?id=20216&type=dash&token=X7lvQ68BwMgyFpP7hCvsz2M2AxuDuYvJ|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20216&type=drm&token=X7lvQ68BwMgyFpP7hCvsz2M2AxuDuYvJ
