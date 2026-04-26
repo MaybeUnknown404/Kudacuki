@@ -12,7 +12,7 @@ https://vid-id.indi1.workers.dev/index.mpd?id=20955&type=dash&token=acQWLh9LpSFQ
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=drm&token=acQWLh9LpSFQVH1RYWyVQGdZi33QsSrO
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/9VvKEKfKzXpIzIUnOL9sIGt-deg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5028496/0aa60f.jpg" ch-number="3", Lin Hsiang Ti (TPE) vs Wen Yu Zhang (CAN) - Women's Singles (Match 3) | Uber Cup 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/C7CZ8Ou8KWHiEY0EfUjh8YR5plQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5028497/133751.jpg" ch-number="3", Hsu Yin-Hui/Sung Yu-Hsuan (TPE) vs Catherine Choi/Crystal Lai(CAN) - Women's Doubles (Match 4) | Uber Cup 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=dash&token=acQWLh9LpSFQVH1RYWyVQGdZi33QsSrO|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -52,61 +52,60 @@ https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=dash&token=acQWLh9LpSFQV
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18739&type=drm&token=acQWLh9LpSFQVH1RYWyVQGdZi33QsSrO
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/fIzur8screerRb-9QO77MMJJ0_o=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5026341/8855cf.jpg" ch-number="11", AVS vs Sporting - Liga Portugal
-#https://vid-id.indi1.workers.dev/index.mpd?id=18739&type=dash&token=acQWLh9LpSFQVH1RYWyVQGdZi33QsSrO|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=drm&token=acQWLh9LpSFQVH1RYWyVQGdZi33QsSrO
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/C7CZ8Ou8KWHiEY0EfUjh8YR5plQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5028497/133751.jpg" ch-number="12", Hsu Yin-Hui/Sung Yu-Hsuan (TPE) vs Catherine Choi/Crystal Lai(CAN) - Women's Doubles (Match 4) | Uber Cup 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=dash&token=acQWLh9LpSFQVH1RYWyVQGdZi33QsSrO|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/fIzur8screerRb-9QO77MMJJ0_o=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5026341/8855cf.jpg" ch-number="11", AVS vs Sporting - Liga Portugal
+https://vid-id.indi1.workers.dev/index.mpd?id=18739&type=dash&token=acQWLh9LpSFQVH1RYWyVQGdZi33QsSrO|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=drm&token=acQWLh9LpSFQVH1RYWyVQGdZi33QsSrO
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/1WmrHI04YYLDToJckOp9zWxfaks=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5028488/d5598c.jpg" ch-number="13", Febriana Dwipuji Kusuma/Rachel Allessya Rose(INA) vs Jesslyn Carrisia/Victoria Tjonadi (AUS) - Women's Doubles (Match 5) | Uber Cup 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/1WmrHI04YYLDToJckOp9zWxfaks=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5028488/d5598c.jpg" ch-number="12", Febriana Dwipuji Kusuma/Rachel Allessya Rose(INA) vs Jesslyn Carrisia/Victoria Tjonadi (AUS) - Women's Doubles (Match 5) | Uber Cup 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=dash&token=acQWLh9LpSFQVH1RYWyVQGdZi33QsSrO|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=drm&token=acQWLh9LpSFQVH1RYWyVQGdZi33QsSrO
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/KekyElUQN-W5Se1QGIRu4NlXYi8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5028498/4ad328.jpg" ch-number="14", Huang Yu-Hsun (TPE) vs Rachel Chan (CAN) - Women's Singles (Match 5) | Uber Cup 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/KekyElUQN-W5Se1QGIRu4NlXYi8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5028498/4ad328.jpg" ch-number="13", Huang Yu-Hsun (TPE) vs Rachel Chan (CAN) - Women's Singles (Match 5) | Uber Cup 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=dash&token=acQWLh9LpSFQVH1RYWyVQGdZi33QsSrO|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=drm&token=acQWLh9LpSFQVH1RYWyVQGdZi33QsSrO
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/g1b0x16vOYATmRBrROoFC2kLKg4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5027644/89d8da.jpg" ch-number="15", Joao Fonseca vs Rafael Jodar - Round 3 (Manolo Santana Stadium) | ATP 1000: Mutua Madrid Open 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=dash&token=acQWLh9LpSFQVH1RYWyVQGdZi33QsSrO|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20955&type=drm&token=acQWLh9LpSFQVH1RYWyVQGdZi33QsSrO
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/HKhoTN8zzqPnBPdxRK2Gud7h6Ng=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5026714/132acb.jpg" ch-number="16", Joao Fonseca vs Rafael Jodar - Round 3 | ATP 1000: Mutua Madrid Open 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/HKhoTN8zzqPnBPdxRK2Gud7h6Ng=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5026714/132acb.jpg" ch-number="14", Joao Fonseca vs Rafael Jodar - Round 3 | ATP 1000: Mutua Madrid Open 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=20955&type=dash&token=acQWLh9LpSFQVH1RYWyVQGdZi33QsSrO|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20887&type=drm&token=acQWLh9LpSFQVH1RYWyVQGdZi33QsSrO
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/8IvCzQsMN5pZmXpDrJVYs4oyFto=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5026719/b44cab.jpg" ch-number="17", Joao Fonseca vs Rafael Jodar - Round 3 | ATP 1000: Mutua Madrid Open 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/8IvCzQsMN5pZmXpDrJVYs4oyFto=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5026719/b44cab.jpg" ch-number="15", Joao Fonseca vs Rafael Jodar - Round 3 | ATP 1000: Mutua Madrid Open 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=20887&type=dash&token=acQWLh9LpSFQVH1RYWyVQGdZi33QsSrO|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=drm&token=acQWLh9LpSFQVH1RYWyVQGdZi33QsSrO
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/g1b0x16vOYATmRBrROoFC2kLKg4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5027644/89d8da.jpg" ch-number="16", Joao Fonseca vs Rafael Jodar - Round 3 (Manolo Santana Stadium) | ATP 1000: Mutua Madrid Open 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=dash&token=acQWLh9LpSFQVH1RYWyVQGdZi33QsSrO|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21210&type=drm&token=acQWLh9LpSFQVH1RYWyVQGdZi33QsSrO
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/CrZFu80BSsGCr5lttTBBV5t00O8=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21210/campus-league-2026-basketball-1afff8.jpg" ch-number="18", Universitas Airlangga vs Politeknik Perkapalan Negeri Surabaya (Grup A | Putra) - CL Basketball 2026 - Regional Surabaya
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/CrZFu80BSsGCr5lttTBBV5t00O8=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21210/campus-league-2026-basketball-1afff8.jpg" ch-number="17", Universitas Airlangga vs Politeknik Perkapalan Negeri Surabaya (Grup A | Putra) - CL Basketball 2026 - Regional Surabaya
 #https://vid-id.indi1.workers.dev/index.mpd?id=21210&type=dash&token=acQWLh9LpSFQVH1RYWyVQGdZi33QsSrO|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21254&type=drm&token=acQWLh9LpSFQVH1RYWyVQGdZi33QsSrO
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/_qs4fdKLQDygQOvh5e9To3eNsbU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5028361/0e6d2f.jpg" ch-number="19", NEC Red Rockets vs Harudot Chonburi RMUTT VC - AVC Women's Champions League
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/_qs4fdKLQDygQOvh5e9To3eNsbU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5028361/0e6d2f.jpg" ch-number="18", NEC Red Rockets vs Harudot Chonburi RMUTT VC - AVC Women's Champions League
 #https://vid-id.indi1.workers.dev/index.mpd?id=21254&type=dash&token=acQWLh9LpSFQVH1RYWyVQGdZi33QsSrO|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/drm.kt?id=19542&type=drm&token=acQWLh9LpSFQVH1RYWyVQGdZi33QsSrO
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Mw2kqvx9uTSlVoBuh_X1IxEm71w=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5026349/245335.jpg" ch-number="20", Persiku Kudus vs Deltras FC - Pegadaian Championship
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Mw2kqvx9uTSlVoBuh_X1IxEm71w=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5026349/245335.jpg" ch-number="19", Persiku Kudus vs Deltras FC - Pegadaian Championship
 #https://spacetv.my.id/index.mpd?id=19542&type=dash&token=acQWLh9LpSFQVH1RYWyVQGdZi33QsSrO|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=19354&type=drm&token=acQWLh9LpSFQVH1RYWyVQGdZi33QsSrO
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/yawPdv8hKp79RNiGLFkYw1Qgn2o=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5026348/199469.jpg" ch-number="20", Bali United FC vs PSM Makassar - BRI Super League
+#https://vid-id.indi1.workers.dev/index.mpd?id=19354&type=dash&token=acQWLh9LpSFQVH1RYWyVQGdZi33QsSrO|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
