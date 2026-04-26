@@ -2,7 +2,7 @@
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=drm&token=acQWLh9LpSFQVH1RYWyVQGdZi33QsSrO
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/P6zMIxdjURaVoNX6DYjEYFip11M=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5028744/58675e.jpg" ch-number="1", Daniel Lundgaard/Mads Vestergaard(DEN) vs Ludwig Axelsson/Filip Karlborg (SWE) - Men's Doubles (Match 4) | Thomas Cup 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/t-CGq8qB3B3l-1om8OOraewvob8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5028745/ffc481.jpg" ch-number="1", Ditlev Jaeger Holm (DEN) vs Romeo Makboul (SWE) - Men's Singles (Match 5) | Thomas Cup 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=acQWLh9LpSFQVH1RYWyVQGdZi33QsSrO|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -47,9 +47,8 @@ https://vid-id.indi1.workers.dev/index.mpd?id=18739&type=dash&token=acQWLh9LpSFQ
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=drm&token=acQWLh9LpSFQVH1RYWyVQGdZi33QsSrO
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/g1b0x16vOYATmRBrROoFC2kLKg4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5027644/89d8da.jpg" ch-number="10", Joao Fonseca vs Rafael Jodar - Round 3 (Manolo Santana Stadium) | ATP 1000: Mutua Madrid Open 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=dash&token=acQWLh9LpSFQVH1RYWyVQGdZi33QsSrO|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/g1b0x16vOYATmRBrROoFC2kLKg4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5027644/89d8da.jpg" ch-number="10", Joao Fonseca vs Rafael Jodar - Round 3 (Manolo Santana Stadium) | ATP 1000: Mutua Madrid Open 2026
+https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=dash&token=acQWLh9LpSFQVH1RYWyVQGdZi33QsSrO|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21210&type=drm&token=acQWLh9LpSFQVH1RYWyVQGdZi33QsSrO
