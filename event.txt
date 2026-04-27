@@ -2,7 +2,7 @@
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21210&type=drm&token=acQWLh9LpSFQVH1RYWyVQGdZi33QsSrO
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/uuxWO9WwRAUMEda8ME1YcP6B840=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5026342/13f1b0.jpg" ch-number="1", Universitas Airlangga vs Politeknik Perkapalan Negeri Surabaya (Grup A | Putra) - CL Basketball 2026 - Regional Surabaya
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/_SuAwOwej6_wcetMDzpWxCKX8oc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5026343/cd2337.jpg" ch-number="1", Universitas Islam Negeri Sunan Ampel vs Universitas Kristen Petra (Grup B | Putra) - CL Basketball 2026 - Regional Surabaya
 https://vid-id.indi1.workers.dev/index.mpd?id=21210&type=dash&token=acQWLh9LpSFQVH1RYWyVQGdZi33QsSrO|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
