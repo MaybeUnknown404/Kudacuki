@@ -6,29 +6,29 @@
 https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=qqON4oGIge330XGnr7yMhN8ZywIqa62z|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20564&type=drm&token=qqON4oGIge330XGnr7yMhN8ZywIqa62z
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/pUU2UWH4SSk6nvMJx5v_rvlEx_M=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5032217/b24d7e.jpg" ch-number="2", Laura Siegemund/Vera Zvonareva vs Aldila Sutjiadi/Janice Tjen - Women's Doubles Quarterfinals | WTA 1000: Mutua Madrid Open 2026
+https://vid-id.indi1.workers.dev/index.mpd?id=20564&type=dash&token=qqON4oGIge330XGnr7yMhN8ZywIqa62z|User-Agent=VidioPlayer/6.31.6
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=drm&token=qqON4oGIge330XGnr7yMhN8ZywIqa62z
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/_lCAk4lR4B2FNMS_4-YYkPEb1UM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5032265/b90308.jpg" ch-number="2", Elena Popivanova (BUL) vs Ines Costero (ESP) - Women's Singles (Match 4) | Uber Cup 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/_lCAk4lR4B2FNMS_4-YYkPEb1UM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5032265/b90308.jpg" ch-number="3", Elena Popivanova (BUL) vs Ines Costero (ESP) - Women's Singles (Match 4) | Uber Cup 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=dash&token=qqON4oGIge330XGnr7yMhN8ZywIqa62z|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=drm&token=qqON4oGIge330XGnr7yMhN8ZywIqa62z
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/ZAO94QUb1PCqdCu6oGbt3f-uedE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5032272/da9842.jpg" ch-number="3", Eliana Zhang/Wen Yu Zhang (CAN) vs Faye Huo/Victoria Tjonadi (AUS) - Women's Doubles (Match 3) | Uber Cup 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/ZAO94QUb1PCqdCu6oGbt3f-uedE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5032272/da9842.jpg" ch-number="4", Eliana Zhang/Wen Yu Zhang (CAN) vs Faye Huo/Victoria Tjonadi (AUS) - Women's Doubles (Match 3) | Uber Cup 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=dash&token=qqON4oGIge330XGnr7yMhN8ZywIqa62z|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21210&type=drm&token=qqON4oGIge330XGnr7yMhN8ZywIqa62z
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/CrZFu80BSsGCr5lttTBBV5t00O8=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21210/campus-league-2026-basketball-1afff8.jpg" ch-number="4", Campus League 2026 - Basketball
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/CrZFu80BSsGCr5lttTBBV5t00O8=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21210/campus-league-2026-basketball-1afff8.jpg" ch-number="5", Campus League 2026 - Basketball
 https://vid-id.indi1.workers.dev/index.mpd?id=21210&type=dash&token=qqON4oGIge330XGnr7yMhN8ZywIqa62z|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20955&type=drm&token=qqON4oGIge330XGnr7yMhN8ZywIqa62z
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/xdjbNvtyF6U0Csu11avQ1g_yed8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5032304/1281dd.jpg" ch-number="5", Jiri Lehecka vs Lorenzo Musetti - Round of 16 | ATP 1000: Mutua Madrid Open 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/xdjbNvtyF6U0Csu11avQ1g_yed8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5032304/1281dd.jpg" ch-number="6", Jiri Lehecka vs Lorenzo Musetti - Round of 16 | ATP 1000: Mutua Madrid Open 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=20955&type=dash&token=qqON4oGIge330XGnr7yMhN8ZywIqa62z|User-Agent=VidioPlayer/6.31.6
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20564&type=drm&token=qqON4oGIge330XGnr7yMhN8ZywIqa62z
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/pUU2UWH4SSk6nvMJx5v_rvlEx_M=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5032217/b24d7e.jpg" ch-number="6", Laura Siegemund/Vera Zvonareva vs Aldila Sutjiadi/Janice Tjen - Women's Doubles Quarterfinals | WTA 1000: Mutua Madrid Open 2026
-https://vid-id.indi1.workers.dev/index.mpd?id=20564&type=dash&token=qqON4oGIge330XGnr7yMhN8ZywIqa62z|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20885&type=drm&token=qqON4oGIge330XGnr7yMhN8ZywIqa62z
