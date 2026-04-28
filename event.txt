@@ -11,31 +11,29 @@ https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=dash&token=qqON4oGIge33
 https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=dash&token=qqON4oGIge330XGnr7yMhN8ZywIqa62z|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20955&type=drm&token=qqON4oGIge330XGnr7yMhN8ZywIqa62z
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/ikNq7XZ0LNAR0o5ycmeGeCTvngw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5032306/e93b9a.jpg" ch-number="3", Francisco Cerundolo vs Alexander Blockx - Round of 16 | ATP 1000: Mutua Madrid Open 2026
+https://vid-id.indi1.workers.dev/index.mpd?id=20955&type=dash&token=qqON4oGIge330XGnr7yMhN8ZywIqa62z|User-Agent=VidioPlayer/6.31.6
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=19738&type=drm&token=qqON4oGIge330XGnr7yMhN8ZywIqa62z
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/9oDk2cTkSEsmfIW4uYU98EAGHIQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5030261/fcb69b.jpg" ch-number="3", Halkbank vs Spor Toto - Turkish Men's Volleyball League
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/9oDk2cTkSEsmfIW4uYU98EAGHIQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5030261/fcb69b.jpg" ch-number="4", Halkbank vs Spor Toto - Turkish Men's Volleyball League
 https://vid-id.indi1.workers.dev/index.mpd?id=19738&type=dash&token=qqON4oGIge330XGnr7yMhN8ZywIqa62z|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=drm&token=qqON4oGIge330XGnr7yMhN8ZywIqa62z
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/MOlzzwbuaO6pUwFd7ReNVJTdxZY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5036042/1eeb7b.jpg" ch-number="4", Jonatan Christie (INA) vs Christo Popov (FRA) - Men's Singles (Match 1) | Thomas Cup 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/MOlzzwbuaO6pUwFd7ReNVJTdxZY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5036042/1eeb7b.jpg" ch-number="5", Jonatan Christie (INA) vs Christo Popov (FRA) - Men's Singles (Match 1) | Thomas Cup 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=qqON4oGIge330XGnr7yMhN8ZywIqa62z|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20886&type=drm&token=qqON4oGIge330XGnr7yMhN8ZywIqa62z
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/h__ZMDx__LKctQJ8GsIbe8KiVPM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5032312/ccb8a5.jpg" ch-number="5", Romain Arneodo/Valentin Vacherot vs Yuki Bhambri/Michael Venus - Round of 16 (Stadium 3) | ATP 1000: Mutua Madrid Open 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/h__ZMDx__LKctQJ8GsIbe8KiVPM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5032312/ccb8a5.jpg" ch-number="6", Romain Arneodo/Valentin Vacherot vs Yuki Bhambri/Michael Venus - Round of 16 (Stadium 3) | ATP 1000: Mutua Madrid Open 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=20886&type=dash&token=qqON4oGIge330XGnr7yMhN8ZywIqa62z|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20885&type=drm&token=qqON4oGIge330XGnr7yMhN8ZywIqa62z
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/TmPfqLGcpkZiVH8ioMXYAUasf6k=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5032277/0776f6.jpg" ch-number="6", Francisco Cerundolo vs Alexander Blockx - Round of 16 (Arantxa Sanchez Stadium) | ATP 1000: Mutua Madrid Open 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=20885&type=dash&token=qqON4oGIge330XGnr7yMhN8ZywIqa62z|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20955&type=drm&token=qqON4oGIge330XGnr7yMhN8ZywIqa62z
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/4fB6GDOpn3pwHOMS4j6rYxCFo4k=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/20955/round-3-atp-1000-mutua-madrid-open-2026-d89762.jpg" ch-number="7", Francisco Cerundolo vs Alexander Blockx - Round of 16 | ATP 1000: Mutua Madrid Open 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=20955&type=dash&token=qqON4oGIge330XGnr7yMhN8ZywIqa62z|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/TmPfqLGcpkZiVH8ioMXYAUasf6k=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5032277/0776f6.jpg" ch-number="7", Francisco Cerundolo vs Alexander Blockx - Round of 16 (Arantxa Sanchez Stadium) | ATP 1000: Mutua Madrid Open 2026
+https://vid-id.indi1.workers.dev/index.mpd?id=20885&type=dash&token=qqON4oGIge330XGnr7yMhN8ZywIqa62z|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=drm&token=qqON4oGIge330XGnr7yMhN8ZywIqa62z
