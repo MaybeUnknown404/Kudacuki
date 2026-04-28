@@ -17,12 +17,12 @@ https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=dash&token=qqON4oGIge33
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=drm&token=qqON4oGIge330XGnr7yMhN8ZywIqa62z
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/rAYhldPDxhIMhhDnoZT7Dt2A9as=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5032262/62610f.jpg" ch-number="4", Kaloyana Nalbantova (BUL) vs Clara Azurmendi (ESP) - Women's Singles (Match 1) | Uber Cup 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/sOBuz-jPH1BAmTDVtpCFWJdgDho=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18250/bwf-thomas-uber-cup-finals-2026-group-stage-court-2-9809c9.jpg" ch-number="4", Gergana Pavlova (BUL) vs Christina Teruel (ESP) - Women's Singles (Match 2) | Uber Cup 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=dash&token=qqON4oGIge330XGnr7yMhN8ZywIqa62z|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21210&type=drm&token=qqON4oGIge330XGnr7yMhN8ZywIqa62z
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/VfzUwVUuAVyhdMARVcKj3RfktHA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5032201/764622.jpg" ch-number="5", Universitas Surabaya vs Universitas Brawijaya Malang (Semifinal | Putri) - CL Basketball 2026 - Regional Surabaya
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/mcq1S7sxQpkUZkRGenMZwUtDhRs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5032202/502962.jpg" ch-number="5", Universitas Negeri Surabaya vs Universitas Surabaya (Semifinal | Putra) - CL Basketball 2026 - Regional Surabaya
 https://vid-id.indi1.workers.dev/index.mpd?id=21210&type=dash&token=qqON4oGIge330XGnr7yMhN8ZywIqa62z|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
