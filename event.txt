@@ -27,7 +27,7 @@ https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=dash&token=76FHw2KqodIK
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=drm&token=76FHw2KqodIKkIQJalv7TNX5mqp6W4Cz
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/I-PDt05gPXEj8egGy2rrI3yKvtc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5036119/f525f6.jpg" ch-number="6", Victor Lai (CAN) vs Ephraim Stephen Sam (AUS) - Men's Singles (Match 1) | Thomas Cup 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/1afpPKy7nVOCLdPVSNiQu1v_9P8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5036120/b13719.jpg" ch-number="6", Kevin Lee/Ty Alexander Lindeman (CAN) vs Rizky Hidayat/Jack Yu (AUS) - Men's Doubles (Match 2) | Thomas Cup 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=dash&token=76FHw2KqodIKkIQJalv7TNX5mqp6W4Cz|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
