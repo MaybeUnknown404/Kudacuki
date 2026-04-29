@@ -2,7 +2,7 @@
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21210&type=drm&token=76FHw2KqodIKkIQJalv7TNX5mqp6W4Cz
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/VNxV36EpFCa96y0RRT2C8W8yCk4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5036036/53d56a.jpg" ch-number="1", Universitas Airlangga Surabaya vs Universitas Brawijaya Malang (3rd Place | Putri) - CL Basketball 2026 - Regional Surabaya
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/2QRikdI_hXt6xstUAoXrGCAGNuI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5036037/987c82.jpg" ch-number="1", Universitas Negeri Malang vs Universitas Negeri Surabaya (3rd Place | Putra) - CL Basketball 2026 - Regional Surabaya
 https://vid-id.indi1.workers.dev/index.mpd?id=21210&type=dash&token=76FHw2KqodIKkIQJalv7TNX5mqp6W4Cz|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
