@@ -12,7 +12,7 @@ https://vid-id.indi1.workers.dev/index.mpd?id=6786&type=dash&token=76FHw2KqodIKk
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=drm&token=76FHw2KqodIKkIQJalv7TNX5mqp6W4Cz
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/SQZ2sC8IWlE_uBqs05PiSNJXjtQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5036110/a700aa.jpg" ch-number="3", He Ji Ting/Ren Xiang Yu (CHN) vs Hariharan Amsakarunan/Madathil Arjun (IND) - Men's Doubles (Match 4) | Thomas Cup 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/wSvsVunQWWRRKlCFqNB9GgdpNg4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5036111/5882a5.jpg" ch-number="3", Lu Guang Zu (CHN) vs Prannoy H. S. (IND) - Men's Singles (Match 5) | Thomas Cup 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=76FHw2KqodIKkIQJalv7TNX5mqp6W4Cz|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
