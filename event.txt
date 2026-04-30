@@ -7,7 +7,7 @@ https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=39XLtHOcipuL
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=drm&token=39XLtHOcipuLtDMq1DFia5EC26dDkfBU
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/kbLkfR56-PIWytSiTuwBwVFqrIw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5049149/2cc3ce.jpg" ch-number="2", Chiu Pin-Chian (TPE) vs An Se Young (KOR) - Women's Singles (Match 1) | Quarterfinals Uber Cup 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/JQgwO7hqvUEULMNIZUPdWDSkg5Q=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5049150/5a900b.jpg" ch-number="2", Hsieh Pei Shan/Hung En-Tzu (TPE) vs Lee So Hee/Lee Yeon Woo (KOR) - Women's Doubles (Match 2) | Quarterfinals Uber Cup 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=dash&token=39XLtHOcipuLtDMq1DFia5EC26dDkfBU|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -22,8 +22,9 @@ https://vid-id.indi1.workers.dev/index.mpd?id=20885&type=dash&token=39XLtHOcipuL
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=drm&token=39XLtHOcipuLtDMq1DFia5EC26dDkfBU
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/k-rBQ2WFeSb1l4w5oVNGgJL5PFM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5049056/a9880a.jpg" ch-number="5", Line Hojmark Kjaersfeldt (DEN) vs Ni Kadek Dhinda Amartya Pratiwi (INA) - Women's Singles (Match 2) | Quarterfinals Uber Cup 2026
-https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=39XLtHOcipuLtDMq1DFia5EC26dDkfBU|User-Agent=VidioPlayer/6.31.6
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/k-rBQ2WFeSb1l4w5oVNGgJL5PFM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5049056/a9880a.jpg" ch-number="5", Line Hojmark Kjaersfeldt (DEN) vs Ni Kadek Dhinda Amartya Pratiwi (INA) - Women's Singles (Match 2) | Quarterfinals Uber Cup 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=39XLtHOcipuLtDMq1DFia5EC26dDkfBU|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=drm&token=39XLtHOcipuLtDMq1DFia5EC26dDkfBU
