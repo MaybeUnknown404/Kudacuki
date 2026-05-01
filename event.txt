@@ -1,14 +1,15 @@
 #EXTM3U
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18189&type=drm&token=2DRyf3HmJS5uK2x20Glj5m7iVJ2RJ0xt
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/SJPM5AkM3cgAg1qs0quSj30X4Bk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5036148/b6cd03.jpg" ch-number="1", Round 2 - Cadillac Championship 2026
-https://vid-id.indi1.workers.dev/index.mpd?id=18189&type=dash&token=2DRyf3HmJS5uK2x20Glj5m7iVJ2RJ0xt|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21099&type=drm&token=2DRyf3HmJS5uK2x20Glj5m7iVJ2RJ0xt
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/6R8AysrYvYQ45Jq6OZ_DZNHWwrM=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21099/hydroplus-soccer-league-8673ab.jpg" ch-number="1", ASTAM FC LADIES vs TANGSEL WOMEN - HYDROPLUS Soccer League U-15
+#https://vid-id.indi1.workers.dev/index.mpd?id=21099&type=dash&token=2DRyf3HmJS5uK2x20Glj5m7iVJ2RJ0xt|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21099&type=drm&token=2DRyf3HmJS5uK2x20Glj5m7iVJ2RJ0xt
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/6R8AysrYvYQ45Jq6OZ_DZNHWwrM=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21099/hydroplus-soccer-league-8673ab.jpg" ch-number="2", ASTAM FC LADIES vs TANGSEL WOMEN - HYDROPLUS Soccer League U-15
-#https://vid-id.indi1.workers.dev/index.mpd?id=21099&type=dash&token=2DRyf3HmJS5uK2x20Glj5m7iVJ2RJ0xt|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21313&type=drm&token=2DRyf3HmJS5uK2x20Glj5m7iVJ2RJ0xt
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/uQ_FvpvOsAT-0z5h5LwVGj7M4qo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5055789/41a499.jpg" ch-number="2", Putra: SB Gorontalo vs Benteng Garuda - Kejurnas Bola Voli Antarklub U-18
+#https://vid-id.indi1.workers.dev/index.mpd?id=21313&type=dash&token=2DRyf3HmJS5uK2x20Glj5m7iVJ2RJ0xt|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -18,93 +19,93 @@ https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1ec
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21313&type=drm&token=2DRyf3HmJS5uK2x20Glj5m7iVJ2RJ0xt
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/uQ_FvpvOsAT-0z5h5LwVGj7M4qo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5055789/41a499.jpg" ch-number="4", Putra: SB Gorontalo vs Benteng Garuda - Kejurnas Bola Voli Antarklub U-18
-#https://vid-id.indi1.workers.dev/index.mpd?id=21313&type=dash&token=2DRyf3HmJS5uK2x20Glj5m7iVJ2RJ0xt|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17139&type=drm&token=2DRyf3HmJS5uK2x20Glj5m7iVJ2RJ0xt
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/DkmyFQjeNYtDjvciGl9vT2GuCaA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5055815/e37f0b.jpg" ch-number="5", Qualifying - GT World Challenge Asia 2026: Mandalika
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/DkmyFQjeNYtDjvciGl9vT2GuCaA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5055815/e37f0b.jpg" ch-number="4", Qualifying - GT World Challenge Asia 2026: Mandalika
 #https://vid-id.indi1.workers.dev/index.mpd?id=17139&type=dash&token=2DRyf3HmJS5uK2x20Glj5m7iVJ2RJ0xt|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21316&type=drm&token=2DRyf3HmJS5uK2x20Glj5m7iVJ2RJ0xt
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/g8gtbVODpW4ixt31-ZOZ9JOVqxo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5055796/63807e.jpg" ch-number="6", Opening Ceremony Kejurnas Bola Voli Antarklub U-18 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/g8gtbVODpW4ixt31-ZOZ9JOVqxo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5055796/63807e.jpg" ch-number="5", Opening Ceremony Kejurnas Bola Voli Antarklub U-18 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=21316&type=dash&token=2DRyf3HmJS5uK2x20Glj5m7iVJ2RJ0xt|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21210&type=drm&token=2DRyf3HmJS5uK2x20Glj5m7iVJ2RJ0xt
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/CONdnytADNnfV11g4XswwLzQTL4=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21210/campus-league-2026-basketball-4db318.jpg" ch-number="7", Universitas Sebelas Maret vs Universitas Kristen Satya Wacana (Grup A | Putra) - CL Basketball 2026 - Regional Jogja
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/CONdnytADNnfV11g4XswwLzQTL4=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21210/campus-league-2026-basketball-4db318.jpg" ch-number="6", Universitas Sebelas Maret vs Universitas Kristen Satya Wacana (Grup A | Putra) - CL Basketball 2026 - Regional Jogja
 #https://vid-id.indi1.workers.dev/index.mpd?id=21210&type=dash&token=2DRyf3HmJS5uK2x20Glj5m7iVJ2RJ0xt|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21316&type=drm&token=2DRyf3HmJS5uK2x20Glj5m7iVJ2RJ0xt
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/sSJwvxeJQPjQOj-xP82kk09pn7Y=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5055798/fce2ad.jpg" ch-number="8", Putri: Vita Solo vs MVC Mamasa Sulbar - Kejurnas Bola Voli Antarklub U-18
-#https://vid-id.indi1.workers.dev/index.mpd?id=21316&type=dash&token=2DRyf3HmJS5uK2x20Glj5m7iVJ2RJ0xt|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21315&type=drm&token=2DRyf3HmJS5uK2x20Glj5m7iVJ2RJ0xt
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/HN2QG6btmW1yDQV3Cih0BJpNKpo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5055804/850a48.jpg" ch-number="9", Putri: Tectona Bandung vs Landak RHS Volleyball Club - Kejurnas Bola Voli Antarklub U-18
-#https://vid-id.indi1.workers.dev/index.mpd?id=21315&type=dash&token=2DRyf3HmJS5uK2x20Glj5m7iVJ2RJ0xt|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21314&type=drm&token=2DRyf3HmJS5uK2x20Glj5m7iVJ2RJ0xt
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/yIvDyRT9Q-0C5ewDKf9yLMSHSuc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5055778/36ed56.jpg" ch-number="10", Putra: Albest Pujut Kab Lombok Tengah vs Smano Komet - Kejurnas Bola Voli Antarklub U-18
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/yIvDyRT9Q-0C5ewDKf9yLMSHSuc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5055778/36ed56.jpg" ch-number="7", Putra: Albest Pujut Kab Lombok Tengah vs Smano Komet - Kejurnas Bola Voli Antarklub U-18
 #https://vid-id.indi1.workers.dev/index.mpd?id=21314&type=dash&token=2DRyf3HmJS5uK2x20Glj5m7iVJ2RJ0xt|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21313&type=drm&token=2DRyf3HmJS5uK2x20Glj5m7iVJ2RJ0xt
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/PvHx390MpRsGDmCQgxyNpYyuJCA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5055790/9e5f58.jpg" ch-number="11", Putra: Avoku vs Vollos Aizelia - Kejurnas Bola Voli Antarklub U-18
-#https://vid-id.indi1.workers.dev/index.mpd?id=21313&type=dash&token=2DRyf3HmJS5uK2x20Glj5m7iVJ2RJ0xt|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21314&type=drm&token=2DRyf3HmJS5uK2x20Glj5m7iVJ2RJ0xt
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/B9ez6M7AcY0qYiBYTKPlsJakbDs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5055779/c8d4e9.jpg" ch-number="12", Putra: Cinus VC vs Satria Kab Mojokerto - Kejurnas Bola Voli Antarklub U-18
-#https://vid-id.indi1.workers.dev/index.mpd?id=21314&type=dash&token=2DRyf3HmJS5uK2x20Glj5m7iVJ2RJ0xt|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21313&type=drm&token=2DRyf3HmJS5uK2x20Glj5m7iVJ2RJ0xt
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/DKcQuPrYkP8BNY86LKzYdhFLXII=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5055791/0c32db.jpg" ch-number="13", Putra: Privolley Bengkulu Jaya vs Luthfi - Kejurnas Bola Voli Antarklub U-18
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/PvHx390MpRsGDmCQgxyNpYyuJCA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5055790/9e5f58.jpg" ch-number="8", Putra: Avoku vs Vollos Aizelia - Kejurnas Bola Voli Antarklub U-18
 #https://vid-id.indi1.workers.dev/index.mpd?id=21313&type=dash&token=2DRyf3HmJS5uK2x20Glj5m7iVJ2RJ0xt|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21316&type=drm&token=2DRyf3HmJS5uK2x20Glj5m7iVJ2RJ0xt
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/TKyZQBCaCI_L4vDw9Y_BHscwSRM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5055799/758ece.jpg" ch-number="14", Putri: Merpati Kota Blitar vs Nurani Alpur Kaltim - Kejurnas Bola Voli Antarklub U-18
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/sSJwvxeJQPjQOj-xP82kk09pn7Y=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5055798/fce2ad.jpg" ch-number="9", Putri: Vita Solo vs MVC Mamasa Sulbar - Kejurnas Bola Voli Antarklub U-18
 #https://vid-id.indi1.workers.dev/index.mpd?id=21316&type=dash&token=2DRyf3HmJS5uK2x20Glj5m7iVJ2RJ0xt|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21315&type=drm&token=2DRyf3HmJS5uK2x20Glj5m7iVJ2RJ0xt
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/6L8Q6THOx1buHWXIMhiQvvh7QJ0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5055805/11df37.jpg" ch-number="15", Putri: Kartika Dirgantara vs Putri Bengkulu - Kejurnas Bola Voli Antarklub U-18
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/HN2QG6btmW1yDQV3Cih0BJpNKpo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5055804/850a48.jpg" ch-number="10", Putri: Tectona Bandung vs Landak RHS Volleyball Club - Kejurnas Bola Voli Antarklub U-18
 #https://vid-id.indi1.workers.dev/index.mpd?id=21315&type=dash&token=2DRyf3HmJS5uK2x20Glj5m7iVJ2RJ0xt|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21313&type=drm&token=2DRyf3HmJS5uK2x20Glj5m7iVJ2RJ0xt
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/DKcQuPrYkP8BNY86LKzYdhFLXII=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5055791/0c32db.jpg" ch-number="11", Putra: Privolley Bengkulu Jaya vs Luthfi - Kejurnas Bola Voli Antarklub U-18
+#https://vid-id.indi1.workers.dev/index.mpd?id=21313&type=dash&token=2DRyf3HmJS5uK2x20Glj5m7iVJ2RJ0xt|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21315&type=drm&token=2DRyf3HmJS5uK2x20Glj5m7iVJ2RJ0xt
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/6L8Q6THOx1buHWXIMhiQvvh7QJ0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5055805/11df37.jpg" ch-number="12", Putri: Kartika Dirgantara vs Putri Bengkulu - Kejurnas Bola Voli Antarklub U-18
+#https://vid-id.indi1.workers.dev/index.mpd?id=21315&type=dash&token=2DRyf3HmJS5uK2x20Glj5m7iVJ2RJ0xt|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21316&type=drm&token=2DRyf3HmJS5uK2x20Glj5m7iVJ2RJ0xt
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/TKyZQBCaCI_L4vDw9Y_BHscwSRM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5055799/758ece.jpg" ch-number="13", Putri: Merpati Kota Blitar vs Nurani Alpur Kaltim - Kejurnas Bola Voli Antarklub U-18
+#https://vid-id.indi1.workers.dev/index.mpd?id=21316&type=dash&token=2DRyf3HmJS5uK2x20Glj5m7iVJ2RJ0xt|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21314&type=drm&token=2DRyf3HmJS5uK2x20Glj5m7iVJ2RJ0xt
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/B9ez6M7AcY0qYiBYTKPlsJakbDs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5055779/c8d4e9.jpg" ch-number="14", Putra: Cinus VC vs Satria Kab Mojokerto - Kejurnas Bola Voli Antarklub U-18
+#https://vid-id.indi1.workers.dev/index.mpd?id=21314&type=dash&token=2DRyf3HmJS5uK2x20Glj5m7iVJ2RJ0xt|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17139&type=drm&token=2DRyf3HmJS5uK2x20Glj5m7iVJ2RJ0xt
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/-TlRefAj6kgo8MgRE21eaStWDcI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5055279/e5f805.jpg" ch-number="16", Race 1 - GT World Challenge Asia 2026: Mandalika
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/-TlRefAj6kgo8MgRE21eaStWDcI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5055279/e5f805.jpg" ch-number="15", Race 1 - GT World Challenge Asia 2026: Mandalika
 #https://vid-id.indi1.workers.dev/index.mpd?id=17139&type=dash&token=2DRyf3HmJS5uK2x20Glj5m7iVJ2RJ0xt|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21315&type=drm&token=2DRyf3HmJS5uK2x20Glj5m7iVJ2RJ0xt
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/N7I1SPyJ2exxsmAvFQfthZls5uM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5055806/1cf627.jpg" ch-number="17", Putri: Ajaib Wahana Kuningan vs Armada Muaro Jambi - Kejurnas Bola Voli Antarklub U-18
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/N7I1SPyJ2exxsmAvFQfthZls5uM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5055806/1cf627.jpg" ch-number="16", Putri: Ajaib Wahana Kuningan vs Armada Muaro Jambi - Kejurnas Bola Voli Antarklub U-18
 #https://vid-id.indi1.workers.dev/index.mpd?id=21315&type=dash&token=2DRyf3HmJS5uK2x20Glj5m7iVJ2RJ0xt|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21314&type=drm&token=2DRyf3HmJS5uK2x20Glj5m7iVJ2RJ0xt
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/hh0nTQaMVcAQBzDP8Rb3jO__7tU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5055780/ab0797.jpg" ch-number="18", Putra: Tectona Bandung vs Akademi Jabrik Toyota Bagan Batu - Kejurnas Bola Voli Antarklub U-18
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/hh0nTQaMVcAQBzDP8Rb3jO__7tU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5055780/ab0797.jpg" ch-number="17", Putra: Tectona Bandung vs Akademi Jabrik Toyota Bagan Batu - Kejurnas Bola Voli Antarklub U-18
 #https://vid-id.indi1.workers.dev/index.mpd?id=21314&type=dash&token=2DRyf3HmJS5uK2x20Glj5m7iVJ2RJ0xt|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21313&type=drm&token=2DRyf3HmJS5uK2x20Glj5m7iVJ2RJ0xt
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Az5BGZKWhDvpQiZjaSlSEDhQDNk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5055792/5014bc.jpg" ch-number="18", Putra: Gaspool Ciamis vs Atlas Semarang - Kejurnas Bola Voli Antarklub U-18
+#https://vid-id.indi1.workers.dev/index.mpd?id=21313&type=dash&token=2DRyf3HmJS5uK2x20Glj5m7iVJ2RJ0xt|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -114,8 +115,8 @@ https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1ec
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21313&type=drm&token=2DRyf3HmJS5uK2x20Glj5m7iVJ2RJ0xt
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Az5BGZKWhDvpQiZjaSlSEDhQDNk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5055792/5014bc.jpg" ch-number="20", Putra: Gaspool Ciamis vs Atlas Semarang - Kejurnas Bola Voli Antarklub U-18
-#https://vid-id.indi1.workers.dev/index.mpd?id=21313&type=dash&token=2DRyf3HmJS5uK2x20Glj5m7iVJ2RJ0xt|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17139&type=drm&token=2DRyf3HmJS5uK2x20Glj5m7iVJ2RJ0xt
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/fTIVU4VD5ZldhdXzw4pihN1S8PQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5038897/80299d.jpg" ch-number="20", WorldSBK Free Practice 3 - WorldSBK Championship 2026 Round 4 Motul Hungarian Round
+#https://vid-id.indi1.workers.dev/index.mpd?id=17139&type=dash&token=2DRyf3HmJS5uK2x20Glj5m7iVJ2RJ0xt|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
