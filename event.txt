@@ -43,15 +43,15 @@ https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1ec
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17139&type=drm&token=rr9uRfOeKMibXWQri0jP3dainMRCEbRT
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/JloeiAjoUaZ08k4fgY9slnQmbbY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5036153/075f79.jpg" ch-number="8", WorldSSP Superpole - WorldSBK Championship 2026 Round 4 Motul Hungarian Round
-#https://vid-id.indi1.workers.dev/index.mpd?id=17139&type=dash&token=rr9uRfOeKMibXWQri0jP3dainMRCEbRT|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18190&type=drm&token=rr9uRfOeKMibXWQri0jP3dainMRCEbRT
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/c3InzmcLKJnEDg1BxMMaJ6PhALE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5036143/e41f07.jpg" ch-number="8", Round 2 - Mexico Riviera Maya Open at Mayakoba 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=18190&type=dash&token=rr9uRfOeKMibXWQri0jP3dainMRCEbRT|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18190&type=drm&token=rr9uRfOeKMibXWQri0jP3dainMRCEbRT
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/c3InzmcLKJnEDg1BxMMaJ6PhALE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5036143/e41f07.jpg" ch-number="9", Round 2 - Mexico Riviera Maya Open at Mayakoba 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=18190&type=dash&token=rr9uRfOeKMibXWQri0jP3dainMRCEbRT|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17139&type=drm&token=rr9uRfOeKMibXWQri0jP3dainMRCEbRT
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/JloeiAjoUaZ08k4fgY9slnQmbbY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5036153/075f79.jpg" ch-number="9", WorldSSP Superpole - WorldSBK Championship 2026 Round 4 Motul Hungarian Round
+#https://vid-id.indi1.workers.dev/index.mpd?id=17139&type=dash&token=rr9uRfOeKMibXWQri0jP3dainMRCEbRT|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -110,13 +110,13 @@ https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1ec
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17139&type=drm&token=rr9uRfOeKMibXWQri0jP3dainMRCEbRT
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/fTIVU4VD5ZldhdXzw4pihN1S8PQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5038897/80299d.jpg" ch-number="19", WorldSBK Free Practice 3 - WorldSBK Championship 2026 Round 4 Motul Hungarian Round
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/-TlRefAj6kgo8MgRE21eaStWDcI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5055279/e5f805.jpg" ch-number="19", Race 1 - GT World Challenge Asia 2026: Mandalika
 #https://vid-id.indi1.workers.dev/index.mpd?id=17139&type=dash&token=rr9uRfOeKMibXWQri0jP3dainMRCEbRT|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=19354&type=drm&token=rr9uRfOeKMibXWQri0jP3dainMRCEbRT
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/9EzxouCeAKumSCNVPKoV4dQdBeA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5036134/25507d.jpg" ch-number="20", PERSEBAYA Surabaya vs PSBS Biak - BRI Super League
-#https://vid-id.indi1.workers.dev/index.mpd?id=19354&type=dash&token=rr9uRfOeKMibXWQri0jP3dainMRCEbRT|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17139&type=drm&token=rr9uRfOeKMibXWQri0jP3dainMRCEbRT
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/fTIVU4VD5ZldhdXzw4pihN1S8PQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5038897/80299d.jpg" ch-number="20", WorldSBK Free Practice 3 - WorldSBK Championship 2026 Round 4 Motul Hungarian Round
+#https://vid-id.indi1.workers.dev/index.mpd?id=17139&type=dash&token=rr9uRfOeKMibXWQri0jP3dainMRCEbRT|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
