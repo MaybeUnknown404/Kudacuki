@@ -2,7 +2,7 @@
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21188&type=drm&token=rr9uRfOeKMibXWQri0jP3dainMRCEbRT
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/VfB44Pl7qjqhn42MkGURfSXuGls=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5036089/0d0350.jpg" ch-number="1", Quba vs Vicky - WBA Asia Super Lightweight Tournament
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/unc795saJFr1CqYGyIWk-VyQ1ew=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5036090/826ad6.jpg" ch-number="1", Kent vs Setiadi - WBA Asia Super Lightweight Tournament
 https://vid-id.indi1.workers.dev/index.mpd?id=21188&type=dash&token=rr9uRfOeKMibXWQri0jP3dainMRCEbRT|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
