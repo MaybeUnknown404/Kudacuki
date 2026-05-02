@@ -7,15 +7,13 @@ https://vid-id.indi1.workers.dev/index.mpd?id=21210&type=dash&token=2DRyf3HmJS5u
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21315&type=drm&token=2DRyf3HmJS5uK2x20Glj5m7iVJ2RJ0xt
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/6L8Q6THOx1buHWXIMhiQvvh7QJ0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5055805/11df37.jpg" ch-number="2", Putri: Kartika Dirgantara vs Putri Bengkulu - Kejurnas Bola Voli Antarklub U-18
-#https://vid-id.indi1.workers.dev/index.mpd?id=21315&type=dash&token=2DRyf3HmJS5uK2x20Glj5m7iVJ2RJ0xt|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/6L8Q6THOx1buHWXIMhiQvvh7QJ0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5055805/11df37.jpg" ch-number="2", Putri: Kartika Dirgantara vs Putri Bengkulu - Kejurnas Bola Voli Antarklub U-18
+https://vid-id.indi1.workers.dev/index.mpd?id=21315&type=dash&token=2DRyf3HmJS5uK2x20Glj5m7iVJ2RJ0xt|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21316&type=drm&token=2DRyf3HmJS5uK2x20Glj5m7iVJ2RJ0xt
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/TKyZQBCaCI_L4vDw9Y_BHscwSRM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5055799/758ece.jpg" ch-number="3", Putri: Merpati Kota Blitar vs Nurani Alpur Kaltim - Kejurnas Bola Voli Antarklub U-18
-#https://vid-id.indi1.workers.dev/index.mpd?id=21316&type=dash&token=2DRyf3HmJS5uK2x20Glj5m7iVJ2RJ0xt|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/TKyZQBCaCI_L4vDw9Y_BHscwSRM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5055799/758ece.jpg" ch-number="3", Putri: Merpati Kota Blitar vs Nurani Alpur Kaltim - Kejurnas Bola Voli Antarklub U-18
+https://vid-id.indi1.workers.dev/index.mpd?id=21316&type=dash&token=2DRyf3HmJS5uK2x20Glj5m7iVJ2RJ0xt|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21314&type=drm&token=2DRyf3HmJS5uK2x20Glj5m7iVJ2RJ0xt
