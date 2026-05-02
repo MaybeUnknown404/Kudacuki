@@ -12,12 +12,12 @@ https://vid-id.indi1.workers.dev/index.mpd?id=19404&type=dash&token=2DRyf3HmJS5u
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=drm&token=2DRyf3HmJS5uK2x20Glj5m7iVJ2RJ0xt
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/bBYo8NKDiWGwQqT243IooSQm-BY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5057646/2f5e00.jpg" ch-number="3", Liang Wei Keng/Wang Chang (CHN) vs Kim Astrup/Anders Skaarup Rasmussen (DEN) - Men's Doubles (Match 2) | Semifinals Thomas Cup 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/cM8tBI9DOtLBfZrp64jdGUfDgGU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5057647/e3c5da.jpg" ch-number="3", Li Shi Feng (CHN) vs Magnus Johannesen (DEN) - Men's Singles (Match 3) | Semifinals Thomas Cup 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=2DRyf3HmJS5uK2x20Glj5m7iVJ2RJ0xt|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=drm&token=2DRyf3HmJS5uK2x20Glj5m7iVJ2RJ0xt
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/A_NA_v23BTFj7UsDNDgpDJJyrpM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5057656/73c2e0.jpg" ch-number="4", Alex Lanier (FRA) vs Kidambi Srikanth (IND) - Men's Singles (Match 2) | Semifinals Thomas Cup 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/T2DPVuA96Pysd2ZgZlNJheYHY2k=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5057657/f9c266.jpg" ch-number="4", Toma Junior Popov (FRA) vs Prannoy H. S. (IND) - Men's Singles (Match 3) | Semifinals Thomas Cup 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=dash&token=2DRyf3HmJS5uK2x20Glj5m7iVJ2RJ0xt|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -42,9 +42,8 @@ https://vid-id.indi1.workers.dev/index.mpd?id=18739&type=dash&token=2DRyf3HmJS5u
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17139&type=drm&token=2DRyf3HmJS5uK2x20Glj5m7iVJ2RJ0xt
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/rUsemYFc74iedjnSB3xfZCOxjPQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5038926/94dc28.jpg" ch-number="9", Al-Hazem vs Al-Hilal - ROSHN Saudi League
-#https://vid-id.indi1.workers.dev/index.mpd?id=17139&type=dash&token=2DRyf3HmJS5uK2x20Glj5m7iVJ2RJ0xt|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/rUsemYFc74iedjnSB3xfZCOxjPQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5038926/94dc28.jpg" ch-number="9", Al-Hazem vs Al-Hilal - ROSHN Saudi League
+https://vid-id.indi1.workers.dev/index.mpd?id=17139&type=dash&token=2DRyf3HmJS5uK2x20Glj5m7iVJ2RJ0xt|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6685&type=drm&token=2DRyf3HmJS5uK2x20Glj5m7iVJ2RJ0xt
