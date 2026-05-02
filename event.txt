@@ -16,15 +16,14 @@ https://vid-id.indi1.workers.dev/index.mpd?id=21210&type=dash&token=2DRyf3HmJS5u
 https://vid-id.indi1.workers.dev/index.mpd?id=21099&type=dash&token=2DRyf3HmJS5uK2x20Glj5m7iVJ2RJ0xt|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21316&type=drm&token=2DRyf3HmJS5uK2x20Glj5m7iVJ2RJ0xt
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/sO_Zpu92kf_S0dRcf5UQ7nH4yCI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5055800/71969c.jpg" ch-number="4", Putri: Bumen Jaya Papua Barat Daya vs Dua Laode - Kejurnas Bola Voli Antarklub U-18
-#https://vid-id.indi1.workers.dev/index.mpd?id=21316&type=dash&token=2DRyf3HmJS5uK2x20Glj5m7iVJ2RJ0xt|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21315&type=drm&token=2DRyf3HmJS5uK2x20Glj5m7iVJ2RJ0xt
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/N7I1SPyJ2exxsmAvFQfthZls5uM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5055806/1cf627.jpg" ch-number="4", Putri: Ajaib Wahana Kuningan vs Armada Muaro Jambi - Kejurnas Bola Voli Antarklub U-18
+https://vid-id.indi1.workers.dev/index.mpd?id=21315&type=dash&token=2DRyf3HmJS5uK2x20Glj5m7iVJ2RJ0xt|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21313&type=drm&token=2DRyf3HmJS5uK2x20Glj5m7iVJ2RJ0xt
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Az5BGZKWhDvpQiZjaSlSEDhQDNk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5055792/5014bc.jpg" ch-number="5", Putra: Gaspool Ciamis vs Atlas Semarang - Kejurnas Bola Voli Antarklub U-18
-#https://vid-id.indi1.workers.dev/index.mpd?id=21313&type=dash&token=2DRyf3HmJS5uK2x20Glj5m7iVJ2RJ0xt|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21316&type=drm&token=2DRyf3HmJS5uK2x20Glj5m7iVJ2RJ0xt
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/sO_Zpu92kf_S0dRcf5UQ7nH4yCI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5055800/71969c.jpg" ch-number="5", Putri: Bumen Jaya Papua Barat Daya vs Dua Laode - Kejurnas Bola Voli Antarklub U-18
+#https://vid-id.indi1.workers.dev/index.mpd?id=21316&type=dash&token=2DRyf3HmJS5uK2x20Glj5m7iVJ2RJ0xt|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -34,9 +33,9 @@ https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1ec
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21315&type=drm&token=2DRyf3HmJS5uK2x20Glj5m7iVJ2RJ0xt
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/N7I1SPyJ2exxsmAvFQfthZls5uM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5055806/1cf627.jpg" ch-number="7", Putri: Ajaib Wahana Kuningan vs Armada Muaro Jambi - Kejurnas Bola Voli Antarklub U-18
-#https://vid-id.indi1.workers.dev/index.mpd?id=21315&type=dash&token=2DRyf3HmJS5uK2x20Glj5m7iVJ2RJ0xt|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21313&type=drm&token=2DRyf3HmJS5uK2x20Glj5m7iVJ2RJ0xt
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Az5BGZKWhDvpQiZjaSlSEDhQDNk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5055792/5014bc.jpg" ch-number="7", Putra: Gaspool Ciamis vs Atlas Semarang - Kejurnas Bola Voli Antarklub U-18
+#https://vid-id.indi1.workers.dev/index.mpd?id=21313&type=dash&token=2DRyf3HmJS5uK2x20Glj5m7iVJ2RJ0xt|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
