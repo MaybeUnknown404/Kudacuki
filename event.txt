@@ -1,19 +1,19 @@
 #EXTM3U
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21316&type=drm&token=MIbWkqpgmuorYFGjPNeCaPzDMzQcC43K
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/ly4g5HQU6BngPyANj0gadnOELt4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5058690/ae5efb.jpg" ch-number="1", Putra: Caroline FJA vs Perpagi - Kejurnas Bola Voli Antarklub U-18
-https://vid-id.indi1.workers.dev/index.mpd?id=21316&type=dash&token=MIbWkqpgmuorYFGjPNeCaPzDMzQcC43K|User-Agent=VidioPlayer/6.31.6
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21313&type=drm&token=MIbWkqpgmuorYFGjPNeCaPzDMzQcC43K
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/3s0oRpJ8J3eX74-elhQ_3Uw2ll4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5059305/91101c.jpg" ch-number="2", Putri: Cinus VC vs Ganevo - Kejurnas Bola Voli Antarklub U-18
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/3s0oRpJ8J3eX74-elhQ_3Uw2ll4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5059305/91101c.jpg" ch-number="1", Putri: Cinus VC vs Ganevo - Kejurnas Bola Voli Antarklub U-18
 https://vid-id.indi1.workers.dev/index.mpd?id=21313&type=dash&token=MIbWkqpgmuorYFGjPNeCaPzDMzQcC43K|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21315&type=drm&token=MIbWkqpgmuorYFGjPNeCaPzDMzQcC43K
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/-Fr5zEkDExquMfTimEfcyJbhiBU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5059298/097a73.jpg" ch-number="3", Putra: Bimantara Muda Bali Jaya vs Karuci Indoprima Jakarta - Kejurnas Bola Voli Antarklub U-18
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/-Fr5zEkDExquMfTimEfcyJbhiBU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5059298/097a73.jpg" ch-number="2", Putra: Bimantara Muda Bali Jaya vs Karuci Indoprima Jakarta - Kejurnas Bola Voli Antarklub U-18
 https://vid-id.indi1.workers.dev/index.mpd?id=21315&type=dash&token=MIbWkqpgmuorYFGjPNeCaPzDMzQcC43K|User-Agent=VidioPlayer/6.31.6
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21316&type=drm&token=MIbWkqpgmuorYFGjPNeCaPzDMzQcC43K
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/ly4g5HQU6BngPyANj0gadnOELt4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5058690/ae5efb.jpg" ch-number="3", Putra: Caroline FJA vs Perpagi - Kejurnas Bola Voli Antarklub U-18
+https://vid-id.indi1.workers.dev/index.mpd?id=21316&type=dash&token=MIbWkqpgmuorYFGjPNeCaPzDMzQcC43K|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21314&type=drm&token=MIbWkqpgmuorYFGjPNeCaPzDMzQcC43K
