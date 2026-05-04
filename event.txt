@@ -7,34 +7,34 @@
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=205&type=drm&token=MIbWkqpgmuorYFGjPNeCaPzDMzQcC43K
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/uCvYFiC0rOXIXpP9I4A-WfcFNEs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5058269/fdd74e.jpg" ch-number="2", PSM Makassar vs Bhayangkara Presisi Lampung FC - BRI Super League
+https://vid-id.indi1.workers.dev/index.mpd?id=205&type=dash&token=MIbWkqpgmuorYFGjPNeCaPzDMzQcC43K|User-Agent=VidioPlayer/6.31.6
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21210&type=drm&token=MIbWkqpgmuorYFGjPNeCaPzDMzQcC43K
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/kMSMdMDeZoHQFLG-zvlXdeq14Yw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5057692/fd5f5a.jpg" ch-number="2", Sekolah Tinggi Ilmu Ekonomi Yayasan Keluarga Pahlawan Negara vs Universitas Ahmad Dahlan (Grup D | Putra) - CL Basketball 2026 - Regional Jogja
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/kMSMdMDeZoHQFLG-zvlXdeq14Yw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5057692/fd5f5a.jpg" ch-number="3", Sekolah Tinggi Ilmu Ekonomi Yayasan Keluarga Pahlawan Negara vs Universitas Ahmad Dahlan (Grup D | Putra) - CL Basketball 2026 - Regional Jogja
 https://vid-id.indi1.workers.dev/index.mpd?id=21210&type=dash&token=MIbWkqpgmuorYFGjPNeCaPzDMzQcC43K|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21314&type=drm&token=MIbWkqpgmuorYFGjPNeCaPzDMzQcC43K
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/IWO6Vw6qw-Yk6zCE79mP0n6XonY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5059312/d1158c.jpg" ch-number="3", Putri: Garuda Muda vs Merpati Kota Blitar - Kejurnas Bola Voli Antarklub U-18
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/IWO6Vw6qw-Yk6zCE79mP0n6XonY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5059312/d1158c.jpg" ch-number="4", Putri: Garuda Muda vs Merpati Kota Blitar - Kejurnas Bola Voli Antarklub U-18
 https://vid-id.indi1.workers.dev/index.mpd?id=21314&type=dash&token=MIbWkqpgmuorYFGjPNeCaPzDMzQcC43K|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21315&type=drm&token=MIbWkqpgmuorYFGjPNeCaPzDMzQcC43K
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/-HikV2HwZfIntxUkAwVljoQgLl8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5059301/2d3331.jpg" ch-number="4", Putra: Yuso Yogyakarta vs Albest Pujut Kab Lombok Tengah - Kejurnas Bola Voli Antarklub U-18
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/-HikV2HwZfIntxUkAwVljoQgLl8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5059301/2d3331.jpg" ch-number="5", Putra: Yuso Yogyakarta vs Albest Pujut Kab Lombok Tengah - Kejurnas Bola Voli Antarklub U-18
 https://vid-id.indi1.workers.dev/index.mpd?id=21315&type=dash&token=MIbWkqpgmuorYFGjPNeCaPzDMzQcC43K|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21313&type=drm&token=MIbWkqpgmuorYFGjPNeCaPzDMzQcC43K
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/UmnOrDyE9zU4RDDuVvDVWS5rudw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5059308/513193.jpg" ch-number="5", Putri: O2C Bandung vs Kartika Dirgantara - Kejurnas Bola Voli Antarklub U-18
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/UmnOrDyE9zU4RDDuVvDVWS5rudw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5059308/513193.jpg" ch-number="6", Putri: O2C Bandung vs Kartika Dirgantara - Kejurnas Bola Voli Antarklub U-18
 https://vid-id.indi1.workers.dev/index.mpd?id=21313&type=dash&token=MIbWkqpgmuorYFGjPNeCaPzDMzQcC43K|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21316&type=drm&token=MIbWkqpgmuorYFGjPNeCaPzDMzQcC43K
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/K1VB69WJeotDMqfDbKLX5bZ9SNs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5058692/0c442e.jpg" ch-number="6", Putra: Dynamic Kota Blitar vs Privolley Bengkulu Jaya - Kejurnas Bola Voli Antarklub U-18
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/K1VB69WJeotDMqfDbKLX5bZ9SNs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5058692/0c442e.jpg" ch-number="7", Putra: Dynamic Kota Blitar vs Privolley Bengkulu Jaya - Kejurnas Bola Voli Antarklub U-18
 https://vid-id.indi1.workers.dev/index.mpd?id=21316&type=dash&token=MIbWkqpgmuorYFGjPNeCaPzDMzQcC43K|User-Agent=VidioPlayer/6.31.6
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=205&type=drm&token=MIbWkqpgmuorYFGjPNeCaPzDMzQcC43K
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/uCvYFiC0rOXIXpP9I4A-WfcFNEs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5058269/fdd74e.jpg" ch-number="7", PSM Makassar vs Bhayangkara Presisi Lampung FC - BRI Super League
-https://vid-id.indi1.workers.dev/index.mpd?id=205&type=dash&token=MIbWkqpgmuorYFGjPNeCaPzDMzQcC43K|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21316&type=drm&token=MIbWkqpgmuorYFGjPNeCaPzDMzQcC43K
