@@ -86,32 +86,32 @@ https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1ec
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20955&type=drm&token=6uk4NHb3bnjfqqOzYT8QYvJh61E1Gh07
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/oO-48bwvCY-6t4XzyMb3gNEJpqU=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/20955/round-1-atp-1000-internazionali-bnl-d-italia-2026-24e7cc.jpg" ch-number="16", Round 1 - ATP 1000: Internazionali BNL d'Italia 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=20955&type=dash&token=6uk4NHb3bnjfqqOzYT8QYvJh61E1Gh07|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6786&type=drm&token=6uk4NHb3bnjfqqOzYT8QYvJh61E1Gh07
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/xy_ueCi07tDjtzvpOA6MNqM_paA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5061592/cef009.jpg" ch-number="16", Day 1 - WTA 1000: Internazionali BNL D'Italia 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/xy_ueCi07tDjtzvpOA6MNqM_paA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5061592/cef009.jpg" ch-number="17", Day 1 - WTA 1000: Internazionali BNL D'Italia 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=6786&type=dash&token=6uk4NHb3bnjfqqOzYT8QYvJh61E1Gh07|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20955&type=drm&token=6uk4NHb3bnjfqqOzYT8QYvJh61E1Gh07
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/oO-48bwvCY-6t4XzyMb3gNEJpqU=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/20955/round-1-atp-1000-internazionali-bnl-d-italia-2026-24e7cc.jpg" ch-number="18", Round 1 - ATP 1000: Internazionali BNL d'Italia 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=20955&type=dash&token=6uk4NHb3bnjfqqOzYT8QYvJh61E1Gh07|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6317&type=drm&token=6uk4NHb3bnjfqqOzYT8QYvJh61E1Gh07
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/yJWEh2QKgGgFmGx5c4h86xx5rhc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5059317/31daa2.jpg" ch-number="17", Arsenal vs Brighton - Women's Super League
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/yJWEh2QKgGgFmGx5c4h86xx5rhc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5059317/31daa2.jpg" ch-number="19", Arsenal vs Brighton - Women's Super League
 #https://vid-id.indi1.workers.dev/index.mpd?id=6317&type=dash&token=6uk4NHb3bnjfqqOzYT8QYvJh61E1Gh07|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=drm&token=6uk4NHb3bnjfqqOzYT8QYvJh61E1Gh07
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/OE8KHslLApiv9MyzONgoH1v5RL8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5059316/ce1147.jpg" ch-number="18", Semifinals Leg 2: Bayern vs PSG - UEFA Champions League
-#https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=dash&token=6uk4NHb3bnjfqqOzYT8QYvJh61E1Gh07|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=19603&type=drm&token=6uk4NHb3bnjfqqOzYT8QYvJh61E1Gh07
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/EQ5qZaEB-767xn_uYsilgPqc1QU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5061565/ef78dc.jpg" ch-number="19", Semifinals Leg 2: SC Freiburg vs Braga - UEFA Europa League
-#https://vid-id.indi1.workers.dev/index.mpd?id=19603&type=dash&token=6uk4NHb3bnjfqqOzYT8QYvJh61E1Gh07|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=drm&token=6uk4NHb3bnjfqqOzYT8QYvJh61E1Gh07
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/MmB_xNWi4iN__p3lP1dgqtA_XF8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5061554/c699cd.jpg" ch-number="20", Semifinals Leg 2: Aston Villa vs Nottingham Forest - UEFA Europa League
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/OE8KHslLApiv9MyzONgoH1v5RL8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5059316/ce1147.jpg" ch-number="20", Semifinals Leg 2: Bayern vs PSG - UEFA Champions League
 #https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=dash&token=6uk4NHb3bnjfqqOzYT8QYvJh61E1Gh07|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
