@@ -2,7 +2,7 @@
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21210&type=drm&token=6uk4NHb3bnjfqqOzYT8QYvJh61E1Gh07
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/VL3D2V8kAbTzEvsng5K0TC_uKTA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5061545/db4e69.jpg" ch-number="1", Universitas Kristen Satya Wacana vs Soegijapranata Catholic University (Quarterfinal | Putra) - CL Basketball 2026 - Regional Jogja
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/qEsHdEy4vY0FBhpPQq-kpceTumg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5061546/072f90.jpg" ch-number="1", Universitas Atma Jaya Yogyakarta vs STIKES Nasional (Quarterfinal | Putra) - CL Basketball 2026 - Regional Jogja
 https://vid-id.indi1.workers.dev/index.mpd?id=21210&type=dash&token=6uk4NHb3bnjfqqOzYT8QYvJh61E1Gh07|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
