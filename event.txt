@@ -16,26 +16,24 @@ https://vid-id.indi1.workers.dev/index.mpd?id=19354&type=dash&token=6uk4NHb3bnjf
 https://vid-id.indi1.workers.dev/index.mpd?id=21313&type=dash&token=6uk4NHb3bnjfqqOzYT8QYvJh61E1Gh07|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21314&type=drm&token=6uk4NHb3bnjfqqOzYT8QYvJh61E1Gh07
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/iBl7NJEE4qXhWgUcniBx_al2G04=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5061544/c96f95.jpg" ch-number="4", Putri: Vollos Aizelia vs Batam Tectona - Kejurnas Bola Voli Antarklub U-18
+https://vid-id.indi1.workers.dev/index.mpd?id=21314&type=dash&token=6uk4NHb3bnjfqqOzYT8QYvJh61E1Gh07|User-Agent=VidioPlayer/6.31.6
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21315&type=drm&token=6uk4NHb3bnjfqqOzYT8QYvJh61E1Gh07
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/4L4niNBMNKiMLr4krqO-YtLFpGc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5061528/d0665e.jpg" ch-number="4", Putra: Dua Laode vs Privolley Bengkulu Jaya - Kejurnas Bola Voli Antarklub U-18
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/4L4niNBMNKiMLr4krqO-YtLFpGc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5061528/d0665e.jpg" ch-number="5", Putra: Dua Laode vs Privolley Bengkulu Jaya - Kejurnas Bola Voli Antarklub U-18
 https://vid-id.indi1.workers.dev/index.mpd?id=21315&type=dash&token=6uk4NHb3bnjfqqOzYT8QYvJh61E1Gh07|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21314&type=drm&token=6uk4NHb3bnjfqqOzYT8QYvJh61E1Gh07
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/iBl7NJEE4qXhWgUcniBx_al2G04=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5061544/c96f95.jpg" ch-number="5", Putri: Vollos Aizelia vs Batam Tectona - Kejurnas Bola Voli Antarklub U-18
-#https://vid-id.indi1.workers.dev/index.mpd?id=21314&type=dash&token=6uk4NHb3bnjfqqOzYT8QYvJh61E1Gh07|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21316&type=drm&token=6uk4NHb3bnjfqqOzYT8QYvJh61E1Gh07
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/g0Dq5bCw7H2_QZ-KEcan68fsxZ4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5061534/839cec.jpg" ch-number="6", Putra: SVT Vortal Lombok Tengah vs Legenda Amor - Kejurnas Bola Voli Antarklub U-18
+https://vid-id.indi1.workers.dev/index.mpd?id=21316&type=dash&token=6uk4NHb3bnjfqqOzYT8QYvJh61E1Gh07|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21313&type=drm&token=6uk4NHb3bnjfqqOzYT8QYvJh61E1Gh07
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/e8AAio7Jqr4ztSkHqgx-Cx0GLp8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5061539/eb795a.jpg" ch-number="6", Putri: Jatayu Gorontalo vs Armada Muaro Jambi - Kejurnas Bola Voli Antarklub U-18
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/e8AAio7Jqr4ztSkHqgx-Cx0GLp8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5061539/eb795a.jpg" ch-number="7", Putri: Jatayu Gorontalo vs Armada Muaro Jambi - Kejurnas Bola Voli Antarklub U-18
 #https://vid-id.indi1.workers.dev/index.mpd?id=21313&type=dash&token=6uk4NHb3bnjfqqOzYT8QYvJh61E1Gh07|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21316&type=drm&token=6uk4NHb3bnjfqqOzYT8QYvJh61E1Gh07
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/g0Dq5bCw7H2_QZ-KEcan68fsxZ4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5061534/839cec.jpg" ch-number="7", Putra: SVT Vortal Lombok Tengah vs Legenda Amor - Kejurnas Bola Voli Antarklub U-18
-#https://vid-id.indi1.workers.dev/index.mpd?id=21316&type=dash&token=6uk4NHb3bnjfqqOzYT8QYvJh61E1Gh07|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
