@@ -6,19 +6,20 @@
 https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=dash&token=E9yeXLg0JVpp9Jr3ENd0aBwNRkCoYxDV|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6317&type=drm&token=E9yeXLg0JVpp9Jr3ENd0aBwNRkCoYxDV
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="⛔ Event Ended" tvg-logo="https://thumbor.prod.vidiocdn.com/yJWEh2QKgGgFmGx5c4h86xx5rhc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5059317/31daa2.jpg" ch-number="2", Arsenal vs Brighton - Women's Super League
-https://vid-id.indi1.workers.dev/index.mpd?id=6317&type=dash&token=E9yeXLg0JVpp9Jr3ENd0aBwNRkCoYxDV|User-Agent=VidioPlayer/6.31.6
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=drm&token=E9yeXLg0JVpp9Jr3ENd0aBwNRkCoYxDV
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/4_yEcJNjDFmr15p7ql6rDEZjU4Y=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5061641/8084cc.jpg" ch-number="3", Asuncion P2 Premier Padel - Day 2
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/4_yEcJNjDFmr15p7ql6rDEZjU4Y=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5061641/8084cc.jpg" ch-number="2", Asuncion P2 Premier Padel - Day 2
 https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=dash&token=E9yeXLg0JVpp9Jr3ENd0aBwNRkCoYxDV|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21210&type=drm&token=E9yeXLg0JVpp9Jr3ENd0aBwNRkCoYxDV
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/-pp93gJFRMZDnZKGW9DkLF82utU=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21210/campus-league-2026-basketball-c6df20.jpg" ch-number="4", Universitas Dian Nuswantoro vs Universitas Atma Jaya Yogyakarta (3rd Place | Putri) - CL Basketball 2026 - Regional Jogja
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/-pp93gJFRMZDnZKGW9DkLF82utU=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21210/campus-league-2026-basketball-c6df20.jpg" ch-number="3", Universitas Dian Nuswantoro vs Universitas Atma Jaya Yogyakarta (3rd Place | Putri) - CL Basketball 2026 - Regional Jogja
 #https://vid-id.indi1.workers.dev/index.mpd?id=21210&type=dash&token=E9yeXLg0JVpp9Jr3ENd0aBwNRkCoYxDV|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21356&type=drm&token=E9yeXLg0JVpp9Jr3ENd0aBwNRkCoYxDV
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/KYJcUmD1zJQLp3v1kIhW1YQv_OE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062547/70675f.jpg" ch-number="4", Putri: Tectona Bandung vs Bivota Inges Lombok - Babak 8 Besar - Kejurnas Bola Voli Antarklub U-18
+#https://vid-id.indi1.workers.dev/index.mpd?id=21356&type=dash&token=E9yeXLg0JVpp9Jr3ENd0aBwNRkCoYxDV|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -29,7 +30,7 @@ https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1ec
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21356&type=drm&token=E9yeXLg0JVpp9Jr3ENd0aBwNRkCoYxDV
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/KYJcUmD1zJQLp3v1kIhW1YQv_OE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062547/70675f.jpg" ch-number="6", Putri: Tectona Bandung vs Bivota Inges Lombok - Babak 8 Besar - Kejurnas Bola Voli Antarklub U-18
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/AW5m72V97angDwz4HAmdtL0Gvq8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062548/3a1933.jpg" ch-number="6", Putri: O2C Ciparay vs Petrokimia Gresik - Babak 8 Besar - Kejurnas Bola Voli Antarklub U-18
 #https://vid-id.indi1.workers.dev/index.mpd?id=21356&type=dash&token=E9yeXLg0JVpp9Jr3ENd0aBwNRkCoYxDV|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
@@ -40,9 +41,9 @@ https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1ec
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21356&type=drm&token=E9yeXLg0JVpp9Jr3ENd0aBwNRkCoYxDV
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/AW5m72V97angDwz4HAmdtL0Gvq8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062548/3a1933.jpg" ch-number="8", Putri: O2C Ciparay vs Petrokimia Gresik - Babak 8 Besar - Kejurnas Bola Voli Antarklub U-18
-#https://vid-id.indi1.workers.dev/index.mpd?id=21356&type=dash&token=E9yeXLg0JVpp9Jr3ENd0aBwNRkCoYxDV|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20887&type=drm&token=E9yeXLg0JVpp9Jr3ENd0aBwNRkCoYxDV
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/NJam7cShiIEkxKruH317IoGQ-8k=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062554/987c37.jpg" ch-number="8", Dalibor Svrcina vs Miomir Kecmanovic - Round 1 (Pietrangeli) | ATP 1000: Internazionali BNL d'Italia 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=20887&type=dash&token=E9yeXLg0JVpp9Jr3ENd0aBwNRkCoYxDV|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -52,20 +53,20 @@ https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1ec
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=drm&token=E9yeXLg0JVpp9Jr3ENd0aBwNRkCoYxDV
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/ldE7t4iuWVUKj_NqmVdZIWDEkGQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062552/e15278.jpg" ch-number="10", Alexei Popyrin vs Matteo Berrettini - Round 1 (Campo Centrale) | ATP 1000: Internazionali BNL d'Italia 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=dash&token=E9yeXLg0JVpp9Jr3ENd0aBwNRkCoYxDV|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21355&type=drm&token=E9yeXLg0JVpp9Jr3ENd0aBwNRkCoYxDV
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Il3lmDzJd6CqfYW2MgAcG1HzRgk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062544/12c818.jpg" ch-number="10", Putra: Patriot Purworejo vs Singo Yudha Kutai Barat - Babak 8 Besar - Kejurnas Bola Voli Antarklub U-18
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Il3lmDzJd6CqfYW2MgAcG1HzRgk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062544/12c818.jpg" ch-number="11", Putra: Patriot Purworejo vs Singo Yudha Kutai Barat - Babak 8 Besar - Kejurnas Bola Voli Antarklub U-18
 #https://vid-id.indi1.workers.dev/index.mpd?id=21355&type=dash&token=E9yeXLg0JVpp9Jr3ENd0aBwNRkCoYxDV|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21356&type=drm&token=E9yeXLg0JVpp9Jr3ENd0aBwNRkCoYxDV
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/XevLaD3tFeDYF96Vlc1Nwf3M3Pw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062549/53aa20.jpg" ch-number="11", Putra: SB Gorontalo vs Tectona Bandung - Babak 8 Besar - Kejurnas Bola Voli Antarklub U-18
-#https://vid-id.indi1.workers.dev/index.mpd?id=21356&type=dash&token=E9yeXLg0JVpp9Jr3ENd0aBwNRkCoYxDV|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21356&type=drm&token=E9yeXLg0JVpp9Jr3ENd0aBwNRkCoYxDV
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/iuRSf3kpwBk5KH5zxId7Jegx1Zo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062550/331fa1.jpg" ch-number="12", Putra: Atlas Semarang vs Batam Tectona - Babak 8 Besar - Kejurnas Bola Voli Antarklub U-18
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/XevLaD3tFeDYF96Vlc1Nwf3M3Pw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062549/53aa20.jpg" ch-number="12", Putra: SB Gorontalo vs Tectona Bandung - Babak 8 Besar - Kejurnas Bola Voli Antarklub U-18
 #https://vid-id.indi1.workers.dev/index.mpd?id=21356&type=dash&token=E9yeXLg0JVpp9Jr3ENd0aBwNRkCoYxDV|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
@@ -76,44 +77,44 @@ https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1ec
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21356&type=drm&token=E9yeXLg0JVpp9Jr3ENd0aBwNRkCoYxDV
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/iuRSf3kpwBk5KH5zxId7Jegx1Zo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062550/331fa1.jpg" ch-number="14", Putra: Atlas Semarang vs Batam Tectona - Babak 8 Besar - Kejurnas Bola Voli Antarklub U-18
+#https://vid-id.indi1.workers.dev/index.mpd?id=21356&type=dash&token=E9yeXLg0JVpp9Jr3ENd0aBwNRkCoYxDV|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=drm&token=E9yeXLg0JVpp9Jr3ENd0aBwNRkCoYxDV
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/EdzRdnPJD_By5w2eTpJQGXV1VUo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5061642/64ef4d.jpg" ch-number="14", Asuncion P2 Premier Padel - Day 3
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/EdzRdnPJD_By5w2eTpJQGXV1VUo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5061642/64ef4d.jpg" ch-number="15", Asuncion P2 Premier Padel - Day 3
 #https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=dash&token=E9yeXLg0JVpp9Jr3ENd0aBwNRkCoYxDV|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=drm&token=E9yeXLg0JVpp9Jr3ENd0aBwNRkCoYxDV
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/NcdCUSTGLe9RzcMsAw_9VSpRpiI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5061706/3cbac9.jpg" ch-number="15", Rally de Portugal SS1 Agueda / Sever - WRC Vodafone Rally de Portugal 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/NcdCUSTGLe9RzcMsAw_9VSpRpiI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5061706/3cbac9.jpg" ch-number="16", Rally de Portugal SS1 Agueda / Sever - WRC Vodafone Rally de Portugal 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=dash&token=E9yeXLg0JVpp9Jr3ENd0aBwNRkCoYxDV|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18189&type=drm&token=E9yeXLg0JVpp9Jr3ENd0aBwNRkCoYxDV
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/SWmSdsvaHHXwdnZNeHgzdHPMD1Y=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5061699/9857af.jpg" ch-number="16", Round 1 - ONEflight Myrtle Beach Classic 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/SWmSdsvaHHXwdnZNeHgzdHPMD1Y=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5061699/9857af.jpg" ch-number="17", Round 1 - ONEflight Myrtle Beach Classic 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=18189&type=dash&token=E9yeXLg0JVpp9Jr3ENd0aBwNRkCoYxDV|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18190&type=drm&token=E9yeXLg0JVpp9Jr3ENd0aBwNRkCoYxDV
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/8gM0SQWxg4Ld8Y3de-9lQtjNztE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5061696/9723c3.jpg" ch-number="17", Round 1 - Mizuho Americas Open 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/8gM0SQWxg4Ld8Y3de-9lQtjNztE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5061696/9723c3.jpg" ch-number="18", Round 1 - Mizuho Americas Open 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=18190&type=dash&token=E9yeXLg0JVpp9Jr3ENd0aBwNRkCoYxDV|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18189&type=drm&token=E9yeXLg0JVpp9Jr3ENd0aBwNRkCoYxDV
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/4aMF83OJvEoms0qGfOFv6BWll0U=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5061695/107d14.jpg" ch-number="18", Round 1 - Truist Championship 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/4aMF83OJvEoms0qGfOFv6BWll0U=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5061695/107d14.jpg" ch-number="19", Round 1 - Truist Championship 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=18189&type=dash&token=E9yeXLg0JVpp9Jr3ENd0aBwNRkCoYxDV|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=19644&type=drm&token=E9yeXLg0JVpp9Jr3ENd0aBwNRkCoYxDV
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Csl3zf8tRUiYUsghVmr01_FlEK8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062016/643d72.jpg" ch-number="19", Semifinals Leg 2: Strasbourg vs Rayo Vallecano - UEFA Conference League
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Csl3zf8tRUiYUsghVmr01_FlEK8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062016/643d72.jpg" ch-number="20", Semifinals Leg 2: Strasbourg vs Rayo Vallecano - UEFA Conference League
 #https://vid-id.indi1.workers.dev/index.mpd?id=19644&type=dash&token=E9yeXLg0JVpp9Jr3ENd0aBwNRkCoYxDV|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6317&type=drm&token=E9yeXLg0JVpp9Jr3ENd0aBwNRkCoYxDV
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/HvZzJ2f9ITkjy0I2ASr0RlsHfgI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5061771/56fe74.jpg" ch-number="20", Semifinals Leg 2: Crystal Palace vs Shakhtar Donetsk - UEFA Conference League
-#https://vid-id.indi1.workers.dev/index.mpd?id=6317&type=dash&token=E9yeXLg0JVpp9Jr3ENd0aBwNRkCoYxDV|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
