@@ -16,42 +16,42 @@ https://vid-id.indi1.workers.dev/index.mpd?id=20955&type=dash&token=yLQEcL2R3OLo
 https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=dash&token=yLQEcL2R3OLoOGSS9B7qXE6cS56efOJ7|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6786&type=drm&token=yLQEcL2R3OLoOGSS9B7qXE6cS56efOJ7
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/8wSVATfuMQG77iQMjK-46-2iY_M=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5061634/0d6683.jpg" ch-number="4", Day 1 - WTA 1000: Internazionali BNL D'Italia 2026
-https://vid-id.indi1.workers.dev/index.mpd?id=6786&type=dash&token=yLQEcL2R3OLoOGSS9B7qXE6cS56efOJ7|User-Agent=VidioPlayer/6.31.6
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=drm&token=yLQEcL2R3OLoOGSS9B7qXE6cS56efOJ7
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/H0Wi1cpKCR6SryWWYp6LKxhqgjU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5061636/8754e6.jpg" ch-number="5", Asuncion P2 Premier Padel - Day 2
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/H0Wi1cpKCR6SryWWYp6LKxhqgjU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5061636/8754e6.jpg" ch-number="4", Asuncion P2 Premier Padel - Day 2
 https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=dash&token=yLQEcL2R3OLoOGSS9B7qXE6cS56efOJ7|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20887&type=drm&token=yLQEcL2R3OLoOGSS9B7qXE6cS56efOJ7
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/UUzU7BOQ6s0jLuWAl9buT5L1MsQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5061686/8f6525.jpg" ch-number="6", Jan-Lennard Struff vs Francisco Comesana - Round 1 (Pietrangeli) | ATP 1000: Internazionali BNL d'Italia 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/UUzU7BOQ6s0jLuWAl9buT5L1MsQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5061686/8f6525.jpg" ch-number="5", Jan-Lennard Struff vs Francisco Comesana - Round 1 (Pietrangeli) | ATP 1000: Internazionali BNL d'Italia 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=20887&type=dash&token=yLQEcL2R3OLoOGSS9B7qXE6cS56efOJ7|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=drm&token=yLQEcL2R3OLoOGSS9B7qXE6cS56efOJ7
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/vJDM_RCMPpl_xwcUmSHPn3Lp0I8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5061684/e06a66.jpg" ch-number="7", Matteo Arnaldi vs Jaume Munar - Round 1 (Campo Centrale) | ATP 1000: Internazionali BNL d'Italia 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=dash&token=yLQEcL2R3OLoOGSS9B7qXE6cS56efOJ7|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6786&type=drm&token=yLQEcL2R3OLoOGSS9B7qXE6cS56efOJ7
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/8wSVATfuMQG77iQMjK-46-2iY_M=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5061634/0d6683.jpg" ch-number="6", Day 1 - WTA 1000: Internazionali BNL D'Italia 2026
+https://vid-id.indi1.workers.dev/index.mpd?id=6786&type=dash&token=yLQEcL2R3OLoOGSS9B7qXE6cS56efOJ7|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20885&type=drm&token=yLQEcL2R3OLoOGSS9B7qXE6cS56efOJ7
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/uPSjGhpji1P6p0dXGgWDeql3bJE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5061687/44431b.jpg" ch-number="8", Pablo Carreno Busta vs Alejandro Tabilo - Round 1 (BNP Paribas Arena) | ATP 1000: Internazionali BNL d'Italia 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/uPSjGhpji1P6p0dXGgWDeql3bJE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5061687/44431b.jpg" ch-number="7", Pablo Carreno Busta vs Alejandro Tabilo - Round 1 (BNP Paribas Arena) | ATP 1000: Internazionali BNL d'Italia 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=20885&type=dash&token=yLQEcL2R3OLoOGSS9B7qXE6cS56efOJ7|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20890&type=drm&token=yLQEcL2R3OLoOGSS9B7qXE6cS56efOJ7
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/ADIhDUB7dfFmOXSgN8MUfqon0vI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5061688/50c96c.jpg" ch-number="9", Aleksandar Vukic vs Patrick Kypson - Round 1 (Court 1) | ATP 1000: Internazionali BNL d'Italia 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=20890&type=dash&token=yLQEcL2R3OLoOGSS9B7qXE6cS56efOJ7|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=drm&token=yLQEcL2R3OLoOGSS9B7qXE6cS56efOJ7
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/vJDM_RCMPpl_xwcUmSHPn3Lp0I8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5061684/e06a66.jpg" ch-number="8", Matteo Arnaldi vs Jaume Munar - Round 1 (Campo Centrale) | ATP 1000: Internazionali BNL d'Italia 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=dash&token=yLQEcL2R3OLoOGSS9B7qXE6cS56efOJ7|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20886&type=drm&token=yLQEcL2R3OLoOGSS9B7qXE6cS56efOJ7
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/ZslgCEpcri9lrBV9Ig9-4jWVUbQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5061689/cb1a52.jpg" ch-number="10", Jesper de Jong vs Nuno Borges - Round 1 (Supertennis Arena) | ATP 1000: Internazionali BNL d'Italia 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/ZslgCEpcri9lrBV9Ig9-4jWVUbQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5061689/cb1a52.jpg" ch-number="9", Jesper de Jong vs Nuno Borges - Round 1 (Supertennis Arena) | ATP 1000: Internazionali BNL d'Italia 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=20886&type=dash&token=yLQEcL2R3OLoOGSS9B7qXE6cS56efOJ7|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20890&type=drm&token=yLQEcL2R3OLoOGSS9B7qXE6cS56efOJ7
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/ADIhDUB7dfFmOXSgN8MUfqon0vI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5061688/50c96c.jpg" ch-number="10", Aleksandar Vukic vs Patrick Kypson - Round 1 (Court 1) | ATP 1000: Internazionali BNL d'Italia 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=20890&type=dash&token=yLQEcL2R3OLoOGSS9B7qXE6cS56efOJ7|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -61,15 +61,15 @@ https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1ec
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6786&type=drm&token=yLQEcL2R3OLoOGSS9B7qXE6cS56efOJ7
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/56UOZcV0Six4MRdb6bcIvLr-WHA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5061635/b4678a.jpg" ch-number="12", Day 1 - WTA 1000: Internazionali BNL D'Italia 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=6786&type=dash&token=yLQEcL2R3OLoOGSS9B7qXE6cS56efOJ7|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20887&type=drm&token=yLQEcL2R3OLoOGSS9B7qXE6cS56efOJ7
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/L1F32Ob0an8Wc-U8TU4_E3bZVeY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5061693/45d6ec.jpg" ch-number="12", Jacob Fearnley vs Giovanni Mpetshi Perricard - Round 1 (Pietrangeli) | ATP 1000: Internazionali BNL d'Italia 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=20887&type=dash&token=yLQEcL2R3OLoOGSS9B7qXE6cS56efOJ7|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20887&type=drm&token=yLQEcL2R3OLoOGSS9B7qXE6cS56efOJ7
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/L1F32Ob0an8Wc-U8TU4_E3bZVeY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5061693/45d6ec.jpg" ch-number="13", Jacob Fearnley vs Giovanni Mpetshi Perricard - Round 1 (Pietrangeli) | ATP 1000: Internazionali BNL d'Italia 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=20887&type=dash&token=yLQEcL2R3OLoOGSS9B7qXE6cS56efOJ7|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6786&type=drm&token=yLQEcL2R3OLoOGSS9B7qXE6cS56efOJ7
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/56UOZcV0Six4MRdb6bcIvLr-WHA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5061635/b4678a.jpg" ch-number="13", Day 1 - WTA 1000: Internazionali BNL D'Italia 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=6786&type=dash&token=yLQEcL2R3OLoOGSS9B7qXE6cS56efOJ7|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
