@@ -31,32 +31,33 @@ https://vid-id.indi1.workers.dev/index.mpd?id=18190&type=dash&token=E9yeXLg0JVpp
 https://vid-id.indi1.workers.dev/index.mpd?id=20886&type=dash&token=E9yeXLg0JVpp9Jr3ENd0aBwNRkCoYxDV|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=drm&token=E9yeXLg0JVpp9Jr3ENd0aBwNRkCoYxDV
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/VwWLOKS8dAsLnW5VLYWHilSyfHk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062762/4a823c.jpg" ch-number="7", Lorenzo Sonego vs Ignacio Buse - Round 1 (Campo Centrale) | ATP 1000: Internazionali BNL d'Italia 2026
-https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=dash&token=E9yeXLg0JVpp9Jr3ENd0aBwNRkCoYxDV|User-Agent=VidioPlayer/6.31.6
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20890&type=drm&token=E9yeXLg0JVpp9Jr3ENd0aBwNRkCoYxDV
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/0m21yv5ioHDyIIY7uTAApMXskeI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062568/9135e9.jpg" ch-number="8", Hamad Medjedovic vs Valentin Royer - Round 1 (Court 1) | ATP 1000: Internazionali BNL d'Italia 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/0m21yv5ioHDyIIY7uTAApMXskeI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062568/9135e9.jpg" ch-number="7", Hamad Medjedovic vs Valentin Royer - Round 1 (Court 1) | ATP 1000: Internazionali BNL d'Italia 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=20890&type=dash&token=E9yeXLg0JVpp9Jr3ENd0aBwNRkCoYxDV|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20885&type=drm&token=E9yeXLg0JVpp9Jr3ENd0aBwNRkCoYxDV
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/zQHhWTiwtv8Cf4Pgkl--v0JoH6M=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062763/a752ee.jpg" ch-number="9", Andrea Pellegrino vs Luca Nardi - Round 1 (BNP Paribas Arena) | ATP 1000: Internazionali BNL d'Italia 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/zQHhWTiwtv8Cf4Pgkl--v0JoH6M=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062763/a752ee.jpg" ch-number="8", Andrea Pellegrino vs Luca Nardi - Round 1 (BNP Paribas Arena) | ATP 1000: Internazionali BNL d'Italia 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=20885&type=dash&token=E9yeXLg0JVpp9Jr3ENd0aBwNRkCoYxDV|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20887&type=drm&token=E9yeXLg0JVpp9Jr3ENd0aBwNRkCoYxDV
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/fT5Qn80TkDqKDJLF0TTVHZO6K3c=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062569/e13d0a.jpg" ch-number="10", Sebastian Ofner vs Alex Michelsen - Round 1 (Pietrangeli) | ATP 1000: Internazionali BNL d'Italia 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/fT5Qn80TkDqKDJLF0TTVHZO6K3c=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062569/e13d0a.jpg" ch-number="9", Sebastian Ofner vs Alex Michelsen - Round 1 (Pietrangeli) | ATP 1000: Internazionali BNL d'Italia 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=20887&type=dash&token=E9yeXLg0JVpp9Jr3ENd0aBwNRkCoYxDV|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20886&type=drm&token=E9yeXLg0JVpp9Jr3ENd0aBwNRkCoYxDV
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/zT-vEJNuE0dqo5PWaXugVr2j-zg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062564/772dfd.jpg" ch-number="11", Denis Shapovalov vs Mariano Navone - Round 1 (Supertennis Arena) | ATP 1000: Internazionali BNL d'Italia 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/zT-vEJNuE0dqo5PWaXugVr2j-zg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062564/772dfd.jpg" ch-number="10", Denis Shapovalov vs Mariano Navone - Round 1 (Supertennis Arena) | ATP 1000: Internazionali BNL d'Italia 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=20886&type=dash&token=E9yeXLg0JVpp9Jr3ENd0aBwNRkCoYxDV|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=drm&token=E9yeXLg0JVpp9Jr3ENd0aBwNRkCoYxDV
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/VwWLOKS8dAsLnW5VLYWHilSyfHk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062762/4a823c.jpg" ch-number="11", Lorenzo Sonego vs Ignacio Buse - Round 1 (Campo Centrale) | ATP 1000: Internazionali BNL d'Italia 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=dash&token=E9yeXLg0JVpp9Jr3ENd0aBwNRkCoYxDV|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
