@@ -2,7 +2,7 @@
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21210&type=drm&token=E9yeXLg0JVpp9Jr3ENd0aBwNRkCoYxDV
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/-pp93gJFRMZDnZKGW9DkLF82utU=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21210/campus-league-2026-basketball-c6df20.jpg" ch-number="1", Campus League 2026 - Basketball
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/-pp93gJFRMZDnZKGW9DkLF82utU=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21210/campus-league-2026-basketball-c6df20.jpg" ch-number="1", Awarding Ceremony
 https://vid-id.indi1.workers.dev/index.mpd?id=21210&type=dash&token=E9yeXLg0JVpp9Jr3ENd0aBwNRkCoYxDV|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -47,8 +47,9 @@ https://vid-id.indi1.workers.dev/index.mpd?id=20890&type=dash&token=E9yeXLg0JVpp
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20885&type=drm&token=E9yeXLg0JVpp9Jr3ENd0aBwNRkCoYxDV
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/h3fx8mRGwms6kq-OUext1IsgD9g=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062558/29639f.jpg" ch-number="10", Roman Andres Burruchaga vs Mattia Bellucci - Round 1 (BNP Paribas Arena) | ATP 1000: Internazionali BNL d'Italia 2026
-https://vid-id.indi1.workers.dev/index.mpd?id=20885&type=dash&token=E9yeXLg0JVpp9Jr3ENd0aBwNRkCoYxDV|User-Agent=VidioPlayer/6.31.6
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/h3fx8mRGwms6kq-OUext1IsgD9g=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062558/29639f.jpg" ch-number="10", Roman Andres Burruchaga vs Mattia Bellucci - Round 1 (BNP Paribas Arena) | ATP 1000: Internazionali BNL d'Italia 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=20885&type=dash&token=E9yeXLg0JVpp9Jr3ENd0aBwNRkCoYxDV|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=drm&token=E9yeXLg0JVpp9Jr3ENd0aBwNRkCoYxDV
