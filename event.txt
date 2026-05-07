@@ -37,15 +37,13 @@ https://vid-id.indi1.workers.dev/index.mpd?id=21356&type=dash&token=E9yeXLg0JVpp
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18189&type=drm&token=E9yeXLg0JVpp9Jr3ENd0aBwNRkCoYxDV
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/SWmSdsvaHHXwdnZNeHgzdHPMD1Y=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5061699/9857af.jpg" ch-number="8", Round 1 - ONEflight Myrtle Beach Classic 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=18189&type=dash&token=E9yeXLg0JVpp9Jr3ENd0aBwNRkCoYxDV|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/SWmSdsvaHHXwdnZNeHgzdHPMD1Y=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5061699/9857af.jpg" ch-number="8", Round 1 - ONEflight Myrtle Beach Classic 2026
+https://vid-id.indi1.workers.dev/index.mpd?id=18189&type=dash&token=E9yeXLg0JVpp9Jr3ENd0aBwNRkCoYxDV|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=drm&token=E9yeXLg0JVpp9Jr3ENd0aBwNRkCoYxDV
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/NcdCUSTGLe9RzcMsAw_9VSpRpiI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5061706/3cbac9.jpg" ch-number="9", Rally de Portugal SS1 Agueda / Sever - WRC Vodafone Rally de Portugal 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=dash&token=E9yeXLg0JVpp9Jr3ENd0aBwNRkCoYxDV|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/NcdCUSTGLe9RzcMsAw_9VSpRpiI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5061706/3cbac9.jpg" ch-number="9", Rally de Portugal SS1 Agueda / Sever - WRC Vodafone Rally de Portugal 2026
+https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=dash&token=E9yeXLg0JVpp9Jr3ENd0aBwNRkCoYxDV|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20885&type=drm&token=E9yeXLg0JVpp9Jr3ENd0aBwNRkCoYxDV
