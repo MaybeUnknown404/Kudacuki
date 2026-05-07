@@ -11,14 +11,14 @@ https://vid-id.indi1.workers.dev/index.mpd?id=20955&type=dash&token=E9yeXLg0JVpp
 https://vid-id.indi1.workers.dev/index.mpd?id=6786&type=dash&token=E9yeXLg0JVpp9Jr3ENd0aBwNRkCoYxDV|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21355&type=drm&token=E9yeXLg0JVpp9Jr3ENd0aBwNRkCoYxDV
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="⛔ Event Ended" tvg-logo="https://thumbor.prod.vidiocdn.com/Il3lmDzJd6CqfYW2MgAcG1HzRgk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062544/12c818.jpg" ch-number="3", Putra: Patriot Purworejo vs Singo Yudha Kutai Barat - Babak 8 Besar - Kejurnas Bola Voli Antarklub U-18
-https://vid-id.indi1.workers.dev/index.mpd?id=21355&type=dash&token=E9yeXLg0JVpp9Jr3ENd0aBwNRkCoYxDV|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21356&type=drm&token=E9yeXLg0JVpp9Jr3ENd0aBwNRkCoYxDV
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/XevLaD3tFeDYF96Vlc1Nwf3M3Pw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062549/53aa20.jpg" ch-number="3", Putra: SB Gorontalo vs Tectona Bandung - Babak 8 Besar - Kejurnas Bola Voli Antarklub U-18
+https://vid-id.indi1.workers.dev/index.mpd?id=21356&type=dash&token=E9yeXLg0JVpp9Jr3ENd0aBwNRkCoYxDV|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21356&type=drm&token=E9yeXLg0JVpp9Jr3ENd0aBwNRkCoYxDV
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/XevLaD3tFeDYF96Vlc1Nwf3M3Pw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062549/53aa20.jpg" ch-number="4", Putra: SB Gorontalo vs Tectona Bandung - Babak 8 Besar - Kejurnas Bola Voli Antarklub U-18
-https://vid-id.indi1.workers.dev/index.mpd?id=21356&type=dash&token=E9yeXLg0JVpp9Jr3ENd0aBwNRkCoYxDV|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20886&type=drm&token=E9yeXLg0JVpp9Jr3ENd0aBwNRkCoYxDV
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/4rpefGD1-TEpiQX4oTtnZ5OKFAQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062562/8b22f7.jpg" ch-number="4", Roberto Bautista Agut vs Francesco Maestrelli - Round 1 (Supertennis Arena) | ATP 1000: Internazionali BNL d'Italia 2026
+https://vid-id.indi1.workers.dev/index.mpd?id=20886&type=dash&token=E9yeXLg0JVpp9Jr3ENd0aBwNRkCoYxDV|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=drm&token=E9yeXLg0JVpp9Jr3ENd0aBwNRkCoYxDV
@@ -26,49 +26,50 @@ https://vid-id.indi1.workers.dev/index.mpd?id=21356&type=dash&token=E9yeXLg0JVpp
 https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=dash&token=E9yeXLg0JVpp9Jr3ENd0aBwNRkCoYxDV|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20886&type=drm&token=E9yeXLg0JVpp9Jr3ENd0aBwNRkCoYxDV
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/4rpefGD1-TEpiQX4oTtnZ5OKFAQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062562/8b22f7.jpg" ch-number="6", Roberto Bautista Agut vs Francesco Maestrelli - Round 1 (Supertennis Arena) | ATP 1000: Internazionali BNL d'Italia 2026
-https://vid-id.indi1.workers.dev/index.mpd?id=20886&type=dash&token=E9yeXLg0JVpp9Jr3ENd0aBwNRkCoYxDV|User-Agent=VidioPlayer/6.31.6
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21355&type=drm&token=E9yeXLg0JVpp9Jr3ENd0aBwNRkCoYxDV
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/fSE5sOJWzOGWWlozkoUOUPxupZ4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062545/956793.jpg" ch-number="7", Putra: Paja One Jakarta vs Cinus VC - Babak 8 Besar - Kejurnas Bola Voli Antarklub U-18
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/fSE5sOJWzOGWWlozkoUOUPxupZ4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062545/956793.jpg" ch-number="6", Putra: Paja One Jakarta vs Cinus VC - Babak 8 Besar - Kejurnas Bola Voli Antarklub U-18
 https://vid-id.indi1.workers.dev/index.mpd?id=21355&type=dash&token=E9yeXLg0JVpp9Jr3ENd0aBwNRkCoYxDV|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21356&type=drm&token=E9yeXLg0JVpp9Jr3ENd0aBwNRkCoYxDV
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/iuRSf3kpwBk5KH5zxId7Jegx1Zo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062550/331fa1.jpg" ch-number="8", Putra: Atlas Semarang vs Batam Tectona - Babak 8 Besar - Kejurnas Bola Voli Antarklub U-18
-#https://vid-id.indi1.workers.dev/index.mpd?id=21356&type=dash&token=E9yeXLg0JVpp9Jr3ENd0aBwNRkCoYxDV|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=drm&token=E9yeXLg0JVpp9Jr3ENd0aBwNRkCoYxDV
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/NcdCUSTGLe9RzcMsAw_9VSpRpiI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5061706/3cbac9.jpg" ch-number="7", Rally de Portugal SS1 Agueda / Sever - WRC Vodafone Rally de Portugal 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=dash&token=E9yeXLg0JVpp9Jr3ENd0aBwNRkCoYxDV|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20885&type=drm&token=E9yeXLg0JVpp9Jr3ENd0aBwNRkCoYxDV
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/PFYF7nc0mN-7NiUBg-YGMzufl-0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062559/a591df.jpg" ch-number="9", Stefanos Tsitsipas vs Tomas Machac - Round 1 (BNP Paribas Arena) | ATP 1000: Internazionali BNL d'Italia 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/PFYF7nc0mN-7NiUBg-YGMzufl-0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062559/a591df.jpg" ch-number="8", Stefanos Tsitsipas vs Tomas Machac - Round 1 (BNP Paribas Arena) | ATP 1000: Internazionali BNL d'Italia 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=20885&type=dash&token=E9yeXLg0JVpp9Jr3ENd0aBwNRkCoYxDV|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18189&type=drm&token=E9yeXLg0JVpp9Jr3ENd0aBwNRkCoYxDV
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/SWmSdsvaHHXwdnZNeHgzdHPMD1Y=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5061699/9857af.jpg" ch-number="10", Round 1 - ONEflight Myrtle Beach Classic 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/SWmSdsvaHHXwdnZNeHgzdHPMD1Y=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5061699/9857af.jpg" ch-number="9", Round 1 - ONEflight Myrtle Beach Classic 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=18189&type=dash&token=E9yeXLg0JVpp9Jr3ENd0aBwNRkCoYxDV|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=drm&token=E9yeXLg0JVpp9Jr3ENd0aBwNRkCoYxDV
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/NcdCUSTGLe9RzcMsAw_9VSpRpiI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5061706/3cbac9.jpg" ch-number="11", Rally de Portugal SS1 Agueda / Sever - WRC Vodafone Rally de Portugal 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=dash&token=E9yeXLg0JVpp9Jr3ENd0aBwNRkCoYxDV|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21356&type=drm&token=E9yeXLg0JVpp9Jr3ENd0aBwNRkCoYxDV
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/iuRSf3kpwBk5KH5zxId7Jegx1Zo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062550/331fa1.jpg" ch-number="10", Putra: Atlas Semarang vs Batam Tectona - Babak 8 Besar - Kejurnas Bola Voli Antarklub U-18
+#https://vid-id.indi1.workers.dev/index.mpd?id=21356&type=dash&token=E9yeXLg0JVpp9Jr3ENd0aBwNRkCoYxDV|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18190&type=drm&token=E9yeXLg0JVpp9Jr3ENd0aBwNRkCoYxDV
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/8gM0SQWxg4Ld8Y3de-9lQtjNztE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5061696/9723c3.jpg" ch-number="12", Round 1 - Mizuho Americas Open 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/8gM0SQWxg4Ld8Y3de-9lQtjNztE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5061696/9723c3.jpg" ch-number="11", Round 1 - Mizuho Americas Open 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=18190&type=dash&token=E9yeXLg0JVpp9Jr3ENd0aBwNRkCoYxDV|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20890&type=drm&token=E9yeXLg0JVpp9Jr3ENd0aBwNRkCoYxDV
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/YXkCfuYBhvq4Z_KhEis43UIB1zo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062567/d95185.jpg" ch-number="13", Cristian Garin vs Juan Manuel Cerundolo - Round 1 (Court 1) | ATP 1000: Internazionali BNL d'Italia 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/YXkCfuYBhvq4Z_KhEis43UIB1zo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062567/d95185.jpg" ch-number="12", Cristian Garin vs Juan Manuel Cerundolo - Round 1 (Court 1) | ATP 1000: Internazionali BNL d'Italia 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=20890&type=dash&token=E9yeXLg0JVpp9Jr3ENd0aBwNRkCoYxDV|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20886&type=drm&token=E9yeXLg0JVpp9Jr3ENd0aBwNRkCoYxDV
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/ZaaZWSUeH8ZzXsSTQx3Fs-y18R0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062563/d5a7a5.jpg" ch-number="13", Thiago Agustin Tirante vs Gianluca Cadenasso - Round 1 (Supertennis Arena) | ATP 1000: Internazionali BNL d'Italia 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=20886&type=dash&token=E9yeXLg0JVpp9Jr3ENd0aBwNRkCoYxDV|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -78,38 +79,38 @@ https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1ec
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20886&type=drm&token=E9yeXLg0JVpp9Jr3ENd0aBwNRkCoYxDV
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/ZaaZWSUeH8ZzXsSTQx3Fs-y18R0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062563/d5a7a5.jpg" ch-number="15", Thiago Agustin Tirante vs Gianluca Cadenasso - Round 1 (Supertennis Arena) | ATP 1000: Internazionali BNL d'Italia 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=20886&type=dash&token=E9yeXLg0JVpp9Jr3ENd0aBwNRkCoYxDV|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20886&type=drm&token=E9yeXLg0JVpp9Jr3ENd0aBwNRkCoYxDV
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/zT-vEJNuE0dqo5PWaXugVr2j-zg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062564/772dfd.jpg" ch-number="16", Denis Shapovalov vs Mariano Navone - Round 1 (Supertennis Arena) | ATP 1000: Internazionali BNL d'Italia 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=20886&type=dash&token=E9yeXLg0JVpp9Jr3ENd0aBwNRkCoYxDV|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20885&type=drm&token=E9yeXLg0JVpp9Jr3ENd0aBwNRkCoYxDV
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/zQHhWTiwtv8Cf4Pgkl--v0JoH6M=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062763/a752ee.jpg" ch-number="17", Andrea Pellegrino vs Luca Nardi - Round 1 (BNP Paribas Arena) | ATP 1000: Internazionali BNL d'Italia 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=20885&type=dash&token=E9yeXLg0JVpp9Jr3ENd0aBwNRkCoYxDV|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20890&type=drm&token=E9yeXLg0JVpp9Jr3ENd0aBwNRkCoYxDV
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/0m21yv5ioHDyIIY7uTAApMXskeI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062568/9135e9.jpg" ch-number="18", Hamad Medjedovic vs Valentin Royer - Round 1 (Court 1) | ATP 1000: Internazionali BNL d'Italia 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/0m21yv5ioHDyIIY7uTAApMXskeI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062568/9135e9.jpg" ch-number="15", Hamad Medjedovic vs Valentin Royer - Round 1 (Court 1) | ATP 1000: Internazionali BNL d'Italia 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=20890&type=dash&token=E9yeXLg0JVpp9Jr3ENd0aBwNRkCoYxDV|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20885&type=drm&token=E9yeXLg0JVpp9Jr3ENd0aBwNRkCoYxDV
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/zQHhWTiwtv8Cf4Pgkl--v0JoH6M=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062763/a752ee.jpg" ch-number="16", Andrea Pellegrino vs Luca Nardi - Round 1 (BNP Paribas Arena) | ATP 1000: Internazionali BNL d'Italia 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=20885&type=dash&token=E9yeXLg0JVpp9Jr3ENd0aBwNRkCoYxDV|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=drm&token=E9yeXLg0JVpp9Jr3ENd0aBwNRkCoYxDV
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/VwWLOKS8dAsLnW5VLYWHilSyfHk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062762/4a823c.jpg" ch-number="19", Lorenzo Sonego vs Ignacio Buse - Round 1 (Campo Centrale) | ATP 1000: Internazionali BNL d'Italia 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/VwWLOKS8dAsLnW5VLYWHilSyfHk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062762/4a823c.jpg" ch-number="17", Lorenzo Sonego vs Ignacio Buse - Round 1 (Campo Centrale) | ATP 1000: Internazionali BNL d'Italia 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=dash&token=E9yeXLg0JVpp9Jr3ENd0aBwNRkCoYxDV|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20886&type=drm&token=E9yeXLg0JVpp9Jr3ENd0aBwNRkCoYxDV
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/zT-vEJNuE0dqo5PWaXugVr2j-zg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062564/772dfd.jpg" ch-number="18", Denis Shapovalov vs Mariano Navone - Round 1 (Supertennis Arena) | ATP 1000: Internazionali BNL d'Italia 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=20886&type=dash&token=E9yeXLg0JVpp9Jr3ENd0aBwNRkCoYxDV|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18189&type=drm&token=E9yeXLg0JVpp9Jr3ENd0aBwNRkCoYxDV
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/4aMF83OJvEoms0qGfOFv6BWll0U=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5061695/107d14.jpg" ch-number="20", Round 1 - Truist Championship 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/4aMF83OJvEoms0qGfOFv6BWll0U=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5061695/107d14.jpg" ch-number="19", Round 1 - Truist Championship 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=18189&type=dash&token=E9yeXLg0JVpp9Jr3ENd0aBwNRkCoYxDV|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6786&type=drm&token=E9yeXLg0JVpp9Jr3ENd0aBwNRkCoYxDV
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/smOqRev6CYcU3hSXdVtQoJ3aAa8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062571/826187.jpg" ch-number="20", Day 2 - WTA 1000: Internazionali BNL D'Italia 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=6786&type=dash&token=E9yeXLg0JVpp9Jr3ENd0aBwNRkCoYxDV|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
