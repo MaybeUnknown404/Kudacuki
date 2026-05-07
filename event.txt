@@ -1,100 +1,104 @@
 #EXTM3U
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=drm&token=pKOvG4xjyKB4a1VBMlfQG9Q0u2SM3S7O
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/MmB_xNWi4iN__p3lP1dgqtA_XF8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5061554/c699cd.jpg" ch-number="1", Semifinals Leg 2: Aston Villa vs Nottingham Forest - UEFA Europa League
-https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=dash&token=pKOvG4xjyKB4a1VBMlfQG9Q0u2SM3S7O|User-Agent=VidioPlayer/6.31.6
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6317&type=drm&token=pKOvG4xjyKB4a1VBMlfQG9Q0u2SM3S7O
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/HvZzJ2f9ITkjy0I2ASr0RlsHfgI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5061771/56fe74.jpg" ch-number="2", Semifinals Leg 2: Crystal Palace vs Shakhtar Donetsk - UEFA Conference League
-https://vid-id.indi1.workers.dev/index.mpd?id=6317&type=dash&token=pKOvG4xjyKB4a1VBMlfQG9Q0u2SM3S7O|User-Agent=VidioPlayer/6.31.6
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18189&type=drm&token=pKOvG4xjyKB4a1VBMlfQG9Q0u2SM3S7O
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/4aMF83OJvEoms0qGfOFv6BWll0U=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5061695/107d14.jpg" ch-number="3", Round 1 - Truist Championship 2026
-https://vid-id.indi1.workers.dev/index.mpd?id=18189&type=dash&token=pKOvG4xjyKB4a1VBMlfQG9Q0u2SM3S7O|User-Agent=VidioPlayer/6.31.6
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=19603&type=drm&token=pKOvG4xjyKB4a1VBMlfQG9Q0u2SM3S7O
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/ovKLaJxDZ5aQTsv6qcu2CAvdwiY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5061565/a5abec.jpg" ch-number="4", Semifinals Leg 2: SC Freiburg vs Braga - UEFA Europa League
-https://vid-id.indi1.workers.dev/index.mpd?id=19603&type=dash&token=pKOvG4xjyKB4a1VBMlfQG9Q0u2SM3S7O|User-Agent=VidioPlayer/6.31.6
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=19644&type=drm&token=pKOvG4xjyKB4a1VBMlfQG9Q0u2SM3S7O
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/Csl3zf8tRUiYUsghVmr01_FlEK8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062016/643d72.jpg" ch-number="5", Semifinals Leg 2: Strasbourg vs Rayo Vallecano - UEFA Conference League
-https://vid-id.indi1.workers.dev/index.mpd?id=19644&type=dash&token=pKOvG4xjyKB4a1VBMlfQG9Q0u2SM3S7O|User-Agent=VidioPlayer/6.31.6
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=drm&token=pKOvG4xjyKB4a1VBMlfQG9Q0u2SM3S7O
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/B-YQduDe7kcZHyeoQes86i9pHvo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062572/ef0df3.jpg" ch-number="6", Asuncion P2 Premier Padel - Day 3
-#https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=dash&token=pKOvG4xjyKB4a1VBMlfQG9Q0u2SM3S7O|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/B-YQduDe7kcZHyeoQes86i9pHvo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062572/ef0df3.jpg" ch-number="1", Asuncion P2 Premier Padel - Day 3
+https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=dash&token=pKOvG4xjyKB4a1VBMlfQG9Q0u2SM3S7O|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21355&type=drm&token=pKOvG4xjyKB4a1VBMlfQG9Q0u2SM3S7O
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/4f3W_ZMMq1R21Fb0oYfudT_GDJY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5063926/33abad.jpg" ch-number="7", Putri: Bivota Inges Lombok vs Ajaib Wahana Kuningan - Semifinal - Kejurnas Bola Voli Antarklub U-18
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/4f3W_ZMMq1R21Fb0oYfudT_GDJY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5063926/33abad.jpg" ch-number="2", Putri: Bivota Inges Lombok vs Ajaib Wahana Kuningan - Semifinal - Kejurnas Bola Voli Antarklub U-18
 #https://vid-id.indi1.workers.dev/index.mpd?id=21355&type=dash&token=pKOvG4xjyKB4a1VBMlfQG9Q0u2SM3S7O|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17140&type=drm&token=pKOvG4xjyKB4a1VBMlfQG9Q0u2SM3S7O
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/JL_cmgIHyFMnaLbGRkFsiuUpE9Y=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062573/5c8850.jpg" ch-number="8", Moto3 Free Practice 1: Michelin Grand Prix of France - MotoGP 2026 Round 5
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/JL_cmgIHyFMnaLbGRkFsiuUpE9Y=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062573/5c8850.jpg" ch-number="3", Moto3 Free Practice 1: Michelin Grand Prix of France - MotoGP 2026 Round 5
 #https://vid-id.indi1.workers.dev/index.mpd?id=17140&type=dash&token=pKOvG4xjyKB4a1VBMlfQG9Q0u2SM3S7O|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17140&type=drm&token=pKOvG4xjyKB4a1VBMlfQG9Q0u2SM3S7O
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/8zx4mxMWcw8LcNU7DrZH4eVVQCY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062574/ee856e.jpg" ch-number="9", Moto2 Free Practice 1: Michelin Grand Prix of France - MotoGP 2026 Round 5
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/8zx4mxMWcw8LcNU7DrZH4eVVQCY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062574/ee856e.jpg" ch-number="4", Moto2 Free Practice 1: Michelin Grand Prix of France - MotoGP 2026 Round 5
 #https://vid-id.indi1.workers.dev/index.mpd?id=17140&type=dash&token=pKOvG4xjyKB4a1VBMlfQG9Q0u2SM3S7O|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=drm&token=pKOvG4xjyKB4a1VBMlfQG9Q0u2SM3S7O
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/bU2oYf2NsubbDVZPu_K_TzA_LHs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5061728/bef907.jpg" ch-number="10", Practice: TotalEnergies 6 Hours of Spa-Francorchamps, Belgium - WEC 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=dash&token=pKOvG4xjyKB4a1VBMlfQG9Q0u2SM3S7O|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21355&type=drm&token=pKOvG4xjyKB4a1VBMlfQG9Q0u2SM3S7O
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/1vvdsmrgFctPUtO8iAcmpHiNbuw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5063927/bf4cf4.jpg" ch-number="5", Putri: O2C Ciparay vs JVC Surge - Semifinal - Kejurnas Bola Voli Antarklub U-18
+#https://vid-id.indi1.workers.dev/index.mpd?id=21355&type=dash&token=pKOvG4xjyKB4a1VBMlfQG9Q0u2SM3S7O|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/drm.kt?id=19662&type=drm&token=pKOvG4xjyKB4a1VBMlfQG9Q0u2SM3S7O
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/4o7rXjk6yywujvO2gDGALyOfydM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062576/ccc121.jpg" ch-number="11", 3rd Place: Persipura Jayapura vs Adhyaksa FC - Pegadaian Championship
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/4o7rXjk6yywujvO2gDGALyOfydM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062576/ccc121.jpg" ch-number="6", 3rd Place: Persipura Jayapura vs Adhyaksa FC - Pegadaian Championship
 #https://spacetv.my.id/index.mpd?id=19662&type=dash&token=pKOvG4xjyKB4a1VBMlfQG9Q0u2SM3S7O|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21355&type=drm&token=pKOvG4xjyKB4a1VBMlfQG9Q0u2SM3S7O
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/1vvdsmrgFctPUtO8iAcmpHiNbuw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5063927/bf4cf4.jpg" ch-number="12", Putri: O2C Ciparay vs JVC Surge - Semifinal - Kejurnas Bola Voli Antarklub U-18
-#https://vid-id.indi1.workers.dev/index.mpd?id=21355&type=dash&token=pKOvG4xjyKB4a1VBMlfQG9Q0u2SM3S7O|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/drm.kt?id=19541&type=drm&token=pKOvG4xjyKB4a1VBMlfQG9Q0u2SM3S7O
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/vqnjOtJgIAPUiIsvjf2z_EUKtk4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062578/4d8ae3.jpg" ch-number="13", Playoffs Degradation: Persekat Tegal vs Persiba Balikpapan - Pegadaian Championship
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/vqnjOtJgIAPUiIsvjf2z_EUKtk4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062578/4d8ae3.jpg" ch-number="7", Playoffs Degradation: Persekat Tegal vs Persiba Balikpapan - Pegadaian Championship
 #https://spacetv.my.id/index.mpd?id=19541&type=dash&token=pKOvG4xjyKB4a1VBMlfQG9Q0u2SM3S7O|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=drm&token=pKOvG4xjyKB4a1VBMlfQG9Q0u2SM3S7O
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/bU2oYf2NsubbDVZPu_K_TzA_LHs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5061728/bef907.jpg" ch-number="8", Practice: TotalEnergies 6 Hours of Spa-Francorchamps, Belgium - WEC 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=dash&token=pKOvG4xjyKB4a1VBMlfQG9Q0u2SM3S7O|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=19385&type=drm&token=pKOvG4xjyKB4a1VBMlfQG9Q0u2SM3S7O
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/O5hzk6kNsJB2kOfChjaxexgwN5o=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5061645/f62fb9.jpg" ch-number="14", Semen Padang FC vs PERSIK Kediri - BRI Super League
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/O5hzk6kNsJB2kOfChjaxexgwN5o=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5061645/f62fb9.jpg" ch-number="9", Semen Padang FC vs PERSIK Kediri - BRI Super League
 #https://vid-id.indi1.workers.dev/index.mpd?id=19385&type=dash&token=pKOvG4xjyKB4a1VBMlfQG9Q0u2SM3S7O|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17140&type=drm&token=pKOvG4xjyKB4a1VBMlfQG9Q0u2SM3S7O
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/u2Yq8zcXs33f3ypqsCSyHktXum4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062579/dc5df9.jpg" ch-number="15", MotoGP Free Practice 1: Michelin Grand Prix of France - MotoGP 2026 Round 5
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/u2Yq8zcXs33f3ypqsCSyHktXum4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062579/dc5df9.jpg" ch-number="10", MotoGP Free Practice 1: Michelin Grand Prix of France - MotoGP 2026 Round 5
 #https://vid-id.indi1.workers.dev/index.mpd?id=17140&type=dash&token=pKOvG4xjyKB4a1VBMlfQG9Q0u2SM3S7O|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20890&type=drm&token=pKOvG4xjyKB4a1VBMlfQG9Q0u2SM3S7O
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/UrKd4bLZwwhkHwCuLc1YhNyl-rI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5063933/62c85c.jpg" ch-number="11", Karen Khachanov vs Aleksandr Shevchenko - Round 2 (Court 1) | ATP 1000: Internazionali BNL d'Italia 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=20890&type=dash&token=pKOvG4xjyKB4a1VBMlfQG9Q0u2SM3S7O|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20886&type=drm&token=pKOvG4xjyKB4a1VBMlfQG9Q0u2SM3S7O
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/D1mil2oegDXJz66PBKTB0eT_Ky4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5063936/7d30bc.jpg" ch-number="12", Nuno Borges vs Rafael Jodar - Round 2 (Supertennis Arena) | ATP 1000: Internazionali BNL d'Italia 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=20886&type=dash&token=pKOvG4xjyKB4a1VBMlfQG9Q0u2SM3S7O|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20564&type=drm&token=pKOvG4xjyKB4a1VBMlfQG9Q0u2SM3S7O
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/VxUaxhQ4cde52OoF6Lo98LpS9ps=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062584/80a38b.jpg" ch-number="16", Day 3 - WTA 1000: Internazionali BNL D'Italia 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/VxUaxhQ4cde52OoF6Lo98LpS9ps=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062584/80a38b.jpg" ch-number="13", Day 3 - WTA 1000: Internazionali BNL D'Italia 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=20564&type=dash&token=pKOvG4xjyKB4a1VBMlfQG9Q0u2SM3S7O|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20885&type=drm&token=pKOvG4xjyKB4a1VBMlfQG9Q0u2SM3S7O
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/5bn7l6UrEAQMGtEnkV5_V1nwLPM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5063955/b56715.jpg" ch-number="14", Alex de Minaur vs Matteo Arnaldi - Round 2 (BNP Paribas Arena) | ATP 1000: Internazionali BNL d'Italia 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=20885&type=dash&token=pKOvG4xjyKB4a1VBMlfQG9Q0u2SM3S7O|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20955&type=drm&token=pKOvG4xjyKB4a1VBMlfQG9Q0u2SM3S7O
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/fheJgWANnVbVQS455vqabURWGYk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5063939/a84196.jpg" ch-number="15", Alex de Minaur vs Matteo Arnaldi - Round 2 | ATP 1000: Internazionali BNL d'Italia 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=20955&type=dash&token=pKOvG4xjyKB4a1VBMlfQG9Q0u2SM3S7O|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21210&type=drm&token=pKOvG4xjyKB4a1VBMlfQG9Q0u2SM3S7O
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/yFIapqd_WxOrl7EVFbxG4cqicKw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5063922/9838c6.jpg" ch-number="17", Politeknik Negeri Samarinda vs Universitas Mulawarman - CL Basketball 2026 - Regional Samarinda
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/yFIapqd_WxOrl7EVFbxG4cqicKw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5063922/9838c6.jpg" ch-number="16", Politeknik Negeri Samarinda vs Universitas Mulawarman - CL Basketball 2026 - Regional Samarinda
 #https://vid-id.indi1.workers.dev/index.mpd?id=21210&type=dash&token=pKOvG4xjyKB4a1VBMlfQG9Q0u2SM3S7O|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20955&type=drm&token=pKOvG4xjyKB4a1VBMlfQG9Q0u2SM3S7O
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/yZ2RY-dVwk3fMho8x7WGhqQv8Y8=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/20955/round-2-atp-1000-internazionali-bnl-d-italia-2026-573c77.jpg" ch-number="17", Alex de Minaur vs Matteo Arnaldi - Round 2 | ATP 1000: Internazionali BNL d'Italia 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=20955&type=dash&token=pKOvG4xjyKB4a1VBMlfQG9Q0u2SM3S7O|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -110,8 +114,8 @@ https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1ec
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=19354&type=drm&token=pKOvG4xjyKB4a1VBMlfQG9Q0u2SM3S7O
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/b4AI4eyrWBzHgOvN5iwcUpONPKU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5061646/4848f5.jpg" ch-number="20", PSBS Biak vs Dewa United Banten FC - BRI Super League
-#https://vid-id.indi1.workers.dev/index.mpd?id=19354&type=dash&token=pKOvG4xjyKB4a1VBMlfQG9Q0u2SM3S7O|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20887&type=drm&token=pKOvG4xjyKB4a1VBMlfQG9Q0u2SM3S7O
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/5cbpQy-Q54hKSGwmhjqW8psq-LM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5063946/33032d.jpg" ch-number="20", Jan-Lennard Struff vs Jiri Lehecka - Round 2 (Pietrangeli) | ATP 1000: Internazionali BNL d'Italia 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=20887&type=dash&token=pKOvG4xjyKB4a1VBMlfQG9Q0u2SM3S7O|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
