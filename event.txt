@@ -56,31 +56,32 @@ https://vid-id.indi1.workers.dev/index.mpd?id=17140&type=dash&token=pKOvG4xjyKB4
 https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=dash&token=pKOvG4xjyKB4a1VBMlfQG9Q0u2SM3S7O|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20891&type=drm&token=pKOvG4xjyKB4a1VBMlfQG9Q0u2SM3S7O
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/eIZ3RRy_7tRZoyTor8lgmIGiCgk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5063950/114363.jpg" ch-number="12", Tallon Griekspoor vs Alexander Blockx - Round 2 (Court 13) | ATP 1000: Internazionali BNL d'Italia 2026
-https://vid-id.indi1.workers.dev/index.mpd?id=20891&type=dash&token=pKOvG4xjyKB4a1VBMlfQG9Q0u2SM3S7O|User-Agent=VidioPlayer/6.31.6
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=drm&token=pKOvG4xjyKB4a1VBMlfQG9Q0u2SM3S7O
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/RQPZZ33qdUMv4ZiUTYlXDmkPeik=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5063943/c2f688.jpg" ch-number="13", Daniel Altmaier vs Alexander Zverev - Round 2 (Campo Centrale) | ATP 1000: Internazionali BNL d'Italia 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/RQPZZ33qdUMv4ZiUTYlXDmkPeik=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5063943/c2f688.jpg" ch-number="12", Daniel Altmaier vs Alexander Zverev - Round 2 (Campo Centrale) | ATP 1000: Internazionali BNL d'Italia 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=dash&token=pKOvG4xjyKB4a1VBMlfQG9Q0u2SM3S7O|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20887&type=drm&token=pKOvG4xjyKB4a1VBMlfQG9Q0u2SM3S7O
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/DVAt8rf4LpJgEFUGXbMfO86M3C4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5063947/6a10a4.jpg" ch-number="14", Alejandro Tabilo vs Francisco Cerundolo - Round 2 (Pietrangeli) | ATP 1000: Internazionali BNL d'Italia 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/DVAt8rf4LpJgEFUGXbMfO86M3C4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5063947/6a10a4.jpg" ch-number="13", Alejandro Tabilo vs Francisco Cerundolo - Round 2 (Pietrangeli) | ATP 1000: Internazionali BNL d'Italia 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=20887&type=dash&token=pKOvG4xjyKB4a1VBMlfQG9Q0u2SM3S7O|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18189&type=drm&token=pKOvG4xjyKB4a1VBMlfQG9Q0u2SM3S7O
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/kzAYWTL904kCdPoSSfnpKfV5GBE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5061700/8cde37.jpg" ch-number="15", Round 2 - ONEflight Myrtle Beach Classic 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/kzAYWTL904kCdPoSSfnpKfV5GBE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5061700/8cde37.jpg" ch-number="14", Round 2 - ONEflight Myrtle Beach Classic 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=18189&type=dash&token=pKOvG4xjyKB4a1VBMlfQG9Q0u2SM3S7O|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20955&type=drm&token=pKOvG4xjyKB4a1VBMlfQG9Q0u2SM3S7O
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/sEhty-RzzVFjJeZQV0Pdjeg_BEE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5063941/b92eda.jpg" ch-number="16", Dino Prizmic vs Novak Djokovic - Round 2 | ATP 1000: Internazionali BNL d'Italia 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/sEhty-RzzVFjJeZQV0Pdjeg_BEE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5063941/b92eda.jpg" ch-number="15", Dino Prizmic vs Novak Djokovic - Round 2 | ATP 1000: Internazionali BNL d'Italia 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=20955&type=dash&token=pKOvG4xjyKB4a1VBMlfQG9Q0u2SM3S7O|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20891&type=drm&token=pKOvG4xjyKB4a1VBMlfQG9Q0u2SM3S7O
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/eIZ3RRy_7tRZoyTor8lgmIGiCgk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5063950/114363.jpg" ch-number="16", Tallon Griekspoor vs Alexander Blockx - Round 2 (Court 13) | ATP 1000: Internazionali BNL d'Italia 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=20891&type=dash&token=pKOvG4xjyKB4a1VBMlfQG9Q0u2SM3S7O|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -102,8 +103,8 @@ https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1ec
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20891&type=drm&token=pKOvG4xjyKB4a1VBMlfQG9Q0u2SM3S7O
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/EmFB-QkTQUiVVn9zNU9tVZNi9Fw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5063951/1d2850.jpg" ch-number="20", Ugo Humbert vs Vit Kopriva - Round 2 (Court 13) | ATP 1000: Internazionali BNL d'Italia 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=20891&type=dash&token=pKOvG4xjyKB4a1VBMlfQG9Q0u2SM3S7O|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=drm&token=pKOvG4xjyKB4a1VBMlfQG9Q0u2SM3S7O
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/fz_WvsGH0oLYEBf6eM81nU918Sg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5063944/4f9bc3.jpg" ch-number="20", Dino Prizmic vs Novak Djokovic - Round 2 (Campo Centrale) | ATP 1000: Internazionali BNL d'Italia 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=dash&token=pKOvG4xjyKB4a1VBMlfQG9Q0u2SM3S7O|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
