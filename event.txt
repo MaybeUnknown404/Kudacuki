@@ -46,57 +46,57 @@ https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=dash&token=pKOvG4xjyKB4
 https://vid-id.indi1.workers.dev/index.mpd?id=20886&type=dash&token=pKOvG4xjyKB4a1VBMlfQG9Q0u2SM3S7O|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20885&type=drm&token=pKOvG4xjyKB4a1VBMlfQG9Q0u2SM3S7O
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/4eJhE91OmN4IWiLXLUeImzim_eA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5063953/8161c3.jpg" ch-number="10", Yannick Hanfmann vs Luciano Darderi - Round 2 (BNP Paribas Arena) | ATP 1000: Internazionali BNL d'Italia 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=20885&type=dash&token=pKOvG4xjyKB4a1VBMlfQG9Q0u2SM3S7O|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18189&type=drm&token=pKOvG4xjyKB4a1VBMlfQG9Q0u2SM3S7O
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/MbPrTK5vefNeTvxGqoLKZbvMK9c=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5061701/6f672c.jpg" ch-number="11", Round 2 - Truist Championship 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/MbPrTK5vefNeTvxGqoLKZbvMK9c=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5061701/6f672c.jpg" ch-number="10", Round 2 - Truist Championship 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=18189&type=dash&token=pKOvG4xjyKB4a1VBMlfQG9Q0u2SM3S7O|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17140&type=drm&token=pKOvG4xjyKB4a1VBMlfQG9Q0u2SM3S7O
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/c2sMKI1tMX6WchuAH1aR7sVTS78=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062778/1d19e0.jpg" ch-number="12", Final: Al-Hilal vs Al-Kholood - King's Cup
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/c2sMKI1tMX6WchuAH1aR7sVTS78=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062778/1d19e0.jpg" ch-number="11", Final: Al-Hilal vs Al-Kholood - King's Cup
 #https://vid-id.indi1.workers.dev/index.mpd?id=17140&type=dash&token=pKOvG4xjyKB4a1VBMlfQG9Q0u2SM3S7O|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20891&type=drm&token=pKOvG4xjyKB4a1VBMlfQG9Q0u2SM3S7O
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/EmFB-QkTQUiVVn9zNU9tVZNi9Fw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5063951/1d2850.jpg" ch-number="13", Ugo Humbert vs Vit Kopriva - Round 2 (Court 13) | ATP 1000: Internazionali BNL d'Italia 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/EmFB-QkTQUiVVn9zNU9tVZNi9Fw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5063951/1d2850.jpg" ch-number="12", Ugo Humbert vs Vit Kopriva - Round 2 (Court 13) | ATP 1000: Internazionali BNL d'Italia 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=20891&type=dash&token=pKOvG4xjyKB4a1VBMlfQG9Q0u2SM3S7O|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20955&type=drm&token=pKOvG4xjyKB4a1VBMlfQG9Q0u2SM3S7O
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/blJbQI48KxpIGswJjBv76WpuK9E=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5064040/a839e4.jpg" ch-number="14", Lorenzo Musetti vs Giovanni Mpetshi Perricard - Round 2 | ATP 1000: Internazionali BNL d'Italia 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/blJbQI48KxpIGswJjBv76WpuK9E=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5064040/a839e4.jpg" ch-number="13", Lorenzo Musetti vs Giovanni Mpetshi Perricard - Round 2 | ATP 1000: Internazionali BNL d'Italia 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=20955&type=dash&token=pKOvG4xjyKB4a1VBMlfQG9Q0u2SM3S7O|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=drm&token=pKOvG4xjyKB4a1VBMlfQG9Q0u2SM3S7O
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/o785QZP0q-FzvxKQ_tCxeR5dBAo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5063954/fbde3c.jpg" ch-number="15", Lorenzo Musetti vs Giovanni Mpetshi Perricard - Round 2 (Campo Centrale) | ATP 1000: Internazionali BNL d'Italia 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/o785QZP0q-FzvxKQ_tCxeR5dBAo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5063954/fbde3c.jpg" ch-number="14", Lorenzo Musetti vs Giovanni Mpetshi Perricard - Round 2 (Campo Centrale) | ATP 1000: Internazionali BNL d'Italia 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=dash&token=pKOvG4xjyKB4a1VBMlfQG9Q0u2SM3S7O|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=19404&type=drm&token=pKOvG4xjyKB4a1VBMlfQG9Q0u2SM3S7O
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/GBHEhBj-SGe--k7M1jzY9T8V0MY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062766/518b39.jpg" ch-number="16", Torino vs Sassuolo - Serie A
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/GBHEhBj-SGe--k7M1jzY9T8V0MY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062766/518b39.jpg" ch-number="15", Torino vs Sassuolo - Serie A
 #https://vid-id.indi1.workers.dev/index.mpd?id=19404&type=dash&token=pKOvG4xjyKB4a1VBMlfQG9Q0u2SM3S7O|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6685&type=drm&token=pKOvG4xjyKB4a1VBMlfQG9Q0u2SM3S7O
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/f0OrFQBEloOMJLfWWYMDdsNXSkM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5064371/fc1df7.jpg" ch-number="17", Semifinal Leg 1: Hull City vs Millwall - EFL Championship
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/f0OrFQBEloOMJLfWWYMDdsNXSkM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5064371/fc1df7.jpg" ch-number="16", Semifinal Leg 1: Hull City vs Millwall - EFL Championship
 #https://vid-id.indi1.workers.dev/index.mpd?id=6685&type=dash&token=pKOvG4xjyKB4a1VBMlfQG9Q0u2SM3S7O|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=drm&token=pKOvG4xjyKB4a1VBMlfQG9Q0u2SM3S7O
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/D6PCXTCmuTvlw9w8fNVnxmDsuBY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062761/23ccd0.jpg" ch-number="18", Levante vs Osasuna - LaLiga
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/D6PCXTCmuTvlw9w8fNVnxmDsuBY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062761/23ccd0.jpg" ch-number="17", Levante vs Osasuna - LaLiga
 #https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=dash&token=pKOvG4xjyKB4a1VBMlfQG9Q0u2SM3S7O|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20885&type=drm&token=pKOvG4xjyKB4a1VBMlfQG9Q0u2SM3S7O
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/4eJhE91OmN4IWiLXLUeImzim_eA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5063953/8161c3.jpg" ch-number="18", Yannick Hanfmann vs Luciano Darderi - Round 2 (BNP Paribas Arena) | ATP 1000: Internazionali BNL d'Italia 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=20885&type=dash&token=pKOvG4xjyKB4a1VBMlfQG9Q0u2SM3S7O|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
