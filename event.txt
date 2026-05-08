@@ -52,9 +52,8 @@ https://vid-id.indi1.workers.dev/index.mpd?id=16890&type=dash&token=pKOvG4xjyKB4
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=19354&type=drm&token=pKOvG4xjyKB4a1VBMlfQG9Q0u2SM3S7O
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/b4AI4eyrWBzHgOvN5iwcUpONPKU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5061646/4848f5.jpg" ch-number="11", PSBS Biak vs Dewa United Banten FC - BRI Super League
-#https://vid-id.indi1.workers.dev/index.mpd?id=19354&type=dash&token=pKOvG4xjyKB4a1VBMlfQG9Q0u2SM3S7O|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/b4AI4eyrWBzHgOvN5iwcUpONPKU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5061646/4848f5.jpg" ch-number="11", PSBS Biak vs Dewa United Banten FC - BRI Super League
+https://vid-id.indi1.workers.dev/index.mpd?id=19354&type=dash&token=pKOvG4xjyKB4a1VBMlfQG9Q0u2SM3S7O|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17140&type=drm&token=pKOvG4xjyKB4a1VBMlfQG9Q0u2SM3S7O
