@@ -2,7 +2,7 @@
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20955&type=drm&token=pKOvG4xjyKB4a1VBMlfQG9Q0u2SM3S7O
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/yZ2RY-dVwk3fMho8x7WGhqQv8Y8=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/20955/round-2-atp-1000-internazionali-bnl-d-italia-2026-573c77.jpg" ch-number="1", Round 2 - ATP 1000:  Internazionali BNL d'Italia 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/sEhty-RzzVFjJeZQV0Pdjeg_BEE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5063941/b92eda.jpg" ch-number="1", Dino Prizmic vs Novak Djokovic - Round 2 | ATP 1000: Internazionali BNL d'Italia 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=20955&type=dash&token=pKOvG4xjyKB4a1VBMlfQG9Q0u2SM3S7O|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -11,50 +11,49 @@ https://vid-id.indi1.workers.dev/index.mpd?id=20955&type=dash&token=pKOvG4xjyKB4
 https://vid-id.indi1.workers.dev/index.mpd?id=20564&type=dash&token=pKOvG4xjyKB4a1VBMlfQG9Q0u2SM3S7O|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=16890&type=drm&token=pKOvG4xjyKB4a1VBMlfQG9Q0u2SM3S7O
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/3CruXvl0LDNzhJsQQRQGW-JsDPE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062765/228fcc.jpg" ch-number="3", ONE Friday Fights 153
+https://vid-id.indi1.workers.dev/index.mpd?id=16890&type=dash&token=pKOvG4xjyKB4a1VBMlfQG9Q0u2SM3S7O|User-Agent=VidioPlayer/6.31.6
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=drm&token=pKOvG4xjyKB4a1VBMlfQG9Q0u2SM3S7O
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/YOF3rWTuiCktz4vGJ53zA3kiKxA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062585/c5010c.jpg" ch-number="3", Asuncion P2 Premier Padel - Quarterfinals
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/YOF3rWTuiCktz4vGJ53zA3kiKxA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062585/c5010c.jpg" ch-number="4", Asuncion P2 Premier Padel - Quarterfinals
 https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=dash&token=pKOvG4xjyKB4a1VBMlfQG9Q0u2SM3S7O|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18189&type=drm&token=pKOvG4xjyKB4a1VBMlfQG9Q0u2SM3S7O
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/kzAYWTL904kCdPoSSfnpKfV5GBE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5061700/8cde37.jpg" ch-number="4", Round 2 - ONEflight Myrtle Beach Classic 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/kzAYWTL904kCdPoSSfnpKfV5GBE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5061700/8cde37.jpg" ch-number="5", Round 2 - ONEflight Myrtle Beach Classic 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=18189&type=dash&token=pKOvG4xjyKB4a1VBMlfQG9Q0u2SM3S7O|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18190&type=drm&token=pKOvG4xjyKB4a1VBMlfQG9Q0u2SM3S7O
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/qKx4peF2Q6qeMxLLM1LaBrRidGE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062747/2cc7ff.jpg" ch-number="5", Round 2 - Mizuho Americas Open 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/qKx4peF2Q6qeMxLLM1LaBrRidGE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062747/2cc7ff.jpg" ch-number="6", Round 2 - Mizuho Americas Open 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=18190&type=dash&token=pKOvG4xjyKB4a1VBMlfQG9Q0u2SM3S7O|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20891&type=drm&token=pKOvG4xjyKB4a1VBMlfQG9Q0u2SM3S7O
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/eIZ3RRy_7tRZoyTor8lgmIGiCgk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5063950/114363.jpg" ch-number="6", Tallon Griekspoor vs Alexander Blockx - Round 2 (Court 13) | ATP 1000: Internazionali BNL d'Italia 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/eIZ3RRy_7tRZoyTor8lgmIGiCgk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5063950/114363.jpg" ch-number="7", Tallon Griekspoor vs Alexander Blockx - Round 2 (Court 13) | ATP 1000: Internazionali BNL d'Italia 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=20891&type=dash&token=pKOvG4xjyKB4a1VBMlfQG9Q0u2SM3S7O|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20887&type=drm&token=pKOvG4xjyKB4a1VBMlfQG9Q0u2SM3S7O
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/g5ZNfb5SFwBNffUxqWNrIs_WOOQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5063948/a35b58.jpg" ch-number="7", Tommy Paul vs Aleksandar Vukic - Round 2 (Pietrangeli) | ATP 1000: Internazionali BNL d'Italia 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/g5ZNfb5SFwBNffUxqWNrIs_WOOQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5063948/a35b58.jpg" ch-number="8", Tommy Paul vs Aleksandar Vukic - Round 2 (Pietrangeli) | ATP 1000: Internazionali BNL d'Italia 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=20887&type=dash&token=pKOvG4xjyKB4a1VBMlfQG9Q0u2SM3S7O|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=drm&token=pKOvG4xjyKB4a1VBMlfQG9Q0u2SM3S7O
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/fz_WvsGH0oLYEBf6eM81nU918Sg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5063944/4f9bc3.jpg" ch-number="8", Dino Prizmic vs Novak Djokovic - Round 2 (Campo Centrale) | ATP 1000: Internazionali BNL d'Italia 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/fz_WvsGH0oLYEBf6eM81nU918Sg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5063944/4f9bc3.jpg" ch-number="9", Dino Prizmic vs Novak Djokovic - Round 2 (Campo Centrale) | ATP 1000: Internazionali BNL d'Italia 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=dash&token=pKOvG4xjyKB4a1VBMlfQG9Q0u2SM3S7O|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20955&type=drm&token=pKOvG4xjyKB4a1VBMlfQG9Q0u2SM3S7O
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/sEhty-RzzVFjJeZQV0Pdjeg_BEE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5063941/b92eda.jpg" ch-number="9", Dino Prizmic vs Novak Djokovic - Round 2 | ATP 1000: Internazionali BNL d'Italia 2026
-https://vid-id.indi1.workers.dev/index.mpd?id=20955&type=dash&token=pKOvG4xjyKB4a1VBMlfQG9Q0u2SM3S7O|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20886&type=drm&token=pKOvG4xjyKB4a1VBMlfQG9Q0u2SM3S7O
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/pdpS12ABZUnu8fRm8QZzb49JckI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5063952/6dab47.jpg" ch-number="10", Sebastian Baez vs Alexander Bublik - Round 2 (Supertennis Arena) | ATP 1000: Internazionali BNL d'Italia 2026
+https://vid-id.indi1.workers.dev/index.mpd?id=20886&type=dash&token=pKOvG4xjyKB4a1VBMlfQG9Q0u2SM3S7O|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20885&type=drm&token=pKOvG4xjyKB4a1VBMlfQG9Q0u2SM3S7O
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/4eJhE91OmN4IWiLXLUeImzim_eA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5063953/8161c3.jpg" ch-number="10", Yannick Hanfmann vs Luciano Darderi - Round 2 (BNP Paribas Arena) | ATP 1000: Internazionali BNL d'Italia 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/4eJhE91OmN4IWiLXLUeImzim_eA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5063953/8161c3.jpg" ch-number="11", Yannick Hanfmann vs Luciano Darderi - Round 2 (BNP Paribas Arena) | ATP 1000: Internazionali BNL d'Italia 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=20885&type=dash&token=pKOvG4xjyKB4a1VBMlfQG9Q0u2SM3S7O|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20886&type=drm&token=pKOvG4xjyKB4a1VBMlfQG9Q0u2SM3S7O
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/pdpS12ABZUnu8fRm8QZzb49JckI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5063952/6dab47.jpg" ch-number="11", Sebastian Baez vs Alexander Bublik - Round 2 (Supertennis Arena) | ATP 1000: Internazionali BNL d'Italia 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=20886&type=dash&token=pKOvG4xjyKB4a1VBMlfQG9Q0u2SM3S7O|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -70,27 +69,27 @@ https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1ec
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20891&type=drm&token=pKOvG4xjyKB4a1VBMlfQG9Q0u2SM3S7O
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/EmFB-QkTQUiVVn9zNU9tVZNi9Fw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5063951/1d2850.jpg" ch-number="14", Ugo Humbert vs Vit Kopriva - Round 2 (Court 13) | ATP 1000: Internazionali BNL d'Italia 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=20891&type=dash&token=pKOvG4xjyKB4a1VBMlfQG9Q0u2SM3S7O|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20955&type=drm&token=pKOvG4xjyKB4a1VBMlfQG9Q0u2SM3S7O
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/blJbQI48KxpIGswJjBv76WpuK9E=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5064040/a839e4.jpg" ch-number="15", Lorenzo Musetti vs Giovanni Mpetshi Perricard - Round 2 | ATP 1000: Internazionali BNL d'Italia 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/blJbQI48KxpIGswJjBv76WpuK9E=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5064040/a839e4.jpg" ch-number="14", Lorenzo Musetti vs Giovanni Mpetshi Perricard - Round 2 | ATP 1000: Internazionali BNL d'Italia 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=20955&type=dash&token=pKOvG4xjyKB4a1VBMlfQG9Q0u2SM3S7O|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=19404&type=drm&token=pKOvG4xjyKB4a1VBMlfQG9Q0u2SM3S7O
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/GBHEhBj-SGe--k7M1jzY9T8V0MY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062766/518b39.jpg" ch-number="16", Torino vs Sassuolo - Serie A
-#https://vid-id.indi1.workers.dev/index.mpd?id=19404&type=dash&token=pKOvG4xjyKB4a1VBMlfQG9Q0u2SM3S7O|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20891&type=drm&token=pKOvG4xjyKB4a1VBMlfQG9Q0u2SM3S7O
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/EmFB-QkTQUiVVn9zNU9tVZNi9Fw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5063951/1d2850.jpg" ch-number="15", Ugo Humbert vs Vit Kopriva - Round 2 (Court 13) | ATP 1000: Internazionali BNL d'Italia 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=20891&type=dash&token=pKOvG4xjyKB4a1VBMlfQG9Q0u2SM3S7O|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=drm&token=pKOvG4xjyKB4a1VBMlfQG9Q0u2SM3S7O
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/o785QZP0q-FzvxKQ_tCxeR5dBAo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5063954/fbde3c.jpg" ch-number="17", Lorenzo Musetti vs Giovanni Mpetshi Perricard - Round 2 (Campo Centrale) | ATP 1000: Internazionali BNL d'Italia 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/o785QZP0q-FzvxKQ_tCxeR5dBAo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5063954/fbde3c.jpg" ch-number="16", Lorenzo Musetti vs Giovanni Mpetshi Perricard - Round 2 (Campo Centrale) | ATP 1000: Internazionali BNL d'Italia 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=dash&token=pKOvG4xjyKB4a1VBMlfQG9Q0u2SM3S7O|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=19404&type=drm&token=pKOvG4xjyKB4a1VBMlfQG9Q0u2SM3S7O
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/GBHEhBj-SGe--k7M1jzY9T8V0MY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062766/518b39.jpg" ch-number="17", Torino vs Sassuolo - Serie A
+#https://vid-id.indi1.workers.dev/index.mpd?id=19404&type=dash&token=pKOvG4xjyKB4a1VBMlfQG9Q0u2SM3S7O|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
