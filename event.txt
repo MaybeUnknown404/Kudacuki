@@ -7,7 +7,7 @@ https://vid-id.indi1.workers.dev/index.mpd?id=9182&type=dash&token=z0aHJoLRIvOPu
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20955&type=drm&token=z0aHJoLRIvOPuPoxeKSA1mu8q3LM0PmJ
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/yZ2RY-dVwk3fMho8x7WGhqQv8Y8=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/20955/round-2-atp-1000-internazionali-bnl-d-italia-2026-573c77.jpg" ch-number="2", Round 2 - ATP 1000: Internazionali BNL d'Italia 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/GZja_N7tIIo5HsNNYjznE7nfns4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5068294/66044e.jpg" ch-number="2", Nikoloz Basilashvili vs Ben Shelton - Round 2 | ATP 1000: Internazionali BNL d'Italia 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=20955&type=dash&token=z0aHJoLRIvOPuPoxeKSA1mu8q3LM0PmJ|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -51,15 +51,14 @@ https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=dash&token=z0aHJoLRIvOPu
 https://vid-id.indi1.workers.dev/index.mpd?id=20885&type=dash&token=z0aHJoLRIvOPuPoxeKSA1mu8q3LM0PmJ|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6317&type=drm&token=z0aHJoLRIvOPuPoxeKSA1mu8q3LM0PmJ
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/06WzXe3vWsr5LsYac8lLaxfLdT4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5064134/8fcc93.jpg" ch-number="11", Galatasaray vs Antalyaspor - Trendyol Super Lig
-https://vid-id.indi1.workers.dev/index.mpd?id=6317&type=dash&token=z0aHJoLRIvOPuPoxeKSA1mu8q3LM0PmJ|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=drm&token=z0aHJoLRIvOPuPoxeKSA1mu8q3LM0PmJ
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/8O2jCa_-Qu88Qs0XxNO9Ibk4qjQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5068287/ed0ee6.jpg" ch-number="11", Jannik Sinner vs Sebastian Ofner - Round 2 (Campo Centrale) | ATP 1000: Internazionali BNL d'Italia 2026
+https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=dash&token=z0aHJoLRIvOPuPoxeKSA1mu8q3LM0PmJ|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=drm&token=z0aHJoLRIvOPuPoxeKSA1mu8q3LM0PmJ
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/8O2jCa_-Qu88Qs0XxNO9Ibk4qjQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5068287/ed0ee6.jpg" ch-number="12", Jannik Sinner vs Sebastian Ofner - Round 2 (Campo Centrale) | ATP 1000: Internazionali BNL d'Italia 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=dash&token=z0aHJoLRIvOPuPoxeKSA1mu8q3LM0PmJ|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6317&type=drm&token=z0aHJoLRIvOPuPoxeKSA1mu8q3LM0PmJ
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/06WzXe3vWsr5LsYac8lLaxfLdT4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5064134/8fcc93.jpg" ch-number="12", Galatasaray vs Antalyaspor - Trendyol Super Lig
+https://vid-id.indi1.workers.dev/index.mpd?id=6317&type=dash&token=z0aHJoLRIvOPuPoxeKSA1mu8q3LM0PmJ|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18189&type=drm&token=z0aHJoLRIvOPuPoxeKSA1mu8q3LM0PmJ
@@ -68,44 +67,44 @@ https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1ec
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20955&type=drm&token=z0aHJoLRIvOPuPoxeKSA1mu8q3LM0PmJ
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/GZja_N7tIIo5HsNNYjznE7nfns4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5068294/66044e.jpg" ch-number="14", Nikoloz Basilashvili vs Ben Shelton - Round 2 | ATP 1000: Internazionali BNL d'Italia 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=20955&type=dash&token=z0aHJoLRIvOPuPoxeKSA1mu8q3LM0PmJ|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20886&type=drm&token=z0aHJoLRIvOPuPoxeKSA1mu8q3LM0PmJ
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/zUmtjODXY3aoAHuEVAnLdJAVgOI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5067541/95f88d.jpg" ch-number="15", Hamad Medjedovic vs Joao Fonseca - Round 2 (Supertennis Arena) | ATP 1000: Internazionali BNL d'Italia 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/zUmtjODXY3aoAHuEVAnLdJAVgOI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5067541/95f88d.jpg" ch-number="14", Hamad Medjedovic vs Joao Fonseca - Round 2 (Supertennis Arena) | ATP 1000: Internazionali BNL d'Italia 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=20886&type=dash&token=z0aHJoLRIvOPuPoxeKSA1mu8q3LM0PmJ|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=drm&token=z0aHJoLRIvOPuPoxeKSA1mu8q3LM0PmJ
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/OkXhBQAsjWbql80GWpyd57S4Fao=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062773/877e2e.jpg" ch-number="16", Asuncion P2 Premier Padel - Semifinals
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/OkXhBQAsjWbql80GWpyd57S4Fao=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062773/877e2e.jpg" ch-number="15", Asuncion P2 Premier Padel - Semifinals
 #https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=dash&token=z0aHJoLRIvOPuPoxeKSA1mu8q3LM0PmJ|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6686&type=drm&token=z0aHJoLRIvOPuPoxeKSA1mu8q3LM0PmJ
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/7KiOvYkJ0ki689QGxRe7O1yqnIQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5064136/74e6ac.jpg" ch-number="17", Day 4 - WTA 1000: Internazionali BNL D'Italia 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/7KiOvYkJ0ki689QGxRe7O1yqnIQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5064136/74e6ac.jpg" ch-number="16", Day 4 - WTA 1000: Internazionali BNL D'Italia 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=6686&type=dash&token=z0aHJoLRIvOPuPoxeKSA1mu8q3LM0PmJ|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=19404&type=drm&token=z0aHJoLRIvOPuPoxeKSA1mu8q3LM0PmJ
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/0wAK1QE59yeqb39mDmLUCmusmrw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062772/48ca37.jpg" ch-number="18", Lecce vs Juventus - Serie A
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/0wAK1QE59yeqb39mDmLUCmusmrw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062772/48ca37.jpg" ch-number="17", Lecce vs Juventus - Serie A
 #https://vid-id.indi1.workers.dev/index.mpd?id=19404&type=dash&token=z0aHJoLRIvOPuPoxeKSA1mu8q3LM0PmJ|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=drm&token=z0aHJoLRIvOPuPoxeKSA1mu8q3LM0PmJ
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/4hU3mbJ7TVB3IjFhdZLI1Ua7ePY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062752/f0c3dc.jpg" ch-number="19", Real Sociedad vs Real Betis - LaLiga
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/4hU3mbJ7TVB3IjFhdZLI1Ua7ePY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062752/f0c3dc.jpg" ch-number="18", Real Sociedad vs Real Betis - LaLiga
 #https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=dash&token=z0aHJoLRIvOPuPoxeKSA1mu8q3LM0PmJ|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20955&type=drm&token=z0aHJoLRIvOPuPoxeKSA1mu8q3LM0PmJ
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/_-Lpjj_RiT0_AgOWEbkDGP6ViUw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5068295/8eb700.jpg" ch-number="20", Jannik Sinner vs Sebastian Ofner - Round 2 | ATP 1000: Internazionali BNL d'Italia 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/_-Lpjj_RiT0_AgOWEbkDGP6ViUw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5068295/8eb700.jpg" ch-number="19", Jannik Sinner vs Sebastian Ofner - Round 2 | ATP 1000: Internazionali BNL d'Italia 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=20955&type=dash&token=z0aHJoLRIvOPuPoxeKSA1mu8q3LM0PmJ|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18190&type=drm&token=z0aHJoLRIvOPuPoxeKSA1mu8q3LM0PmJ
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/nRHiZsSlI9PCmxPAJkrASWvf4jQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062748/045841.jpg" ch-number="20", Round 3 - Mizuho Americas Open 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=18190&type=dash&token=z0aHJoLRIvOPuPoxeKSA1mu8q3LM0PmJ|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
