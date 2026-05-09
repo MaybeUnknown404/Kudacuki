@@ -86,20 +86,20 @@ https://vid-id.indi1.workers.dev/index.mpd?id=17140&type=dash&token=z0aHJoLRIvOP
 https://vid-id.indi1.workers.dev/index.mpd?id=19404&type=dash&token=z0aHJoLRIvOPuPoxeKSA1mu8q3LM0PmJ|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21355&type=drm&token=z0aHJoLRIvOPuPoxeKSA1mu8q3LM0PmJ
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/14SDSP85dhEuwiFjEC5pfYWp9p8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5068307/dcbd48.jpg" ch-number="18", Putra: Patriot Purworejo vs Atlas Semarang - Final - Kejurnas Bola Voli Antarklub U-18
+#https://vid-id.indi1.workers.dev/index.mpd?id=21355&type=dash&token=z0aHJoLRIvOPuPoxeKSA1mu8q3LM0PmJ|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=9183&type=drm&token=z0aHJoLRIvOPuPoxeKSA1mu8q3LM0PmJ
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/3ccfcEPHbbNlPVSfHgUOQDYA_8c=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062597/632cf7.jpg" ch-number="18", Fulham vs Bournemouth - Premier League
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/3ccfcEPHbbNlPVSfHgUOQDYA_8c=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062597/632cf7.jpg" ch-number="19", Fulham vs Bournemouth - Premier League
 #https://vid-id.indi1.workers.dev/index.mpd?id=9183&type=dash&token=z0aHJoLRIvOPuPoxeKSA1mu8q3LM0PmJ|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=9182&type=drm&token=z0aHJoLRIvOPuPoxeKSA1mu8q3LM0PmJ
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Wh-1_bz4EG9O6PYomY3T5EZp9RI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062197/029a61.jpg" ch-number="19", Sunderland vs Man United - Premier League
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Wh-1_bz4EG9O6PYomY3T5EZp9RI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062197/029a61.jpg" ch-number="20", Sunderland vs Man United - Premier League
 #https://vid-id.indi1.workers.dev/index.mpd?id=9182&type=dash&token=z0aHJoLRIvOPuPoxeKSA1mu8q3LM0PmJ|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=19536&type=drm&token=z0aHJoLRIvOPuPoxeKSA1mu8q3LM0PmJ
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/ww7alU8enGcfBaB4Hv8DfWIdrMw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062745/381e3d.jpg" ch-number="20", Brighton vs Wolves - Premier League
-#https://vid-id.indi1.workers.dev/index.mpd?id=19536&type=dash&token=z0aHJoLRIvOPuPoxeKSA1mu8q3LM0PmJ|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
