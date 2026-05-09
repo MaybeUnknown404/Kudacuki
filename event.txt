@@ -16,102 +16,102 @@ https://vid-id.indi1.workers.dev/index.mpd?id=18189&type=dash&token=N5hcGourzUU0
 https://vid-id.indi1.workers.dev/index.mpd?id=18190&type=dash&token=N5hcGourzUU0lH0o2UNbsR5hMy8vfP51|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20216&type=drm&token=N5hcGourzUU0lH0o2UNbsR5hMy8vfP51
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/VUThqCP2xhtanLjIGwHnY7jYiWM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5064127/2a4fc7.jpg" ch-number="4", UFC 328: Early Prelims
-https://vid-id.indi1.workers.dev/index.mpd?id=20216&type=dash&token=N5hcGourzUU0lH0o2UNbsR5hMy8vfP51|User-Agent=VidioPlayer/6.31.6
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=drm&token=N5hcGourzUU0lH0o2UNbsR5hMy8vfP51
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/jpqrJLH3em3Ai3b-wihbDbjj_3g=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5064129/04f715.jpg" ch-number="5", Asuncion P2 Premier Padel - Semifinals
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/jpqrJLH3em3Ai3b-wihbDbjj_3g=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5064129/04f715.jpg" ch-number="4", Asuncion P2 Premier Padel - Semifinals
 https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=dash&token=N5hcGourzUU0lH0o2UNbsR5hMy8vfP51|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20216&type=drm&token=N5hcGourzUU0lH0o2UNbsR5hMy8vfP51
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Am-MPaGD_5Rko_itgxl81yb2tdU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5064126/699c1d.jpg" ch-number="6", UFC 328: Prelims
-#https://vid-id.indi1.workers.dev/index.mpd?id=20216&type=dash&token=N5hcGourzUU0lH0o2UNbsR5hMy8vfP51|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/Am-MPaGD_5Rko_itgxl81yb2tdU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5064126/699c1d.jpg" ch-number="5", UFC 328: Prelims
+https://vid-id.indi1.workers.dev/index.mpd?id=20216&type=dash&token=N5hcGourzUU0lH0o2UNbsR5hMy8vfP51|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20216&type=drm&token=N5hcGourzUU0lH0o2UNbsR5hMy8vfP51
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/TJcV5W5gPK-nK8Z9WjuUEG0HKh8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5064121/8d07eb.jpg" ch-number="7", King Green vs Jeremy Stephens - Lightweight | UFC 328
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/TJcV5W5gPK-nK8Z9WjuUEG0HKh8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5064121/8d07eb.jpg" ch-number="6", King Green vs Jeremy Stephens - Lightweight | UFC 328
 #https://vid-id.indi1.workers.dev/index.mpd?id=20216&type=dash&token=N5hcGourzUU0lH0o2UNbsR5hMy8vfP51|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21100&type=drm&token=N5hcGourzUU0lH0o2UNbsR5hMy8vfP51
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/XMVuxVLKCVvTt-pmZ4Ng_9P5k6o=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21100/triple-crown-i-pertiwi-cup-2026-22e3b0.jpg" ch-number="8", Piala Raja: Mangkunegaran Triple Crown II
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/XMVuxVLKCVvTt-pmZ4Ng_9P5k6o=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21100/triple-crown-i-pertiwi-cup-2026-22e3b0.jpg" ch-number="7", Piala Raja: Mangkunegaran Triple Crown II
 #https://vid-id.indi1.workers.dev/index.mpd?id=21100&type=dash&token=N5hcGourzUU0lH0o2UNbsR5hMy8vfP51|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20216&type=drm&token=N5hcGourzUU0lH0o2UNbsR5hMy8vfP51
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/dGeL5qNGnlf_XbQmQ-PVwEO4EdU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5064122/8f7b96.jpg" ch-number="9", Sean Brady vs Joaquin Buckley - Welterweight | UFC 328
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/dGeL5qNGnlf_XbQmQ-PVwEO4EdU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5064122/8f7b96.jpg" ch-number="8", Sean Brady vs Joaquin Buckley - Welterweight | UFC 328
 #https://vid-id.indi1.workers.dev/index.mpd?id=20216&type=dash&token=N5hcGourzUU0lH0o2UNbsR5hMy8vfP51|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21099&type=drm&token=N5hcGourzUU0lH0o2UNbsR5hMy8vfP51
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/BpPimdAzvysdzyOJdL1mpxoVP9U=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5068918/b285d9.jpg" ch-number="10", Persipo Putri vs Tajimalela FA Women - HYDROPLUS Soccer League U-18
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/BpPimdAzvysdzyOJdL1mpxoVP9U=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5068918/b285d9.jpg" ch-number="9", Persipo Putri vs Tajimalela FA Women - HYDROPLUS Soccer League U-18
 #https://vid-id.indi1.workers.dev/index.mpd?id=21099&type=dash&token=N5hcGourzUU0lH0o2UNbsR5hMy8vfP51|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21099&type=drm&token=N5hcGourzUU0lH0o2UNbsR5hMy8vfP51
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/6R8AysrYvYQ45Jq6OZ_DZNHWwrM=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21099/hydroplus-soccer-league-8673ab.jpg" ch-number="11", Persipo Putri vs Tajimalela FA Women - HYDROPLUS Soccer League U-18
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/6R8AysrYvYQ45Jq6OZ_DZNHWwrM=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21099/hydroplus-soccer-league-8673ab.jpg" ch-number="10", Persipo Putri vs Tajimalela FA Women - HYDROPLUS Soccer League U-18
 #https://vid-id.indi1.workers.dev/index.mpd?id=21099&type=dash&token=N5hcGourzUU0lH0o2UNbsR5hMy8vfP51|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20216&type=drm&token=N5hcGourzUU0lH0o2UNbsR5hMy8vfP51
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/NRYL6QjmclPiz_fqe9E66rMiwOE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5064123/14c06f.jpg" ch-number="12", Alexander Volkov vs Waldo Cortes Acosta - Heavyweight | UFC 328
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/NRYL6QjmclPiz_fqe9E66rMiwOE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5064123/14c06f.jpg" ch-number="11", Alexander Volkov vs Waldo Cortes Acosta - Heavyweight | UFC 328
 #https://vid-id.indi1.workers.dev/index.mpd?id=20216&type=dash&token=N5hcGourzUU0lH0o2UNbsR5hMy8vfP51|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20216&type=drm&token=N5hcGourzUU0lH0o2UNbsR5hMy8vfP51
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/eUVG02SWGw2FJ-OHh8-umPmGN7o=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5064124/8822af.jpg" ch-number="13", Joshua Van vs Tatsuro Taira - Flyweight | UFC 328
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/eUVG02SWGw2FJ-OHh8-umPmGN7o=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5064124/8822af.jpg" ch-number="12", Joshua Van vs Tatsuro Taira - Flyweight | UFC 328
 #https://vid-id.indi1.workers.dev/index.mpd?id=20216&type=dash&token=N5hcGourzUU0lH0o2UNbsR5hMy8vfP51|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21099&type=drm&token=N5hcGourzUU0lH0o2UNbsR5hMy8vfP51
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/gRKayrwZZZ4E446yPSXclWwvGuY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5068919/8cb3b8.jpg" ch-number="14", Newland FA vs Raga Negeri - HYDROPLUS Soccer League U-18
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/gRKayrwZZZ4E446yPSXclWwvGuY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5068919/8cb3b8.jpg" ch-number="13", Newland FA vs Raga Negeri - HYDROPLUS Soccer League U-18
 #https://vid-id.indi1.workers.dev/index.mpd?id=21099&type=dash&token=N5hcGourzUU0lH0o2UNbsR5hMy8vfP51|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20216&type=drm&token=N5hcGourzUU0lH0o2UNbsR5hMy8vfP51
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/tF4MAw_ve4yfpDpPMRPT5ecPPwM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5064125/f747f6.jpg" ch-number="15", Khamzat Chimaev vs Sean Strickland - Middleweight | UFC 328
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/tF4MAw_ve4yfpDpPMRPT5ecPPwM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5064125/f747f6.jpg" ch-number="14", Khamzat Chimaev vs Sean Strickland - Middleweight | UFC 328
 #https://vid-id.indi1.workers.dev/index.mpd?id=20216&type=dash&token=N5hcGourzUU0lH0o2UNbsR5hMy8vfP51|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17139&type=drm&token=N5hcGourzUU0lH0o2UNbsR5hMy8vfP51
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/wKOuMGuvALfkEylgBGM4S56skZI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5068922/1c9628.jpg" ch-number="16", Race 2 - Asia Road Racing Championship 2026: Round 2 Buriram, Thailand
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/wKOuMGuvALfkEylgBGM4S56skZI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5068922/1c9628.jpg" ch-number="15", Race 2 - Asia Road Racing Championship 2026: Round 2 Buriram, Thailand
 #https://vid-id.indi1.workers.dev/index.mpd?id=17139&type=dash&token=N5hcGourzUU0lH0o2UNbsR5hMy8vfP51|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21099&type=drm&token=N5hcGourzUU0lH0o2UNbsR5hMy8vfP51
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/_2s4i3PP22YuOuiZNZWv6rXK3OY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5068920/33be08.jpg" ch-number="17", Roket FC vs Putri JP Jakarta - HYDROPLUS Soccer League U-18
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/_2s4i3PP22YuOuiZNZWv6rXK3OY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5068920/33be08.jpg" ch-number="16", Roket FC vs Putri JP Jakarta - HYDROPLUS Soccer League U-18
 #https://vid-id.indi1.workers.dev/index.mpd?id=21099&type=dash&token=N5hcGourzUU0lH0o2UNbsR5hMy8vfP51|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17140&type=drm&token=N5hcGourzUU0lH0o2UNbsR5hMy8vfP51
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/ZZgAEmGnsZtNUcqibhBbEIJYZYE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5064087/9c41fa.jpg" ch-number="18", Race 2 - Red Bull MotoGP Rookies Cup 2026 Round 2: Le Mans
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/ZZgAEmGnsZtNUcqibhBbEIJYZYE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5064087/9c41fa.jpg" ch-number="17", Race 2 - Red Bull MotoGP Rookies Cup 2026 Round 2: Le Mans
 #https://vid-id.indi1.workers.dev/index.mpd?id=17140&type=dash&token=N5hcGourzUU0lH0o2UNbsR5hMy8vfP51|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=19355&type=drm&token=N5hcGourzUU0lH0o2UNbsR5hMy8vfP51
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/w3PiLB0hlcjJRfmvxkNxRTMm1wE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062594/7fb34c.jpg" ch-number="19", Jelang Kick Off - PERSIJA vs PERSIB - BRI Super League
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/w3PiLB0hlcjJRfmvxkNxRTMm1wE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062594/7fb34c.jpg" ch-number="18", Jelang Kick Off - PERSIJA vs PERSIB - BRI Super League
 #https://vid-id.indi1.workers.dev/index.mpd?id=19355&type=dash&token=N5hcGourzUU0lH0o2UNbsR5hMy8vfP51|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=19354&type=drm&token=N5hcGourzUU0lH0o2UNbsR5hMy8vfP51
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/KtTk65buW_NcEG94dX8u1nVtzS8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5061647/368193.jpg" ch-number="20", PERSIJA vs PERSIB - BRI Super League
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/KtTk65buW_NcEG94dX8u1nVtzS8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5061647/368193.jpg" ch-number="19", PERSIJA vs PERSIB - BRI Super League
 #https://vid-id.indi1.workers.dev/index.mpd?id=19354&type=dash&token=N5hcGourzUU0lH0o2UNbsR5hMy8vfP51|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17140&type=drm&token=N5hcGourzUU0lH0o2UNbsR5hMy8vfP51
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/1aai4MdtX2TITq5JUr-58G6oKyU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5064088/d8021c.jpg" ch-number="20", MotoGP Warm Up & Rider's Parade: Michelin Grand Prix of France - MotoGP 2026 Round 5
+#https://vid-id.indi1.workers.dev/index.mpd?id=17140&type=dash&token=N5hcGourzUU0lH0o2UNbsR5hMy8vfP51|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
