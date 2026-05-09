@@ -22,7 +22,7 @@ https://vid-id.indi1.workers.dev/index.mpd?id=20955&type=dash&token=z0aHJoLRIvOP
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21210&type=drm&token=z0aHJoLRIvOPuPoxeKSA1mu8q3LM0PmJ
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/c1qF-AwRp9d8RO6WpMCHUuY4Yv0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5064119/42259d.jpg" ch-number="5", Universitas Muhammadiyah Kalimantan Timur vs Politeknik Negeri Samarinda - CL Basketball 2026 - Regional Samarinda
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/j2tORX6ZdmWoxpKxrffMckEGHDk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5064120/87d2e4.jpg" ch-number="5", Universitas Mulawarman vs Politeknik Negeri Balikpapan - CL Basketball 2026 - Regional Samarinda
 https://vid-id.indi1.workers.dev/index.mpd?id=21210&type=dash&token=z0aHJoLRIvOPuPoxeKSA1mu8q3LM0PmJ|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
