@@ -16,96 +16,95 @@ https://vid-id.indi1.workers.dev/index.mpd?id=17140&type=dash&token=N5hcGourzUU0
 https://vid-id.indi1.workers.dev/index.mpd?id=19385&type=dash&token=N5hcGourzUU0lH0o2UNbsR5hMy8vfP51|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21100&type=drm&token=N5hcGourzUU0lH0o2UNbsR5hMy8vfP51
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/19x7DtyMNu_lyzfIekJTpsZcprw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5064135/df192b.jpg" ch-number="4", Piala Raja: Mangkunegaran Triple Crown II
+https://vid-id.indi1.workers.dev/index.mpd?id=21100&type=dash&token=N5hcGourzUU0lH0o2UNbsR5hMy8vfP51|User-Agent=VidioPlayer/6.31.6
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21210&type=drm&token=N5hcGourzUU0lH0o2UNbsR5hMy8vfP51
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/GbEgJElsl2qmx_nLJsHeBtIPkPA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5064132/8f8011.jpg" ch-number="4", Universitas Muhammadiyah Kalimantan Timur vs Universitas Mulawarman - CL Basketball 2026 - Regional Samarinda
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/GbEgJElsl2qmx_nLJsHeBtIPkPA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5064132/8f8011.jpg" ch-number="5", Universitas Muhammadiyah Kalimantan Timur vs Universitas Mulawarman - CL Basketball 2026 - Regional Samarinda
 https://vid-id.indi1.workers.dev/index.mpd?id=21210&type=dash&token=N5hcGourzUU0lH0o2UNbsR5hMy8vfP51|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20955&type=drm&token=N5hcGourzUU0lH0o2UNbsR5hMy8vfP51
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/VYQGEV_dPUijdin52KVJnGddcFo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5069119/0e0293.jpg" ch-number="5", Round 3 - ATP 1000: Internazionali BNL d'Italia 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/VYQGEV_dPUijdin52KVJnGddcFo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5069119/0e0293.jpg" ch-number="6", Round 3 - ATP 1000: Internazionali BNL d'Italia 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=20955&type=dash&token=N5hcGourzUU0lH0o2UNbsR5hMy8vfP51|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17139&type=drm&token=N5hcGourzUU0lH0o2UNbsR5hMy8vfP51
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/wKOuMGuvALfkEylgBGM4S56skZI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5068922/1c9628.jpg" ch-number="6", Race 2 - Asia Road Racing Championship 2026: Round 2 Buriram, Thailand
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/wKOuMGuvALfkEylgBGM4S56skZI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5068922/1c9628.jpg" ch-number="7", Race 2 - Asia Road Racing Championship 2026: Round 2 Buriram, Thailand
 https://vid-id.indi1.workers.dev/index.mpd?id=17139&type=dash&token=N5hcGourzUU0lH0o2UNbsR5hMy8vfP51|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=drm&token=N5hcGourzUU0lH0o2UNbsR5hMy8vfP51
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/PqQA59Y8A9wf_JZt9qCNA_gMFaE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5064130/73e1cf.jpg" ch-number="7", Rally de Portugal SS21 Fafe 1 - WRC Vodafone Rally de Portugal 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/PqQA59Y8A9wf_JZt9qCNA_gMFaE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5064130/73e1cf.jpg" ch-number="8", Rally de Portugal SS21 Fafe 1 - WRC Vodafone Rally de Portugal 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=dash&token=N5hcGourzUU0lH0o2UNbsR5hMy8vfP51|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20564&type=drm&token=N5hcGourzUU0lH0o2UNbsR5hMy8vfP51
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/_lPCLy_He65yifl-SPMFarsJpzw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5069253/a68c31.jpg" ch-number="8", Day 5 - WTA 1000: Internazionali BNL D'Italia 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/_lPCLy_He65yifl-SPMFarsJpzw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5069253/a68c31.jpg" ch-number="9", Day 5 - WTA 1000: Internazionali BNL D'Italia 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=20564&type=dash&token=N5hcGourzUU0lH0o2UNbsR5hMy8vfP51|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20885&type=drm&token=N5hcGourzUU0lH0o2UNbsR5hMy8vfP51
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/5Hvawa8moJb5X0gkr8hcI0capPQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5068930/6e4ef2.jpg" ch-number="9", Casper Ruud vs Jiri Lehecka - Round 3 (BNP Paribas Arena) | ATP 1000: Internazionali BNL d'Italia 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/5Hvawa8moJb5X0gkr8hcI0capPQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5068930/6e4ef2.jpg" ch-number="10", Casper Ruud vs Jiri Lehecka - Round 3 (BNP Paribas Arena) | ATP 1000: Internazionali BNL d'Italia 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=20885&type=dash&token=N5hcGourzUU0lH0o2UNbsR5hMy8vfP51|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20890&type=drm&token=N5hcGourzUU0lH0o2UNbsR5hMy8vfP51
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/BAXPXbkyMoSVWqDOioz5JspQffI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5068939/a33a4e.jpg" ch-number="10", Tomas Martin Etcheverry/Alejandro Tabilo vs Andre Goransson/Evan King - Round of 32 (Court 1) | ATP 1000: Internazionali BNL d'Italia 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/BAXPXbkyMoSVWqDOioz5JspQffI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5068939/a33a4e.jpg" ch-number="11", Tomas Martin Etcheverry/Alejandro Tabilo vs Andre Goransson/Evan King - Round of 32 (Court 1) | ATP 1000: Internazionali BNL d'Italia 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=20890&type=dash&token=N5hcGourzUU0lH0o2UNbsR5hMy8vfP51|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20886&type=drm&token=N5hcGourzUU0lH0o2UNbsR5hMy8vfP51
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/HBAz8DMNM2ovlF8tctELT2gA74Q=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5068933/ff211d.jpg" ch-number="11", Gianluca Cadenasso/Jacopo Vasami vs Marcel Granollers/Horacio Zeballos - Round of 32 (Supertennis Arena) | ATP 1000: Internazionali BNL d'Italia 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/HBAz8DMNM2ovlF8tctELT2gA74Q=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5068933/ff211d.jpg" ch-number="12", Gianluca Cadenasso/Jacopo Vasami vs Marcel Granollers/Horacio Zeballos - Round of 32 (Supertennis Arena) | ATP 1000: Internazionali BNL d'Italia 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=20886&type=dash&token=N5hcGourzUU0lH0o2UNbsR5hMy8vfP51|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17140&type=drm&token=N5hcGourzUU0lH0o2UNbsR5hMy8vfP51
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/5skmWSkxMOf0eCFQoOqfQfmi_ps=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5064090/49e4e1.jpg" ch-number="12", Moto2 Race: Michelin Grand Prix of France - MotoGP 2026 Round 5
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/5skmWSkxMOf0eCFQoOqfQfmi_ps=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5064090/49e4e1.jpg" ch-number="13", Moto2 Race: Michelin Grand Prix of France - MotoGP 2026 Round 5
 #https://vid-id.indi1.workers.dev/index.mpd?id=17140&type=dash&token=N5hcGourzUU0lH0o2UNbsR5hMy8vfP51|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=19404&type=drm&token=N5hcGourzUU0lH0o2UNbsR5hMy8vfP51
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/hQGUvk3zul_7H3pcvA7TD38drwc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062774/da8038.jpg" ch-number="13", Verona vs Como - Serie A
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/hQGUvk3zul_7H3pcvA7TD38drwc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062774/da8038.jpg" ch-number="14", Verona vs Como - Serie A
 #https://vid-id.indi1.workers.dev/index.mpd?id=19404&type=dash&token=N5hcGourzUU0lH0o2UNbsR5hMy8vfP51|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20891&type=drm&token=N5hcGourzUU0lH0o2UNbsR5hMy8vfP51
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/or3aI0VbPpIYYP-r2b8EHZKiK5o=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5068941/3553ce.jpg" ch-number="14", Francisco Cabral/Joe Salisbury vs Terence Atmane/Corentin Moutet - Round of 32 (Court 13) | ATP 1000: Internazionali BNL d'Italia 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/or3aI0VbPpIYYP-r2b8EHZKiK5o=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5068941/3553ce.jpg" ch-number="15", Francisco Cabral/Joe Salisbury vs Terence Atmane/Corentin Moutet - Round of 32 (Court 13) | ATP 1000: Internazionali BNL d'Italia 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=20891&type=dash&token=N5hcGourzUU0lH0o2UNbsR5hMy8vfP51|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20564&type=drm&token=N5hcGourzUU0lH0o2UNbsR5hMy8vfP51
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/XOiHiLo6cbz6haAjI6TM9jaAIbY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5068944/7dfb0b.jpg" ch-number="15", Jessica Pegula vs Rebeka Masarova - Round of 32 | WTA 1000: Internazionali BNL D'Italia 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/XOiHiLo6cbz6haAjI6TM9jaAIbY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5068944/7dfb0b.jpg" ch-number="16", Jessica Pegula vs Rebeka Masarova - Round of 32 | WTA 1000: Internazionali BNL D'Italia 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=20564&type=dash&token=N5hcGourzUU0lH0o2UNbsR5hMy8vfP51|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20890&type=drm&token=N5hcGourzUU0lH0o2UNbsR5hMy8vfP51
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/83aegQTmeMfUKlWjAQG5nKb9Ox8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5068940/e8fcf3.jpg" ch-number="16", Jakob Schnaitter/Mark Wallner vs Maximo Gonzalez/Andres Molteni - Round of 32 (Court 1) | ATP 1000: Internazionali BNL d'Italia 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/83aegQTmeMfUKlWjAQG5nKb9Ox8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5068940/e8fcf3.jpg" ch-number="17", Jakob Schnaitter/Mark Wallner vs Maximo Gonzalez/Andres Molteni - Round of 32 (Court 1) | ATP 1000: Internazionali BNL d'Italia 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=20890&type=dash&token=N5hcGourzUU0lH0o2UNbsR5hMy8vfP51|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=drm&token=N5hcGourzUU0lH0o2UNbsR5hMy8vfP51
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Q3QKFp_LA_xQgS-vkJmE3P6SAw0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5068926/0061df.jpg" ch-number="17", Alexander Blockx vs Alexander Zverev - Round 3 (Campo Centrale) | ATP 1000: Internazionali BNL d'Italia 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Q3QKFp_LA_xQgS-vkJmE3P6SAw0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5068926/0061df.jpg" ch-number="18", Alexander Blockx vs Alexander Zverev - Round 3 (Campo Centrale) | ATP 1000: Internazionali BNL d'Italia 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=dash&token=N5hcGourzUU0lH0o2UNbsR5hMy8vfP51|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20887&type=drm&token=N5hcGourzUU0lH0o2UNbsR5hMy8vfP51
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/gaj5bXLVpIi-tTobT7y1B4aL4nA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5068936/27157a.jpg" ch-number="18", Ugo Humbert vs Dino Prizmic - Round 3 (Pietrangeli) | ATP 1000: Internazionali BNL d'Italia 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/gaj5bXLVpIi-tTobT7y1B4aL4nA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5068936/27157a.jpg" ch-number="19", Ugo Humbert vs Dino Prizmic - Round 3 (Pietrangeli) | ATP 1000: Internazionali BNL d'Italia 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=20887&type=dash&token=N5hcGourzUU0lH0o2UNbsR5hMy8vfP51|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17140&type=drm&token=N5hcGourzUU0lH0o2UNbsR5hMy8vfP51
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/oUywsok33ThLpjlFm6_iyG-cIPk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5064091/bdb6c9.jpg" ch-number="19", MotoGP Race: Michelin Grand Prix of France - MotoGP 2026 Round 5
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/oUywsok33ThLpjlFm6_iyG-cIPk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5064091/bdb6c9.jpg" ch-number="20", MotoGP Race: Michelin Grand Prix of France - MotoGP 2026 Round 5
 #https://vid-id.indi1.workers.dev/index.mpd?id=17140&type=dash&token=N5hcGourzUU0lH0o2UNbsR5hMy8vfP51|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=205&type=drm&token=N5hcGourzUU0lH0o2UNbsR5hMy8vfP51
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/sUdDQn4O9AsY8qqC-_2HneKBaZ4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062758/0014f2.jpg" ch-number="20", PSIM Jogja vs Malut United FC - BRI Super League
-#https://vid-id.indi1.workers.dev/index.mpd?id=205&type=dash&token=N5hcGourzUU0lH0o2UNbsR5hMy8vfP51|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
