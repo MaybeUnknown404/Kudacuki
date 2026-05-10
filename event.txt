@@ -7,7 +7,7 @@ https://vid-id.indi1.workers.dev/index.mpd?id=19354&type=dash&token=N5hcGourzUU0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17140&type=drm&token=N5hcGourzUU0lH0o2UNbsR5hMy8vfP51
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/pDykdZP3vxLUnkcf78g5rNHyGjo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5064089/804f13.jpg" ch-number="2", Moto3 Race: Michelin Grand Prix of France - MotoGP 2026 Round 5
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="⛔ Event Ended" tvg-logo="https://thumbor.prod.vidiocdn.com/pDykdZP3vxLUnkcf78g5rNHyGjo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5064089/804f13.jpg" ch-number="2", Moto3 Race: Michelin Grand Prix of France - MotoGP 2026 Round 5
 https://vid-id.indi1.workers.dev/index.mpd?id=17140&type=dash&token=N5hcGourzUU0lH0o2UNbsR5hMy8vfP51|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -32,7 +32,7 @@ https://vid-id.indi1.workers.dev/index.mpd?id=20955&type=dash&token=N5hcGourzUU0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17139&type=drm&token=N5hcGourzUU0lH0o2UNbsR5hMy8vfP51
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/wKOuMGuvALfkEylgBGM4S56skZI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5068922/1c9628.jpg" ch-number="7", Race 2 - Asia Road Racing Championship 2026: Round 2 Buriram, Thailand
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="⛔ Event Ended" tvg-logo="https://thumbor.prod.vidiocdn.com/wKOuMGuvALfkEylgBGM4S56skZI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5068922/1c9628.jpg" ch-number="7", Race 2 - Asia Road Racing Championship 2026: Round 2 Buriram, Thailand
 https://vid-id.indi1.workers.dev/index.mpd?id=17139&type=dash&token=N5hcGourzUU0lH0o2UNbsR5hMy8vfP51|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -57,9 +57,8 @@ https://vid-id.indi1.workers.dev/index.mpd?id=20886&type=dash&token=N5hcGourzUU0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17140&type=drm&token=N5hcGourzUU0lH0o2UNbsR5hMy8vfP51
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/5skmWSkxMOf0eCFQoOqfQfmi_ps=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5064090/49e4e1.jpg" ch-number="12", Moto2 Race: Michelin Grand Prix of France - MotoGP 2026 Round 5
-#https://vid-id.indi1.workers.dev/index.mpd?id=17140&type=dash&token=N5hcGourzUU0lH0o2UNbsR5hMy8vfP51|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/5skmWSkxMOf0eCFQoOqfQfmi_ps=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5064090/49e4e1.jpg" ch-number="12", Moto2 Race: Michelin Grand Prix of France - MotoGP 2026 Round 5
+https://vid-id.indi1.workers.dev/index.mpd?id=17140&type=dash&token=N5hcGourzUU0lH0o2UNbsR5hMy8vfP51|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=19404&type=drm&token=N5hcGourzUU0lH0o2UNbsR5hMy8vfP51
