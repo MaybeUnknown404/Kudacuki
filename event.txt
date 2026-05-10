@@ -6,111 +6,112 @@
 https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=dash&token=SoeFrcEbTpOxuhwMxtEOhgSnVNw6JdVZ|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=19404&type=drm&token=SoeFrcEbTpOxuhwMxtEOhgSnVNw6JdVZ
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="⛔ Event Ended" tvg-logo="https://thumbor.prod.vidiocdn.com/vdqKtwOMamUsPp4Z-oOimOzeLco=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5068943/68c3bd.jpg" ch-number="2", Milan vs Atalanta - Serie A
-https://vid-id.indi1.workers.dev/index.mpd?id=19404&type=dash&token=SoeFrcEbTpOxuhwMxtEOhgSnVNw6JdVZ|User-Agent=VidioPlayer/6.31.6
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20955&type=drm&token=SoeFrcEbTpOxuhwMxtEOhgSnVNw6JdVZ
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/mRlOxVBsuCVv_5JN9-DX99nbqQY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5071365/de7ffb.jpg" ch-number="3", Round 3 - ATP 1000: Internazionali BNL d'Italia 2026 (Session 2)
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/mRlOxVBsuCVv_5JN9-DX99nbqQY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5071365/de7ffb.jpg" ch-number="2", Round 3 - ATP 1000: Internazionali BNL d'Italia 2026 (Session 2)
 https://vid-id.indi1.workers.dev/index.mpd?id=20955&type=dash&token=SoeFrcEbTpOxuhwMxtEOhgSnVNw6JdVZ|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18189&type=drm&token=SoeFrcEbTpOxuhwMxtEOhgSnVNw6JdVZ
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/MfPPaLR5rYe-PqxCw03BRVkoJls=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5068607/2fc1a1.jpg" ch-number="4", Round 4 - Truist Championship 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/MfPPaLR5rYe-PqxCw03BRVkoJls=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5068607/2fc1a1.jpg" ch-number="3", Round 4 - Truist Championship 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=18189&type=dash&token=SoeFrcEbTpOxuhwMxtEOhgSnVNw6JdVZ|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=drm&token=SoeFrcEbTpOxuhwMxtEOhgSnVNw6JdVZ
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/L69vhnEg8Rqr2JESGiQR0wBgtlU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5068928/bb7783.jpg" ch-number="5", Matteo Arnaldi vs Rafael Jodar - Round 3 (Campo Centrale) | ATP 1000: Internazionali BNL d'Italia 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/L69vhnEg8Rqr2JESGiQR0wBgtlU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5068928/bb7783.jpg" ch-number="4", Matteo Arnaldi vs Rafael Jodar - Round 3 (Campo Centrale) | ATP 1000: Internazionali BNL d'Italia 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=dash&token=SoeFrcEbTpOxuhwMxtEOhgSnVNw6JdVZ|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=drm&token=SoeFrcEbTpOxuhwMxtEOhgSnVNw6JdVZ
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/1vCREniU130SNyC_3-eDmabA3vk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5068608/96cb83.jpg" ch-number="6", Asuncion P2 Premier Padel - Finals
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/1vCREniU130SNyC_3-eDmabA3vk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5068608/96cb83.jpg" ch-number="5", Asuncion P2 Premier Padel - Finals
 https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=dash&token=SoeFrcEbTpOxuhwMxtEOhgSnVNw6JdVZ|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6786&type=drm&token=SoeFrcEbTpOxuhwMxtEOhgSnVNw6JdVZ
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/W8JAQs97_LS-vgQ9PZpMMkJbT1g=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5069491/42443c.jpg" ch-number="7", Day 6 - WTA 1000: Internazionali BNL D'Italia 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/W8JAQs97_LS-vgQ9PZpMMkJbT1g=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5069491/42443c.jpg" ch-number="6", Day 6 - WTA 1000: Internazionali BNL D'Italia 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=6786&type=dash&token=SoeFrcEbTpOxuhwMxtEOhgSnVNw6JdVZ|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=19354&type=drm&token=SoeFrcEbTpOxuhwMxtEOhgSnVNw6JdVZ
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/-Z1eEt2vbvnZz0MJSRgT8rkdXDI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5068603/7873a9.jpg" ch-number="8", Bali United FC vs Borneo FC Samarinda - BRI Super League
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/-Z1eEt2vbvnZz0MJSRgT8rkdXDI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5068603/7873a9.jpg" ch-number="7", Bali United FC vs Borneo FC Samarinda - BRI Super League
 #https://vid-id.indi1.workers.dev/index.mpd?id=19354&type=dash&token=SoeFrcEbTpOxuhwMxtEOhgSnVNw6JdVZ|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=19385&type=drm&token=SoeFrcEbTpOxuhwMxtEOhgSnVNw6JdVZ
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/ivtxVd_YD9TeLXTKeXcq3gbMyd0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5068604/b75d23.jpg" ch-number="9", Bhayangkara Presisi Lampung FC vs Madura United FC - BRI Super League
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/ivtxVd_YD9TeLXTKeXcq3gbMyd0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5068604/b75d23.jpg" ch-number="8", Bhayangkara Presisi Lampung FC vs Madura United FC - BRI Super League
 #https://vid-id.indi1.workers.dev/index.mpd?id=19385&type=dash&token=SoeFrcEbTpOxuhwMxtEOhgSnVNw6JdVZ|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20564&type=drm&token=SoeFrcEbTpOxuhwMxtEOhgSnVNw6JdVZ
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/BclnlNEOoA9w7xhAnMMB2jK7i1M=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5069495/7f5c23.jpg" ch-number="10", Day 6 - WTA 1000: Internazionali BNL D'Italia 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/BclnlNEOoA9w7xhAnMMB2jK7i1M=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5069495/7f5c23.jpg" ch-number="9", Day 6 - WTA 1000: Internazionali BNL D'Italia 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=20564&type=dash&token=SoeFrcEbTpOxuhwMxtEOhgSnVNw6JdVZ|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17139&type=drm&token=SoeFrcEbTpOxuhwMxtEOhgSnVNw6JdVZ
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/1EcBQVrazF9pPLjiaj3A2_ReuCo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5069499/7c7c77.jpg" ch-number="11", Al-Taawoun vs Al-Ahli - ROSHN Saudi League
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/1EcBQVrazF9pPLjiaj3A2_ReuCo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5069499/7c7c77.jpg" ch-number="10", Al-Taawoun vs Al-Ahli - ROSHN Saudi League
 #https://vid-id.indi1.workers.dev/index.mpd?id=17139&type=dash&token=SoeFrcEbTpOxuhwMxtEOhgSnVNw6JdVZ|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=19404&type=drm&token=SoeFrcEbTpOxuhwMxtEOhgSnVNw6JdVZ
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/PMDXJcASVa3EX-QYYOY2PFVyp2U=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5069496/65ddce.jpg" ch-number="12", Napoli vs Bologna - Serie A
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/PMDXJcASVa3EX-QYYOY2PFVyp2U=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5069496/65ddce.jpg" ch-number="11", Napoli vs Bologna - Serie A
 #https://vid-id.indi1.workers.dev/index.mpd?id=19404&type=dash&token=SoeFrcEbTpOxuhwMxtEOhgSnVNw6JdVZ|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=drm&token=SoeFrcEbTpOxuhwMxtEOhgSnVNw6JdVZ
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/G5D6Ya4pz2huzgf_8UjzbzglfWo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5068611/f212d6.jpg" ch-number="13", Rayo Vallecano vs Girona - LaLiga
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/G5D6Ya4pz2huzgf_8UjzbzglfWo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5068611/f212d6.jpg" ch-number="12", Rayo Vallecano vs Girona - LaLiga
 #https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=dash&token=SoeFrcEbTpOxuhwMxtEOhgSnVNw6JdVZ|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6685&type=drm&token=SoeFrcEbTpOxuhwMxtEOhgSnVNw6JdVZ
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/dudScivp3dGiUbE4pwiBnC6uWu0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5069497/7f69cf.jpg" ch-number="14", Semifinal Leg 2: Millwall vs Hull City - EFL Championship
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/dudScivp3dGiUbE4pwiBnC6uWu0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5069497/7f69cf.jpg" ch-number="13", Semifinal Leg 2: Millwall vs Hull City - EFL Championship
 #https://vid-id.indi1.workers.dev/index.mpd?id=6685&type=dash&token=SoeFrcEbTpOxuhwMxtEOhgSnVNw6JdVZ|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=9182&type=drm&token=SoeFrcEbTpOxuhwMxtEOhgSnVNw6JdVZ
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/NvCqnxsQXkvC73Z7uRNQtndht_M=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5068610/9349e3.jpg" ch-number="15", Tottenham vs Leeds United - Premier League
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/NvCqnxsQXkvC73Z7uRNQtndht_M=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5068610/9349e3.jpg" ch-number="14", Tottenham vs Leeds United - Premier League
 #https://vid-id.indi1.workers.dev/index.mpd?id=9182&type=dash&token=SoeFrcEbTpOxuhwMxtEOhgSnVNw6JdVZ|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20502&type=drm&token=SoeFrcEbTpOxuhwMxtEOhgSnVNw6JdVZ
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/1KVtJY9pPQ0vNQ3bFJDYxUy5QPo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5061558/5b06cd.jpg" ch-number="16", Benfica vs Braga - Liga Portugal
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/1KVtJY9pPQ0vNQ3bFJDYxUy5QPo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5061558/5b06cd.jpg" ch-number="15", Benfica vs Braga - Liga Portugal
 #https://vid-id.indi1.workers.dev/index.mpd?id=20502&type=dash&token=SoeFrcEbTpOxuhwMxtEOhgSnVNw6JdVZ|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6786&type=drm&token=SoeFrcEbTpOxuhwMxtEOhgSnVNw6JdVZ
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/tMRnrjgc3NPIQAHjeCVr3LAOqMs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5069492/e89d76.jpg" ch-number="17", Quarter Finals - WTA 1000: Internazionali BNL D'Italia 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/tMRnrjgc3NPIQAHjeCVr3LAOqMs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5069492/e89d76.jpg" ch-number="16", Quarter Finals - WTA 1000: Internazionali BNL D'Italia 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=6786&type=dash&token=SoeFrcEbTpOxuhwMxtEOhgSnVNw6JdVZ|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=drm&token=SoeFrcEbTpOxuhwMxtEOhgSnVNw6JdVZ
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/z9ykgPb25u5P64WaoZngPfgO7P8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5070340/bfc408.jpg" ch-number="18", Buenos Aires P1 Premier Padel - Day 1
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/z9ykgPb25u5P64WaoZngPfgO7P8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5070340/bfc408.jpg" ch-number="17", Buenos Aires P1 Premier Padel - Day 1
 #https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=dash&token=SoeFrcEbTpOxuhwMxtEOhgSnVNw6JdVZ|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=drm&token=SoeFrcEbTpOxuhwMxtEOhgSnVNw6JdVZ
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/8pujhmPndoU3ysIluyVbWl99fMg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5068612/fbaead.jpg" ch-number="19", Celta Vigo vs Levante - LaLiga
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/8pujhmPndoU3ysIluyVbWl99fMg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5068612/fbaead.jpg" ch-number="18", Celta Vigo vs Levante - LaLiga
 #https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=dash&token=SoeFrcEbTpOxuhwMxtEOhgSnVNw6JdVZ|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6786&type=drm&token=SoeFrcEbTpOxuhwMxtEOhgSnVNw6JdVZ
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/90zam_YPKWqEOEQZioIhV9gwYfg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5069493/3e728f.jpg" ch-number="20", Quarter Finals - WTA 1000: Internazionali BNL D'Italia 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/90zam_YPKWqEOEQZioIhV9gwYfg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5069493/3e728f.jpg" ch-number="19", Quarter Finals - WTA 1000: Internazionali BNL D'Italia 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=6786&type=dash&token=SoeFrcEbTpOxuhwMxtEOhgSnVNw6JdVZ|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6317&type=drm&token=SoeFrcEbTpOxuhwMxtEOhgSnVNw6JdVZ
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/AL4EThGhF8YpoERMGR1KyZSydIM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5069500/1b3dc3.jpg" ch-number="20", Real Betis vs Elche - LaLiga
+#https://vid-id.indi1.workers.dev/index.mpd?id=6317&type=dash&token=SoeFrcEbTpOxuhwMxtEOhgSnVNw6JdVZ|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
