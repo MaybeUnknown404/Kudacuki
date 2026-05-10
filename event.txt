@@ -6,14 +6,14 @@
 https://vid-id.indi1.workers.dev/index.mpd?id=21100&type=dash&token=N5hcGourzUU0lH0o2UNbsR5hMy8vfP51|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17139&type=drm&token=N5hcGourzUU0lH0o2UNbsR5hMy8vfP51
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/wKOuMGuvALfkEylgBGM4S56skZI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5068922/1c9628.jpg" ch-number="2", Race 2 - Asia Road Racing Championship 2026: Round 2 Buriram, Thailand
-https://vid-id.indi1.workers.dev/index.mpd?id=17139&type=dash&token=N5hcGourzUU0lH0o2UNbsR5hMy8vfP51|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21099&type=drm&token=N5hcGourzUU0lH0o2UNbsR5hMy8vfP51
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/_2s4i3PP22YuOuiZNZWv6rXK3OY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5068920/33be08.jpg" ch-number="2", Roket FC vs Putri JP Jakarta - HYDROPLUS Soccer League U-18
+https://vid-id.indi1.workers.dev/index.mpd?id=21099&type=dash&token=N5hcGourzUU0lH0o2UNbsR5hMy8vfP51|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21099&type=drm&token=N5hcGourzUU0lH0o2UNbsR5hMy8vfP51
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/6R8AysrYvYQ45Jq6OZ_DZNHWwrM=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21099/hydroplus-soccer-league-8673ab.jpg" ch-number="3", Roket FC vs Putri JP Jakarta - HYDROPLUS Soccer League U-18
-https://vid-id.indi1.workers.dev/index.mpd?id=21099&type=dash&token=N5hcGourzUU0lH0o2UNbsR5hMy8vfP51|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17139&type=drm&token=N5hcGourzUU0lH0o2UNbsR5hMy8vfP51
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/wKOuMGuvALfkEylgBGM4S56skZI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5068922/1c9628.jpg" ch-number="3", Race 2 - Asia Road Racing Championship 2026: Round 2 Buriram, Thailand
+https://vid-id.indi1.workers.dev/index.mpd?id=17139&type=dash&token=N5hcGourzUU0lH0o2UNbsR5hMy8vfP51|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17140&type=drm&token=N5hcGourzUU0lH0o2UNbsR5hMy8vfP51
