@@ -46,53 +46,54 @@ https://vid-id.indi1.workers.dev/index.mpd?id=9183&type=dash&token=N5hcGourzUU0l
 https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=dash&token=N5hcGourzUU0lH0o2UNbsR5hMy8vfP51|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20887&type=drm&token=N5hcGourzUU0lH0o2UNbsR5hMy8vfP51
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/yfLEDJ1P0XG6feJ9wCQLW4bTyw8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5068937/569eac.jpg" ch-number="10", Kevin Krawietz/Tim Puetz vs Flavio Cobolli/Lorenzo Sonego - Round of 32 (Pietrangeli) | ATP 1000: Internazionali BNL d'Italia 2026
-https://vid-id.indi1.workers.dev/index.mpd?id=20887&type=dash&token=N5hcGourzUU0lH0o2UNbsR5hMy8vfP51|User-Agent=VidioPlayer/6.31.6
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17939&type=drm&token=N5hcGourzUU0lH0o2UNbsR5hMy8vfP51
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/SRgHlO7gZ1GpBESY_IC6YU9dJSY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062777/dfc96b.jpg" ch-number="11", Fiorentina vs Genoa - Serie A
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/SRgHlO7gZ1GpBESY_IC6YU9dJSY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062777/dfc96b.jpg" ch-number="10", Fiorentina vs Genoa - Serie A
 https://vid-id.indi1.workers.dev/index.mpd?id=17939&type=dash&token=N5hcGourzUU0lH0o2UNbsR5hMy8vfP51|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=19404&type=drm&token=N5hcGourzUU0lH0o2UNbsR5hMy8vfP51
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/-Srrts4Iac0yJ3ein53l8Jj536I=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062775/403d5c.jpg" ch-number="12", Cremonese vs Pisa - Serie A
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/-Srrts4Iac0yJ3ein53l8Jj536I=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062775/403d5c.jpg" ch-number="11", Cremonese vs Pisa - Serie A
 https://vid-id.indi1.workers.dev/index.mpd?id=19404&type=dash&token=N5hcGourzUU0lH0o2UNbsR5hMy8vfP51|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=19536&type=drm&token=N5hcGourzUU0lH0o2UNbsR5hMy8vfP51
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/2EMs0SmtJQ7V-5yaM4Uv_d7r2tM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062746/17e0e8.jpg" ch-number="13", Crystal Palace vs Everton - Premier League
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/2EMs0SmtJQ7V-5yaM4Uv_d7r2tM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062746/17e0e8.jpg" ch-number="12", Crystal Palace vs Everton - Premier League
 https://vid-id.indi1.workers.dev/index.mpd?id=19536&type=dash&token=N5hcGourzUU0lH0o2UNbsR5hMy8vfP51|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20886&type=drm&token=N5hcGourzUU0lH0o2UNbsR5hMy8vfP51
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/8snnWKLyiGyUU526LDbYuxd_DZ0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5068934/e28a23.jpg" ch-number="14", Karen Khachanov vs Botic van de Zandschulp - Round 3 (Supertennis Arena) | ATP 1000: Internazionali BNL d'Italia 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/8snnWKLyiGyUU526LDbYuxd_DZ0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5068934/e28a23.jpg" ch-number="13", Karen Khachanov vs Botic van de Zandschulp - Round 3 (Supertennis Arena) | ATP 1000: Internazionali BNL d'Italia 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=20886&type=dash&token=N5hcGourzUU0lH0o2UNbsR5hMy8vfP51|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=drm&token=N5hcGourzUU0lH0o2UNbsR5hMy8vfP51
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/qh4qvSTEkNmjX9QcGzCGXv_5GgM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062754/3ecabe.jpg" ch-number="15", Athletic Club vs Valencia - LaLiga
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/qh4qvSTEkNmjX9QcGzCGXv_5GgM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062754/3ecabe.jpg" ch-number="14", Athletic Club vs Valencia - LaLiga
 #https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=dash&token=N5hcGourzUU0lH0o2UNbsR5hMy8vfP51|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=19354&type=drm&token=N5hcGourzUU0lH0o2UNbsR5hMy8vfP51
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/-HL5GdPAOeXmVS4tq8nrsNHDXtg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5069634/205b03.jpg" ch-number="16", PERSIJA vs PERSIB - BRI Super League
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/-HL5GdPAOeXmVS4tq8nrsNHDXtg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5069634/205b03.jpg" ch-number="15", PERSIJA vs PERSIB - BRI Super League
 #https://vid-id.indi1.workers.dev/index.mpd?id=19354&type=dash&token=N5hcGourzUU0lH0o2UNbsR5hMy8vfP51|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21154&type=drm&token=N5hcGourzUU0lH0o2UNbsR5hMy8vfP51
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/dSI5XgSzgSRktY6AG7SevzkXmKo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5068628/17a978.jpg" ch-number="17", Feyenoord vs AZ Alkmaar - Eredivisie
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/dSI5XgSzgSRktY6AG7SevzkXmKo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5068628/17a978.jpg" ch-number="16", Feyenoord vs AZ Alkmaar - Eredivisie
 #https://vid-id.indi1.workers.dev/index.mpd?id=21154&type=dash&token=N5hcGourzUU0lH0o2UNbsR5hMy8vfP51|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=19436&type=drm&token=N5hcGourzUU0lH0o2UNbsR5hMy8vfP51
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/26KCF2hhA2oSn6TP3NQkAUhiiQ0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5064138/cac38f.jpg" ch-number="18", FC Groningen vs NEC Nijmegen - Eredivisie
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/26KCF2hhA2oSn6TP3NQkAUhiiQ0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5064138/cac38f.jpg" ch-number="17", FC Groningen vs NEC Nijmegen - Eredivisie
 #https://vid-id.indi1.workers.dev/index.mpd?id=19436&type=dash&token=N5hcGourzUU0lH0o2UNbsR5hMy8vfP51|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6686&type=drm&token=N5hcGourzUU0lH0o2UNbsR5hMy8vfP51
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/e7OXOWyFQG4g0nKtUQSA-V1hQ4Y=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5068469/87824e.jpg" ch-number="18", Go Ahead Eagles vs PSV - Eredivisie
+#https://vid-id.indi1.workers.dev/index.mpd?id=6686&type=dash&token=N5hcGourzUU0lH0o2UNbsR5hMy8vfP51|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -102,8 +103,8 @@ https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1ec
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6686&type=drm&token=N5hcGourzUU0lH0o2UNbsR5hMy8vfP51
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/e7OXOWyFQG4g0nKtUQSA-V1hQ4Y=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5068469/87824e.jpg" ch-number="20", Go Ahead Eagles vs PSV - Eredivisie
-#https://vid-id.indi1.workers.dev/index.mpd?id=6686&type=dash&token=N5hcGourzUU0lH0o2UNbsR5hMy8vfP51|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=9182&type=drm&token=N5hcGourzUU0lH0o2UNbsR5hMy8vfP51
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Yr_CPgfjAJIzsBWwQVhrLuGzjJU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062622/6feafd.jpg" ch-number="20", West Ham vs Arsenal - Premier League
+#https://vid-id.indi1.workers.dev/index.mpd?id=9182&type=dash&token=N5hcGourzUU0lH0o2UNbsR5hMy8vfP51|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
