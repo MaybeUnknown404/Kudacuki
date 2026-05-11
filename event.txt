@@ -31,27 +31,26 @@ https://vid-id.indi1.workers.dev/index.mpd?id=6786&type=dash&token=SoeFrcEbTpOxu
 https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=dash&token=SoeFrcEbTpOxuhwMxtEOhgSnVNw6JdVZ|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20886&type=drm&token=SoeFrcEbTpOxuhwMxtEOhgSnVNw6JdVZ
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/wDLCpd2eFGRNtp_I5ISHZ7va58U=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5071405/779765.jpg" ch-number="7", Yuki Bhambri/Michael Venus vs Simone Bolelli/Andrea Vavassori - Round of 32 (Supertennis Arena) | ATP 1000: Internazionali BNL d'Italia 2026
+https://vid-id.indi1.workers.dev/index.mpd?id=20886&type=dash&token=SoeFrcEbTpOxuhwMxtEOhgSnVNw6JdVZ|User-Agent=VidioPlayer/6.31.6
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20885&type=drm&token=SoeFrcEbTpOxuhwMxtEOhgSnVNw6JdVZ
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/sXMU6XZYKB_TVadDrU7Pt9chcTs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5071400/88a51f.jpg" ch-number="7", Pablo Llamas Ruiz vs Daniil Medvedev - Round 3 (BNP Paribas Arena) | ATP 1000: Internazionali BNL d'Italia 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/sXMU6XZYKB_TVadDrU7Pt9chcTs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5071400/88a51f.jpg" ch-number="8", Pablo Llamas Ruiz vs Daniil Medvedev - Round 3 (BNP Paribas Arena) | ATP 1000: Internazionali BNL d'Italia 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=20885&type=dash&token=SoeFrcEbTpOxuhwMxtEOhgSnVNw6JdVZ|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20886&type=drm&token=SoeFrcEbTpOxuhwMxtEOhgSnVNw6JdVZ
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/wDLCpd2eFGRNtp_I5ISHZ7va58U=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5071405/779765.jpg" ch-number="8", Yuki Bhambri/Michael Venus vs Simone Bolelli/Andrea Vavassori - Round of 32 (Supertennis Arena) | ATP 1000: Internazionali BNL d'Italia 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=20886&type=dash&token=SoeFrcEbTpOxuhwMxtEOhgSnVNw6JdVZ|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20890&type=drm&token=SoeFrcEbTpOxuhwMxtEOhgSnVNw6JdVZ
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/d8iv5eqjZgW8-sRq5aAfWcmODRc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5071411/9e5db8.jpg" ch-number="9", Alexander Bublik/Marc Polmans vs Hugo Nys/Edouard Roger-Vasselin - Round of 32 (Court 1) | ATP 1000: Internazionali BNL d'Italia 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=20890&type=dash&token=SoeFrcEbTpOxuhwMxtEOhgSnVNw6JdVZ|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20891&type=drm&token=SoeFrcEbTpOxuhwMxtEOhgSnVNw6JdVZ
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/miIuqXLV10Qaw-Jq_keS1QMC0vQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5071416/0671fc.jpg" ch-number="9", Harri Heliovarra/Henry Patten vs Tommy Paul/Ethan Quinn - Round of 32 (Court 13) | ATP 1000: Internazionali BNL d'Italia 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/miIuqXLV10Qaw-Jq_keS1QMC0vQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5071416/0671fc.jpg" ch-number="10", Harri Heliovarra/Henry Patten vs Tommy Paul/Ethan Quinn - Round of 32 (Court 13) | ATP 1000: Internazionali BNL d'Italia 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=20891&type=dash&token=SoeFrcEbTpOxuhwMxtEOhgSnVNw6JdVZ|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20890&type=drm&token=SoeFrcEbTpOxuhwMxtEOhgSnVNw6JdVZ
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/d8iv5eqjZgW8-sRq5aAfWcmODRc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5071411/9e5db8.jpg" ch-number="10", Alexander Bublik/Marc Polmans vs Hugo Nys/Edouard Roger-Vasselin - Round of 32 (Court 1) | ATP 1000: Internazionali BNL d'Italia 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=20890&type=dash&token=SoeFrcEbTpOxuhwMxtEOhgSnVNw6JdVZ|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
