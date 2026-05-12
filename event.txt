@@ -2,7 +2,7 @@
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=drm&token=TfHhSBLETxSszdpWGf7wCcPLDTqyUQ3C
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/TTsFLMy-rFmXbH2t5Yn44HT3mEA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5071636/3cb71d.jpg" ch-number="1", Kittinupong Kedren/Lucas Ekarat Wedler (THA) vs Choong Hon Jian/Wong Vin Sean (MAS) - Mixed Doubles Qualification Quarterfinal | TOYOTA Thailand Open 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/YIENS6pK4Ns7Wyu7FF-wiia-uDI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5071637/7fe778.jpg" ch-number="1", Poomyot Rujirot-Ampai/Patamon Manjakon (THA) vs Nicky Yemin Aung (CAN)/Sirapat Tepnarong (THA) - Mixed Doubles Qualification Quarterfinal | TOYOTA Thailand Open 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=TfHhSBLETxSszdpWGf7wCcPLDTqyUQ3C|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -12,7 +12,7 @@ https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=dash&token=TfHhSBLETxSs
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=drm&token=TfHhSBLETxSszdpWGf7wCcPLDTqyUQ3C
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/N1QUucgUHn_hz1XqaYTzhRbfcfI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5071726/5473f6.jpg" ch-number="3", Mohit Jaglan/Lakshita Jaglan (IND) vs Tsai Fu Cheng/Sung Yu-Hsuan (TPE) - Mixed Doubles Qualification Quarterfinals | TOYOTA Thailand Open 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/UvyaMOlgrjQT33-We0B5zsHfYfY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5071727/66d354.jpg" ch-number="3", He Ji Ting/Ren Xiang Yu (CHN) vs Lau Yi Sheng/Lim Tze Jian (MAS) - Men's Doubles Qualification Quarterfinals | TOYOTA Thailand Open 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=dash&token=TfHhSBLETxSszdpWGf7wCcPLDTqyUQ3C|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
