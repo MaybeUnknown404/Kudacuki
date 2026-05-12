@@ -7,7 +7,7 @@ https://vid-id.indi1.workers.dev/index.mpd?id=20955&type=dash&token=eLrU96lSfJnP
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6685&type=drm&token=eLrU96lSfJnPvpFSWUqTLKY9BHzRL7vf
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/bewsZaIEcwxFMyW4lgMdSs5ZCgg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5069498/d665bf.jpg" ch-number="2", Semifinal Leg 2: Southampton vs Middlesbrough - EFL Championship
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="⛔ Event Ended" tvg-logo="https://thumbor.prod.vidiocdn.com/bewsZaIEcwxFMyW4lgMdSs5ZCgg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5069498/d665bf.jpg" ch-number="2", Semifinal Leg 2: Southampton vs Middlesbrough - EFL Championship
 https://vid-id.indi1.workers.dev/index.mpd?id=6685&type=dash&token=eLrU96lSfJnPvpFSWUqTLKY9BHzRL7vf|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
