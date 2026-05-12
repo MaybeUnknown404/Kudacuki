@@ -16,14 +16,14 @@ https://vid-id.indi1.workers.dev/index.mpd?id=20885&type=dash&token=TfHhSBLETxSs
 https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=dash&token=TfHhSBLETxSszdpWGf7wCcPLDTqyUQ3C|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20887&type=drm&token=TfHhSBLETxSszdpWGf7wCcPLDTqyUQ3C
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/w-jaoXO1MZsYV4dfPCoB00aRfkQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5071849/bdca0c.jpg" ch-number="4", Hamad Medjedovic vs Martin Landaluce - Round of 16 (Pietrangeli) | ATP 1000: Internazionali BNL d'Italia 2026
-https://vid-id.indi1.workers.dev/index.mpd?id=20887&type=dash&token=TfHhSBLETxSszdpWGf7wCcPLDTqyUQ3C|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6786&type=drm&token=TfHhSBLETxSszdpWGf7wCcPLDTqyUQ3C
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/dUj9bCjs3dLkHYNIHCa9JbxSTv0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5069493/198527.jpg" ch-number="4", Coco Gauff vs Mirra Andreeva - Quarter Finals | WTA 1000: Internazionali BNL D'Italia 2026
+https://vid-id.indi1.workers.dev/index.mpd?id=6786&type=dash&token=TfHhSBLETxSszdpWGf7wCcPLDTqyUQ3C|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6786&type=drm&token=TfHhSBLETxSszdpWGf7wCcPLDTqyUQ3C
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/dUj9bCjs3dLkHYNIHCa9JbxSTv0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5069493/198527.jpg" ch-number="5", Coco Gauff vs Mirra Andreeva - Quarter Finals | WTA 1000: Internazionali BNL D'Italia 2026
-https://vid-id.indi1.workers.dev/index.mpd?id=6786&type=dash&token=TfHhSBLETxSszdpWGf7wCcPLDTqyUQ3C|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20887&type=drm&token=TfHhSBLETxSszdpWGf7wCcPLDTqyUQ3C
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/w-jaoXO1MZsYV4dfPCoB00aRfkQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5071849/bdca0c.jpg" ch-number="5", Hamad Medjedovic vs Martin Landaluce - Round of 16 (Pietrangeli) | ATP 1000: Internazionali BNL d'Italia 2026
+https://vid-id.indi1.workers.dev/index.mpd?id=20887&type=dash&token=TfHhSBLETxSszdpWGf7wCcPLDTqyUQ3C|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20886&type=drm&token=TfHhSBLETxSszdpWGf7wCcPLDTqyUQ3C
@@ -48,15 +48,15 @@ https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1ec
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=drm&token=TfHhSBLETxSszdpWGf7wCcPLDTqyUQ3C
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/lD92zwjco0nBapW08OL6UWaRFVU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5070341/baa2f3.jpg" ch-number="10", Buenos Aires P1 Premier Padel - Day 1
-#https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=dash&token=TfHhSBLETxSszdpWGf7wCcPLDTqyUQ3C|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6685&type=drm&token=TfHhSBLETxSszdpWGf7wCcPLDTqyUQ3C
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/bewsZaIEcwxFMyW4lgMdSs5ZCgg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5069498/d665bf.jpg" ch-number="10", Semifinal Leg 2: Southampton vs Middlesbrough - EFL Championship
+#https://vid-id.indi1.workers.dev/index.mpd?id=6685&type=dash&token=TfHhSBLETxSszdpWGf7wCcPLDTqyUQ3C|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6685&type=drm&token=TfHhSBLETxSszdpWGf7wCcPLDTqyUQ3C
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/bewsZaIEcwxFMyW4lgMdSs5ZCgg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5069498/d665bf.jpg" ch-number="11", Semifinal Leg 2: Southampton vs Middlesbrough - EFL Championship
-#https://vid-id.indi1.workers.dev/index.mpd?id=6685&type=dash&token=TfHhSBLETxSszdpWGf7wCcPLDTqyUQ3C|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=drm&token=TfHhSBLETxSszdpWGf7wCcPLDTqyUQ3C
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/lD92zwjco0nBapW08OL6UWaRFVU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5070341/baa2f3.jpg" ch-number="11", Buenos Aires P1 Premier Padel - Day 1
+#https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=dash&token=TfHhSBLETxSszdpWGf7wCcPLDTqyUQ3C|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -78,15 +78,15 @@ https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1ec
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21254&type=drm&token=TfHhSBLETxSszdpWGf7wCcPLDTqyUQ3C
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/FKL2LMAYeyIaRfmRNqwCpCTJmOU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5072738/f1d644.jpg" ch-number="15", Opening Ceremony AVC Men's Champions League 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=21254&type=dash&token=TfHhSBLETxSszdpWGf7wCcPLDTqyUQ3C|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=drm&token=TfHhSBLETxSszdpWGf7wCcPLDTqyUQ3C
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/GaZXci68EUymzB8NdY5NUWSJt4I=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5072837/7cb1a7.jpg" ch-number="15", Shi Yu Qi (CHN) vs Anthony Sinisuka Ginting (INA) - Men's Singles Round of 32 | TOYOTA Thailand Open 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=dash&token=TfHhSBLETxSszdpWGf7wCcPLDTqyUQ3C|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=drm&token=TfHhSBLETxSszdpWGf7wCcPLDTqyUQ3C
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/XaY40Bu9VWGqCgYfcSWmAjjgHV4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5072841/7e1bc5.jpg" ch-number="16", Tsai Fu Cheng/Sung Yu-Hsuan (TPE) vs Ashith Surya/Amrutha Pramuthesh (IND) - Mixed Doubles Round of 32 | TOYOTA Thailand Open 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=dash&token=TfHhSBLETxSszdpWGf7wCcPLDTqyUQ3C|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21254&type=drm&token=TfHhSBLETxSszdpWGf7wCcPLDTqyUQ3C
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/FKL2LMAYeyIaRfmRNqwCpCTJmOU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5072738/f1d644.jpg" ch-number="16", Opening Ceremony AVC Men's Champions League 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=21254&type=dash&token=TfHhSBLETxSszdpWGf7wCcPLDTqyUQ3C|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -96,20 +96,20 @@ https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1ec
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=drm&token=TfHhSBLETxSszdpWGf7wCcPLDTqyUQ3C
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/zNu_UAtvt9Os8mp-iz07DkbJexU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5072842/e4a16a.jpg" ch-number="18", Supanida Katethong (THA) vs Pitchamon Opatniputh (THA) - Women's Singles Round of 32 | TOYOTA Thailand Open 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=dash&token=TfHhSBLETxSszdpWGf7wCcPLDTqyUQ3C|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21254&type=drm&token=TfHhSBLETxSszdpWGf7wCcPLDTqyUQ3C
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/O62yjUxpYJ87s6MirUncdBDtVKg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5071452/f8999b.jpg" ch-number="19", Jakarta Bhayangkara Presisi vs Zhaiyk VC - AVC Men's Champions League
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/O62yjUxpYJ87s6MirUncdBDtVKg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5071452/f8999b.jpg" ch-number="18", Jakarta Bhayangkara Presisi vs Zhaiyk VC - AVC Men's Champions League
 #https://vid-id.indi1.workers.dev/index.mpd?id=21254&type=dash&token=TfHhSBLETxSszdpWGf7wCcPLDTqyUQ3C|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=drm&token=TfHhSBLETxSszdpWGf7wCcPLDTqyUQ3C
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/K9fijiEmCNX4nxwqngnhpddNdno=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5072843/5cabb4.jpg" ch-number="20", Yuichi Shimogami/Sayaka Hobara (JPN) vs Tankhun Setthaprasert/Pattaraporn Rungruengpramong (THA) - Mixed Doubles Round of 32 | TOYOTA Thailand Open 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/K9fijiEmCNX4nxwqngnhpddNdno=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5072843/5cabb4.jpg" ch-number="19", Yuichi Shimogami/Sayaka Hobara (JPN) vs Tankhun Setthaprasert/Pattaraporn Rungruengpramong (THA) - Mixed Doubles Round of 32 | TOYOTA Thailand Open 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=dash&token=TfHhSBLETxSszdpWGf7wCcPLDTqyUQ3C|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6786&type=drm&token=TfHhSBLETxSszdpWGf7wCcPLDTqyUQ3C
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/G38ROZhGQIXsaSLbwg_XvMrSK64=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5069494/3ce8e9.jpg" ch-number="20", Quarter Finals - WTA 1000: Internazionali BNL D'Italia 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=6786&type=dash&token=TfHhSBLETxSszdpWGf7wCcPLDTqyUQ3C|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
