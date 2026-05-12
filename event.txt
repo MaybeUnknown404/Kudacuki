@@ -7,7 +7,7 @@ https://vid-id.indi1.workers.dev/index.mpd?id=18253&type=dash&token=TfHhSBLETxSs
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=drm&token=TfHhSBLETxSszdpWGf7wCcPLDTqyUQ3C
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/pIXTWoP2MuehBMDBDY1SyErVlBs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5071734/edac9e.jpg" ch-number="2", Yan Fei Chen/Liang Ching Sun (TPE) vs Chen Fan Shu Tian/Luo Xu Min (CHN) - Women's Doubles Round of 32 | TOYOTA Thailand Open 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/E9HZtKu7FRCZ5UvgHupt9606f04=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5071735/fb5108.jpg" ch-number="2", Chen Zhi Ray/Lin Yu Chieh (TPE) vs Hariharan Amsakarunan/M.R. Arjun (IND) - Men's Doubles Round of 32 | TOYOTA Thailand Open 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=dash&token=TfHhSBLETxSszdpWGf7wCcPLDTqyUQ3C|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
