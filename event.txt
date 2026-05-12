@@ -7,12 +7,12 @@ https://vid-id.indi1.workers.dev/index.mpd?id=18253&type=dash&token=TfHhSBLETxSs
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=drm&token=TfHhSBLETxSszdpWGf7wCcPLDTqyUQ3C
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/TSc3dd8BSHbvLsZt4D8YPRZpaEw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5071731/370091.jpg" ch-number="2", Hung Kuei Chun/Lui Chun Wai (HKG) vs Bryan Jeremy Goonting/Muhammad Haikal (MAS) - Men's Doubles Round of 32 | TOYOTA Thailand Open 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/wyQGGC8SHedJXcPsLFUq1fV8pho=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5071732/3c9ab2.jpg" ch-number="2", Hinata Suzuki/Nao Yamakita (JPN) vs Chong Jie Yu/Vanessa Ng (MAS) - Women's Doubles Round of 32 | TOYOTA Thailand Open 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=dash&token=TfHhSBLETxSszdpWGf7wCcPLDTqyUQ3C|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20955&type=drm&token=TfHhSBLETxSszdpWGf7wCcPLDTqyUQ3C
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/1DWS0_yVmFx58_9RjulIKX1ByLg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5071818/f7a0ee.jpg" ch-number="3", Lorenzo Musetti vs Casper Ruud - Round of 16 | ATP 1000: Internazionali BNL d'Italia 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/URPSHeCaAv-OOqDTKKQG3VafthM=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/20955/round-of-16-atp-1000-internazionali-bnl-d-italia-2026-070dfe.jpg" ch-number="3", Round of 16 - ATP 1000:  Internazionali BNL d'Italia 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=20955&type=dash&token=TfHhSBLETxSszdpWGf7wCcPLDTqyUQ3C|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -31,25 +31,26 @@ https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=dash&token=TfHhSBLETxSs
 https://vid-id.indi1.workers.dev/index.mpd?id=20886&type=dash&token=TfHhSBLETxSszdpWGf7wCcPLDTqyUQ3C|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=drm&token=TfHhSBLETxSszdpWGf7wCcPLDTqyUQ3C
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/IGbPqWBJ66Y1mKcJaXzqOoAVML0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5071813/13f901.jpg" ch-number="7", Lorenzo Musetti vs Casper Ruud - Round of 16 (Campo Centrale) | ATP 1000: Internazionali BNL d'Italia 2026
-https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=dash&token=TfHhSBLETxSszdpWGf7wCcPLDTqyUQ3C|User-Agent=VidioPlayer/6.31.6
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20885&type=drm&token=TfHhSBLETxSszdpWGf7wCcPLDTqyUQ3C
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/9BgF_LqtKzXYOai6mHgQ3smkweQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5071808/13241c.jpg" ch-number="8", Rafael Jodar vs Learner Tien - Round of 16 (BNP Paribas Arena) | ATP 1000: Internazionali BNL d'Italia 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/9BgF_LqtKzXYOai6mHgQ3smkweQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5071808/13241c.jpg" ch-number="7", Rafael Jodar vs Learner Tien - Round of 16 (BNP Paribas Arena) | ATP 1000: Internazionali BNL d'Italia 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=20885&type=dash&token=TfHhSBLETxSszdpWGf7wCcPLDTqyUQ3C|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20886&type=drm&token=TfHhSBLETxSszdpWGf7wCcPLDTqyUQ3C
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/vTtmULwHHXDMm3qfg1vVEFznYcI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5071816/ae08ef.jpg" ch-number="9", Kevin Krawietz/Tim Putz vs Alexander Erler/Lucas Miedler - Round of 16 (Supertennis Arena) | ATP 1000: Internazionali BNL d'Italia 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/vTtmULwHHXDMm3qfg1vVEFznYcI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5071816/ae08ef.jpg" ch-number="8", Kevin Krawietz/Tim Putz vs Alexander Erler/Lucas Miedler - Round of 16 (Supertennis Arena) | ATP 1000: Internazionali BNL d'Italia 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=20886&type=dash&token=TfHhSBLETxSszdpWGf7wCcPLDTqyUQ3C|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6786&type=drm&token=TfHhSBLETxSszdpWGf7wCcPLDTqyUQ3C
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/tMRnrjgc3NPIQAHjeCVr3LAOqMs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5069492/e89d76.jpg" ch-number="10", Quarter Finals - WTA 1000: Internazionali BNL D'Italia 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/tMRnrjgc3NPIQAHjeCVr3LAOqMs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5069492/e89d76.jpg" ch-number="9", Quarter Finals - WTA 1000: Internazionali BNL D'Italia 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=6786&type=dash&token=TfHhSBLETxSszdpWGf7wCcPLDTqyUQ3C|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=drm&token=TfHhSBLETxSszdpWGf7wCcPLDTqyUQ3C
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/zJeFIhmli2gm5vYOydBXbO4_zWk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5071733/b15124.jpg" ch-number="10", Muhammad Rian Ardianto/Rahmat Hidayat (INA) vs Chia Weijie/Teo Ee Yi (MAS) - Men's Doubles Round of 32 | TOYOTA Thailand Open 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=dash&token=TfHhSBLETxSszdpWGf7wCcPLDTqyUQ3C|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -59,15 +60,15 @@ https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1ec
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=drm&token=TfHhSBLETxSszdpWGf7wCcPLDTqyUQ3C
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/zJeFIhmli2gm5vYOydBXbO4_zWk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5071733/b15124.jpg" ch-number="12", Muhammad Rian Ardianto/Rahmat Hidayat (INA) vs Chia Weijie/Teo Ee Yi (MAS) - Men's Doubles Round of 32 | TOYOTA Thailand Open 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=dash&token=TfHhSBLETxSszdpWGf7wCcPLDTqyUQ3C|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20885&type=drm&token=TfHhSBLETxSszdpWGf7wCcPLDTqyUQ3C
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/xvOzkM2AzKXP6aSo0Mj3t95AGMQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5071809/c2581a.jpg" ch-number="12", Luciano Darderi vs Alexander Zverev - Round of 16 (BNP Paribas Arena) | ATP 1000: Internazionali BNL d'Italia 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=20885&type=dash&token=TfHhSBLETxSszdpWGf7wCcPLDTqyUQ3C|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20885&type=drm&token=TfHhSBLETxSszdpWGf7wCcPLDTqyUQ3C
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/xvOzkM2AzKXP6aSo0Mj3t95AGMQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5071809/c2581a.jpg" ch-number="13", Luciano Darderi vs Alexander Zverev - Round of 16 (BNP Paribas Arena) | ATP 1000: Internazionali BNL d'Italia 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=20885&type=dash&token=TfHhSBLETxSszdpWGf7wCcPLDTqyUQ3C|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=drm&token=TfHhSBLETxSszdpWGf7wCcPLDTqyUQ3C
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/HGy4Kw6Pl0YhjUaXnHFqViPsMfI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5071821/abe7f4.jpg" ch-number="13", Jannik Sinner vs Andrea Pellegrino - Round of 16 (Campo Centrale) | ATP 1000: Internazionali BNL d'Italia 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=dash&token=TfHhSBLETxSszdpWGf7wCcPLDTqyUQ3C|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -83,32 +84,32 @@ https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1ec
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=drm&token=TfHhSBLETxSszdpWGf7wCcPLDTqyUQ3C
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/HGy4Kw6Pl0YhjUaXnHFqViPsMfI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5071821/abe7f4.jpg" ch-number="16", Jannik Sinner vs Andrea Pellegrino - Round of 16 (Campo Centrale) | ATP 1000: Internazionali BNL d'Italia 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=dash&token=TfHhSBLETxSszdpWGf7wCcPLDTqyUQ3C|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20955&type=drm&token=TfHhSBLETxSszdpWGf7wCcPLDTqyUQ3C
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/LNILGTPtkoK6SoZ7mc_MDBquo8s=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5071819/3a1a7f.jpg" ch-number="17", Jannik Sinner vs Andrea Pellegrino - Round of 16 | ATP 1000: Internazionali BNL d'Italia 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/LNILGTPtkoK6SoZ7mc_MDBquo8s=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5071819/3a1a7f.jpg" ch-number="16", Jannik Sinner vs Andrea Pellegrino - Round of 16 | ATP 1000: Internazionali BNL d'Italia 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=20955&type=dash&token=TfHhSBLETxSszdpWGf7wCcPLDTqyUQ3C|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20885&type=drm&token=TfHhSBLETxSszdpWGf7wCcPLDTqyUQ3C
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/K68ODKPBTiWZmG-X_I4WVHK6ink=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5071810/04104d.jpg" ch-number="18", Andrey Rublev vs Nikoloz Basilashvili - Round of 16 (BNP Paribas Arena) | ATP 1000: Internazionali BNL d'Italia 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/K68ODKPBTiWZmG-X_I4WVHK6ink=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5071810/04104d.jpg" ch-number="17", Andrey Rublev vs Nikoloz Basilashvili - Round of 16 (BNP Paribas Arena) | ATP 1000: Internazionali BNL d'Italia 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=20885&type=dash&token=TfHhSBLETxSszdpWGf7wCcPLDTqyUQ3C|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20886&type=drm&token=TfHhSBLETxSszdpWGf7wCcPLDTqyUQ3C
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/BV2w8DPL1My31KHocwYBU1mn8_s=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5071851/a3ff19.jpg" ch-number="19", Francisco Cabral/Joe Salisbury vs Sadio Doumbia/Fabien Reboul - Round of 16 (Supertennis Arena) | ATP 1000: Internazionali BNL d'Italia 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/BV2w8DPL1My31KHocwYBU1mn8_s=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5071851/a3ff19.jpg" ch-number="18", Francisco Cabral/Joe Salisbury vs Sadio Doumbia/Fabien Reboul - Round of 16 (Supertennis Arena) | ATP 1000: Internazionali BNL d'Italia 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=20886&type=dash&token=TfHhSBLETxSszdpWGf7wCcPLDTqyUQ3C|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20885&type=drm&token=TfHhSBLETxSszdpWGf7wCcPLDTqyUQ3C
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/6K02Yy5IKNUD90hN81fbhU0Yas4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5071811/4a69ef.jpg" ch-number="20", Hamad Medjedovic vs Martin Landaluce - Round of 16 (BNP Paribas Arena) | ATP 1000: Internazionali BNL d'Italia 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/6K02Yy5IKNUD90hN81fbhU0Yas4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5071811/4a69ef.jpg" ch-number="19", Hamad Medjedovic vs Martin Landaluce - Round of 16 (BNP Paribas Arena) | ATP 1000: Internazionali BNL d'Italia 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=20885&type=dash&token=TfHhSBLETxSszdpWGf7wCcPLDTqyUQ3C|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=drm&token=TfHhSBLETxSszdpWGf7wCcPLDTqyUQ3C
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/8pujhmPndoU3ysIluyVbWl99fMg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5068612/fbaead.jpg" ch-number="20", Celta Vigo vs Levante - LaLiga
+#https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=dash&token=TfHhSBLETxSszdpWGf7wCcPLDTqyUQ3C|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
