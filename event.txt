@@ -7,7 +7,7 @@ https://vid-id.indi1.workers.dev/index.mpd?id=18253&type=dash&token=TfHhSBLETxSs
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=drm&token=TfHhSBLETxSszdpWGf7wCcPLDTqyUQ3C
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/9kvHi6X1C12f3E6Sot5oLJ--lBE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5071736/c518e1.jpg" ch-number="2", Bao Li Jing/Cao Zi Han (CHN) vs Hsieh Pei Shan/Hung En-Tzu (TPE) - Women's Doubles Round of 32 | TOYOTA Thailand Open 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/okxcyz-YQniUID_nemwJv3QKoVk=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/toyota-thailand-open-2026-qualifiers-round-of-32-court-3-d5bd90.jpg" ch-number="2", Toyota Thailand Open 2026 - Qualifiers+Round Of 32 (Court 3)
 https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=dash&token=TfHhSBLETxSszdpWGf7wCcPLDTqyUQ3C|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
