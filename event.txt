@@ -2,7 +2,7 @@
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=drm&token=TfHhSBLETxSszdpWGf7wCcPLDTqyUQ3C
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/g6cm97H6JrO5sMWSw2YHxV9Rrr0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5071638/21c598.jpg" ch-number="1", Kungkaew Kakanik (THA) vs Yvonne Li (GER) - Women's Singles Qualification Quarter Final | TOYOTA Thailand Open 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/2cksVCvO8t1yV0mmmTXSHo2706M=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5071639/99004e.jpg" ch-number="1", Ditlev Jaeger Holm (DEN) vs Kantaphon Wangcharoen (THA) - Men's Singles Qualification Quarter Final | TOYOTA Thailand Open 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=TfHhSBLETxSszdpWGf7wCcPLDTqyUQ3C|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
