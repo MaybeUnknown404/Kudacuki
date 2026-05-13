@@ -12,7 +12,7 @@ https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=dash&token=eLrU96lSfJnP
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=drm&token=eLrU96lSfJnPvpFSWUqTLKY9BHzRL7vf
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/s1wwMsONc4pus2JYaHOp5HsGBeQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5072851/f04e5a.jpg" ch-number="3", Donovan Willard Wee/Jia Hao Howin Wong (SGP) vs He Ji Ting/Ren Xiang Yu (CHN) - Men's Doubles Round of 32 | TOYOTA Thailand Open 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/tRDVyRuLtRhgKvUVHSpHM6TQr68=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5072852/dba2f2.jpg" ch-number="3", Magnus Johannesen (DEN) vs Lee Cheuk Yiu (HKG) - Men's Singles Round of 32 | TOYOTA Thailand Open 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=dash&token=eLrU96lSfJnPvpFSWUqTLKY9BHzRL7vf|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -33,15 +33,15 @@ https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1ec
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=drm&token=eLrU96lSfJnPvpFSWUqTLKY9BHzRL7vf
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/zx66DRD5b7oGcsCont0xTKIBMCQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5072826/8e3656.jpg" ch-number="7", Jafar Hidayatullah/Felisha Alberta Nathaniel Pasaribu (INA) vs Ratchapol Makkasasithorn/Nattamon Laisuan (THA) - Mixed Doubles Round of 32 | TOYOTA Thailand Open 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=eLrU96lSfJnPvpFSWUqTLKY9BHzRL7vf|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18253&type=drm&token=eLrU96lSfJnPvpFSWUqTLKY9BHzRL7vf
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/4HMSHrGn3wK07QRkxzZeHvRiHFs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5072871/ef4508.jpg" ch-number="7", Prahdiska Bagas Shujiwo (INA) vs Yushi Tanaka (JPN) - Men's Singles Round of 32 | TOYOTA Thailand Open 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=18253&type=dash&token=eLrU96lSfJnPvpFSWUqTLKY9BHzRL7vf|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18253&type=drm&token=eLrU96lSfJnPvpFSWUqTLKY9BHzRL7vf
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/4HMSHrGn3wK07QRkxzZeHvRiHFs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5072871/ef4508.jpg" ch-number="8", Prahdiska Bagas Shujiwo (INA) vs Yushi Tanaka (JPN) - Men's Singles Round of 32 | TOYOTA Thailand Open 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=18253&type=dash&token=eLrU96lSfJnPvpFSWUqTLKY9BHzRL7vf|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=drm&token=eLrU96lSfJnPvpFSWUqTLKY9BHzRL7vf
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/zx66DRD5b7oGcsCont0xTKIBMCQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5072826/8e3656.jpg" ch-number="8", Jafar Hidayatullah/Felisha Alberta Nathaniel Pasaribu (INA) vs Ratchapol Makkasasithorn/Nattamon Laisuan (THA) - Mixed Doubles Round of 32 | TOYOTA Thailand Open 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=eLrU96lSfJnPvpFSWUqTLKY9BHzRL7vf|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -57,45 +57,45 @@ https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1ec
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=drm&token=eLrU96lSfJnPvpFSWUqTLKY9BHzRL7vf
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/XG-hC9yc4tkGs_i6SDu_dETYC9I=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5072830/da154d.jpg" ch-number="11", Dechapol Puavaranukroh/Supissara Paewsampran (THA) vs Adnan Maulana/Indah Cahya Sari Jamil (INA) - Mixed Doubles Round of 32 | TOYOTA Thailand Open 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=eLrU96lSfJnPvpFSWUqTLKY9BHzRL7vf|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=drm&token=eLrU96lSfJnPvpFSWUqTLKY9BHzRL7vf
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/V3-HriN_IIfokzrtYir9fhRrAgY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5072860/0dd48c.jpg" ch-number="12", Verrell Yustin Mulia/Aisyah Salsabila Putri Pranata (INA) vs Nicky Yemin Aung/Sirapat Tepnarong (CAN/THA) - Mixed Doubles Round of 32 | TOYOTA Thailand Open 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/V3-HriN_IIfokzrtYir9fhRrAgY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5072860/0dd48c.jpg" ch-number="11", Verrell Yustin Mulia/Aisyah Salsabila Putri Pranata (INA) vs Nicky Yemin Aung/Sirapat Tepnarong (CAN/THA) - Mixed Doubles Round of 32 | TOYOTA Thailand Open 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=dash&token=eLrU96lSfJnPvpFSWUqTLKY9BHzRL7vf|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6786&type=drm&token=eLrU96lSfJnPvpFSWUqTLKY9BHzRL7vf
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/1esB0faI9hlVrJhAk5JZolLJmOg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5072883/9ab122.jpg" ch-number="13", Jessica Pegula vs Iga Swiatek - Quarter Finals | WTA 1000: Internazionali BNL D'Italia 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/1esB0faI9hlVrJhAk5JZolLJmOg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5072883/9ab122.jpg" ch-number="12", Jessica Pegula vs Iga Swiatek - Quarter Finals | WTA 1000: Internazionali BNL D'Italia 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=6786&type=dash&token=eLrU96lSfJnPvpFSWUqTLKY9BHzRL7vf|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20887&type=drm&token=eLrU96lSfJnPvpFSWUqTLKY9BHzRL7vf
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/iHI6JnS4SnM84ydPtThnW4GMCPU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5072880/a1ab92.jpg" ch-number="14", Austin Krajicek/Nikola Mektic vs Robert Cash/JJ Tracy - Round of 16 (Pietrangeli) | ATP 1000: Internazionali BNL d'Italia 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/iHI6JnS4SnM84ydPtThnW4GMCPU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5072880/a1ab92.jpg" ch-number="13", Austin Krajicek/Nikola Mektic vs Robert Cash/JJ Tracy - Round of 16 (Pietrangeli) | ATP 1000: Internazionali BNL d'Italia 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=20887&type=dash&token=eLrU96lSfJnPvpFSWUqTLKY9BHzRL7vf|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=drm&token=eLrU96lSfJnPvpFSWUqTLKY9BHzRL7vf
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/gRe8Ua8hDKG07MAKN0cO0qZ_qc8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5072861/8009ff.jpg" ch-number="15", Amri Syahnawi/Nita Violina Marwah (INA) vs Julien Maio/Lea Palermo (FRA) - Mixed Doubles Round of 32 | TOYOTA Thailand Open 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/gRe8Ua8hDKG07MAKN0cO0qZ_qc8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5072861/8009ff.jpg" ch-number="14", Amri Syahnawi/Nita Violina Marwah (INA) vs Julien Maio/Lea Palermo (FRA) - Mixed Doubles Round of 32 | TOYOTA Thailand Open 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=dash&token=eLrU96lSfJnPvpFSWUqTLKY9BHzRL7vf|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21254&type=drm&token=eLrU96lSfJnPvpFSWUqTLKY9BHzRL7vf
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/dhjKsNTy7UKpT-oxb1yQyK7eq3A=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5071646/f553cc.jpg" ch-number="16", Al-Rayyan vs Hyundai Skywalkers - AVC Men's Champions League
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/dhjKsNTy7UKpT-oxb1yQyK7eq3A=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5071646/f553cc.jpg" ch-number="15", Al-Rayyan vs Hyundai Skywalkers - AVC Men's Champions League
 #https://vid-id.indi1.workers.dev/index.mpd?id=21254&type=dash&token=eLrU96lSfJnPvpFSWUqTLKY9BHzRL7vf|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=drm&token=eLrU96lSfJnPvpFSWUqTLKY9BHzRL7vf
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/qJR0zmdyQLTvZQErNIwvU3g8_5U=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5072847/b3cbe9.jpg" ch-number="17", Thalita Ramadhani Wiryawan (INA) vs Isharani Baruah (IND) - Women's Singles Round of 32 | TOYOTA Thailand Open 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/qJR0zmdyQLTvZQErNIwvU3g8_5U=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5072847/b3cbe9.jpg" ch-number="16", Thalita Ramadhani Wiryawan (INA) vs Isharani Baruah (IND) - Women's Singles Round of 32 | TOYOTA Thailand Open 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=dash&token=eLrU96lSfJnPvpFSWUqTLKY9BHzRL7vf|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=drm&token=eLrU96lSfJnPvpFSWUqTLKY9BHzRL7vf
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/XG-hC9yc4tkGs_i6SDu_dETYC9I=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5072830/da154d.jpg" ch-number="17", Dechapol Puavaranukroh/Supissara Paewsampran (THA) vs Adnan Maulana/Indah Cahya Sari Jamil (INA) - Mixed Doubles Round of 32 | TOYOTA Thailand Open 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=eLrU96lSfJnPvpFSWUqTLKY9BHzRL7vf|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -111,8 +111,8 @@ https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1ec
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20955&type=drm&token=eLrU96lSfJnPvpFSWUqTLKY9BHzRL7vf
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Ow_jx-7GITR51PrKyQDKO2ROOR4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5072889/6c3f46.jpg" ch-number="20", Casper Ruud vs Karen Khachanov - Quarterfinals | ATP 1000: Internazionali BNL d'Italia 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=20955&type=dash&token=eLrU96lSfJnPvpFSWUqTLKY9BHzRL7vf|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20887&type=drm&token=eLrU96lSfJnPvpFSWUqTLKY9BHzRL7vf
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/n0wqtKfadUl3DfoOORVKaIzqCus=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5072881/528eca.jpg" ch-number="20", Andre Goransson/Evan King vs Simone Bolelli/Andrea Vavassori - Round of 16 (Supertennis Arena) | ATP 1000: Internazionali BNL d'Italia 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=20887&type=dash&token=eLrU96lSfJnPvpFSWUqTLKY9BHzRL7vf|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
