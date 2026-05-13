@@ -7,7 +7,7 @@ https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=eLrU96lSfJnP
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=drm&token=eLrU96lSfJnPvpFSWUqTLKY9BHzRL7vf
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/XaY40Bu9VWGqCgYfcSWmAjjgHV4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5072841/7e1bc5.jpg" ch-number="2", Tsai Fu Cheng/Sung Yu-Hsuan (TPE) vs Ashith Surya/Amrutha Pramuthesh (IND) - Mixed Doubles Round of 32 | TOYOTA Thailand Open 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/zNu_UAtvt9Os8mp-iz07DkbJexU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5072842/e4a16a.jpg" ch-number="2", Supanida Katethong (THA) vs Pitchamon Opatniputh (THA) - Women's Singles Round of 32 | TOYOTA Thailand Open 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=dash&token=eLrU96lSfJnPvpFSWUqTLKY9BHzRL7vf|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -17,7 +17,7 @@ https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=dash&token=eLrU96lSfJnP
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18253&type=drm&token=eLrU96lSfJnPvpFSWUqTLKY9BHzRL7vf
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/4HMSHrGn3wK07QRkxzZeHvRiHFs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5072871/ef4508.jpg" ch-number="4", Prahdiska Bagas Shujiwo (INA) vs Yushi Tanaka (JPN) - Men's Singles Round of 32 | TOYOTA Thailand Open 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/5HBb2VHv4SGntYVr8eIoG-DDPUs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5072872/e79659.jpg" ch-number="4", Ye Hong Wei/Nicole Gonzales Chan (TPE) vs Wu Hsuan-Yi/Yang Chu Yun (TPE) - Mixed Doubles Round of 32 | TOYOTA Thailand Open 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=18253&type=dash&token=eLrU96lSfJnPvpFSWUqTLKY9BHzRL7vf|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -50,15 +50,15 @@ https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1ec
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=drm&token=eLrU96lSfJnPvpFSWUqTLKY9BHzRL7vf
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/XG-hC9yc4tkGs_i6SDu_dETYC9I=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5072830/da154d.jpg" ch-number="10", Dechapol Puavaranukroh/Supissara Paewsampran (THA) vs Adnan Maulana/Indah Cahya Sari Jamil (INA) - Mixed Doubles Round of 32 | TOYOTA Thailand Open 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=eLrU96lSfJnPvpFSWUqTLKY9BHzRL7vf|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21254&type=drm&token=eLrU96lSfJnPvpFSWUqTLKY9BHzRL7vf
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/dhjKsNTy7UKpT-oxb1yQyK7eq3A=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5071646/f553cc.jpg" ch-number="10", Al-Rayyan vs Hyundai Skywalkers - AVC Men's Champions League
+#https://vid-id.indi1.workers.dev/index.mpd?id=21254&type=dash&token=eLrU96lSfJnPvpFSWUqTLKY9BHzRL7vf|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21254&type=drm&token=eLrU96lSfJnPvpFSWUqTLKY9BHzRL7vf
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/dhjKsNTy7UKpT-oxb1yQyK7eq3A=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5071646/f553cc.jpg" ch-number="11", Al-Rayyan vs Hyundai Skywalkers - AVC Men's Champions League
-#https://vid-id.indi1.workers.dev/index.mpd?id=21254&type=dash&token=eLrU96lSfJnPvpFSWUqTLKY9BHzRL7vf|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=drm&token=eLrU96lSfJnPvpFSWUqTLKY9BHzRL7vf
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/XG-hC9yc4tkGs_i6SDu_dETYC9I=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5072830/da154d.jpg" ch-number="11", Dechapol Puavaranukroh/Supissara Paewsampran (THA) vs Adnan Maulana/Indah Cahya Sari Jamil (INA) - Mixed Doubles Round of 32 | TOYOTA Thailand Open 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=eLrU96lSfJnPvpFSWUqTLKY9BHzRL7vf|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -68,15 +68,15 @@ https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1ec
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20887&type=drm&token=eLrU96lSfJnPvpFSWUqTLKY9BHzRL7vf
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/n0wqtKfadUl3DfoOORVKaIzqCus=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5072881/528eca.jpg" ch-number="13", Andre Goransson/Evan King vs Simone Bolelli/Andrea Vavassori - Round of 16 (Supertennis Arena) | ATP 1000: Internazionali BNL d'Italia 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=20887&type=dash&token=eLrU96lSfJnPvpFSWUqTLKY9BHzRL7vf|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20955&type=drm&token=eLrU96lSfJnPvpFSWUqTLKY9BHzRL7vf
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Ow_jx-7GITR51PrKyQDKO2ROOR4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5072889/6c3f46.jpg" ch-number="13", Casper Ruud vs Karen Khachanov - Quarterfinals | ATP 1000: Internazionali BNL d'Italia 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=20955&type=dash&token=eLrU96lSfJnPvpFSWUqTLKY9BHzRL7vf|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20955&type=drm&token=eLrU96lSfJnPvpFSWUqTLKY9BHzRL7vf
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Ow_jx-7GITR51PrKyQDKO2ROOR4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5072889/6c3f46.jpg" ch-number="14", Casper Ruud vs Karen Khachanov - Quarterfinals | ATP 1000: Internazionali BNL d'Italia 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=20955&type=dash&token=eLrU96lSfJnPvpFSWUqTLKY9BHzRL7vf|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20887&type=drm&token=eLrU96lSfJnPvpFSWUqTLKY9BHzRL7vf
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/n0wqtKfadUl3DfoOORVKaIzqCus=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5072881/528eca.jpg" ch-number="14", Andre Goransson/Evan King vs Simone Bolelli/Andrea Vavassori - Round of 16 (Supertennis Arena) | ATP 1000: Internazionali BNL d'Italia 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=20887&type=dash&token=eLrU96lSfJnPvpFSWUqTLKY9BHzRL7vf|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
