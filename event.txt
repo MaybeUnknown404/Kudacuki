@@ -2,7 +2,7 @@
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=drm&token=eLrU96lSfJnPvpFSWUqTLKY9BHzRL7vf
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/cgT1doRqypiDeplhpawPgClmTEk=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/toyota-thailand-open-2026-round-of-32-court-1-6d4d42.jpg" ch-number="1", Toyota Thailand Open 2026 - Round Of 32 (Court 1)
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/RY4THFAVn1-HnsckP7NZJES3V6Q=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5072829/1f0faf.jpg" ch-number="1", Yudai Okimoto (JPN) vs Kunlavut Vitidsarn (THA) - Men's Singles Round of 32 | TOYOTA Thailand Open 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=eLrU96lSfJnPvpFSWUqTLKY9BHzRL7vf|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -17,7 +17,7 @@ https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=dash&token=eLrU96lSfJnP
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18253&type=drm&token=eLrU96lSfJnPvpFSWUqTLKY9BHzRL7vf
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/5HBb2VHv4SGntYVr8eIoG-DDPUs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5072872/e79659.jpg" ch-number="4", Ye Hong Wei/Nicole Gonzales Chan (TPE) vs Wu Hsuan-Yi/Yang Chu Yun (TPE) - Mixed Doubles Round of 32 | TOYOTA Thailand Open 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/qK-NSjtlvH9P4RT0EP5485a66zs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5072873/3fce37.jpg" ch-number="4", Dhruv Kapila/Tanisha Crasto (IND) vs Mathias Christiansen/Alexandra Boje (DEN) - Mixed Doubles Round of 32 | TOYOTA Thailand Open 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=18253&type=dash&token=eLrU96lSfJnPvpFSWUqTLKY9BHzRL7vf|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
