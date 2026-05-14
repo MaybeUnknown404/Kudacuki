@@ -7,7 +7,7 @@ https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=95vFhNmZ8ox3
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=drm&token=95vFhNmZ8ox36uG2fJO02c4Pn6vqO331
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/LMRK_D050aQ2tDCUhPcbGfB9AZo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5073561/3b5e2d.jpg" ch-number="2", Verrell Yustin Mulia/Aisyah Salsabila Putri Pranata (INA) vs Mathias Christiansen/Alexandra Boje (DEN) - Mixed Doubles Round of 16 | TOYOTA Thailand Open 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/5bNFUThtw5ipe5yeiKoRY_0ZOmk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5073531/3fd852.jpg" ch-number="2", Ruttanapak Oupthong/Jhenicha Sudjaipraparat (THA) vs Akira Koga/Natsu Saito (JPN) - Mixed Doubles Round of 16 | TOYOTA Thailand Open 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=dash&token=95vFhNmZ8ox36uG2fJO02c4Pn6vqO331|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -43,9 +43,9 @@ https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1ec
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20955&type=drm&token=95vFhNmZ8ox36uG2fJO02c4Pn6vqO331
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/zAvUOK0BNbp-Ke2Jn6RzGNYL98Q=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5073578/87d1ff.jpg" ch-number="9", Martin Landaluce vs Daniil Medvedev - Quarterfinals | ATP 1000: Internazionali BNL d'Italia 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=20955&type=dash&token=95vFhNmZ8ox36uG2fJO02c4Pn6vqO331|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=drm&token=95vFhNmZ8ox36uG2fJO02c4Pn6vqO331
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/XyOaJIAWShCJPMfmC9dLY4zpZko=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5071458/df7e85.jpg" ch-number="9", Valencia vs Rayo Vallecano - LaLiga
+#https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=dash&token=95vFhNmZ8ox36uG2fJO02c4Pn6vqO331|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -55,9 +55,9 @@ https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1ec
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=drm&token=95vFhNmZ8ox36uG2fJO02c4Pn6vqO331
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/XyOaJIAWShCJPMfmC9dLY4zpZko=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5071458/df7e85.jpg" ch-number="11", Valencia vs Rayo Vallecano - LaLiga
-#https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=dash&token=95vFhNmZ8ox36uG2fJO02c4Pn6vqO331|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20955&type=drm&token=95vFhNmZ8ox36uG2fJO02c4Pn6vqO331
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/zAvUOK0BNbp-Ke2Jn6RzGNYL98Q=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5073578/87d1ff.jpg" ch-number="11", Martin Landaluce vs Daniil Medvedev - Quarterfinals | ATP 1000: Internazionali BNL d'Italia 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=20955&type=dash&token=95vFhNmZ8ox36uG2fJO02c4Pn6vqO331|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
