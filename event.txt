@@ -6,19 +6,19 @@
 https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=dash&token=95vFhNmZ8ox36uG2fJO02c4Pn6vqO331|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=drm&token=95vFhNmZ8ox36uG2fJO02c4Pn6vqO331
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/XyOaJIAWShCJPMfmC9dLY4zpZko=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5071458/df7e85.jpg" ch-number="2", Valencia vs Rayo Vallecano - LaLiga
+https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=dash&token=95vFhNmZ8ox36uG2fJO02c4Pn6vqO331|User-Agent=VidioPlayer/6.31.6
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20955&type=drm&token=95vFhNmZ8ox36uG2fJO02c4Pn6vqO331
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/zAvUOK0BNbp-Ke2Jn6RzGNYL98Q=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5073578/87d1ff.jpg" ch-number="2", Martin Landaluce vs Daniil Medvedev - Quarterfinals | ATP 1000: Internazionali BNL d'Italia 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/zAvUOK0BNbp-Ke2Jn6RzGNYL98Q=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5073578/87d1ff.jpg" ch-number="3", Martin Landaluce vs Daniil Medvedev - Quarterfinals | ATP 1000: Internazionali BNL d'Italia 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=20955&type=dash&token=95vFhNmZ8ox36uG2fJO02c4Pn6vqO331|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17139&type=drm&token=95vFhNmZ8ox36uG2fJO02c4Pn6vqO331
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/WTZWoSPV3xWBjHyVv4yLp9K4Ip8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5071519/41e3f6.jpg" ch-number="3", Round 1 - PGA Championship 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/WTZWoSPV3xWBjHyVv4yLp9K4Ip8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5071519/41e3f6.jpg" ch-number="4", Round 1 - PGA Championship 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=17139&type=dash&token=95vFhNmZ8ox36uG2fJO02c4Pn6vqO331|User-Agent=VidioPlayer/6.31.6
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=drm&token=95vFhNmZ8ox36uG2fJO02c4Pn6vqO331
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/XyOaJIAWShCJPMfmC9dLY4zpZko=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5071458/df7e85.jpg" ch-number="4", Valencia vs Rayo Vallecano - LaLiga
-https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=dash&token=95vFhNmZ8ox36uG2fJO02c4Pn6vqO331|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6317&type=drm&token=95vFhNmZ8ox36uG2fJO02c4Pn6vqO331
@@ -57,9 +57,9 @@ https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1ec
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=drm&token=95vFhNmZ8ox36uG2fJO02c4Pn6vqO331
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/evbU4XyRt7VL3xK5HXwPMDJXJMA=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/toyota-thailand-open-2026-quarterfinals-court-1-081ce4.jpg" ch-number="11", Rin Iwanaga/Kie Nakanishi (JPN) vs Isyana Syahira Meida/Rinjani Kwinnara Nastine (INA) - Women's Doubles Quarterfinals | TOYOTA Thailand Open 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=95vFhNmZ8ox36uG2fJO02c4Pn6vqO331|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=drm&token=95vFhNmZ8ox36uG2fJO02c4Pn6vqO331
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/j3minqaM_WHrjCQJbYTpaQBNKpo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5074610/88edca.jpg" ch-number="11", Rui Hirokami/Sayaka Hobara (JPN) vs Sayaka Hirota/Ayako Sakuramoto (JPN) - Women's Doubles Quarterfinals | TOYOTA Thailand Open 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=dash&token=95vFhNmZ8ox36uG2fJO02c4Pn6vqO331|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -69,50 +69,50 @@ https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1ec
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=drm&token=95vFhNmZ8ox36uG2fJO02c4Pn6vqO331
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/WOKSu7NHzmYp7H5naMRHwDXrxNU=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/toyota-thailand-open-2026-quarterfinals-court-3-385ca8.jpg" ch-number="13", Rui Hirokami/Sayaka Hobara (JPN) vs Sayaka Hirota/Ayako Sakuramoto (JPN) - Women's Doubles Quarterfinals | TOYOTA Thailand Open 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=dash&token=95vFhNmZ8ox36uG2fJO02c4Pn6vqO331|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=drm&token=95vFhNmZ8ox36uG2fJO02c4Pn6vqO331
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/0IL2XkmPTwhBSUwRgTd0eQwa-8A=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5074596/0dfb8f.jpg" ch-number="13", Akane Yamaguchi (JPN) vs Pusarla V. Sindhu (IND) - Women's Singles Quarterfinals | TOYOTA Thailand Open 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/evbU4XyRt7VL3xK5HXwPMDJXJMA=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/toyota-thailand-open-2026-quarterfinals-court-1-081ce4.jpg" ch-number="14", Rin Iwanaga/Kie Nakanishi (JPN) vs Isyana Syahira Meida/Rinjani Kwinnara Nastine (INA) - Women's Doubles Quarterfinals | TOYOTA Thailand Open 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=95vFhNmZ8ox36uG2fJO02c4Pn6vqO331|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=drm&token=95vFhNmZ8ox36uG2fJO02c4Pn6vqO331
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/-tHaKbCMrKlNOmaMbFy1DhDNwWo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5074611/e304f1.jpg" ch-number="15", Goh Sze Fei/Nur Izzuddin (MAS) vs Christopher Grimley/Matthew Grimley (SCO) - Men's Doubles Quarterfinals | TOYOTA Thailand Open 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=dash&token=95vFhNmZ8ox36uG2fJO02c4Pn6vqO331|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=drm&token=95vFhNmZ8ox36uG2fJO02c4Pn6vqO331
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/0IL2XkmPTwhBSUwRgTd0eQwa-8A=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5074596/0dfb8f.jpg" ch-number="16", Akane Yamaguchi (JPN) vs Pusarla V. Sindhu (IND) - Women's Singles Quarterfinals | TOYOTA Thailand Open 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=95vFhNmZ8ox36uG2fJO02c4Pn6vqO331|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=drm&token=95vFhNmZ8ox36uG2fJO02c4Pn6vqO331
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Ub844SVyGxkcnYdRn5bDcDptjuA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5074604/14353e.jpg" ch-number="14", Hinata Suzuki/Nao Yamakita (JPN) vs Hu Ling Fang/Jheng Yu Chieh (TPE) - Women's Doubles Quarterfinals | TOYOTA Thailand Open 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Ub844SVyGxkcnYdRn5bDcDptjuA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5074604/14353e.jpg" ch-number="17", Hinata Suzuki/Nao Yamakita (JPN) vs Hu Ling Fang/Jheng Yu Chieh (TPE) - Women's Doubles Quarterfinals | TOYOTA Thailand Open 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=dash&token=95vFhNmZ8ox36uG2fJO02c4Pn6vqO331|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=drm&token=95vFhNmZ8ox36uG2fJO02c4Pn6vqO331
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/_ToqGbfpF9XGO_hduMx56WX5U30=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5074612/f84823.jpg" ch-number="18", Chen Zhi Ray/Lin Yu Chieh (TPE) vs He Ji Ting/Ren Xiang Yu (CHN) - Men's Doubles Quarterfinals | TOYOTA Thailand Open 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=dash&token=95vFhNmZ8ox36uG2fJO02c4Pn6vqO331|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=drm&token=95vFhNmZ8ox36uG2fJO02c4Pn6vqO331
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/FUvbaIvitMSvdZJi8MQp1d2x6OM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5074597/c2ad81.jpg" ch-number="15", Leo Rolly Carnando/Daniel Marthin (INA) vs Peeratchai Sukphun/Pakkapon Teeraratsakul (THA) - Men's Doubles Quarterfinals | TOYOTA Thailand Open 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/FUvbaIvitMSvdZJi8MQp1d2x6OM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5074597/c2ad81.jpg" ch-number="19", Leo Rolly Carnando/Daniel Marthin (INA) vs Peeratchai Sukphun/Pakkapon Teeraratsakul (THA) - Men's Doubles Quarterfinals | TOYOTA Thailand Open 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=95vFhNmZ8ox36uG2fJO02c4Pn6vqO331|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=drm&token=95vFhNmZ8ox36uG2fJO02c4Pn6vqO331
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/5tFCQb4lrldG0ojbA4YsZjLv1d4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5074605/266d46.jpg" ch-number="16", Pornpawee Chochuwong (THA) vs Pitchamon Opatniputh (THA) - Women's Singles Quarterfinals | TOYOTA Thailand Open 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/5tFCQb4lrldG0ojbA4YsZjLv1d4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5074605/266d46.jpg" ch-number="20", Pornpawee Chochuwong (THA) vs Pitchamon Opatniputh (THA) - Women's Singles Quarterfinals | TOYOTA Thailand Open 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=dash&token=95vFhNmZ8ox36uG2fJO02c4Pn6vqO331|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17140&type=drm&token=95vFhNmZ8ox36uG2fJO02c4Pn6vqO331
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/RNsNiwEsPJlA7O1ANOHeyf1hRLk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5072928/b398d3.jpg" ch-number="17", Moto3 Free Practice 1: Monster Energy Grand Prix of Catalunya - MotoGP 2026 Round 6
-#https://vid-id.indi1.workers.dev/index.mpd?id=17140&type=dash&token=95vFhNmZ8ox36uG2fJO02c4Pn6vqO331|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=drm&token=95vFhNmZ8ox36uG2fJO02c4Pn6vqO331
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Uz0JRHOvePav3_dsXlgkDt3Pyns=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5074606/15ab0e.jpg" ch-number="18", Hina Akechi (JPN) vs Ratchanok Intanon (THA) - Women's Singles Quarterfinals | TOYOTA Thailand Open 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=dash&token=95vFhNmZ8ox36uG2fJO02c4Pn6vqO331|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=drm&token=95vFhNmZ8ox36uG2fJO02c4Pn6vqO331
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/klWqxZFiEthKKzTwd63c4ms8nAo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5074598/4fab6d.jpg" ch-number="19", Tomoka Miyazaki (JPN) vs Chen Yu Fei (CHN) - Women's Singles Quarterfinals | TOYOTA Thailand Open 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=95vFhNmZ8ox36uG2fJO02c4Pn6vqO331|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17140&type=drm&token=95vFhNmZ8ox36uG2fJO02c4Pn6vqO331
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/IefEAPzhi-M0HqNE1KWYq5KIH2c=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5072929/4ccebf.jpg" ch-number="20", Moto2 Free Practice 1: Monster Energy Grand Prix of Catalunya - MotoGP 2026 Round 6
-#https://vid-id.indi1.workers.dev/index.mpd?id=17140&type=dash&token=95vFhNmZ8ox36uG2fJO02c4Pn6vqO331|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
