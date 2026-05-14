@@ -7,7 +7,7 @@ https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=95vFhNmZ8ox3
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=drm&token=95vFhNmZ8ox36uG2fJO02c4Pn6vqO331
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/5bNFUThtw5ipe5yeiKoRY_0ZOmk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5073531/3fd852.jpg" ch-number="2", Ruttanapak Oupthong/Jhenicha Sudjaipraparat (THA) vs Akira Koga/Natsu Saito (JPN) - Mixed Doubles Round of 16 | TOYOTA Thailand Open 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/IV10XdNDaTpSKn53LM9EOugOIBM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5073533/efd81d.jpg" ch-number="2", Daniil Dubovenko (ISR) vs Chou Tien Chen (TPE) - Men's Singles Round of 16 | TOYOTA Thailand Open 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=dash&token=95vFhNmZ8ox36uG2fJO02c4Pn6vqO331|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -22,9 +22,8 @@ https://vid-id.indi1.workers.dev/index.mpd?id=6786&type=dash&token=95vFhNmZ8ox36
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20887&type=drm&token=95vFhNmZ8ox36uG2fJO02c4Pn6vqO331
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/ANfnxNayZLYZfe_I9rXdoi_2C3k=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5073575/f14d66.jpg" ch-number="5", Sadio Doumbia/Fabien Reboul vs Marcel Granollers/Horacio Zeballos - Quarterfinals (Supertennis Arena) | ATP 1000: Internazionali BNL d'Italia 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=20887&type=dash&token=95vFhNmZ8ox36uG2fJO02c4Pn6vqO331|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/ANfnxNayZLYZfe_I9rXdoi_2C3k=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5073575/f14d66.jpg" ch-number="5", Sadio Doumbia/Fabien Reboul vs Marcel Granollers/Horacio Zeballos - Quarterfinals (Supertennis Arena) | ATP 1000: Internazionali BNL d'Italia 2026
+https://vid-id.indi1.workers.dev/index.mpd?id=20887&type=dash&token=95vFhNmZ8ox36uG2fJO02c4Pn6vqO331|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20887&type=drm&token=95vFhNmZ8ox36uG2fJO02c4Pn6vqO331
