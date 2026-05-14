@@ -2,7 +2,7 @@
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=drm&token=95vFhNmZ8ox36uG2fJO02c4Pn6vqO331
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/0bqHP6cWbzGcp_455fMxnNUNhGQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5073529/80e5f9.jpg" ch-number="1", Amri Syahnawi/Nita Violina Marwah (INA) vs Cheng Xing/Zhang Chi (CHN) - Mixed Doubles Round of 16 | TOYOTA Thailand Open 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/ofxFAHU7BZ9kWDx53us3aDGIqJQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5073530/52df53.jpg" ch-number="1", Malvika Bansod (IND) vs Chen Yu Fei (CHN) - Women's Singles Round of 16 | TOYOTA Thailand Open 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=95vFhNmZ8ox36uG2fJO02c4Pn6vqO331|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -21,14 +21,14 @@ https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=dash&token=95vFhNmZ8ox3
 https://vid-id.indi1.workers.dev/index.mpd?id=21254&type=dash&token=95vFhNmZ8ox36uG2fJO02c4Pn6vqO331|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=drm&token=95vFhNmZ8ox36uG2fJO02c4Pn6vqO331
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/Ahg-Hk0XMgmjuqUmeFE3djEQiwk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5071468/013180.jpg" ch-number="5", Buenos Aires P1 Premier Padel - Day 3
-https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=dash&token=95vFhNmZ8ox36uG2fJO02c4Pn6vqO331|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6786&type=drm&token=95vFhNmZ8ox36uG2fJO02c4Pn6vqO331
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/I5C3rXbeUymWXaUJUspgEDoHHjc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5071464/077433.jpg" ch-number="5", Sorana Cirstea vs Coco Gauff - Semifinals | WTA 1000: Internazionali BNL D'Italia 2026
+https://vid-id.indi1.workers.dev/index.mpd?id=6786&type=dash&token=95vFhNmZ8ox36uG2fJO02c4Pn6vqO331|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6786&type=drm&token=95vFhNmZ8ox36uG2fJO02c4Pn6vqO331
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/I5C3rXbeUymWXaUJUspgEDoHHjc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5071464/077433.jpg" ch-number="6", Sorana Cirstea vs Coco Gauff - Semifinals | WTA 1000: Internazionali BNL D'Italia 2026
-https://vid-id.indi1.workers.dev/index.mpd?id=6786&type=dash&token=95vFhNmZ8ox36uG2fJO02c4Pn6vqO331|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=drm&token=95vFhNmZ8ox36uG2fJO02c4Pn6vqO331
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/Ahg-Hk0XMgmjuqUmeFE3djEQiwk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5071468/013180.jpg" ch-number="6", Buenos Aires P1 Premier Padel - Day 3
+https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=dash&token=95vFhNmZ8ox36uG2fJO02c4Pn6vqO331|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20887&type=drm&token=95vFhNmZ8ox36uG2fJO02c4Pn6vqO331
@@ -37,27 +37,27 @@ https://vid-id.indi1.workers.dev/index.mpd?id=6786&type=dash&token=95vFhNmZ8ox36
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17139&type=drm&token=95vFhNmZ8ox36uG2fJO02c4Pn6vqO331
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/WTZWoSPV3xWBjHyVv4yLp9K4Ip8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5071519/41e3f6.jpg" ch-number="8", Round 1 - PGA Championship 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=17139&type=dash&token=95vFhNmZ8ox36uG2fJO02c4Pn6vqO331|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20887&type=drm&token=95vFhNmZ8ox36uG2fJO02c4Pn6vqO331
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/tV_eZmglL-4ofC1WCvFAKAaA9Cs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5073576/f0ede7.jpg" ch-number="9", Alexander Erler/Lucas Miedler vs Austin Krajicek/Nikola Mektic - Quarterfinals (Supertennis Arena) | ATP 1000: Internazionali BNL d'Italia 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/tV_eZmglL-4ofC1WCvFAKAaA9Cs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5073576/f0ede7.jpg" ch-number="8", Alexander Erler/Lucas Miedler vs Austin Krajicek/Nikola Mektic - Quarterfinals (Supertennis Arena) | ATP 1000: Internazionali BNL d'Italia 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=20887&type=dash&token=95vFhNmZ8ox36uG2fJO02c4Pn6vqO331|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=drm&token=95vFhNmZ8ox36uG2fJO02c4Pn6vqO331
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/XyOaJIAWShCJPMfmC9dLY4zpZko=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5071458/df7e85.jpg" ch-number="10", Valencia vs Rayo Vallecano - LaLiga
-#https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=dash&token=95vFhNmZ8ox36uG2fJO02c4Pn6vqO331|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20955&type=drm&token=95vFhNmZ8ox36uG2fJO02c4Pn6vqO331
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/zAvUOK0BNbp-Ke2Jn6RzGNYL98Q=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5073578/87d1ff.jpg" ch-number="9", Martin Landaluce vs Daniil Medvedev - Quarterfinals | ATP 1000: Internazionali BNL d'Italia 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=20955&type=dash&token=95vFhNmZ8ox36uG2fJO02c4Pn6vqO331|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20955&type=drm&token=95vFhNmZ8ox36uG2fJO02c4Pn6vqO331
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/zAvUOK0BNbp-Ke2Jn6RzGNYL98Q=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5073578/87d1ff.jpg" ch-number="11", Martin Landaluce vs Daniil Medvedev - Quarterfinals | ATP 1000: Internazionali BNL d'Italia 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=20955&type=dash&token=95vFhNmZ8ox36uG2fJO02c4Pn6vqO331|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17139&type=drm&token=95vFhNmZ8ox36uG2fJO02c4Pn6vqO331
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/WTZWoSPV3xWBjHyVv4yLp9K4Ip8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5071519/41e3f6.jpg" ch-number="10", Round 1 - PGA Championship 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=17139&type=dash&token=95vFhNmZ8ox36uG2fJO02c4Pn6vqO331|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=drm&token=95vFhNmZ8ox36uG2fJO02c4Pn6vqO331
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/XyOaJIAWShCJPMfmC9dLY4zpZko=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5071458/df7e85.jpg" ch-number="11", Valencia vs Rayo Vallecano - LaLiga
+#https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=dash&token=95vFhNmZ8ox36uG2fJO02c4Pn6vqO331|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
