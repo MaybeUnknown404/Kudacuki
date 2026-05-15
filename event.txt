@@ -7,7 +7,7 @@ https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=qAC9naVJTfOm
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21362&type=drm&token=qAC9naVJTfOm6KzyJs4Wf89vNfweTDae
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/poleQVAjDRfsGlrKvhbR5Tm1HVg=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21362/nex-road-to-champion-vol-2-3e3a47.jpg" ch-number="2", nex Road to Champion Vol. 2 - Eksibisi
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/poleQVAjDRfsGlrKvhbR5Tm1HVg=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21362/nex-road-to-champion-vol-2-3e3a47.jpg" ch-number="2", Sakti Manullang vs Ericson Kauy - Featherweight Exhibition Fight
 https://vid-id.indi1.workers.dev/index.mpd?id=21362&type=dash&token=qAC9naVJTfOm6KzyJs4Wf89vNfweTDae|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -77,15 +77,15 @@ https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1ec
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20955&type=drm&token=qAC9naVJTfOm6KzyJs4Wf89vNfweTDae
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/rkH2sxxegnGIrLG9amBkV8b7ZKY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5074759/30ea91.jpg" ch-number="15", Jannik Sinner vs Daniil Medvedev - Singles Semifinals | ATP 1000: Internazionali BNL d'Italia 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=20955&type=dash&token=qAC9naVJTfOm6KzyJs4Wf89vNfweTDae|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17139&type=drm&token=qAC9naVJTfOm6KzyJs4Wf89vNfweTDae
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/OaSAzrvB2BbKYKDtemDGiuat3gM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5071476/d5ad8e.jpg" ch-number="15", Round 2 - PGA Championship 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=17139&type=dash&token=qAC9naVJTfOm6KzyJs4Wf89vNfweTDae|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17139&type=drm&token=qAC9naVJTfOm6KzyJs4Wf89vNfweTDae
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/OaSAzrvB2BbKYKDtemDGiuat3gM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5071476/d5ad8e.jpg" ch-number="16", Round 2 - PGA Championship 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=17139&type=dash&token=qAC9naVJTfOm6KzyJs4Wf89vNfweTDae|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20955&type=drm&token=qAC9naVJTfOm6KzyJs4Wf89vNfweTDae
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/rkH2sxxegnGIrLG9amBkV8b7ZKY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5074759/30ea91.jpg" ch-number="16", Jannik Sinner vs Daniil Medvedev - Singles Semifinals | ATP 1000: Internazionali BNL d'Italia 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=20955&type=dash&token=qAC9naVJTfOm6KzyJs4Wf89vNfweTDae|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
