@@ -7,7 +7,7 @@ https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=qAC9naVJTfOm
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21362&type=drm&token=qAC9naVJTfOm6KzyJs4Wf89vNfweTDae
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/ktLK7ego5Cnm7QodlWU3b0K2drw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5064019/faf87c.jpg" ch-number="2", Furoidin vs Damar - ICC Indostriking Featherweight Tournament
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/8KYVXwh0DhiA9-Qy1CrkCcopN8A=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5064018/3f1b78.jpg" ch-number="2", Fahri Albar vs Redikson - WBA Asia Super Flyweight Tournament
 https://vid-id.indi1.workers.dev/index.mpd?id=21362&type=dash&token=qAC9naVJTfOm6KzyJs4Wf89vNfweTDae|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
