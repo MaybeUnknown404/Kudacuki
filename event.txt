@@ -2,7 +2,7 @@
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=drm&token=qAC9naVJTfOm6KzyJs4Wf89vNfweTDae
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/qO3tHbGfJGF4hdWOWoag_IR8CvQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5074601/49a0f4.jpg" ch-number="1", Dechapol Puavaranukroh/Supissara Paewsampran (THA) vs Ye Hong Wei/Nicole Gonzales Chan (TPE) - Mixed Doubles Quarterfinals | TOYOTA Thailand Open 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/6Rd30NO8LEuleJEaMn25cqMXlkE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5074602/3a4f38.jpg" ch-number="1", Lakshya Sen (IND) vs Kunlavut Vitidsarn (THA) - Men's Singles Quarterfinals | TOYOTA Thailand Open 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=qAC9naVJTfOm6KzyJs4Wf89vNfweTDae|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -71,15 +71,15 @@ https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1ec
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=drm&token=qAC9naVJTfOm6KzyJs4Wf89vNfweTDae
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/-ZB8r7NuUS4xF51uTCpBG4TCdLk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5075463/347d3d.jpg" ch-number="14", Rizespor vs Besiktas - Trendyol Super Lig
-#https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=dash&token=qAC9naVJTfOm6KzyJs4Wf89vNfweTDae|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21362&type=drm&token=qAC9naVJTfOm6KzyJs4Wf89vNfweTDae
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/poleQVAjDRfsGlrKvhbR5Tm1HVg=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21362/nex-road-to-champion-vol-2-3e3a47.jpg" ch-number="14", Ruben Manake vs Yohanes J Parera - Featherweight Exhibition Fight
+#https://vid-id.indi1.workers.dev/index.mpd?id=21362&type=dash&token=qAC9naVJTfOm6KzyJs4Wf89vNfweTDae|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17139&type=drm&token=qAC9naVJTfOm6KzyJs4Wf89vNfweTDae
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/OaSAzrvB2BbKYKDtemDGiuat3gM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5071476/d5ad8e.jpg" ch-number="15", Round 2 - PGA Championship 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=17139&type=dash&token=qAC9naVJTfOm6KzyJs4Wf89vNfweTDae|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=drm&token=qAC9naVJTfOm6KzyJs4Wf89vNfweTDae
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/-ZB8r7NuUS4xF51uTCpBG4TCdLk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5075463/347d3d.jpg" ch-number="15", Rizespor vs Besiktas - Trendyol Super Lig
+#https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=dash&token=qAC9naVJTfOm6KzyJs4Wf89vNfweTDae|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -89,26 +89,26 @@ https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1ec
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17139&type=drm&token=qAC9naVJTfOm6KzyJs4Wf89vNfweTDae
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/OaSAzrvB2BbKYKDtemDGiuat3gM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5071476/d5ad8e.jpg" ch-number="17", Round 2 - PGA Championship 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=17139&type=dash&token=qAC9naVJTfOm6KzyJs4Wf89vNfweTDae|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=drm&token=qAC9naVJTfOm6KzyJs4Wf89vNfweTDae
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/VozUHl9PyRJMhBLKeO4cJkD--ng=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5073659/7a8e51.jpg" ch-number="17", Buenos Aires P1 Premier Padel - Quarterfinals
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/VozUHl9PyRJMhBLKeO4cJkD--ng=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5073659/7a8e51.jpg" ch-number="18", Buenos Aires P1 Premier Padel - Quarterfinals
 #https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=dash&token=qAC9naVJTfOm6KzyJs4Wf89vNfweTDae|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=9182&type=drm&token=qAC9naVJTfOm6KzyJs4Wf89vNfweTDae
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/7iqGz8ONZWkPNNFUslH48WhADKk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5071628/4a86c0.jpg" ch-number="18", Aston Villa vs Liverpool - Premier League
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/7iqGz8ONZWkPNNFUslH48WhADKk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5071628/4a86c0.jpg" ch-number="19", Aston Villa vs Liverpool - Premier League
 #https://vid-id.indi1.workers.dev/index.mpd?id=9182&type=dash&token=qAC9naVJTfOm6KzyJs4Wf89vNfweTDae|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18190&type=drm&token=qAC9naVJTfOm6KzyJs4Wf89vNfweTDae
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/DsiPgU9ADP4X4olZuIEucGNic1w=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5073657/364f3c.jpg" ch-number="19", Round 2 - Kroger Queen City Championship presented by P&G 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/DsiPgU9ADP4X4olZuIEucGNic1w=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5073657/364f3c.jpg" ch-number="20", Round 2 - Kroger Queen City Championship presented by P&G 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=18190&type=dash&token=qAC9naVJTfOm6KzyJs4Wf89vNfweTDae|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=16890&type=drm&token=qAC9naVJTfOm6KzyJs4Wf89vNfweTDae
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/x-Ps8CZEm4PO9K51-_KGZgfBG_I=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5074273/c9857e.jpg" ch-number="20", ONE Fight Night 43: Tang vs Gasanov
-#https://vid-id.indi1.workers.dev/index.mpd?id=16890&type=dash&token=qAC9naVJTfOm6KzyJs4Wf89vNfweTDae|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
