@@ -17,7 +17,7 @@ https://vid-id.indi1.workers.dev/index.mpd?id=19354&type=dash&token=A7qkCUG2Ydl5
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=19355&type=drm&token=A7qkCUG2Ydl51xitV6D0gKFBnH2tFZPA
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/4d20ic8Gr-B6OsVB2W8gp9Hc_WA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5073650/75bdb7.jpg" ch-number="4", Jelang Kick Off - PERSIK Kediri vs PERSIJA - BRI Super League
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="⛔ Event Ended" tvg-logo="https://thumbor.prod.vidiocdn.com/4d20ic8Gr-B6OsVB2W8gp9Hc_WA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5073650/75bdb7.jpg" ch-number="4", Jelang Kick Off - PERSIK Kediri vs PERSIJA - BRI Super League
 https://vid-id.indi1.workers.dev/index.mpd?id=19355&type=dash&token=A7qkCUG2Ydl51xitV6D0gKFBnH2tFZPA|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
