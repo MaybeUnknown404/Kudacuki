@@ -7,7 +7,7 @@ https://vid-id.indi1.workers.dev/index.mpd?id=20249&type=dash&token=A7qkCUG2Ydl5
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=19388&type=drm&token=A7qkCUG2Ydl51xitV6D0gKFBnH2tFZPA
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/nHKvZ0THUMfYv5ISVjZZIdfs3Ww=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5071543/2544c0.jpg" ch-number="2", Rajadamnern 2026 Light Flyweight Superfight
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="⛔ Event Ended" tvg-logo="https://thumbor.prod.vidiocdn.com/nHKvZ0THUMfYv5ISVjZZIdfs3Ww=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5071543/2544c0.jpg" ch-number="2", Rajadamnern 2026 Light Flyweight Superfight
 https://vid-id.indi1.workers.dev/index.mpd?id=19388&type=dash&token=A7qkCUG2Ydl51xitV6D0gKFBnH2tFZPA|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
