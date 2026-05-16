@@ -26,14 +26,14 @@ https://vid-id.indi1.workers.dev/index.mpd?id=17139&type=dash&token=A7qkCUG2Ydl5
 https://vid-id.indi1.workers.dev/index.mpd?id=19354&type=dash&token=A7qkCUG2Ydl51xitV6D0gKFBnH2tFZPA|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=drm&token=A7qkCUG2Ydl51xitV6D0gKFBnH2tFZPA
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/gJhgIAlLRDDNc8gErEHCOdkovjQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5075477/8d8965.jpg" ch-number="6", Chelsea vs Man United - Women's Super League
-https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=dash&token=A7qkCUG2Ydl51xitV6D0gKFBnH2tFZPA|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=drm&token=A7qkCUG2Ydl51xitV6D0gKFBnH2tFZPA
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/Yps69UQEHfXej_esw6phSn4C5SQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5075478/a1a8c1.jpg" ch-number="6", West Ham vs Man City - Women's Super League
+https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=dash&token=A7qkCUG2Ydl51xitV6D0gKFBnH2tFZPA|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=drm&token=A7qkCUG2Ydl51xitV6D0gKFBnH2tFZPA
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/Yps69UQEHfXej_esw6phSn4C5SQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5075478/a1a8c1.jpg" ch-number="7", West Ham vs Man City - Women's Super League
-https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=dash&token=A7qkCUG2Ydl51xitV6D0gKFBnH2tFZPA|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=drm&token=A7qkCUG2Ydl51xitV6D0gKFBnH2tFZPA
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/gJhgIAlLRDDNc8gErEHCOdkovjQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5075477/8d8965.jpg" ch-number="7", Chelsea vs Man United - Women's Super League
+https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=dash&token=A7qkCUG2Ydl51xitV6D0gKFBnH2tFZPA|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=19353&type=drm&token=A7qkCUG2Ydl51xitV6D0gKFBnH2tFZPA
@@ -87,26 +87,26 @@ https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1ec
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20502&type=drm&token=A7qkCUG2Ydl51xitV6D0gKFBnH2tFZPA
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/WaHZRfLWoSFWxQnzIIYtnwn79wM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5076843/d91379.jpg" ch-number="17", FC Porto Champion Trophy Ceremony - Liga Portugal 2025/26
+#https://vid-id.indi1.workers.dev/index.mpd?id=20502&type=dash&token=A7qkCUG2Ydl51xitV6D0gKFBnH2tFZPA|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17139&type=drm&token=A7qkCUG2Ydl51xitV6D0gKFBnH2tFZPA
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Fl2tIj8yFMntUkIJS7aoevQL8gA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5074271/8d0fcd.jpg" ch-number="17", Round 3 - PGA Championship 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Fl2tIj8yFMntUkIJS7aoevQL8gA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5074271/8d0fcd.jpg" ch-number="18", Round 3 - PGA Championship 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=17139&type=dash&token=A7qkCUG2Ydl51xitV6D0gKFBnH2tFZPA|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18190&type=drm&token=A7qkCUG2Ydl51xitV6D0gKFBnH2tFZPA
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/zlU3n4l6yYHVbfzmAEpiI_nd2C0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5073658/ba459b.jpg" ch-number="18", Round 3 - Kroger Queen City Championship presented by P&G 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/zlU3n4l6yYHVbfzmAEpiI_nd2C0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5073658/ba459b.jpg" ch-number="19", Round 3 - Kroger Queen City Championship presented by P&G 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=18190&type=dash&token=A7qkCUG2Ydl51xitV6D0gKFBnH2tFZPA|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18739&type=drm&token=A7qkCUG2Ydl51xitV6D0gKFBnH2tFZPA
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/fOMCKeyglHQk3v52Ci6pMdpZqog=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5074588/bc3e26.jpg" ch-number="19", Sporting vs Gil Vicente - Liga Portugal
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/fOMCKeyglHQk3v52Ci6pMdpZqog=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5074588/bc3e26.jpg" ch-number="20", Sporting vs Gil Vicente - Liga Portugal
 #https://vid-id.indi1.workers.dev/index.mpd?id=18739&type=dash&token=A7qkCUG2Ydl51xitV6D0gKFBnH2tFZPA|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=drm&token=A7qkCUG2Ydl51xitV6D0gKFBnH2tFZPA
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/qk3e3cDxCztVhFM-ZJOyRgELXCU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5073660/49f379.jpg" ch-number="20", Buenos Aires P1 Premier Padel - Semifinals
-#https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=dash&token=A7qkCUG2Ydl51xitV6D0gKFBnH2tFZPA|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
