@@ -2,7 +2,7 @@
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=drm&token=A7qkCUG2Ydl51xitV6D0gKFBnH2tFZPA
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/XZvnQKfxaFgr65Jl-FvXCXbOPAo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5076804/640369.jpg" ch-number="1", Dechapol Puavaranukroh/Supissara Paewsampran (THA) vs Zhu Yi Jun/Li Qian (CHN) - Mixed Doubles Semifinals | TOYOTA Thailand Open 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/VHJmweqZIsZpsOEeAgIdNw4PurI=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/toyota-thailand-open-2026-quarterfinals-court-1-58f392.jpg" ch-number="1", Toyota Thailand Open 2026 - Semifinals (Court 1)
 https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=A7qkCUG2Ydl51xitV6D0gKFBnH2tFZPA|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
