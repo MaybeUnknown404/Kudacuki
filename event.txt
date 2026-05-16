@@ -7,7 +7,7 @@ https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=A7qkCUG2Ydl5
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=drm&token=A7qkCUG2Ydl51xitV6D0gKFBnH2tFZPA
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/haDcGu9PjW_mxssEslC0knYoxIY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5076806/bf6a28.jpg" ch-number="2", Rin Iwanaga/Kie Nakanishi (JPN) vs Rui Hirokami/Sayaka Hobara (JPN) - Women's Doubles Semifinals | TOYOTA Thailand Open 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/2l5fV1Ra6IN-YLHp9snwlSwsDQw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5076807/5b4e2e.jpg" ch-number="2", Hina Akechi (JPN) vs Chen Yu Fei (CHN) - Women's Singles Semifinals | TOYOTA Thailand Open 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=dash&token=A7qkCUG2Ydl51xitV6D0gKFBnH2tFZPA|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
