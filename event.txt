@@ -47,21 +47,18 @@ https://vid-id.indi1.workers.dev/index.mpd?id=21400&type=dash&token=avHrOjqvBUON
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=drm&token=avHrOjqvBUON4WZ7rdxUonXbsvXY53WH
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/782reaW3jGkLOs-hB4rtVC-WR34=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5075462/09c7ac.jpg" ch-number="10", Rayo Vallecano vs Villarreal - LaLiga
-#https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=dash&token=avHrOjqvBUON4WZ7rdxUonXbsvXY53WH|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/782reaW3jGkLOs-hB4rtVC-WR34=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5075462/09c7ac.jpg" ch-number="10", Rayo Vallecano vs Villarreal - LaLiga
+https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=dash&token=avHrOjqvBUON4WZ7rdxUonXbsvXY53WH|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=drm&token=avHrOjqvBUON4WZ7rdxUonXbsvXY53WH
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/uf2XkoYN2UDUvbrlTQNyWkoszJo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5076769/53169a.jpg" ch-number="11", Atletico Madrid vs Girona - LaLiga
-#https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=dash&token=avHrOjqvBUON4WZ7rdxUonXbsvXY53WH|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/uf2XkoYN2UDUvbrlTQNyWkoszJo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5076769/53169a.jpg" ch-number="11", Atletico Madrid vs Girona - LaLiga
+https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=dash&token=avHrOjqvBUON4WZ7rdxUonXbsvXY53WH|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6317&type=drm&token=avHrOjqvBUON4WZ7rdxUonXbsvXY53WH
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/nSN2OsRpryL9MO4sl3tiR1y9B0E=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5075469/1b51ce.jpg" ch-number="12", Sevilla vs Real Madrid - LaLiga
-#https://vid-id.indi1.workers.dev/index.mpd?id=6317&type=dash&token=avHrOjqvBUON4WZ7rdxUonXbsvXY53WH|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/nSN2OsRpryL9MO4sl3tiR1y9B0E=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5075469/1b51ce.jpg" ch-number="12", Sevilla vs Real Madrid - LaLiga
+https://vid-id.indi1.workers.dev/index.mpd?id=6317&type=dash&token=avHrOjqvBUON4WZ7rdxUonXbsvXY53WH|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17139&type=drm&token=avHrOjqvBUON4WZ7rdxUonXbsvXY53WH
