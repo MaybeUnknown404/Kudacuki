@@ -62,7 +62,7 @@ https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=dash&token=avHrOjqvBUON
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17139&type=drm&token=avHrOjqvBUON4WZ7rdxUonXbsvXY53WH
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/nwjPEj0NdbNS-Ct59ZttratYLYY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5074276/0b004b.jpg" ch-number="13", WorldSSP Race 2 - WorldSBK Championship 2026 Round 5 Czech Round
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="⛔ Event Ended" tvg-logo="https://thumbor.prod.vidiocdn.com/nwjPEj0NdbNS-Ct59ZttratYLYY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5074276/0b004b.jpg" ch-number="13", WorldSSP Race 2 - WorldSBK Championship 2026 Round 5 Czech Round
 https://vid-id.indi1.workers.dev/index.mpd?id=17139&type=dash&token=avHrOjqvBUON4WZ7rdxUonXbsvXY53WH|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -92,9 +92,8 @@ https://vid-id.indi1.workers.dev/index.mpd?id=6685&type=dash&token=avHrOjqvBUON4
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17139&type=drm&token=avHrOjqvBUON4WZ7rdxUonXbsvXY53WH
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/S2BhnhbAkNKdeOGhub6kn3r_sF8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5074277/5ae5ff.jpg" ch-number="19", WorldSBK Race 2 - WorldSBK Championship 2026 Round 5 Czech Round
-#https://vid-id.indi1.workers.dev/index.mpd?id=17139&type=dash&token=avHrOjqvBUON4WZ7rdxUonXbsvXY53WH|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/S2BhnhbAkNKdeOGhub6kn3r_sF8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5074277/5ae5ff.jpg" ch-number="19", WorldSBK Race 2 - WorldSBK Championship 2026 Round 5 Czech Round
+https://vid-id.indi1.workers.dev/index.mpd?id=17139&type=dash&token=avHrOjqvBUON4WZ7rdxUonXbsvXY53WH|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20887&type=drm&token=avHrOjqvBUON4WZ7rdxUonXbsvXY53WH
