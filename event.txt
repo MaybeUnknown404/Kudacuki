@@ -1,19 +1,19 @@
 #EXTM3U
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20216&type=drm&token=avHrOjqvBUON4WZ7rdxUonXbsvXY53WH
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/GQAT5iQclgjIYhO1NJRq8zhsNKY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5075471/2d2df3.jpg" ch-number="1", Timmy Cuamba vs Benardo Sopaj - Bantamweight | UFC Fight Night
+https://vid-id.indi1.workers.dev/index.mpd?id=20216&type=dash&token=avHrOjqvBUON4WZ7rdxUonXbsvXY53WH|User-Agent=VidioPlayer/6.31.6
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21099&type=drm&token=avHrOjqvBUON4WZ7rdxUonXbsvXY53WH
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/8IUWtgGkZlc6XGTFdHObB68RJN0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5076762/893566.jpg" ch-number="1", Putri JP Jakarta vs Newland FA - HYDROPLUS Soccer League U-18
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/8IUWtgGkZlc6XGTFdHObB68RJN0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5076762/893566.jpg" ch-number="2", Putri JP Jakarta vs Newland FA - HYDROPLUS Soccer League U-18
 https://vid-id.indi1.workers.dev/index.mpd?id=21099&type=dash&token=avHrOjqvBUON4WZ7rdxUonXbsvXY53WH|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=drm&token=avHrOjqvBUON4WZ7rdxUonXbsvXY53WH
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/qk3e3cDxCztVhFM-ZJOyRgELXCU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5073660/49f379.jpg" ch-number="2", Buenos Aires P1 Premier Padel - Semifinals
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/qk3e3cDxCztVhFM-ZJOyRgELXCU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5073660/49f379.jpg" ch-number="3", Buenos Aires P1 Premier Padel - Semifinals
 https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=dash&token=avHrOjqvBUON4WZ7rdxUonXbsvXY53WH|User-Agent=VidioPlayer/6.31.6
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20216&type=drm&token=avHrOjqvBUON4WZ7rdxUonXbsvXY53WH
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/GQAT5iQclgjIYhO1NJRq8zhsNKY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5075471/2d2df3.jpg" ch-number="3", Timmy Cuamba vs Benardo Sopaj - Bantamweight | UFC Fight Night
-https://vid-id.indi1.workers.dev/index.mpd?id=20216&type=dash&token=avHrOjqvBUON4WZ7rdxUonXbsvXY53WH|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21210&type=drm&token=avHrOjqvBUON4WZ7rdxUonXbsvXY53WH
