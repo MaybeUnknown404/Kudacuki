@@ -12,7 +12,7 @@ https://vid-id.indi1.workers.dev/index.mpd?id=21210&type=dash&token=avHrOjqvBUON
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=drm&token=avHrOjqvBUON4WZ7rdxUonXbsvXY53WH
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/coGZ-1HXVAAgIgP4G3N8YL6B2Ng=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/toyota-thailand-open-2026-semifinals-court-1-469da8.jpg" ch-number="3", Rin Iwanaga/Kie Nakanishi (JPN) vs Bao Li Jing/Cao Zi Han (CHN) - Women's Doubles Final | TOYOTA Thailand Open 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/WewTyyG6rBvdEy9t27OEcTfZ9XE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5077913/b6cd39.jpg" ch-number="3", Rin Iwanaga/Kie Nakanishi (JPN) vs Bao Li Jing/Cao Zi Han (CHN) - Women's Doubles Final | TOYOTA Thailand Open 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=avHrOjqvBUON4WZ7rdxUonXbsvXY53WH|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
