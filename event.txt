@@ -11,44 +11,45 @@ https://vid-id.indi1.workers.dev/index.mpd?id=17139&type=dash&token=WJP5tuoCAJJf
 https://vid-id.indi1.workers.dev/index.mpd?id=18190&type=dash&token=WJP5tuoCAJJfvlL61GbflUt2NLjYcfqd|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=drm&token=WJP5tuoCAJJfvlL61GbflUt2NLjYcfqd
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="⛔ Event Ended" tvg-logo="https://thumbor.prod.vidiocdn.com/JI6eWN7hlthJDGjgNYMh8FZdnO4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5075470/da8995.jpg" ch-number="3", Buenos Aires P1 Premier Padel - Finals
-https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=dash&token=WJP5tuoCAJJfvlL61GbflUt2NLjYcfqd|User-Agent=VidioPlayer/6.31.6
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21210&type=drm&token=WJP5tuoCAJJfvlL61GbflUt2NLjYcfqd
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Vr0uFK-ztG3uT3Zfy8CHhXQvXlA=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21210/campus-league-2026-basketball-612645.jpg" ch-number="4", Universitas Islam Bandung vs Universitas Perjuangan (Grup D | Putra) - CL Basketball 2026 - Regional Bandung
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Vr0uFK-ztG3uT3Zfy8CHhXQvXlA=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21210/campus-league-2026-basketball-612645.jpg" ch-number="3", Universitas Islam Bandung vs Universitas Perjuangan (Grup D | Putra) - CL Basketball 2026 - Regional Bandung
 #https://vid-id.indi1.workers.dev/index.mpd?id=21210&type=dash&token=WJP5tuoCAJJfvlL61GbflUt2NLjYcfqd|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6786&type=drm&token=WJP5tuoCAJJfvlL61GbflUt2NLjYcfqd
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/iba_YMAfmYOmZdphoyhgF-g_Nd4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5079415/201cbe.jpg" ch-number="5", Day 2 - WTA 500: Internationaux de Strasbourg presented by Mammotion 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/iba_YMAfmYOmZdphoyhgF-g_Nd4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5079415/201cbe.jpg" ch-number="4", Day 2 - WTA 500: Internationaux de Strasbourg presented by Mammotion 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=6786&type=dash&token=WJP5tuoCAJJfvlL61GbflUt2NLjYcfqd|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=drm&token=WJP5tuoCAJJfvlL61GbflUt2NLjYcfqd
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/lJuRH3MjQ_ZtCZjI6U1ZEFlv4CY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5079552/8a6a63.jpg" ch-number="6", Sebastian Baez vs Alex Michelsen - Round 1 | ATP 250: Gonet Geneva Open 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/lJuRH3MjQ_ZtCZjI6U1ZEFlv4CY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5079552/8a6a63.jpg" ch-number="5", Sebastian Baez vs Alex Michelsen - Round 1 | ATP 250: Gonet Geneva Open 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=dash&token=WJP5tuoCAJJfvlL61GbflUt2NLjYcfqd|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20885&type=drm&token=WJP5tuoCAJJfvlL61GbflUt2NLjYcfqd
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/b1nb0Opoez02fOzV6ffmpo4J7GA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5079558/49550d.jpg" ch-number="7", Francisco Cerundolo vs Alex de Minaur - Round 1 | ATP 500: bitpanda Hamburg Open 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/b1nb0Opoez02fOzV6ffmpo4J7GA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5079558/49550d.jpg" ch-number="6", Francisco Cerundolo vs Alex de Minaur - Round 1 | ATP 500: bitpanda Hamburg Open 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=20885&type=dash&token=WJP5tuoCAJJfvlL61GbflUt2NLjYcfqd|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20886&type=drm&token=WJP5tuoCAJJfvlL61GbflUt2NLjYcfqd
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/c1QhZdRfUYBFopgWwtlWpPKUFxM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5079563/aa818c.jpg" ch-number="8", Alejandro Davidovich Fokina vs Corentin Moutet - Round 1 (M1 Court) | ATP 500: bitpanda Hamburg Open 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/c1QhZdRfUYBFopgWwtlWpPKUFxM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5079563/aa818c.jpg" ch-number="7", Alejandro Davidovich Fokina vs Corentin Moutet - Round 1 (M1 Court) | ATP 500: bitpanda Hamburg Open 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=20886&type=dash&token=WJP5tuoCAJJfvlL61GbflUt2NLjYcfqd|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=drm&token=WJP5tuoCAJJfvlL61GbflUt2NLjYcfqd
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/KVfzlgs98HdTY8cULB1zKg8vM8A=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5079553/f3fd1e.jpg" ch-number="9", Arthur Rinderknech vs Thiago Agustin Tirante - Round 1 | ATP 250: Gonet Geneva Open 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/KVfzlgs98HdTY8cULB1zKg8vM8A=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5079553/f3fd1e.jpg" ch-number="8", Arthur Rinderknech vs Thiago Agustin Tirante - Round 1 | ATP 250: Gonet Geneva Open 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=dash&token=WJP5tuoCAJJfvlL61GbflUt2NLjYcfqd|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20886&type=drm&token=WJP5tuoCAJJfvlL61GbflUt2NLjYcfqd
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Z0wy1BSP2xmsCtmON3zmd7nf_2o=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5079564/1f80d1.jpg" ch-number="9", Terence Atmane vs Tomas Martin Etcheverry- Round 1 (M1 Court) | ATP 500: bitpanda Hamburg Open 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=20886&type=dash&token=WJP5tuoCAJJfvlL61GbflUt2NLjYcfqd|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -58,27 +59,27 @@ https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1ec
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20886&type=drm&token=WJP5tuoCAJJfvlL61GbflUt2NLjYcfqd
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Z0wy1BSP2xmsCtmON3zmd7nf_2o=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5079564/1f80d1.jpg" ch-number="11", Terence Atmane vs Tomas Martin Etcheverry- Round 1 (M1 Court) | ATP 500: bitpanda Hamburg Open 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=20886&type=dash&token=WJP5tuoCAJJfvlL61GbflUt2NLjYcfqd|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=drm&token=WJP5tuoCAJJfvlL61GbflUt2NLjYcfqd
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/xgMJLq3IVJH-W5_ogh78fxZt1uA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5079554/690f70.jpg" ch-number="12", Stefanos Tsitsipas vs Giovanni Mpetshi Perricard - Round 1 | ATP 250: Gonet Geneva Open 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/xgMJLq3IVJH-W5_ogh78fxZt1uA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5079554/690f70.jpg" ch-number="11", Stefanos Tsitsipas vs Giovanni Mpetshi Perricard - Round 1 | ATP 250: Gonet Geneva Open 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=dash&token=WJP5tuoCAJJfvlL61GbflUt2NLjYcfqd|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20886&type=drm&token=WJP5tuoCAJJfvlL61GbflUt2NLjYcfqd
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/rFY9vis5uLo6EQ8Utcmozt7Joo4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5079565/a6d796.jpg" ch-number="13", Daniel Altmaier vs Rinky Hijikata - Round 1 (M1 Court) | ATP 500: bitpanda Hamburg Open 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/rFY9vis5uLo6EQ8Utcmozt7Joo4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5079565/a6d796.jpg" ch-number="12", Daniel Altmaier vs Rinky Hijikata - Round 1 (M1 Court) | ATP 500: bitpanda Hamburg Open 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=20886&type=dash&token=WJP5tuoCAJJfvlL61GbflUt2NLjYcfqd|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20885&type=drm&token=WJP5tuoCAJJfvlL61GbflUt2NLjYcfqd
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/2H4FSIU0Ub6OipFfKaiMGA0agxE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5079560/10c752.jpg" ch-number="14", Marcus Giron vs Ben Shelton - Round 1 | ATP 500: bitpanda Hamburg Open 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/2H4FSIU0Ub6OipFfKaiMGA0agxE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5079560/10c752.jpg" ch-number="13", Marcus Giron vs Ben Shelton - Round 1 | ATP 500: bitpanda Hamburg Open 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=20885&type=dash&token=WJP5tuoCAJJfvlL61GbflUt2NLjYcfqd|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=drm&token=WJP5tuoCAJJfvlL61GbflUt2NLjYcfqd
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/L2efbbtHRFLttiTZi40HUTxAIGU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5079555/5b92ae.jpg" ch-number="14", Raul Brancaccio vs Stan Wawrinka - Round 1 | ATP 250: Gonet Geneva Open 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=dash&token=WJP5tuoCAJJfvlL61GbflUt2NLjYcfqd|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -88,32 +89,32 @@ https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1ec
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=drm&token=WJP5tuoCAJJfvlL61GbflUt2NLjYcfqd
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/L2efbbtHRFLttiTZi40HUTxAIGU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5079555/5b92ae.jpg" ch-number="16", Raul Brancaccio vs Stan Wawrinka - Round 1 | ATP 250: Gonet Geneva Open 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=dash&token=WJP5tuoCAJJfvlL61GbflUt2NLjYcfqd|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6786&type=drm&token=WJP5tuoCAJJfvlL61GbflUt2NLjYcfqd
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/ne8wcgmnCltx3UOpa3h3uHQ50yI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5079416/aa6ad7.jpg" ch-number="17", Day 2 - WTA 500: Internationaux de Strasbourg presented by Mammotion 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/ne8wcgmnCltx3UOpa3h3uHQ50yI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5079416/aa6ad7.jpg" ch-number="16", Day 2 - WTA 500: Internationaux de Strasbourg presented by Mammotion 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=6786&type=dash&token=WJP5tuoCAJJfvlL61GbflUt2NLjYcfqd|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=drm&token=WJP5tuoCAJJfvlL61GbflUt2NLjYcfqd
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/WlJvBm-xRBzDnMdlYl5npd0FTFU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5079556/504ca4.jpg" ch-number="18", Lorenzo Sonego vs Edas Butvilas - Round 1 | ATP 250: Gonet Geneva Open 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/WlJvBm-xRBzDnMdlYl5npd0FTFU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5079556/504ca4.jpg" ch-number="17", Lorenzo Sonego vs Edas Butvilas - Round 1 | ATP 250: Gonet Geneva Open 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=dash&token=WJP5tuoCAJJfvlL61GbflUt2NLjYcfqd|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=9182&type=drm&token=WJP5tuoCAJJfvlL61GbflUt2NLjYcfqd
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/rnIcQpAnGiaBuVx2h5FxdeLFQWI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5075479/e32266.jpg" ch-number="19", Arsenal vs Burnley - Premier League
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/rnIcQpAnGiaBuVx2h5FxdeLFQWI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5075479/e32266.jpg" ch-number="18", Arsenal vs Burnley - Premier League
 #https://vid-id.indi1.workers.dev/index.mpd?id=9182&type=dash&token=WJP5tuoCAJJfvlL61GbflUt2NLjYcfqd|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=9182&type=drm&token=WJP5tuoCAJJfvlL61GbflUt2NLjYcfqd
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/HxJf6fW7rNsfIeY-LgB_x1FZa2c=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5078251/209169.jpg" ch-number="20", Bournemouth vs Man City - Premier League
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/HxJf6fW7rNsfIeY-LgB_x1FZa2c=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5078251/209169.jpg" ch-number="19", Bournemouth vs Man City - Premier League
 #https://vid-id.indi1.workers.dev/index.mpd?id=9182&type=dash&token=WJP5tuoCAJJfvlL61GbflUt2NLjYcfqd|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21392&type=drm&token=WJP5tuoCAJJfvlL61GbflUt2NLjYcfqd
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/qfUSLq2n1DKliAU4j86OHJgZL3k=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21392/ubl-nasional-season-1-151e36.jpg" ch-number="20", UBL Nasional Season 1
+#https://vid-id.indi1.workers.dev/index.mpd?id=21392&type=dash&token=WJP5tuoCAJJfvlL61GbflUt2NLjYcfqd|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
