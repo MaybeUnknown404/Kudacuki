@@ -11,14 +11,14 @@ https://vid-id.indi1.workers.dev/index.mpd?id=6317&type=dash&token=WJP5tuoCAJJfv
 https://vid-id.indi1.workers.dev/index.mpd?id=21333&type=dash&token=WJP5tuoCAJJfvlL61GbflUt2NLjYcfqd|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20810&type=drm&token=WJP5tuoCAJJfvlL61GbflUt2NLjYcfqd
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/f1Og2oJYNtDjPgg5zb6iCLXHbE4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5074957/e646d1.jpg" ch-number="3", Elche vs Getafe - LaLiga
-https://vid-id.indi1.workers.dev/index.mpd?id=20810&type=dash&token=WJP5tuoCAJJfvlL61GbflUt2NLjYcfqd|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21400&type=drm&token=WJP5tuoCAJJfvlL61GbflUt2NLjYcfqd
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/uKP4i1jhlAaZdQ2uKoreWa9UleM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5075440/0c2cf4.jpg" ch-number="3", Osasuna vs Espanyol - LaLiga
+https://vid-id.indi1.workers.dev/index.mpd?id=21400&type=dash&token=WJP5tuoCAJJfvlL61GbflUt2NLjYcfqd|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21400&type=drm&token=WJP5tuoCAJJfvlL61GbflUt2NLjYcfqd
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/uKP4i1jhlAaZdQ2uKoreWa9UleM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5075440/0c2cf4.jpg" ch-number="4", Osasuna vs Espanyol - LaLiga
-https://vid-id.indi1.workers.dev/index.mpd?id=21400&type=dash&token=WJP5tuoCAJJfvlL61GbflUt2NLjYcfqd|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20810&type=drm&token=WJP5tuoCAJJfvlL61GbflUt2NLjYcfqd
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/f1Og2oJYNtDjPgg5zb6iCLXHbE4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5074957/e646d1.jpg" ch-number="4", Elche vs Getafe - LaLiga
+https://vid-id.indi1.workers.dev/index.mpd?id=20810&type=dash&token=WJP5tuoCAJJfvlL61GbflUt2NLjYcfqd|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21401&type=drm&token=WJP5tuoCAJJfvlL61GbflUt2NLjYcfqd
@@ -51,14 +51,14 @@ https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=dash&token=WJP5tuoCAJJf
 https://vid-id.indi1.workers.dev/index.mpd?id=17139&type=dash&token=WJP5tuoCAJJfvlL61GbflUt2NLjYcfqd|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=19404&type=drm&token=WJP5tuoCAJJfvlL61GbflUt2NLjYcfqd
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/aWSNRTFpVhyyUCSbDNY7emURBo8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5075467/c2bcdb.jpg" ch-number="11", Sassuolo vs Lecce - Serie A
-https://vid-id.indi1.workers.dev/index.mpd?id=19404&type=dash&token=WJP5tuoCAJJfvlL61GbflUt2NLjYcfqd|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17939&type=drm&token=WJP5tuoCAJJfvlL61GbflUt2NLjYcfqd
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/1W9uoQJ3UG9gBSxhq6hMG8K9JXY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5075466/ea010a.jpg" ch-number="11", Cagliari vs Torino - Serie A
+https://vid-id.indi1.workers.dev/index.mpd?id=17939&type=dash&token=WJP5tuoCAJJfvlL61GbflUt2NLjYcfqd|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17939&type=drm&token=WJP5tuoCAJJfvlL61GbflUt2NLjYcfqd
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/1W9uoQJ3UG9gBSxhq6hMG8K9JXY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5075466/ea010a.jpg" ch-number="12", Cagliari vs Torino - Serie A
-https://vid-id.indi1.workers.dev/index.mpd?id=17939&type=dash&token=WJP5tuoCAJJfvlL61GbflUt2NLjYcfqd|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=19404&type=drm&token=WJP5tuoCAJJfvlL61GbflUt2NLjYcfqd
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/aWSNRTFpVhyyUCSbDNY7emURBo8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5075467/c2bcdb.jpg" ch-number="12", Sassuolo vs Lecce - Serie A
+https://vid-id.indi1.workers.dev/index.mpd?id=19404&type=dash&token=WJP5tuoCAJJfvlL61GbflUt2NLjYcfqd|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17938&type=drm&token=WJP5tuoCAJJfvlL61GbflUt2NLjYcfqd
@@ -90,20 +90,20 @@ https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1ec
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=drm&token=WJP5tuoCAJJfvlL61GbflUt2NLjYcfqd
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/lJuRH3MjQ_ZtCZjI6U1ZEFlv4CY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5079552/8a6a63.jpg" ch-number="18", Sebastian Baez vs Alex Michelsen - Round 1 | ATP 250: Gonet Geneva Open 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=dash&token=WJP5tuoCAJJfvlL61GbflUt2NLjYcfqd|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6786&type=drm&token=WJP5tuoCAJJfvlL61GbflUt2NLjYcfqd
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/iba_YMAfmYOmZdphoyhgF-g_Nd4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5079415/201cbe.jpg" ch-number="18", Day 2 - WTA 500: Internationaux de Strasbourg presented by Mammotion 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/iba_YMAfmYOmZdphoyhgF-g_Nd4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5079415/201cbe.jpg" ch-number="19", Day 2 - WTA 500: Internationaux de Strasbourg presented by Mammotion 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=6786&type=dash&token=WJP5tuoCAJJfvlL61GbflUt2NLjYcfqd|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=drm&token=WJP5tuoCAJJfvlL61GbflUt2NLjYcfqd
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/lJuRH3MjQ_ZtCZjI6U1ZEFlv4CY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5079552/8a6a63.jpg" ch-number="19", Sebastian Baez vs Alex Michelsen - Round 1 | ATP 250: Gonet Geneva Open 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=dash&token=WJP5tuoCAJJfvlL61GbflUt2NLjYcfqd|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=drm&token=WJP5tuoCAJJfvlL61GbflUt2NLjYcfqd
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/KVfzlgs98HdTY8cULB1zKg8vM8A=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5079553/f3fd1e.jpg" ch-number="20", Arthur Rinderknech vs Thiago Agustin Tirante - Round 1 | ATP 250: Gonet Geneva Open 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=dash&token=WJP5tuoCAJJfvlL61GbflUt2NLjYcfqd|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20885&type=drm&token=WJP5tuoCAJJfvlL61GbflUt2NLjYcfqd
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/b1nb0Opoez02fOzV6ffmpo4J7GA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5079558/49550d.jpg" ch-number="20", Francisco Cerundolo vs Alex de Minaur - Round 1 | ATP 500: bitpanda Hamburg Open 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=20885&type=dash&token=WJP5tuoCAJJfvlL61GbflUt2NLjYcfqd|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
