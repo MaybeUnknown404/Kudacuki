@@ -87,31 +87,31 @@ https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1ec
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=drm&token=WJP5tuoCAJJfvlL61GbflUt2NLjYcfqd
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/kPXWPIJQpPONp1QF7vQ8PuQNDzA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080105/47a139.jpg" ch-number="16", Hung Kuei Chun/Lui Chun Wai (HKG) vs Julien Maio/William Villeger (FRA) - Men's Doubles Qualification Quarterfinals | Perodua Malaysia Masters 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/YvccL9vhesWUCsE0P3BXzqTq2HI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080107/0aa331.jpg" ch-number="16", Sayaka Hirota/Ayako Sakuramoto (JPN) vs Paula Lopez/Lucia Rodriguez (ESP) - Women's Doubles Round of 32 | Perodua Malaysia Masters 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=dash&token=WJP5tuoCAJJfvlL61GbflUt2NLjYcfqd|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=drm&token=WJP5tuoCAJJfvlL61GbflUt2NLjYcfqd
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/IKef9ZyIpNcsB6DiXr8KFi7u1bw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080108/a72599.jpg" ch-number="17", Huang Di/Liu Yang (CHN) vs Chen Cheng Kuan/Liu Kuang Heng (TPE) - Men's Doubles Round of 32 | Perodua Malaysia Masters 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=dash&token=WJP5tuoCAJJfvlL61GbflUt2NLjYcfqd|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18253&type=drm&token=WJP5tuoCAJJfvlL61GbflUt2NLjYcfqd
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/SX5Ay4qtHJS3QFXBh9_8tMjgsMA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080117/a304ce.jpg" ch-number="17", Ornnicha Jongsathapornparn/Sabrina Sophita Wedler (THA) vs Khanaphon Deearom/Sukitta Suwachai (THA) - Women's Doubles Qualification Quarterfinals | PERODUA Malaysia Masters 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/x6rUoGCPbtFOploB3x4L34mDcx8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080122/9cfb46.jpg" ch-number="18", Isyana Syahira Meida/Rinjani Kwinnara Nastine (INA) vs Lanny Tria Mayasari/Apriyani Rahayu (INA) - Women's Doubles Round of 32 | PERODUA Malaysia Masters 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=18253&type=dash&token=WJP5tuoCAJJfvlL61GbflUt2NLjYcfqd|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=drm&token=WJP5tuoCAJJfvlL61GbflUt2NLjYcfqd
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/ns-HiRRUq_G_ywjIQeSEdm8PK8c=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080106/bee842.jpg" ch-number="18", TBA vs TBA - Men's Singles Qualification Quarterfinals | Perodua Malaysia Masters 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/qdNU83zS3JYqcQo9yRMV148FRUY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080109/458f7e.jpg" ch-number="19", Hathaithip Mijad/Napapakorn Tungkastan (THA) vs Hsung Ya Ching/Sung Yu-Hsuan (TPE) - Women's Doubles Round of 32 | Perodua Malaysia Masters 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=dash&token=WJP5tuoCAJJfvlL61GbflUt2NLjYcfqd|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18253&type=drm&token=WJP5tuoCAJJfvlL61GbflUt2NLjYcfqd
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/jo-vamlJsEOy7L_YxHRzg3vKE2Q=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080118/c5e356.jpg" ch-number="19", TBD vs TBD - Men's Singles Qualification Quarterfinals | PERODUA Malaysia Masters 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=18253&type=dash&token=WJP5tuoCAJJfvlL61GbflUt2NLjYcfqd|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18253&type=drm&token=WJP5tuoCAJJfvlL61GbflUt2NLjYcfqd
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/KUtRmnHQflkKvDo8rwufWcb0MuE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080119/67a5bc.jpg" ch-number="20", Christo Popov/Toma Junior Popov (FRA) vs Hariharan Amsakarunan/M.R. Arjun (IND) - Men's Doubles Round of 32 | PERODUA Malaysia Masters 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/QIclMPwSCpgprb2aLdI8gVZwnOY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080123/0a40f3.jpg" ch-number="20", Lin Chih-Chun/Yang Chu Yun (TPE) vs Phattharin Aiamvareesrisakul/Sarisa Janpeng (THA) - Women's Doubles Round of 32 | PERODUA Malaysia Masters 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=18253&type=dash&token=WJP5tuoCAJJfvlL61GbflUt2NLjYcfqd|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
