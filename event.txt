@@ -12,7 +12,7 @@ https://vid-id.indi1.workers.dev/index.mpd?id=20885&type=dash&token=WJP5tuoCAJJf
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=drm&token=WJP5tuoCAJJfvlL61GbflUt2NLjYcfqd
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/xgMJLq3IVJH-W5_ogh78fxZt1uA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5079554/690f70.jpg" ch-number="3", Stefanos Tsitsipas vs Giovanni Mpetshi Perricard - Round 1 | ATP 250: Gonet Geneva Open 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="⛔ Event Ended" tvg-logo="https://thumbor.prod.vidiocdn.com/xgMJLq3IVJH-W5_ogh78fxZt1uA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5079554/690f70.jpg" ch-number="3", Stefanos Tsitsipas vs Giovanni Mpetshi Perricard - Round 1 | ATP 250: Gonet Geneva Open 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=dash&token=WJP5tuoCAJJfvlL61GbflUt2NLjYcfqd|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
