@@ -16,14 +16,14 @@ https://vid-id.indi1.workers.dev/index.mpd?id=6786&type=dash&token=WJP5tuoCAJJfv
 https://vid-id.indi1.workers.dev/index.mpd?id=20887&type=dash&token=WJP5tuoCAJJfvlL61GbflUt2NLjYcfqd|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20885&type=drm&token=WJP5tuoCAJJfvlL61GbflUt2NLjYcfqd
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/vW0NGxXsXrc2JxpRcU7VKOCkXmc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5079559/2a1136.jpg" ch-number="4", Yannick Hanfmann vs Max Schoenhaus - Round 1 | ATP 500: bitpanda Hamburg Open 2026
-https://vid-id.indi1.workers.dev/index.mpd?id=20885&type=dash&token=WJP5tuoCAJJfvlL61GbflUt2NLjYcfqd|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20886&type=drm&token=WJP5tuoCAJJfvlL61GbflUt2NLjYcfqd
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/Z0wy1BSP2xmsCtmON3zmd7nf_2o=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5079564/1f80d1.jpg" ch-number="4", Terence Atmane vs Tomas Martin Etcheverry- Round 1 (M1 Court) | ATP 500: bitpanda Hamburg Open 2026
+https://vid-id.indi1.workers.dev/index.mpd?id=20886&type=dash&token=WJP5tuoCAJJfvlL61GbflUt2NLjYcfqd|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20886&type=drm&token=WJP5tuoCAJJfvlL61GbflUt2NLjYcfqd
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/Z0wy1BSP2xmsCtmON3zmd7nf_2o=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5079564/1f80d1.jpg" ch-number="5", Terence Atmane vs Tomas Martin Etcheverry- Round 1 (M1 Court) | ATP 500: bitpanda Hamburg Open 2026
-https://vid-id.indi1.workers.dev/index.mpd?id=20886&type=dash&token=WJP5tuoCAJJfvlL61GbflUt2NLjYcfqd|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20885&type=drm&token=WJP5tuoCAJJfvlL61GbflUt2NLjYcfqd
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/vW0NGxXsXrc2JxpRcU7VKOCkXmc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5079559/2a1136.jpg" ch-number="5", Yannick Hanfmann vs Max Schoenhaus - Round 1 | ATP 500: bitpanda Hamburg Open 2026
+https://vid-id.indi1.workers.dev/index.mpd?id=20885&type=dash&token=WJP5tuoCAJJfvlL61GbflUt2NLjYcfqd|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=drm&token=WJP5tuoCAJJfvlL61GbflUt2NLjYcfqd
@@ -38,27 +38,27 @@ https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1ec
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20885&type=drm&token=WJP5tuoCAJJfvlL61GbflUt2NLjYcfqd
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/sElwpRhZxZc1Nz0pB5vjiZszcOI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5079561/ffba33.jpg" ch-number="8", Jakub Mensik vs Jan-Lennard Struff - Round 1 | ATP 500: bitpanda Hamburg Open 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=20885&type=dash&token=WJP5tuoCAJJfvlL61GbflUt2NLjYcfqd|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20886&type=drm&token=WJP5tuoCAJJfvlL61GbflUt2NLjYcfqd
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/rFY9vis5uLo6EQ8Utcmozt7Joo4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5079565/a6d796.jpg" ch-number="9", Daniel Altmaier vs Rinky Hijikata - Round 1 (M1 Court) | ATP 500: bitpanda Hamburg Open 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/rFY9vis5uLo6EQ8Utcmozt7Joo4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5079565/a6d796.jpg" ch-number="8", Daniel Altmaier vs Rinky Hijikata - Round 1 (M1 Court) | ATP 500: bitpanda Hamburg Open 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=20886&type=dash&token=WJP5tuoCAJJfvlL61GbflUt2NLjYcfqd|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6786&type=drm&token=WJP5tuoCAJJfvlL61GbflUt2NLjYcfqd
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/ne8wcgmnCltx3UOpa3h3uHQ50yI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5079416/aa6ad7.jpg" ch-number="10", Day 2 - WTA 500: Internationaux de Strasbourg presented by Mammotion 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/ne8wcgmnCltx3UOpa3h3uHQ50yI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5079416/aa6ad7.jpg" ch-number="9", Day 2 - WTA 500: Internationaux de Strasbourg presented by Mammotion 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=6786&type=dash&token=WJP5tuoCAJJfvlL61GbflUt2NLjYcfqd|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=drm&token=WJP5tuoCAJJfvlL61GbflUt2NLjYcfqd
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/L2efbbtHRFLttiTZi40HUTxAIGU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5079555/5b92ae.jpg" ch-number="11", Raul Brancaccio vs Stan Wawrinka - Round 1 | ATP 250: Gonet Geneva Open 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/L2efbbtHRFLttiTZi40HUTxAIGU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5079555/5b92ae.jpg" ch-number="10", Raul Brancaccio vs Stan Wawrinka - Round 1 | ATP 250: Gonet Geneva Open 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=dash&token=WJP5tuoCAJJfvlL61GbflUt2NLjYcfqd|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20885&type=drm&token=WJP5tuoCAJJfvlL61GbflUt2NLjYcfqd
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/sElwpRhZxZc1Nz0pB5vjiZszcOI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5079561/ffba33.jpg" ch-number="11", Jakub Mensik vs Jan-Lennard Struff - Round 1 | ATP 500: bitpanda Hamburg Open 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=20885&type=dash&token=WJP5tuoCAJJfvlL61GbflUt2NLjYcfqd|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
