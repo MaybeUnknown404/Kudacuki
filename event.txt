@@ -37,15 +37,13 @@ https://vid-id.indi1.workers.dev/index.mpd?id=6786&type=dash&token=Fbr0ud1iAcmbv
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20886&type=drm&token=Fbr0ud1iAcmbvRQjK5dws5Zb0Wvo9YpJ
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/hesCwZicSpcAE-sEb8TGdGY8a-4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080166/a6a5dd.jpg" ch-number="8", Kevin Krawietz/Tim Puetz vs Hugo Nys/Edouard Roger-Vasselin - Round 1 (M1 Court) | ATP 500: bitpanda Hamburg Open 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=20886&type=dash&token=Fbr0ud1iAcmbvRQjK5dws5Zb0Wvo9YpJ|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/hesCwZicSpcAE-sEb8TGdGY8a-4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080166/a6a5dd.jpg" ch-number="8", Kevin Krawietz/Tim Puetz vs Hugo Nys/Edouard Roger-Vasselin - Round 1 (M1 Court) | ATP 500: bitpanda Hamburg Open 2026
+https://vid-id.indi1.workers.dev/index.mpd?id=20886&type=dash&token=Fbr0ud1iAcmbvRQjK5dws5Zb0Wvo9YpJ|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20890&type=drm&token=Fbr0ud1iAcmbvRQjK5dws5Zb0Wvo9YpJ
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/_QMQ5BbLRD2c84Eket8QamuANy8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080171/eed73b.jpg" ch-number="9", Julian Cash/Lloyd Glasspool vs Fernando Romboli/Tyan Seggerman - Round 1 (M2 Court) | ATP 500: bitpanda Hamburg Open 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=20890&type=dash&token=Fbr0ud1iAcmbvRQjK5dws5Zb0Wvo9YpJ|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/_QMQ5BbLRD2c84Eket8QamuANy8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080171/eed73b.jpg" ch-number="9", Julian Cash/Lloyd Glasspool vs Fernando Romboli/Tyan Seggerman - Round 1 (M2 Court) | ATP 500: bitpanda Hamburg Open 2026
+https://vid-id.indi1.workers.dev/index.mpd?id=20890&type=dash&token=Fbr0ud1iAcmbvRQjK5dws5Zb0Wvo9YpJ|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20885&type=drm&token=Fbr0ud1iAcmbvRQjK5dws5Zb0Wvo9YpJ
