@@ -7,7 +7,7 @@ https://vid-id.indi1.workers.dev/index.mpd?id=21210&type=dash&token=Fbr0ud1iAcmb
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=drm&token=Fbr0ud1iAcmbvRQjK5dws5Zb0Wvo9YpJ
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/6HcV55fSZlnrc1nxzMm6QNmHwII=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080077/d00b77.jpg" ch-number="2", Ditlev Jaeger Holm (DEN) vs Eogene Ewe (MAS) - Men's Singles Qualification Round of 16 | Perodua Malaysia Masters 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/RTbmyRa6aHftxsAzu5A7zIzQMzQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080078/21292c.jpg" ch-number="2", Cheam June Wei (MAS) vs Liao Jhuo-Fu (TPE) - Men's Singles Qualification Round of 16 | Perodua Malaysia Masters 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=Fbr0ud1iAcmbvRQjK5dws5Zb0Wvo9YpJ|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
