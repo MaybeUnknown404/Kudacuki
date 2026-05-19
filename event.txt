@@ -12,7 +12,7 @@ https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=Fbr0ud1iAcmb
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=drm&token=Fbr0ud1iAcmbvRQjK5dws5Zb0Wvo9YpJ
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/pbc3phBKFwwoYUUfowGR1zs69rk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080092/1537b0.jpg" ch-number="3", Aakarshi Kashyap (IND) vs Park Ga Eun (KOR) - Women's Singles Qualification Quarterfinals | Perodua Malaysia Masters 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/kP5qIICpiS2vk5qXla-1aKOlbl4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080093/0cb8b6.jpg" ch-number="3", Peeratchai Sukphun/Pakkapon Teeraratsakul (THA) vs Alexander Dunn/Adam Pringle (SCO) - Men's Doubles Qualification Quarterfinals | Perodua Malaysia Masters 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=dash&token=Fbr0ud1iAcmbvRQjK5dws5Zb0Wvo9YpJ|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
