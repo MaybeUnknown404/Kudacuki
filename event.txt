@@ -7,7 +7,7 @@ https://vid-id.indi1.workers.dev/index.mpd?id=21210&type=dash&token=Fbr0ud1iAcmb
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=drm&token=Fbr0ud1iAcmbvRQjK5dws5Zb0Wvo9YpJ
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/p34fJSjSz50syTcmcrLMvdcFnf4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080079/ee6abe.jpg" ch-number="2", Ni Kadek Dhinda Amartya Pratiwi (INA) vs Lo Sin Yan Happy (HKG) - Women's Singles Qualification Quarterfinals | Perodua Malaysia Masters 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/2cpqcwrL0I-EqyFuWPOxvG3V28M=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080080/59a70d.jpg" ch-number="2", Datu Anif Isaac Datu Asrah/Clarissa San (MAS) vs Sathwik Reddy Kanapuram/Radhika Sharma (IND) - Mixed Doubles Qualification Quarterfinals | Perodua Malaysia Masters 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=Fbr0ud1iAcmbvRQjK5dws5Zb0Wvo9YpJ|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -98,15 +98,15 @@ https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1ec
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20885&type=drm&token=Fbr0ud1iAcmbvRQjK5dws5Zb0Wvo9YpJ
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/G5YVjsTz0e2q8Ahw6Y082THkKec=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080177/1577cf.jpg" ch-number="18", Felix Auger-Aliassime vs Vit Kopriva - Round 1 (Centre Court) | ATP 500: bitpanda Hamburg Open 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=20885&type=dash&token=Fbr0ud1iAcmbvRQjK5dws5Zb0Wvo9YpJ|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=drm&token=Fbr0ud1iAcmbvRQjK5dws5Zb0Wvo9YpJ
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/JeW7tMKPMsSvcOn2IxepLQj5Oc4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080111/d0e595.jpg" ch-number="18", Muhammad Rian Ardianto/Rahmat Hidayat (INA) vs Takuro Hoki/Yugo Kobayashi (JPN) - Men's Doubles Round of 32 | Perodua Malaysia Masters 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=dash&token=Fbr0ud1iAcmbvRQjK5dws5Zb0Wvo9YpJ|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=drm&token=Fbr0ud1iAcmbvRQjK5dws5Zb0Wvo9YpJ
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/JeW7tMKPMsSvcOn2IxepLQj5Oc4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080111/d0e595.jpg" ch-number="19", Muhammad Rian Ardianto/Rahmat Hidayat (INA) vs Takuro Hoki/Yugo Kobayashi (JPN) - Men's Doubles Round of 32 | Perodua Malaysia Masters 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=dash&token=Fbr0ud1iAcmbvRQjK5dws5Zb0Wvo9YpJ|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20885&type=drm&token=Fbr0ud1iAcmbvRQjK5dws5Zb0Wvo9YpJ
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/G5YVjsTz0e2q8Ahw6Y082THkKec=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080177/1577cf.jpg" ch-number="19", Felix Auger-Aliassime vs Vit Kopriva - Round 1 (Centre Court) | ATP 500: bitpanda Hamburg Open 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=20885&type=dash&token=Fbr0ud1iAcmbvRQjK5dws5Zb0Wvo9YpJ|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
