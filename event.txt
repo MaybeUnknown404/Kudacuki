@@ -12,7 +12,7 @@ https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=Fbr0ud1iAcmb
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=drm&token=Fbr0ud1iAcmbvRQjK5dws5Zb0Wvo9YpJ
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/Ti1tSwqZ4pQVZQuKyvPwDH-UT4w=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080089/6488d7.jpg" ch-number="3", Liew Xun/Ho Lo Ee (MAS) vs Supak Jomkoh/Ornnicha Jongsathapornparn (THA) - Mixed Doubles Qualification Quarterfinals | Perodua Malaysia Masters 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/azyfXFSEQ7cm2WC0YfZtz7TS5KQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080090/a9199f.jpg" ch-number="3", Hu Zhe An (CHN) vs Su Li Yang (TPE) - Men's Singles Qualification Round of 16 | Perodua Malaysia Masters 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=dash&token=Fbr0ud1iAcmbvRQjK5dws5Zb0Wvo9YpJ|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
