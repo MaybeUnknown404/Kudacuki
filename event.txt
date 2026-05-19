@@ -2,7 +2,7 @@
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21210&type=drm&token=Fbr0ud1iAcmbvRQjK5dws5Zb0Wvo9YpJ
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/3vuaojOwkXZyY0uL_D_hD2pjpYk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5079813/d1814e.jpg" ch-number="1", Telkom University vs Universitas Kristen Maranatha (Grup E | Putri) - CL Basketball 2026 - Regional Bandung
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/Pb7OZoNJImpmhzEBGdkbriL98bs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5079814/d7f53e.jpg" ch-number="1", Telkom University vs Universitas Widyatama (Grup A | Putra) - CL Basketball 2026 - Regional Bandung
 https://vid-id.indi1.workers.dev/index.mpd?id=21210&type=dash&token=Fbr0ud1iAcmbvRQjK5dws5Zb0Wvo9YpJ|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -12,7 +12,7 @@ https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=Fbr0ud1iAcmb
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=drm&token=Fbr0ud1iAcmbvRQjK5dws5Zb0Wvo9YpJ
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/kycGMoPclXgLNoxM-0femMyyjgg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080096/18c6f2.jpg" ch-number="3", Lauren Lam/Allison Quynh Lee (USA) vs Laudya Chelsea Griselda/Nozomi Shimizu (AUS) - Women's Doubles Round of 32 | Perodua Malaysia Masters 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/wDNgjvX7iijsj4FiXGixH1ntm0s=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18250/perodua-malaysia-masters-2026-qualifiers-round-of-32-court-2-f82e85.jpg" ch-number="3", Perodua Malaysia Masters 2026 - Qualifiers+Round Of 32 (Court 2)
 https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=dash&token=Fbr0ud1iAcmbvRQjK5dws5Zb0Wvo9YpJ|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
