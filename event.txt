@@ -17,7 +17,7 @@ https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=dash&token=Fbr0ud1iAcmb
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=drm&token=Fbr0ud1iAcmbvRQjK5dws5Zb0Wvo9YpJ
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/IKef9ZyIpNcsB6DiXr8KFi7u1bw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080108/a72599.jpg" ch-number="4", Huang Di/Liu Yang (CHN) vs Chen Cheng Kuan/Liu Kuang Heng (TPE) - Men's Doubles Round of 32 | Perodua Malaysia Masters 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/qdNU83zS3JYqcQo9yRMV148FRUY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080109/458f7e.jpg" ch-number="4", Hathaithip Mijad/Napapakorn Tungkastan (THA) vs Hsung Ya Ching/Sung Yu-Hsuan (TPE) - Women's Doubles Round of 32 | Perodua Malaysia Masters 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=dash&token=Fbr0ud1iAcmbvRQjK5dws5Zb0Wvo9YpJ|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
