@@ -27,20 +27,19 @@ https://vid-id.indi1.workers.dev/index.mpd?id=6786&type=dash&token=zyaromw5TpbkT
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=drm&token=zyaromw5TpbkTf852lolNAgUpC4CmM1I
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/o52GfdSYCHrg3CbIHKDak3v6fXY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080448/a9dc7d.jpg" ch-number="6", Stan Wawrinka vs Alex Michelsen - Round 2 | ATP 250: Gonet Geneva Open 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=dash&token=zyaromw5TpbkTf852lolNAgUpC4CmM1I|User-Agent=VidioPlayer/6.31.6
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/o52GfdSYCHrg3CbIHKDak3v6fXY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080448/a9dc7d.jpg" ch-number="6", Stan Wawrinka vs Alex Michelsen - Round 2 | ATP 250: Gonet Geneva Open 2026
+https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=dash&token=zyaromw5TpbkTf852lolNAgUpC4CmM1I|User-Agent=VidioPlayer/6.31.6
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20887&type=drm&token=zyaromw5TpbkTf852lolNAgUpC4CmM1I
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/vMcpJI8cNv3Es-VSNvPkT8plw-A=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080420/7a3163.jpg" ch-number="7", Luciano Darderi vs Yannick Hanfmann - Round 2 | ATP 500: bitpanda Hamburg Open 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=20887&type=dash&token=zyaromw5TpbkTf852lolNAgUpC4CmM1I|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17139&type=drm&token=zyaromw5TpbkTf852lolNAgUpC4CmM1I
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/QFkdt-3RUnoqW80xzfCENXJn4CU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5079645/2035fb.jpg" ch-number="7", Al-Khaleej vs Al-Ahli - ROSHN Saudi League
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/QFkdt-3RUnoqW80xzfCENXJn4CU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5079645/2035fb.jpg" ch-number="8", Al-Khaleej vs Al-Ahli - ROSHN Saudi League
 #https://vid-id.indi1.workers.dev/index.mpd?id=17139&type=dash&token=zyaromw5TpbkTf852lolNAgUpC4CmM1I|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20887&type=drm&token=zyaromw5TpbkTf852lolNAgUpC4CmM1I
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/vMcpJI8cNv3Es-VSNvPkT8plw-A=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080420/7a3163.jpg" ch-number="8", Luciano Darderi vs Yannick Hanfmann - Round 2 | ATP 500: bitpanda Hamburg Open 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=20887&type=dash&token=zyaromw5TpbkTf852lolNAgUpC4CmM1I|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -110,8 +109,8 @@ https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1ec
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=drm&token=zyaromw5TpbkTf852lolNAgUpC4CmM1I
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/C5tlSziHnewok6M_beRU5odRgFM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080531/1fbbdf.jpg" ch-number="20", Li Shi Feng (CHN) vs Yudai Okimoto (JPN) - Men's Singles Round of 16 | PERODUA Malaysia Masters 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=dash&token=zyaromw5TpbkTf852lolNAgUpC4CmM1I|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=drm&token=zyaromw5TpbkTf852lolNAgUpC4CmM1I
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/fwGelLzNep5DFt_b9HmhPPgfqiU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080523/57320e.jpg" ch-number="20", Amri Syahnawi/Nita Violina Marwah (INA) vs Chen Tang Jie/Toh Ee Wei (MAS) - Mixed Doubles Round of 16 | PERODUA Malaysia Masters 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=zyaromw5TpbkTf852lolNAgUpC4CmM1I|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
