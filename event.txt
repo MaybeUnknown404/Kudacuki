@@ -2,7 +2,7 @@
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21210&type=drm&token=zyaromw5TpbkTf852lolNAgUpC4CmM1I
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/tg27l_DIc1SPnP5M7b5is1UI1nM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080345/674037.jpg" ch-number="1", Universitas Pendidikan Indonesia Bandung vs Telkom University (Grup E | Putri) - CL Basketball 2026 - Regional Bandung
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/hCl1Y4QBhS5m_yBi5hb-qCv_0Hc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080345/fa9add.jpg" ch-number="1", Universitas Pendidikan Indonesia Bandung vs Telkom University (Grup E | Putri) - CL Basketball 2026 - Regional Bandung
 https://vid-id.indi1.workers.dev/index.mpd?id=21210&type=dash&token=zyaromw5TpbkTf852lolNAgUpC4CmM1I|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -17,12 +17,12 @@ https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=dash&token=zyaromw5Tpbk
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=drm&token=zyaromw5TpbkTf852lolNAgUpC4CmM1I
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/lShnSCDxzUa6Rpe8QWakgvldIG4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080378/00bc2e.jpg" ch-number="4", Julien Maio/William Villeger (FRA) vs Christopher Grimley/Matthew Grimley (SCO) - Men's Doubles Round of 32 | PERODUA Malaysia Masters 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/A3fa4XCbzVVNGH97GBXP1eRqq-g=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080379/51b6e5.jpg" ch-number="4", Francesca Corbett/Jennie Gai (USA) vs Cho Wai Lam (ENG)/Jia Min Sim (MAS) - Women's Doubles Round of 32 | PERODUA Malaysia Masters 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=dash&token=zyaromw5TpbkTf852lolNAgUpC4CmM1I|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18253&type=drm&token=zyaromw5TpbkTf852lolNAgUpC4CmM1I
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/nl03Kdf2s4IaL-PZYvPRj54eAEU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080392/de3a31.jpg" ch-number="5", Rutaparna Panda/Swetaparna Panda (IND) vs Rin Iwanaga/Kie Nakanishi (JPN) - Women's Doubles Round of 32 | PERODUA Malaysia Masters 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/81dv27HJG6iXql6UaS7MEZtpTVw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080393/ed5bdd.jpg" ch-number="5", Wang Po-Wei (TPE) vs Tharun Mannepalli (IND) - Men's Singles Round of 32 | PERODUA Malaysia Masters 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=18253&type=dash&token=zyaromw5TpbkTf852lolNAgUpC4CmM1I|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
