@@ -7,27 +7,23 @@ https://vid-id.indi1.workers.dev/index.mpd?id=21210&type=dash&token=zyaromw5Tpbk
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=drm&token=zyaromw5TpbkTf852lolNAgUpC4CmM1I
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/7FFx_U_Zgw8Vk03Gi5bGe9hHviQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/perodua-malaysia-masters-2026-qualifiers-round-of-32-court-1-d53323.jpg" ch-number="2", Peeratchai Sukphun/Pakkapon Teeraratsakul (THA) vs Daniel Lundgaard/Mads Vestergaard (DEN) - Men's Doubles Round of 32 | PERODUA Malaysia Masters 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=zyaromw5TpbkTf852lolNAgUpC4CmM1I|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/xgCMbWkzI9qGyI-PQ-amdOf5Pcg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080349/22de07.jpg" ch-number="2", Peeratchai Sukphun/Pakkapon Teeraratsakul (THA) vs Daniel Lundgaard/Mads Vestergaard (DEN) - Men's Doubles Round of 32 | PERODUA Malaysia Masters 2026
+https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=zyaromw5TpbkTf852lolNAgUpC4CmM1I|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=drm&token=zyaromw5TpbkTf852lolNAgUpC4CmM1I
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/076toMApUdOLxWBja0iUyD7PiHs=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18250/perodua-malaysia-masters-2026-qualifiers-round-of-32-court-2-642bfa.jpg" ch-number="3", Bao Li Jing/Cao Zi Han (CHN) vs Low Zi Yu/Noraqilah Maisarah (MAS) - Women's Doubles Round of 32 | PERODUA Malaysia Masters 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=dash&token=zyaromw5TpbkTf852lolNAgUpC4CmM1I|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/EdsjOXpIQR4Uc0UQdqov8814940=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080364/7864bb.jpg" ch-number="3", Bao Li Jing/Cao Zi Han (CHN) vs Low Zi Yu/Noraqilah Maisarah (MAS) - Women's Doubles Round of 32 | PERODUA Malaysia Masters 2026
+https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=dash&token=zyaromw5TpbkTf852lolNAgUpC4CmM1I|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=drm&token=zyaromw5TpbkTf852lolNAgUpC4CmM1I
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/4_1ejNtbmP5adlvazs6ACtyt6dU=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/perodua-malaysia-masters-2026-qualifiers-round-of-32-court-3-b3c344.jpg" ch-number="4", Julien Maio/William Villeger (FRA) vs Christopher Grimley/Matthew Grimley (SCO) - Men's Doubles Round of 32 | PERODUA Malaysia Masters 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=dash&token=zyaromw5TpbkTf852lolNAgUpC4CmM1I|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/lShnSCDxzUa6Rpe8QWakgvldIG4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080378/00bc2e.jpg" ch-number="4", Julien Maio/William Villeger (FRA) vs Christopher Grimley/Matthew Grimley (SCO) - Men's Doubles Round of 32 | PERODUA Malaysia Masters 2026
+https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=dash&token=zyaromw5TpbkTf852lolNAgUpC4CmM1I|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18253&type=drm&token=zyaromw5TpbkTf852lolNAgUpC4CmM1I
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/7Gv_Ykn5uAWu-HAZFYnMX3hrMwk=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18253/perodua-malaysia-masters-2026-round-of-32-court-4-7ee6c0.jpg" ch-number="5", Rutaparna Panda/Swetaparna Panda (IND) vs Rin Iwanaga/Kie Nakanishi (JPN) - Women's Doubles Round of 32 | PERODUA Malaysia Masters 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=18253&type=dash&token=zyaromw5TpbkTf852lolNAgUpC4CmM1I|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/nl03Kdf2s4IaL-PZYvPRj54eAEU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080392/de3a31.jpg" ch-number="5", Rutaparna Panda/Swetaparna Panda (IND) vs Rin Iwanaga/Kie Nakanishi (JPN) - Women's Doubles Round of 32 | PERODUA Malaysia Masters 2026
+https://vid-id.indi1.workers.dev/index.mpd?id=18253&type=dash&token=zyaromw5TpbkTf852lolNAgUpC4CmM1I|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=drm&token=zyaromw5TpbkTf852lolNAgUpC4CmM1I
