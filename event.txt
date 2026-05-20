@@ -22,7 +22,7 @@ https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=zyaromw5Tpbk
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18253&type=drm&token=zyaromw5TpbkTf852lolNAgUpC4CmM1I
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/yTxVQQwzWtAjBSSNVAbInuROvgs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080398/0b6d17.jpg" ch-number="5", Zhu Xuan Chen (CHN) vs Brian Yang (CAN) - Men's Singles Round of 32 | PERODUA Malaysia Masters 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/7Gv_Ykn5uAWu-HAZFYnMX3hrMwk=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18253/perodua-malaysia-masters-2026-round-of-32-court-4-7ee6c0.jpg" ch-number="5", Perodua Malaysia Masters 2026 - Round Of 32 (Court 4)
 https://vid-id.indi1.workers.dev/index.mpd?id=18253&type=dash&token=zyaromw5TpbkTf852lolNAgUpC4CmM1I|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
