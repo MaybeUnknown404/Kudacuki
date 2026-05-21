@@ -22,9 +22,8 @@ https://vid-id.indi1.workers.dev/index.mpd?id=18253&type=dash&token=aYF7Svrk92s9
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21210&type=drm&token=aYF7Svrk92s9k1pZEPDz335Xs6hZkveP
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/L2EWRWBCmsLDYv39hzNMntCDUac=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21210/campus-league-2026-basketball-80f635.jpg" ch-number="5", Universitas Kristen Maranatha vs Universitas Padjajaran (Semifinal | Putri) - CL Basketball 2026 - Regional Bandung
-#https://vid-id.indi1.workers.dev/index.mpd?id=21210&type=dash&token=aYF7Svrk92s9k1pZEPDz335Xs6hZkveP|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/L2EWRWBCmsLDYv39hzNMntCDUac=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21210/campus-league-2026-basketball-80f635.jpg" ch-number="5", Universitas Kristen Maranatha vs Universitas Padjajaran (Semifinal | Putri) - CL Basketball 2026 - Regional Bandung
+https://vid-id.indi1.workers.dev/index.mpd?id=21210&type=dash&token=aYF7Svrk92s9k1pZEPDz335Xs6hZkveP|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=drm&token=aYF7Svrk92s9k1pZEPDz335Xs6hZkveP
