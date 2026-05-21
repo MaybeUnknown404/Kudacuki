@@ -12,7 +12,7 @@ https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=dash&token=aYF7Svrk92s9
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18253&type=drm&token=aYF7Svrk92s9k1pZEPDz335Xs6hZkveP
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/DiXawsj5KzzbYBzAAvB4B8VzNfQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18253/perodua-malaysia-masters-2026-round-of-16-court-4-cbc6a6.jpg" ch-number="3", Guo Xin Wa/Chen Fang Hui (CHN) vs Zhu Yi Jun/Li Qian (CHN) - Mixed Doubles Round of 16 | PERODUA Malaysia Masters 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/DiXawsj5KzzbYBzAAvB4B8VzNfQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18253/perodua-malaysia-masters-2026-round-of-16-court-4-cbc6a6.jpg" ch-number="3", Kakeru Kumagai/Hiroki Nishi (JPN) vs Chen Zhi Ray/Lin Yu Chieh (TPE) - Men's Doubles Round of 16 | PERODUA Malaysia Masters 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=18253&type=dash&token=aYF7Svrk92s9k1pZEPDz335Xs6hZkveP|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -41,21 +41,20 @@ https://vid-id.indi1.workers.dev/index.mpd?id=20890&type=dash&token=aYF7Svrk92s9
 https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=dash&token=aYF7Svrk92s9k1pZEPDz335Xs6hZkveP|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20887&type=drm&token=aYF7Svrk92s9k1pZEPDz335Xs6hZkveP
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/Sc01BDPJWXCeqqU-u3gUdRLNdnA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080578/9a4ce4.jpg" ch-number="9", Ignacio Buse vs Ugo Humbert - Quarterfinals | ATP 500: bitpanda Hamburg Open 2026
+https://vid-id.indi1.workers.dev/index.mpd?id=20887&type=dash&token=aYF7Svrk92s9k1pZEPDz335Xs6hZkveP|User-Agent=VidioPlayer/6.31.6
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20886&type=drm&token=aYF7Svrk92s9k1pZEPDz335Xs6hZkveP
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/uo_Q2p52Pq-T3io3gkQMMRH2eBQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080574/e8e874.jpg" ch-number="9", Sadio Doumbia/Fabien Reboul vs Simone Bolelli/Andrea Vavassori - Quarterfinals | ATP 500: bitpanda Hamburg Open 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/uo_Q2p52Pq-T3io3gkQMMRH2eBQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080574/e8e874.jpg" ch-number="10", Sadio Doumbia/Fabien Reboul vs Simone Bolelli/Andrea Vavassori - Quarterfinals | ATP 500: bitpanda Hamburg Open 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=20886&type=dash&token=aYF7Svrk92s9k1pZEPDz335Xs6hZkveP|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6686&type=drm&token=aYF7Svrk92s9k1pZEPDz335Xs6hZkveP
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/0JQ8y32H7pHQLadAvNU-kCx4KnQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5079647/8e4887.jpg" ch-number="10", Quarterfinals - WTA 250: Grand Prix Son Altesse Royale La Princesse Lalla Meryem 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/0JQ8y32H7pHQLadAvNU-kCx4KnQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5079647/8e4887.jpg" ch-number="11", Quarterfinals - WTA 250: Grand Prix Son Altesse Royale La Princesse Lalla Meryem 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=6686&type=dash&token=aYF7Svrk92s9k1pZEPDz335Xs6hZkveP|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20887&type=drm&token=aYF7Svrk92s9k1pZEPDz335Xs6hZkveP
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Sc01BDPJWXCeqqU-u3gUdRLNdnA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080578/9a4ce4.jpg" ch-number="11", Ignacio Buse vs Ugo Humbert - Quarterfinals | ATP 500: bitpanda Hamburg Open 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=20887&type=dash&token=aYF7Svrk92s9k1pZEPDz335Xs6hZkveP|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
