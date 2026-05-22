@@ -1,29 +1,29 @@
 #EXTM3U
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=19354&type=drm&token=VvQklfKekrqkTDzdJLR2DLaLhLFmK3v5
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/rlRphbpziaBJY2vRJ7o2Y6ualy0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080192/14228d.jpg" ch-number="1", Arema FC vs PSIM Jogja - BRI Super League
+https://vid-id.indi1.workers.dev/index.mpd?id=19354&type=dash&token=VvQklfKekrqkTDzdJLR2DLaLhLFmK3v5|User-Agent=VidioPlayer/6.31.6
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21210&type=drm&token=VvQklfKekrqkTDzdJLR2DLaLhLFmK3v5
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/d6EIpYEjuSYGVydpFdFeBNbr6r0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5084096/e3567c.jpg" ch-number="1", Universitas Widyatama Bandung vs Universitas Pendidikan Indonesia Bandung (3rd Place | Putra) - CL Basketball 2026 - Regional Bandung
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/d6EIpYEjuSYGVydpFdFeBNbr6r0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5084096/e3567c.jpg" ch-number="2", Universitas Widyatama Bandung vs Universitas Pendidikan Indonesia Bandung (3rd Place | Putra) - CL Basketball 2026 - Regional Bandung
 https://vid-id.indi1.workers.dev/index.mpd?id=21210&type=dash&token=VvQklfKekrqkTDzdJLR2DLaLhLFmK3v5|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=drm&token=VvQklfKekrqkTDzdJLR2DLaLhLFmK3v5
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/Gh7udx9ehvl0w4UzKNfij6iLVFY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5084122/ba91ff.jpg" ch-number="2", Pakkapon Teeraratsakul/Sapsiree Taerattanachai (THA) vs Chan Yin Chak/Ng Tsz Yau (HKG) - Mixed Doubles Quarterfinals | PERODUA Malaysia Masters 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/Gh7udx9ehvl0w4UzKNfij6iLVFY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5084122/ba91ff.jpg" ch-number="3", Pakkapon Teeraratsakul/Sapsiree Taerattanachai (THA) vs Chan Yin Chak/Ng Tsz Yau (HKG) - Mixed Doubles Quarterfinals | PERODUA Malaysia Masters 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=dash&token=VvQklfKekrqkTDzdJLR2DLaLhLFmK3v5|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=drm&token=VvQklfKekrqkTDzdJLR2DLaLhLFmK3v5
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/QdlC3OfMQkLVjTk9X3MQQ_BkLBg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5084128/436555.jpg" ch-number="3", Moh Zaki Ubaidillah (INA) vs Christo Popov (FRA) - Men's Singles Quarterfinals | PERODUA Malaysia Masters 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/5xKUG86eW9OU85a8T5SmbyEOi8Q=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/perodua-malaysia-masters-2026-round-of-16-court-3-ddba63.jpg" ch-number="4", Chen Fan Shu Tian/Luo Xu Min (CHN) vs Rin Iwanaga/Kie Nakanishi (JPN) - Women's Doubles Quarterfinals | PERODUA Malaysia Masters 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=dash&token=VvQklfKekrqkTDzdJLR2DLaLhLFmK3v5|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=drm&token=VvQklfKekrqkTDzdJLR2DLaLhLFmK3v5
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/ucAiAf522KDcMYFdJcXGvhrxzCQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/perodua-malaysia-masters-2026-quarterfinals-court-1-2d76ab.jpg" ch-number="4", Yan Fei Chen/Liang Ching Sun (TPE) vs Bao Li Jing/Cao Zi Han (CHN) - Women's Doubles Quarterfinals | PERODUA Malaysia Masters 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/ucAiAf522KDcMYFdJcXGvhrxzCQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/perodua-malaysia-masters-2026-quarterfinals-court-1-2d76ab.jpg" ch-number="5", Yan Fei Chen/Liang Ching Sun (TPE) vs Bao Li Jing/Cao Zi Han (CHN) - Women's Doubles Quarterfinals | PERODUA Malaysia Masters 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=VvQklfKekrqkTDzdJLR2DLaLhLFmK3v5|User-Agent=VidioPlayer/6.31.6
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=19354&type=drm&token=VvQklfKekrqkTDzdJLR2DLaLhLFmK3v5
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/rlRphbpziaBJY2vRJ7o2Y6ualy0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080192/14228d.jpg" ch-number="5", Arema FC vs PSIM Jogja - BRI Super League
-https://vid-id.indi1.workers.dev/index.mpd?id=19354&type=dash&token=VvQklfKekrqkTDzdJLR2DLaLhLFmK3v5|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20885&type=drm&token=VvQklfKekrqkTDzdJLR2DLaLhLFmK3v5
