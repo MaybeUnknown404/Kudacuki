@@ -12,7 +12,7 @@ https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=dash&token=VvQklfKekrqk
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=drm&token=VvQklfKekrqkTDzdJLR2DLaLhLFmK3v5
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/5xKUG86eW9OU85a8T5SmbyEOi8Q=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/perodua-malaysia-masters-2026-round-of-16-court-3-ddba63.jpg" ch-number="3", Perodua Malaysia Masters 2026 - Quarterfinals (Court 3)
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/5TnSyLXeBUtcKsa5XEMw_4PRk08=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5084125/1433d6.jpg" ch-number="3", Ornnicha Jongsathapornparn/Sabrina Sophita Wedler (THA) vs Sayaka Hirota/Ayako Sakuramoto (JPN) - Women's Doubles Quarterfinals | PERODUA Malaysia Masters 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=dash&token=VvQklfKekrqkTDzdJLR2DLaLhLFmK3v5|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -40,33 +40,33 @@ https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1ec
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=16890&type=drm&token=VvQklfKekrqkTDzdJLR2DLaLhLFmK3v5
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/AxVWkYfhRxF6Aykez72Wt8GmICI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080670/acd873.jpg" ch-number="8", ONE Friday Fights 155
+#https://vid-id.indi1.workers.dev/index.mpd?id=16890&type=dash&token=VvQklfKekrqkTDzdJLR2DLaLhLFmK3v5|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=19354&type=drm&token=VvQklfKekrqkTDzdJLR2DLaLhLFmK3v5
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/dJzKiZrngggV5_L3F9k85mKZEm4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5084099/f89371.jpg" ch-number="8", Dewa United Banten FC vs Bali United FC - BRI Super League
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/dJzKiZrngggV5_L3F9k85mKZEm4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5084099/f89371.jpg" ch-number="9", Dewa United Banten FC vs Bali United FC - BRI Super League
 #https://vid-id.indi1.workers.dev/index.mpd?id=19354&type=dash&token=VvQklfKekrqkTDzdJLR2DLaLhLFmK3v5|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=19355&type=drm&token=VvQklfKekrqkTDzdJLR2DLaLhLFmK3v5
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/uJP6a2goHEYkO4RidbOXH-10GTA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080584/e152f2.jpg" ch-number="9", Jelang Kick Off - Dewa United Banten FC vs Bali United FC - BRI Super League
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/uJP6a2goHEYkO4RidbOXH-10GTA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080584/e152f2.jpg" ch-number="10", Jelang Kick Off - Dewa United Banten FC vs Bali United FC - BRI Super League
 #https://vid-id.indi1.workers.dev/index.mpd?id=19355&type=dash&token=VvQklfKekrqkTDzdJLR2DLaLhLFmK3v5|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=16890&type=drm&token=VvQklfKekrqkTDzdJLR2DLaLhLFmK3v5
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/AxVWkYfhRxF6Aykez72Wt8GmICI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080670/acd873.jpg" ch-number="10", ONE Friday Fights 155
-#https://vid-id.indi1.workers.dev/index.mpd?id=16890&type=dash&token=VvQklfKekrqkTDzdJLR2DLaLhLFmK3v5|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6686&type=drm&token=VvQklfKekrqkTDzdJLR2DLaLhLFmK3v5
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/4hLvbbhPuPFya5xIEE4g7B646n0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5079648/a5403c.jpg" ch-number="11", Semifinals - WTA 250: Grand Prix Son Altesse Royale La Princesse Lalla Meryem 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=6686&type=dash&token=VvQklfKekrqkTDzdJLR2DLaLhLFmK3v5|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=drm&token=VvQklfKekrqkTDzdJLR2DLaLhLFmK3v5
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/K7zT1KP8E0_FTpogA5rAi6qGOtI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5084154/c010c4.jpg" ch-number="11", Casper Ruud vs Mariano Navone - Semifinal | ATP 250: Gonet Geneva Open 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/K7zT1KP8E0_FTpogA5rAi6qGOtI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5084154/c010c4.jpg" ch-number="12", Casper Ruud vs Mariano Navone - Semifinal | ATP 250: Gonet Geneva Open 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=dash&token=VvQklfKekrqkTDzdJLR2DLaLhLFmK3v5|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6686&type=drm&token=VvQklfKekrqkTDzdJLR2DLaLhLFmK3v5
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/4hLvbbhPuPFya5xIEE4g7B646n0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5079648/a5403c.jpg" ch-number="12", Semifinals - WTA 250: Grand Prix Son Altesse Royale La Princesse Lalla Meryem 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=6686&type=dash&token=VvQklfKekrqkTDzdJLR2DLaLhLFmK3v5|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
