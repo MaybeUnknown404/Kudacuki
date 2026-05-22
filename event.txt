@@ -12,7 +12,7 @@ https://vid-id.indi1.workers.dev/index.mpd?id=21210&type=dash&token=VvQklfKekrqk
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=drm&token=VvQklfKekrqkTDzdJLR2DLaLhLFmK3v5
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/Gh7udx9ehvl0w4UzKNfij6iLVFY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5084122/ba91ff.jpg" ch-number="3", Pakkapon Teeraratsakul/Sapsiree Taerattanachai (THA) vs Chan Yin Chak/Ng Tsz Yau (HKG) - Mixed Doubles Quarterfinals | PERODUA Malaysia Masters 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/a7ley7Yth1Sx9hUHXjyTBr0CoaY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5084123/bc8d79.jpg" ch-number="3", Goh Sze Fei/Nur Izzuddin (MAS) vs Kakeru Kumagai/Hiroki Nishi (JPN) - Men's Doubles Quarterfinals | PERODUA Malaysia Masters 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=dash&token=VvQklfKekrqkTDzdJLR2DLaLhLFmK3v5|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
