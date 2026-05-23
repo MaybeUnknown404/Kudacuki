@@ -2,7 +2,7 @@
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21463&type=drm&token=b7wIHrDzXzjCyMVuUBCk1Xh08sdme6qA
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/4rBqqF6_4vtlsAoOQj6VYsSJh5A=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5084139/10750c.jpg" ch-number="1", Bintang Abaw vs Joseph - Light Middleweight | UBL Nasional Season 1
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/HB6u1IkKab-cb8pyWW2eoNas2rI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5084133/5a6d96.jpg" ch-number="1", Rifqi Bilaldi vs Jazzy - Light Heavyweight | UBL Nasional Season 1
 https://vid-id.indi1.workers.dev/index.mpd?id=21463&type=dash&token=b7wIHrDzXzjCyMVuUBCk1Xh08sdme6qA|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -11,9 +11,9 @@ https://vid-id.indi1.workers.dev/index.mpd?id=21463&type=dash&token=b7wIHrDzXzjC
 https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=b7wIHrDzXzjCyMVuUBCk1Xh08sdme6qA|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20885&type=drm&token=b7wIHrDzXzjCyMVuUBCk1Xh08sdme6qA
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/BpLdrQxK2hEAkzcYZbiPaYLYeWI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5087852/e83c1a.jpg" ch-number="3", Kevin Krawietz/Tim Puetz vs Sadio Doumbia/Fabien Rebou - Final | ATP 500: bitpanda Hamburg Open 2026
-https://vid-id.indi1.workers.dev/index.mpd?id=20885&type=dash&token=b7wIHrDzXzjCyMVuUBCk1Xh08sdme6qA|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=19354&type=drm&token=b7wIHrDzXzjCyMVuUBCk1Xh08sdme6qA
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/fx-lafMQsoCohoU873ARE3SI78U=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5089648/d58b29.jpg" ch-number="3", Awarding Ceremony BRI Super League 2025/26
+https://vid-id.indi1.workers.dev/index.mpd?id=19354&type=dash&token=b7wIHrDzXzjCyMVuUBCk1Xh08sdme6qA|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6686&type=drm&token=b7wIHrDzXzjCyMVuUBCk1Xh08sdme6qA
