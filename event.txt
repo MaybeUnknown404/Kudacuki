@@ -2,7 +2,7 @@
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21463&type=drm&token=b7wIHrDzXzjCyMVuUBCk1Xh08sdme6qA
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/HB6u1IkKab-cb8pyWW2eoNas2rI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5084133/5a6d96.jpg" ch-number="1", Rifqi Bilaldi vs Jazzy - Light Heavyweight | UBL Nasional Season 1
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/4rBqqF6_4vtlsAoOQj6VYsSJh5A=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5084139/10750c.jpg" ch-number="1", Bintang Abaw vs Joseph - Light Middleweight | UBL Nasional Season 1
 https://vid-id.indi1.workers.dev/index.mpd?id=21463&type=dash&token=b7wIHrDzXzjCyMVuUBCk1Xh08sdme6qA|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -31,15 +31,14 @@ https://vid-id.indi1.workers.dev/index.mpd?id=6686&type=dash&token=b7wIHrDzXzjCy
 https://vid-id.indi1.workers.dev/index.mpd?id=6786&type=dash&token=b7wIHrDzXzjCyMVuUBCk1Xh08sdme6qA|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=19388&type=drm&token=b7wIHrDzXzjCyMVuUBCk1Xh08sdme6qA
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/1_ZS5V21NiVdbChTbbYi-wmCkfM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080224/2ce476.jpg" ch-number="7", Rajadamnern 2026 Female Bantamweight Superfight
-#https://vid-id.indi1.workers.dev/index.mpd?id=19388&type=dash&token=b7wIHrDzXzjCyMVuUBCk1Xh08sdme6qA|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20887&type=drm&token=b7wIHrDzXzjCyMVuUBCk1Xh08sdme6qA
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/fmQHttdF5qKNeNZ3BGsDfJNaEpk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5087854/142302.jpg" ch-number="7", Ignacio Buse vs Tommy Paul - Final | ATP 500: bitpanda Hamburg Open 2026
+https://vid-id.indi1.workers.dev/index.mpd?id=20887&type=dash&token=b7wIHrDzXzjCyMVuUBCk1Xh08sdme6qA|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20887&type=drm&token=b7wIHrDzXzjCyMVuUBCk1Xh08sdme6qA
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/fmQHttdF5qKNeNZ3BGsDfJNaEpk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5087854/142302.jpg" ch-number="8", Ignacio Buse vs Tommy Paul - Final | ATP 500: bitpanda Hamburg Open 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=20887&type=dash&token=b7wIHrDzXzjCyMVuUBCk1Xh08sdme6qA|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=19388&type=drm&token=b7wIHrDzXzjCyMVuUBCk1Xh08sdme6qA
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/1_ZS5V21NiVdbChTbbYi-wmCkfM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080224/2ce476.jpg" ch-number="8", Rajadamnern 2026 Female Bantamweight Superfight
+#https://vid-id.indi1.workers.dev/index.mpd?id=19388&type=dash&token=b7wIHrDzXzjCyMVuUBCk1Xh08sdme6qA|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
