@@ -17,9 +17,8 @@ https://vid-id.indi1.workers.dev/index.mpd?id=21483&type=dash&token=b7wIHrDzXzjC
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21463&type=drm&token=b7wIHrDzXzjCyMVuUBCk1Xh08sdme6qA
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/726iSN4bTpTTZ0q8d0b7ZglD_Sc=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21463/ubl-nasional-season-1-340c48.jpg" ch-number="4", Nugroho Pratama vs Andreas - Light Middleweight | UBL Nasional Season 1
-#https://vid-id.indi1.workers.dev/index.mpd?id=21463&type=dash&token=b7wIHrDzXzjCyMVuUBCk1Xh08sdme6qA|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/726iSN4bTpTTZ0q8d0b7ZglD_Sc=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21463/ubl-nasional-season-1-340c48.jpg" ch-number="4", Nugroho Pratama vs Andreas - Light Middleweight | UBL Nasional Season 1
+https://vid-id.indi1.workers.dev/index.mpd?id=21463&type=dash&token=b7wIHrDzXzjCyMVuUBCk1Xh08sdme6qA|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=19353&type=drm&token=b7wIHrDzXzjCyMVuUBCk1Xh08sdme6qA
