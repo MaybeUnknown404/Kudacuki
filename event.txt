@@ -6,19 +6,19 @@
 https://vid-id.indi1.workers.dev/index.mpd?id=21392&type=dash&token=b7wIHrDzXzjCyMVuUBCk1Xh08sdme6qA|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20887&type=drm&token=b7wIHrDzXzjCyMVuUBCk1Xh08sdme6qA
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/fmQHttdF5qKNeNZ3BGsDfJNaEpk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5087854/142302.jpg" ch-number="2", Ignacio Buse vs Tommy Paul - Final | ATP 500: bitpanda Hamburg Open 2026
+https://vid-id.indi1.workers.dev/index.mpd?id=20887&type=dash&token=b7wIHrDzXzjCyMVuUBCk1Xh08sdme6qA|User-Agent=VidioPlayer/6.31.6
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6786&type=drm&token=b7wIHrDzXzjCyMVuUBCk1Xh08sdme6qA
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/5R9Z8FWw8AKwYK4qXqM0nlRQvgk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080205/92aeef.jpg" ch-number="2", Final - WTA 500: Internationaux de Strasbourg presented by Mammotion 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/5R9Z8FWw8AKwYK4qXqM0nlRQvgk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080205/92aeef.jpg" ch-number="3", Final - WTA 500: Internationaux de Strasbourg presented by Mammotion 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=6786&type=dash&token=b7wIHrDzXzjCyMVuUBCk1Xh08sdme6qA|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6686&type=drm&token=b7wIHrDzXzjCyMVuUBCk1Xh08sdme6qA
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/ce6fAt9BLo4eV87Yv0Re3pQxj2s=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080204/65309e.jpg" ch-number="3", Final - WTA 250: Grand Prix Son Altesse Royale La Princesse Lalla Meryem 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/ce6fAt9BLo4eV87Yv0Re3pQxj2s=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080204/65309e.jpg" ch-number="4", Final - WTA 250: Grand Prix Son Altesse Royale La Princesse Lalla Meryem 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=6686&type=dash&token=b7wIHrDzXzjCyMVuUBCk1Xh08sdme6qA|User-Agent=VidioPlayer/6.31.6
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20887&type=drm&token=b7wIHrDzXzjCyMVuUBCk1Xh08sdme6qA
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/fmQHttdF5qKNeNZ3BGsDfJNaEpk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5087854/142302.jpg" ch-number="4", Ignacio Buse vs Tommy Paul - Final | ATP 500: bitpanda Hamburg Open 2026
-https://vid-id.indi1.workers.dev/index.mpd?id=20887&type=dash&token=b7wIHrDzXzjCyMVuUBCk1Xh08sdme6qA|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=19388&type=drm&token=b7wIHrDzXzjCyMVuUBCk1Xh08sdme6qA
