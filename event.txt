@@ -2,7 +2,7 @@
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21392&type=drm&token=b7wIHrDzXzjCyMVuUBCk1Xh08sdme6qA
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/1Edhe1YbenfMpVbtn4JZrqo0VWg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080500/6c3a19.jpg" ch-number="1", Alvian vs Faje - Super Bantamweight | UBL Nasional Season 1
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/dx8HW3TE5sovAYZdkDkRwbiE4LY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080501/d4c7b3.jpg" ch-number="1", Diby vs Hegy - Featherweight | UBL Nasional Season 1
 https://vid-id.indi1.workers.dev/index.mpd?id=21392&type=dash&token=b7wIHrDzXzjCyMVuUBCk1Xh08sdme6qA|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
