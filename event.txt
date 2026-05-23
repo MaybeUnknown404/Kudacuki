@@ -22,45 +22,38 @@ https://vid-id.indi1.workers.dev/index.mpd?id=19404&type=dash&token=AlCbU7o5gVg0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21403&type=drm&token=AlCbU7o5gVg0Y7pju0Ac2fYQfdukV5rc
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/WVXfGIS3aFbd37UM079z8kE3Ycc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080327/8a6a21.jpg" ch-number="5", Alaves vs Rayo Vallecano - LaLiga
-#https://vid-id.indi1.workers.dev/index.mpd?id=21403&type=dash&token=AlCbU7o5gVg0Y7pju0Ac2fYQfdukV5rc|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/WVXfGIS3aFbd37UM079z8kE3Ycc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080327/8a6a21.jpg" ch-number="5", Alaves vs Rayo Vallecano - LaLiga
+https://vid-id.indi1.workers.dev/index.mpd?id=21403&type=dash&token=AlCbU7o5gVg0Y7pju0Ac2fYQfdukV5rc|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20810&type=drm&token=AlCbU7o5gVg0Y7pju0Ac2fYQfdukV5rc
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/UX4O7TCRWK_sdujKdL8iKferlvo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5081362/be0e7c.jpg" ch-number="6", Getafe vs Osasuna - LaLiga
-#https://vid-id.indi1.workers.dev/index.mpd?id=20810&type=dash&token=AlCbU7o5gVg0Y7pju0Ac2fYQfdukV5rc|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/UX4O7TCRWK_sdujKdL8iKferlvo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5081362/be0e7c.jpg" ch-number="6", Getafe vs Osasuna - LaLiga
+https://vid-id.indi1.workers.dev/index.mpd?id=20810&type=dash&token=AlCbU7o5gVg0Y7pju0Ac2fYQfdukV5rc|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21481&type=drm&token=AlCbU7o5gVg0Y7pju0Ac2fYQfdukV5rc
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/GADqXIoQ0pqC0PiLVwonqO2vWmk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5082198/a56a4f.jpg" ch-number="7", Real Betis vs Levante - LaLiga
-#https://vid-id.indi1.workers.dev/index.mpd?id=21481&type=dash&token=AlCbU7o5gVg0Y7pju0Ac2fYQfdukV5rc|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/GADqXIoQ0pqC0PiLVwonqO2vWmk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5082198/a56a4f.jpg" ch-number="7", Real Betis vs Levante - LaLiga
+https://vid-id.indi1.workers.dev/index.mpd?id=21481&type=dash&token=AlCbU7o5gVg0Y7pju0Ac2fYQfdukV5rc|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21333&type=drm&token=AlCbU7o5gVg0Y7pju0Ac2fYQfdukV5rc
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/qUjSgchO7AAKuNvyIXhn34iNOpo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5081361/de2964.jpg" ch-number="8", Espanyol vs Real Sociedad - LaLiga
-#https://vid-id.indi1.workers.dev/index.mpd?id=21333&type=dash&token=AlCbU7o5gVg0Y7pju0Ac2fYQfdukV5rc|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/qUjSgchO7AAKuNvyIXhn34iNOpo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5081361/de2964.jpg" ch-number="8", Espanyol vs Real Sociedad - LaLiga
+https://vid-id.indi1.workers.dev/index.mpd?id=21333&type=dash&token=AlCbU7o5gVg0Y7pju0Ac2fYQfdukV5rc|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21402&type=drm&token=AlCbU7o5gVg0Y7pju0Ac2fYQfdukV5rc
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/VngoE2CKYhwaaynA-LrXOT0vUXg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080329/bf859f.jpg" ch-number="9", Celta Vigo vs Sevilla - LaLiga
-#https://vid-id.indi1.workers.dev/index.mpd?id=21402&type=dash&token=AlCbU7o5gVg0Y7pju0Ac2fYQfdukV5rc|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/VngoE2CKYhwaaynA-LrXOT0vUXg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080329/bf859f.jpg" ch-number="9", Celta Vigo vs Sevilla - LaLiga
+https://vid-id.indi1.workers.dev/index.mpd?id=21402&type=dash&token=AlCbU7o5gVg0Y7pju0Ac2fYQfdukV5rc|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21401&type=drm&token=AlCbU7o5gVg0Y7pju0Ac2fYQfdukV5rc
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/tlOXVYTl-SCuRhQQ5oEQB9x2G6c=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5081364/13c595.jpg" ch-number="10", Mallorca vs Oviedo - LaLiga
-#https://vid-id.indi1.workers.dev/index.mpd?id=21401&type=dash&token=AlCbU7o5gVg0Y7pju0Ac2fYQfdukV5rc|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/tlOXVYTl-SCuRhQQ5oEQB9x2G6c=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5081364/13c595.jpg" ch-number="10", Mallorca vs Oviedo - LaLiga
+https://vid-id.indi1.workers.dev/index.mpd?id=21401&type=dash&token=AlCbU7o5gVg0Y7pju0Ac2fYQfdukV5rc|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21400&type=drm&token=AlCbU7o5gVg0Y7pju0Ac2fYQfdukV5rc
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/qP6s02vANJ59qHpSLuLoM8SJN5A=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5081363/8ae6b7.jpg" ch-number="11", Girona vs Elche - LaLiga
-#https://vid-id.indi1.workers.dev/index.mpd?id=21400&type=dash&token=AlCbU7o5gVg0Y7pju0Ac2fYQfdukV5rc|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/qP6s02vANJ59qHpSLuLoM8SJN5A=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5081363/8ae6b7.jpg" ch-number="11", Girona vs Elche - LaLiga
+https://vid-id.indi1.workers.dev/index.mpd?id=21400&type=dash&token=AlCbU7o5gVg0Y7pju0Ac2fYQfdukV5rc|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6317&type=drm&token=AlCbU7o5gVg0Y7pju0Ac2fYQfdukV5rc
