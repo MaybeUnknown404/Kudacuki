@@ -16,28 +16,24 @@ https://vid-id.indi1.workers.dev/index.mpd?id=18189&type=dash&token=yxyL883IyMPh
 https://vid-id.indi1.workers.dev/index.mpd?id=9182&type=dash&token=yxyL883IyMPh5CdnNC7wUgjjTEiEujzv|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=19404&type=drm&token=yxyL883IyMPh5CdnNC7wUgjjTEiEujzv
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/e18G8ed7jah3vAJ6YET78uZSlbY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5083775/4fff41.jpg" ch-number="4", Torino vs Juventus - Serie A
-#https://vid-id.indi1.workers.dev/index.mpd?id=19404&type=dash&token=yxyL883IyMPh5CdnNC7wUgjjTEiEujzv|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=drm&token=yxyL883IyMPh5CdnNC7wUgjjTEiEujzv
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/p9lBU0q02ei4apWAvd3kgt-MElo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5091272/4be0d8.jpg" ch-number="4", Giovanni Mpetshi Perricard vs Novak Djokovic - Men's Singles | Roland Garros 2026: Round 1 - Night 1 (Court 1)
+https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=dash&token=yxyL883IyMPh5CdnNC7wUgjjTEiEujzv|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17938&type=drm&token=yxyL883IyMPh5CdnNC7wUgjjTEiEujzv
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/SxAVgj6ucpDB2WwPmh3aWMbKR4Q=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5083528/14de58.jpg" ch-number="5", Cremonese vs Como - Serie A
-#https://vid-id.indi1.workers.dev/index.mpd?id=17938&type=dash&token=yxyL883IyMPh5CdnNC7wUgjjTEiEujzv|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=drm&token=yxyL883IyMPh5CdnNC7wUgjjTEiEujzv
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/p9lBU0q02ei4apWAvd3kgt-MElo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5091272/4be0d8.jpg" ch-number="6", Giovanni Mpetshi Perricard vs Novak Djokovic - Men's Singles | Roland Garros 2026: Round 1 - Night 1 (Court 1)
-#https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=dash&token=yxyL883IyMPh5CdnNC7wUgjjTEiEujzv|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/SxAVgj6ucpDB2WwPmh3aWMbKR4Q=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5083528/14de58.jpg" ch-number="5", Cremonese vs Como - Serie A
+https://vid-id.indi1.workers.dev/index.mpd?id=17938&type=dash&token=yxyL883IyMPh5CdnNC7wUgjjTEiEujzv|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17939&type=drm&token=yxyL883IyMPh5CdnNC7wUgjjTEiEujzv
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/xht2KTUMI2J9hcaX-ZhI19TE_74=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5083529/8379d1.jpg" ch-number="7", Milan vs Cagliari - Serie A
-#https://vid-id.indi1.workers.dev/index.mpd?id=17939&type=dash&token=yxyL883IyMPh5CdnNC7wUgjjTEiEujzv|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/xht2KTUMI2J9hcaX-ZhI19TE_74=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5083529/8379d1.jpg" ch-number="6", Milan vs Cagliari - Serie A
+https://vid-id.indi1.workers.dev/index.mpd?id=17939&type=dash&token=yxyL883IyMPh5CdnNC7wUgjjTEiEujzv|User-Agent=VidioPlayer/6.31.6
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=19404&type=drm&token=yxyL883IyMPh5CdnNC7wUgjjTEiEujzv
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/e18G8ed7jah3vAJ6YET78uZSlbY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5083775/4fff41.jpg" ch-number="7", Torino vs Juventus - Serie A
+https://vid-id.indi1.workers.dev/index.mpd?id=19404&type=dash&token=yxyL883IyMPh5CdnNC7wUgjjTEiEujzv|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21398&type=drm&token=yxyL883IyMPh5CdnNC7wUgjjTEiEujzv
