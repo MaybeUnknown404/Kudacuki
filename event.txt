@@ -2,7 +2,7 @@
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21210&type=drm&token=AlCbU7o5gVg0Y7pju0Ac2fYQfdukV5rc
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/5-xWLs5BOE5A1aJMqNC9P4u0URo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5090784/e653d2.jpg" ch-number="1", Universitas Trisakti Jakarta vs Universitas Budi Luhur Jakarta (Grup B | Putra) - CL Basketball 2026 - Regional Jakarta
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/ya0XeCp0lbGlFgJJ_Nv2R4rF1Bc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5090785/50e142.jpg" ch-number="1", Universitas Bina Nusantara Jakarta vs Universitas Multimedia Nusantara Tangerang (Grup C | Putra) - CL Basketball 2026 - Regional Jakarta
 https://vid-id.indi1.workers.dev/index.mpd?id=21210&type=dash&token=AlCbU7o5gVg0Y7pju0Ac2fYQfdukV5rc|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
