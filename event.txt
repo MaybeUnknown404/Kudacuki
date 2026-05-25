@@ -33,86 +33,86 @@ https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1ec
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=drm&token=yxyL883IyMPh5CdnNC7wUgjjTEiEujzv
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/oOGprhviOurU3Qji7CpaWYMHaKE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5094939/877f04.jpg" ch-number="7", Rui Hirokami/Sayaka Hobara (JPN) vs Hsu Ya Ching/Sung Yu-Hsuan (TPE) - Women's Doubles Round of 32 | KFF Singapore Open 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=dash&token=yxyL883IyMPh5CdnNC7wUgjjTEiEujzv|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=drm&token=yxyL883IyMPh5CdnNC7wUgjjTEiEujzv
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/yE2bBBOLRwZ0HKb0xqwfyPjSBYw=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18250/kff-singapore-badminton-open-2026-round-of-32-court-2-bf636f.jpg" ch-number="7", KFF Singapore Badminton Open 2026 - Round of 32 (Court 2)
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/yE2bBBOLRwZ0HKb0xqwfyPjSBYw=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18250/kff-singapore-badminton-open-2026-round-of-32-court-2-bf636f.jpg" ch-number="8", Feng Yan Zhe/Huang Dong Ping (CHN) vs Jimmy Wong/Cheng Su Yin (MAS) - Mixed Doubles Round of 32 | KFF Singapore Open 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=dash&token=yxyL883IyMPh5CdnNC7wUgjjTEiEujzv|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=drm&token=yxyL883IyMPh5CdnNC7wUgjjTEiEujzv
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/ZlSsJcUuew9s39zIvVrKnUtdaX4=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/kff-singapore-badminton-open-2026-round-of-32-court-3-e966b7.jpg" ch-number="8", KFF Singapore Badminton Open 2026 - Round of 32 (Court 3)
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/ZlSsJcUuew9s39zIvVrKnUtdaX4=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/kff-singapore-badminton-open-2026-round-of-32-court-3-e966b7.jpg" ch-number="9", Rui Hirokami/Sayaka Hobara (JPN) vs Hsu Ya Ching/Sung Yu-Hsuan (TPE) - Women's Doubles Round of 32 | KFF Singapore Open 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=dash&token=yxyL883IyMPh5CdnNC7wUgjjTEiEujzv|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=drm&token=yxyL883IyMPh5CdnNC7wUgjjTEiEujzv
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/K7McNJMgVGD55wwk8YvUaA7Uy1Y=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/kff-singapore-badminton-open-2026-round-of-32-court-1-6bf6df.jpg" ch-number="9", Liu Sheng Shu/Tan Ning (CHN) vs Amallia Cahaya Pratiwi/Siti Fadia Silva Ramadhanti (INA) - Women's Doubles Round of 32 | KFF Singapore Open 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/K7McNJMgVGD55wwk8YvUaA7Uy1Y=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/kff-singapore-badminton-open-2026-round-of-32-court-1-6bf6df.jpg" ch-number="10", Liu Sheng Shu/Tan Ning (CHN) vs Amallia Cahaya Pratiwi/Siti Fadia Silva Ramadhanti (INA) - Women's Doubles Round of 32 | KFF Singapore Open 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=yxyL883IyMPh5CdnNC7wUgjjTEiEujzv|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=drm&token=yxyL883IyMPh5CdnNC7wUgjjTEiEujzv
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/cPtz79Yp_bxsshjEZVLdtekryV0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5094940/f08efd.jpg" ch-number="11", Huang Yu-Hsun (TPE) vs Chiu Pin-Chian (TPE) - Women's Singles Round of 32 | KFF Singapore Open 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=dash&token=yxyL883IyMPh5CdnNC7wUgjjTEiEujzv|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=drm&token=yxyL883IyMPh5CdnNC7wUgjjTEiEujzv
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/BrfBurfk1UBzCgN1S5BVsM0i-ds=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5094941/184387.jpg" ch-number="12", Yuki Fukushima/Mayu Matsumoto (JPN) vs Kaho Osawa/Mai Tanabe (JPN) - Women's Doubles Round of 32 | KFF Singapore Open 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=dash&token=yxyL883IyMPh5CdnNC7wUgjjTEiEujzv|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=drm&token=yxyL883IyMPh5CdnNC7wUgjjTEiEujzv
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/dRIYw-0z9xJIkaHy94wwMR8rYQw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5094942/62b7fa.jpg" ch-number="13", An Se Young (KOR) vs Sim Yu Jin (KOR) - Women's Singles Round of 32 | KFF Singapore Open 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=dash&token=yxyL883IyMPh5CdnNC7wUgjjTEiEujzv|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=drm&token=yxyL883IyMPh5CdnNC7wUgjjTEiEujzv
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/vWZfFG2TlWt2H0BSLBjnmleKUzY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5094943/dd80bb.jpg" ch-number="14", Baek Ha Na/Lee So Hee (KOR) vs Francesca Corbett/Jennie Gai (USA) - Women's Doubles Round of 32 | KFF Singapore Open 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=dash&token=yxyL883IyMPh5CdnNC7wUgjjTEiEujzv|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=drm&token=yxyL883IyMPh5CdnNC7wUgjjTEiEujzv
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/hPI55Qfx7NIdkkfiwF4Z5rvxX88=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5094944/658641.jpg" ch-number="15", Leong Jun Hao (MAS) vs Lee Chia Hao (TPE) - Men's Singles Round of 32 | KFF Singapore Open 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=dash&token=yxyL883IyMPh5CdnNC7wUgjjTEiEujzv|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=drm&token=yxyL883IyMPh5CdnNC7wUgjjTEiEujzv
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/QYrSL--O4L34SdB7mTDbh5PZfOY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5094899/a535a4.jpg" ch-number="10", Takuro Hoki/Yugo Kobayashi (JPN) vs Hariharan Amsakarunan/M.R. Arjun (IND) - Men's Doubles Round of 32 | KFF Singapore Open 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/QYrSL--O4L34SdB7mTDbh5PZfOY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5094899/a535a4.jpg" ch-number="16", Takuro Hoki/Yugo Kobayashi (JPN) vs Hariharan Amsakarunan/M.R. Arjun (IND) - Men's Doubles Round of 32 | KFF Singapore Open 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=yxyL883IyMPh5CdnNC7wUgjjTEiEujzv|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=drm&token=yxyL883IyMPh5CdnNC7wUgjjTEiEujzv
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/wa3_AgrKN8huIGDj0Fl8Y5ebA6o=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5091446/194d4e.jpg" ch-number="11", Round 1 - Day 3 (Court 3) - Roland Garros 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=dash&token=yxyL883IyMPh5CdnNC7wUgjjTEiEujzv|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=drm&token=yxyL883IyMPh5CdnNC7wUgjjTEiEujzv
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/gOV5MWTsifaOqxV11Ac8-lKbOWQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5094945/5d8e72.jpg" ch-number="17", Wong Ling Ching (MAS) vs Riko Gunji (JPN) - Women's Singles Round of 32 | KFF Singapore Open 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=dash&token=yxyL883IyMPh5CdnNC7wUgjjTEiEujzv|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6317&type=drm&token=yxyL883IyMPh5CdnNC7wUgjjTEiEujzv
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/FyJPRXeAamMmsSRcSq9bsBwkJzA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5091445/974096.jpg" ch-number="12", Round 1 - Day 3 (Court 2) - Roland Garros 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=6317&type=dash&token=yxyL883IyMPh5CdnNC7wUgjjTEiEujzv|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=drm&token=yxyL883IyMPh5CdnNC7wUgjjTEiEujzv
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/rGJ6XLTULxhI8QmROqyCR41MgDU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5094946/94665e.jpg" ch-number="18", Tang Chun Man/Tse Ying Suet (HKG) vs Julien Maio/Lea Palermo (FRA) - Mixed Doubles Round of 32 | KFF Singapore Open 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=dash&token=yxyL883IyMPh5CdnNC7wUgjjTEiEujzv|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=drm&token=yxyL883IyMPh5CdnNC7wUgjjTEiEujzv
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/iH36SJCchoOsoL4ZPQ_1GVL_tjQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5091444/fe3328.jpg" ch-number="13", Round 1 - Day 3 (Court 1) - Roland Garros 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=dash&token=yxyL883IyMPh5CdnNC7wUgjjTEiEujzv|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=drm&token=yxyL883IyMPh5CdnNC7wUgjjTEiEujzv
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/VWm-YjOAeeVCd10KZhLFNpk-SUU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5094947/161fb9.jpg" ch-number="19", Thom Gicquel/Delphine Delrue (FRA) vs Rehan Naufal Kusharjanto/Gloria Emanuelle Widjaja (INA) - Mixed Doubles Round of 32 | KFF Singapore Open 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=dash&token=yxyL883IyMPh5CdnNC7wUgjjTEiEujzv|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=drm&token=yxyL883IyMPh5CdnNC7wUgjjTEiEujzv
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/xCT0r92HCPOEZDFRfjIVQ6IAkB0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5094902/472d63.jpg" ch-number="14", Sabar Karyaman Gutama/Moh Reza Pahlevi Isfahani (INA) vs Eng Keat Wesley Koh/Junsuke Kubo (SGP) - Men's Doubles Round of 32 | KFF Singapore Open 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=yxyL883IyMPh5CdnNC7wUgjjTEiEujzv|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=drm&token=yxyL883IyMPh5CdnNC7wUgjjTEiEujzv
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/NtkdRDdayZWoIHDegRrYwDmZmyQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5091547/43e196.jpg" ch-number="15", Final: Crystal Palace vs Rayo Vallecano - UEFA Conference League
-#https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=dash&token=yxyL883IyMPh5CdnNC7wUgjjTEiEujzv|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18189&type=drm&token=yxyL883IyMPh5CdnNC7wUgjjTEiEujzv
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/2qVGPWK0aKGSEDclrl_e1-4GRNQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5092048/3c0fa7.jpg" ch-number="16", Round 1 - Charles Schwab Challenge 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=18189&type=dash&token=yxyL883IyMPh5CdnNC7wUgjjTEiEujzv|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18190&type=drm&token=yxyL883IyMPh5CdnNC7wUgjjTEiEujzv
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/G1poZTij598nqFD_Gd5AJSpeOY0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5092050/413fd8.jpg" ch-number="17", Round 1 - ShopRite LPGA powered by Wakefern 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=18190&type=dash&token=yxyL883IyMPh5CdnNC7wUgjjTEiEujzv|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18189&type=drm&token=yxyL883IyMPh5CdnNC7wUgjjTEiEujzv
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Ee50xolabcgqnaN6Dq3kZ7U1xtk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5092049/8f3c7b.jpg" ch-number="18", Round 2 - Charles Schwab Challenge 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=18189&type=dash&token=yxyL883IyMPh5CdnNC7wUgjjTEiEujzv|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=19388&type=drm&token=yxyL883IyMPh5CdnNC7wUgjjTEiEujzv
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/IR2n7UzECNrxYkwQtG0u84f_ZhI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5091703/ddcd9b.jpg" ch-number="19", Rajadamnern 2026 Minimumweight Title
-#https://vid-id.indi1.workers.dev/index.mpd?id=19388&type=dash&token=yxyL883IyMPh5CdnNC7wUgjjTEiEujzv|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21537&type=drm&token=yxyL883IyMPh5CdnNC7wUgjjTEiEujzv
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Tg6naIgWQgW7EsL9lc1X0MYJM1c=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5092052/84111e.jpg" ch-number="20", Sprint Race: F1H2O 2026 - Grand Prix of Cagliari, Italy
-#https://vid-id.indi1.workers.dev/index.mpd?id=21537&type=dash&token=yxyL883IyMPh5CdnNC7wUgjjTEiEujzv|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=drm&token=yxyL883IyMPh5CdnNC7wUgjjTEiEujzv
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/5RnCRPH8UTZDiaazh5gf1dUjcA4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5094935/3d7105.jpg" ch-number="20", Putri Kusuma Wardani (INA) vs Pusarla V. Sindhu (IND) - Women's Singles Round of 32 | KFF Singapore Open 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=dash&token=yxyL883IyMPh5CdnNC7wUgjjTEiEujzv|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
