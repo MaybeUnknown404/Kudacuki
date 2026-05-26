@@ -7,17 +7,17 @@ https://vid-id.indi1.workers.dev/index.mpd?id=21210&type=dash&token=1SSsT2EX3JFK
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=drm&token=1SSsT2EX3JFKUQfBGp4obKyZRgKjyRZv
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/42ZFAUNrRrhgToZXgm9iFK3858g=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5094927/6d8140.jpg" ch-number="2", Feng Yan Zhe/Huang Dong Ping (CHN) vs Jimmy Wong/Cheng Su Yin (MAS) - Mixed Doubles Round of 32 | KFF Singapore Open 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/wAkGHkJbbXGHqSQSY877EeXxFDQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5094928/f02748.jpg" ch-number="2", Rin Iwanaga/Kie Nakanishi (JPN) vs Hinata Suzuki/Nao Yamakita (JPN) - Women's Doubles Round of 32 | KFF Singapore Open 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=dash&token=1SSsT2EX3JFKUQfBGp4obKyZRgKjyRZv|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=drm&token=1SSsT2EX3JFKUQfBGp4obKyZRgKjyRZv
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/oOGprhviOurU3Qji7CpaWYMHaKE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5094939/877f04.jpg" ch-number="3", Rui Hirokami/Sayaka Hobara (JPN) vs Hsu Ya Ching/Sung Yu-Hsuan (TPE) - Women's Doubles Round of 32 | KFF Singapore Open 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/cPtz79Yp_bxsshjEZVLdtekryV0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5094940/f08efd.jpg" ch-number="3", Huang Yu-Hsun (TPE) vs Chiu Pin-Chian (TPE) - Women's Singles Round of 32 | KFF Singapore Open 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=dash&token=1SSsT2EX3JFKUQfBGp4obKyZRgKjyRZv|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=drm&token=1SSsT2EX3JFKUQfBGp4obKyZRgKjyRZv
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/kl_qotmEFwhkbHExh0ucul9NkM4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5094893/32938f.jpg" ch-number="4", Liu Sheng Shu/Tan Ning (CHN) vs Amallia Cahaya Pratiwi/Siti Fadia Silva Ramadhanti (INA) - Women's Doubles Round of 32 | KFF Singapore Open 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/fBM0mqm7H219X_dsncFUDBmoZYg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5094894/701429.jpg" ch-number="4", Hina Akechi (JPN) vs Busanan Ongbamrungphan (THA) - Women's Singles Round of 32 | KFF Singapore Open 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=1SSsT2EX3JFKUQfBGp4obKyZRgKjyRZv|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
