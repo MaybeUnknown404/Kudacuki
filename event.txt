@@ -2,12 +2,12 @@
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=drm&token=1edIg6SU3Ri8Hm3u4xtj7iRFEDyxjBUe
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/FllIaEk8mxdNhL4vCa-2V9D4UT4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5096450/83da67.jpg" ch-number="1", Julien Carraggi (BEL) vs Kunlavut Vitidsarn (THA) - Men's Singles Round of 32 | KFF Singapore Open 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/Gq0xBlE4XnxrmdSm-YVAlgsvtEE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5096451/69cb0c.jpg" ch-number="1", Chia Weijie/Teo Ee Yi (MAS) vs Liang Wei Keng/Wang Chang (CHN) - Men's Doubles Round of 32 | KFF Singapore Open 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=1edIg6SU3Ri8Hm3u4xtj7iRFEDyxjBUe|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=drm&token=1edIg6SU3Ri8Hm3u4xtj7iRFEDyxjBUe
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/5lN4herqtcHmbZ9HaJnNyJX9ya4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5096464/3f4475.jpg" ch-number="2", Kakeru Kumagai/Hiroki Nishi (JPN) vs Ben Lane/Sean Vendy (ENG) - Men's Doubles Round of 32 | KFF Singapore Open 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/Rdo5U4xmIb06BObntsQD8CMBQfs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5096465/e592e4.jpg" ch-number="2", Benyapa Aimsaard/Nuntakarn Aimsaard (THA) vs Jackie Dent/Crystal Lai (CAN) - Women's Doubles Round of 32 | KFF Singapore Open 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=dash&token=1edIg6SU3Ri8Hm3u4xtj7iRFEDyxjBUe|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
