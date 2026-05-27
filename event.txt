@@ -12,7 +12,7 @@ https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=dash&token=1edIg6SU3Ri8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=drm&token=1edIg6SU3Ri8Hm3u4xtj7iRFEDyxjBUe
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/vmWgaAA5JhYWvi2haGtAo7fsR1M=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/kff-singapore-badminton-open-2026-round-of-32-court-3-753240.jpg" ch-number="3", Kim Jae Hyeon/Jang Ha Jeong (KOR) vs Goh Soon Huat/Lai Shevon Jemie (MAS) - Mixed Doubles Round of 32 | KFF Singapore Open 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/vmWgaAA5JhYWvi2haGtAo7fsR1M=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/kff-singapore-badminton-open-2026-round-of-32-court-3-753240.jpg" ch-number="3", Michelle Li (CAN) vs Line Hojmark Kjaersfeldt (DEN) - Women's Singles Round of 32 | KFF Singapore Open 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=dash&token=1edIg6SU3Ri8Hm3u4xtj7iRFEDyxjBUe|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -31,85 +31,86 @@ https://vid-id.indi1.workers.dev/index.mpd?id=6317&type=dash&token=1edIg6SU3Ri8H
 https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=dash&token=1edIg6SU3Ri8Hm3u4xtj7iRFEDyxjBUe|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=drm&token=1edIg6SU3Ri8Hm3u4xtj7iRFEDyxjBUe
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/vmWgaAA5JhYWvi2haGtAo7fsR1M=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/kff-singapore-badminton-open-2026-round-of-32-court-3-753240.jpg" ch-number="7", Michelle Li (CAN) vs Line Hojmark Kjaersfeldt (DEN) - Women's Singles Round of 32 | KFF Singapore Open 2026
-https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=dash&token=1edIg6SU3Ri8Hm3u4xtj7iRFEDyxjBUe|User-Agent=VidioPlayer/6.31.6
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=drm&token=1edIg6SU3Ri8Hm3u4xtj7iRFEDyxjBUe
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/DY7dhenZn1bBdiNp6P2w0aTt4o0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5096463/1c05e7.jpg" ch-number="8", Lee Fang-Chih/Lee Fang-Jen (TPE) vs Fajar Alfian/Muhammad Shohibul Fikri (INA) - Men's Doubles Round of 32 | KFF Singapore Open 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/DY7dhenZn1bBdiNp6P2w0aTt4o0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5096463/1c05e7.jpg" ch-number="7", Lee Fang-Chih/Lee Fang-Jen (TPE) vs Fajar Alfian/Muhammad Shohibul Fikri (INA) - Men's Doubles Round of 32 | KFF Singapore Open 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=dash&token=1edIg6SU3Ri8Hm3u4xtj7iRFEDyxjBUe|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=drm&token=1edIg6SU3Ri8Hm3u4xtj7iRFEDyxjBUe
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/QdeVED55e8c0MNTBz6zt_z6rop8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5096503/802f9b.jpg" ch-number="9", Valentin Royer vs Novak Djokovic - Men's Singles | Roland Garros 2026: Round 2 - Day 4 (Court 1)
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/QdeVED55e8c0MNTBz6zt_z6rop8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5096503/802f9b.jpg" ch-number="8", Valentin Royer vs Novak Djokovic - Men's Singles | Roland Garros 2026: Round 2 - Day 4 (Court 1)
 #https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=dash&token=1edIg6SU3Ri8Hm3u4xtj7iRFEDyxjBUe|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=drm&token=1edIg6SU3Ri8Hm3u4xtj7iRFEDyxjBUe
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/o9FwyxUis4JUFPeVKkX-KrgVHKI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5095117/53addb.jpg" ch-number="10", Tomas Machac vs Alexander Zverev - Men's Singles | Roland Garros 2026: Round 2 - Night 4 (Court 1)
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/o9FwyxUis4JUFPeVKkX-KrgVHKI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5095117/53addb.jpg" ch-number="9", Tomas Machac vs Alexander Zverev - Men's Singles | Roland Garros 2026: Round 2 - Night 4 (Court 1)
 #https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=dash&token=1edIg6SU3Ri8Hm3u4xtj7iRFEDyxjBUe|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=drm&token=1edIg6SU3Ri8Hm3u4xtj7iRFEDyxjBUe
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/NtkdRDdayZWoIHDegRrYwDmZmyQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5091547/43e196.jpg" ch-number="11", Final: Crystal Palace vs Rayo Vallecano - UEFA Conference League
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/NtkdRDdayZWoIHDegRrYwDmZmyQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5091547/43e196.jpg" ch-number="10", Final: Crystal Palace vs Rayo Vallecano - UEFA Conference League
 #https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=dash&token=1edIg6SU3Ri8Hm3u4xtj7iRFEDyxjBUe|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21210&type=drm&token=1edIg6SU3Ri8Hm3u4xtj7iRFEDyxjBUe
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/qAwIM53X7zhIy5RIhbf70SO85qw=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21210/campus-league-2026-basketball-6e1303.jpg" ch-number="12", Universitas Indonesia vs Universitas Pelita Harapan (Grup E | Putri) - CL Basketball 2026 - Regional Jakarta
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/qAwIM53X7zhIy5RIhbf70SO85qw=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21210/campus-league-2026-basketball-6e1303.jpg" ch-number="11", Universitas Indonesia vs Universitas Pelita Harapan (Grup E | Putri) - CL Basketball 2026 - Regional Jakarta
 #https://vid-id.indi1.workers.dev/index.mpd?id=21210&type=dash&token=1edIg6SU3Ri8Hm3u4xtj7iRFEDyxjBUe|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6317&type=drm&token=1edIg6SU3Ri8Hm3u4xtj7iRFEDyxjBUe
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/CY-9aSNTV67K8SMgYcQkPB6LcWw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5095113/17f009.jpg" ch-number="13", Round 2 - Day 5 (Court 2) - Roland Garros 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/CY-9aSNTV67K8SMgYcQkPB6LcWw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5095113/17f009.jpg" ch-number="12", Round 2 - Day 5 (Court 2) - Roland Garros 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=6317&type=dash&token=1edIg6SU3Ri8Hm3u4xtj7iRFEDyxjBUe|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=drm&token=1edIg6SU3Ri8Hm3u4xtj7iRFEDyxjBUe
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/X6TiSqWdJ0l1jkyDocGL2FWBqPY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5095118/784f96.jpg" ch-number="14", Round 2 - Day 5 (Court 1) - Roland Garros 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/X6TiSqWdJ0l1jkyDocGL2FWBqPY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5095118/784f96.jpg" ch-number="13", Round 2 - Day 5 (Court 1) - Roland Garros 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=dash&token=1edIg6SU3Ri8Hm3u4xtj7iRFEDyxjBUe|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=drm&token=1edIg6SU3Ri8Hm3u4xtj7iRFEDyxjBUe
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/whEZksKrY5DVdLrdSb9aqMUbtV0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5095115/ef7418.jpg" ch-number="15", Round 2 - Day 5 (Court 3) - Roland Garros 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/whEZksKrY5DVdLrdSb9aqMUbtV0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5095115/ef7418.jpg" ch-number="14", Round 2 - Day 5 (Court 3) - Roland Garros 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=dash&token=1edIg6SU3Ri8Hm3u4xtj7iRFEDyxjBUe|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20216&type=drm&token=1edIg6SU3Ri8Hm3u4xtj7iRFEDyxjBUe
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/pGl3aOMGKX4j56fjClZkQehpB6s=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5096507/2d939d.jpg" ch-number="16", Road to UFC Season 5 - Day 1
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/pGl3aOMGKX4j56fjClZkQehpB6s=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5096507/2d939d.jpg" ch-number="15", Road to UFC Season 5 - Day 1
 #https://vid-id.indi1.workers.dev/index.mpd?id=20216&type=dash&token=1edIg6SU3Ri8Hm3u4xtj7iRFEDyxjBUe|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18189&type=drm&token=1edIg6SU3Ri8Hm3u4xtj7iRFEDyxjBUe
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/2qVGPWK0aKGSEDclrl_e1-4GRNQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5092048/3c0fa7.jpg" ch-number="17", Round 1 - Charles Schwab Challenge 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/2qVGPWK0aKGSEDclrl_e1-4GRNQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5092048/3c0fa7.jpg" ch-number="16", Round 1 - Charles Schwab Challenge 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=18189&type=dash&token=1edIg6SU3Ri8Hm3u4xtj7iRFEDyxjBUe|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17140&type=drm&token=1edIg6SU3Ri8Hm3u4xtj7iRFEDyxjBUe
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/uTjDVA6rKHbBvF-MEK2KtYEl9ms=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5096557/f1b961.jpg" ch-number="18", Moto3 Free Practice 1: Brembo Grand Prix of Italy - MotoGP 2026 Round 7
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/uTjDVA6rKHbBvF-MEK2KtYEl9ms=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5096557/f1b961.jpg" ch-number="17", Moto3 Free Practice 1: Brembo Grand Prix of Italy - MotoGP 2026 Round 7
 #https://vid-id.indi1.workers.dev/index.mpd?id=17140&type=dash&token=1edIg6SU3Ri8Hm3u4xtj7iRFEDyxjBUe|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17140&type=drm&token=1edIg6SU3Ri8Hm3u4xtj7iRFEDyxjBUe
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/gkKf3PLohJLwIPGItb2VSOrH_HE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5096558/c08994.jpg" ch-number="19", Moto2 Free Practice 1: Brembo Grand Prix of Italy - MotoGP 2026 Round 7
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/gkKf3PLohJLwIPGItb2VSOrH_HE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5096558/c08994.jpg" ch-number="18", Moto2 Free Practice 1: Brembo Grand Prix of Italy - MotoGP 2026 Round 7
 #https://vid-id.indi1.workers.dev/index.mpd?id=17140&type=dash&token=1edIg6SU3Ri8Hm3u4xtj7iRFEDyxjBUe|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17140&type=drm&token=1edIg6SU3Ri8Hm3u4xtj7iRFEDyxjBUe
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/6J3U5hHYtZoKaoQyP-X3cuXgyaA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5096559/65633b.jpg" ch-number="20", MotoGP Free Practice 1: Brembo Grand Prix of Italy - MotoGP 2026 Round 7
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/6J3U5hHYtZoKaoQyP-X3cuXgyaA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5096559/65633b.jpg" ch-number="19", MotoGP Free Practice 1: Brembo Grand Prix of Italy - MotoGP 2026 Round 7
 #https://vid-id.indi1.workers.dev/index.mpd?id=17140&type=dash&token=1edIg6SU3Ri8Hm3u4xtj7iRFEDyxjBUe|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20216&type=drm&token=1edIg6SU3Ri8Hm3u4xtj7iRFEDyxjBUe
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/doyo_GS27uOei-pNawAspobFvLs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5096509/5ee75a.jpg" ch-number="20", Road to UFC Season 5 - Day 2
+#https://vid-id.indi1.workers.dev/index.mpd?id=20216&type=dash&token=1edIg6SU3Ri8Hm3u4xtj7iRFEDyxjBUe|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
