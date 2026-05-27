@@ -2,12 +2,12 @@
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=drm&token=1edIg6SU3Ri8Hm3u4xtj7iRFEDyxjBUe
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/5f25FVALJdCnRcvNU1x470IBGEI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5096454/7f4729.jpg" ch-number="1", Chen Yu Fei (CHN) vs Karupathevan Letshanaa (MAS) - Women's Singles Round of 32 | KFF Singapore Open 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/ZokdnX91KxsknGiJ-RyMwab6Znc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5096455/aa57c6.jpg" ch-number="1", Justin Hoh (MAS) vs Christo Popov (FRA) - Men's Singles Round of 32 | KFF Singapore Open 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=dash&token=1edIg6SU3Ri8Hm3u4xtj7iRFEDyxjBUe|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=drm&token=1edIg6SU3Ri8Hm3u4xtj7iRFEDyxjBUe
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/soF5WOb3HKA2cYUHrCVNh_r6Mfk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5096439/82661a.jpg" ch-number="2", Yuta Watanabe/Maya Taguchi (JPN) vs Guo Xin Wa/Chen Fang Hui (CHN) - Mixed Doubles Round of 32 | KFF Singapore Open 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/KBxCor4hHl-BXJJQVv50oZnnDAE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5096440/ee877e.jpg" ch-number="2", Natsuki Nidaira (JPN) vs Nguyen Thuy Linh (VIE) - Women's Singles Round of 32 | KFF Singapore Open 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=1edIg6SU3Ri8Hm3u4xtj7iRFEDyxjBUe|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
