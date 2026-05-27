@@ -2,12 +2,12 @@
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=drm&token=1edIg6SU3Ri8Hm3u4xtj7iRFEDyxjBUe
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/qqaRIle0q7E26Sq05V37gc5TD30=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5096446/0337e3.jpg" ch-number="1", Christo Popov/Toma Junior Popov (FRA) vs Aaron Chia/Soh Wooi Yik (MAS) - Men's Doubles Round of 32 | KFF Singapore Open 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/-76PiQxRIJgFonO2RKjnnRrNw2I=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/kff-singapore-badminton-open-2026-round-of-32-court-1-95d776.jpg" ch-number="1", Kidambi Srikanth (IND) vs Loh Kean Yew (SGP) - Men's Singles Round of 32 | KFF Singapore Open 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=1edIg6SU3Ri8Hm3u4xtj7iRFEDyxjBUe|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=drm&token=1edIg6SU3Ri8Hm3u4xtj7iRFEDyxjBUe
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/W598QB_V84Gzn7AoiBNwB3Y1qGk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5096461/c7cfd6.jpg" ch-number="2", Ririna Hiramoto/Kokona Ishikawa (JPN) vs Lui Lok Lok/Tsang Hiu Yan (HKG) - Women's Doubles Round of 32 | KFF Singapore Open 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/dkOV26zFOthQ58f59vHvRWoAoTE=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18250/kff-singapore-badminton-open-2026-round-of-32-court-2-84a2cc.jpg" ch-number="2", Hu Ling Fang/Jheng Yu Chieh (TPE) vs Pearly Tan/Thinaah Muralitharan (MAS) - Women's Doubles Round of 32 | KFF Singapore Open 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=dash&token=1edIg6SU3Ri8Hm3u4xtj7iRFEDyxjBUe|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
