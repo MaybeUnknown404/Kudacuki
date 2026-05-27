@@ -1,34 +1,34 @@
 #EXTM3U
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=drm&token=1edIg6SU3Ri8Hm3u4xtj7iRFEDyxjBUe
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/-76PiQxRIJgFonO2RKjnnRrNw2I=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/kff-singapore-badminton-open-2026-round-of-32-court-1-95d776.jpg" ch-number="1", Kidambi Srikanth (IND) vs Loh Kean Yew (SGP) - Men's Singles Round of 32 | KFF Singapore Open 2026
-https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=1edIg6SU3Ri8Hm3u4xtj7iRFEDyxjBUe|User-Agent=VidioPlayer/6.31.6
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=drm&token=1edIg6SU3Ri8Hm3u4xtj7iRFEDyxjBUe
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/DY7dhenZn1bBdiNp6P2w0aTt4o0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5096463/1c05e7.jpg" ch-number="2", Lee Fang-Chih/Lee Fang-Jen (TPE) vs Fajar Alfian/Muhammad Shohibul Fikri (INA) - Men's Doubles Round of 32 | KFF Singapore Open 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/DY7dhenZn1bBdiNp6P2w0aTt4o0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5096463/1c05e7.jpg" ch-number="1", Lee Fang-Chih/Lee Fang-Jen (TPE) vs Fajar Alfian/Muhammad Shohibul Fikri (INA) - Men's Doubles Round of 32 | KFF Singapore Open 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=dash&token=1edIg6SU3Ri8Hm3u4xtj7iRFEDyxjBUe|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=drm&token=1edIg6SU3Ri8Hm3u4xtj7iRFEDyxjBUe
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/wE_NNptm51d-0jADv05RqWv7L40=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5096502/0342cd.jpg" ch-number="2", Sara Bejlek vs Iga Swiatek - Women's Singles | Roland Garros 2026: Round 2 - Day 4 (Court 1)
+https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=dash&token=1edIg6SU3Ri8Hm3u4xtj7iRFEDyxjBUe|User-Agent=VidioPlayer/6.31.6
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=drm&token=1edIg6SU3Ri8Hm3u4xtj7iRFEDyxjBUe
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/-76PiQxRIJgFonO2RKjnnRrNw2I=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/kff-singapore-badminton-open-2026-round-of-32-court-1-95d776.jpg" ch-number="3", Kidambi Srikanth (IND) vs Loh Kean Yew (SGP) - Men's Singles Round of 32 | KFF Singapore Open 2026
+https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=1edIg6SU3Ri8Hm3u4xtj7iRFEDyxjBUe|User-Agent=VidioPlayer/6.31.6
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=drm&token=1edIg6SU3Ri8Hm3u4xtj7iRFEDyxjBUe
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/vmWgaAA5JhYWvi2haGtAo7fsR1M=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/kff-singapore-badminton-open-2026-round-of-32-court-3-753240.jpg" ch-number="3", KFF Singapore Badminton Open 2026 - Round of 32 (Court 3)
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/vmWgaAA5JhYWvi2haGtAo7fsR1M=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/kff-singapore-badminton-open-2026-round-of-32-court-3-753240.jpg" ch-number="4", Chen Zhi Yi/Francesca Corbett (USA) vs Ruben Garcia/Lucia Rodriguez (ESP) - Mixed Doubles Round of 32 | KFF Singapore Open 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=dash&token=1edIg6SU3Ri8Hm3u4xtj7iRFEDyxjBUe|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6317&type=drm&token=1edIg6SU3Ri8Hm3u4xtj7iRFEDyxjBUe
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/59zP__MSrnXn38rWMl1U7pwfW4Y=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5095112/80e8ef.jpg" ch-number="4", Round 2 - Day 4 (Court 2) - Roland Garros 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/59zP__MSrnXn38rWMl1U7pwfW4Y=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5095112/80e8ef.jpg" ch-number="5", Round 2 - Day 4 (Court 2) - Roland Garros 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=6317&type=dash&token=1edIg6SU3Ri8Hm3u4xtj7iRFEDyxjBUe|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=drm&token=1edIg6SU3Ri8Hm3u4xtj7iRFEDyxjBUe
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/gk2kTfM-0dQoQcUIeKsLTPPoOH8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5095114/4b8053.jpg" ch-number="5", Round 2 - Day 4 (Court 3) - Roland Garros 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/gk2kTfM-0dQoQcUIeKsLTPPoOH8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5095114/4b8053.jpg" ch-number="6", Round 2 - Day 4 (Court 3) - Roland Garros 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=dash&token=1edIg6SU3Ri8Hm3u4xtj7iRFEDyxjBUe|User-Agent=VidioPlayer/6.31.6
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=drm&token=1edIg6SU3Ri8Hm3u4xtj7iRFEDyxjBUe
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/wE_NNptm51d-0jADv05RqWv7L40=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5096502/0342cd.jpg" ch-number="6", Sara Bejlek vs Iga Swiatek - Women's Singles | Roland Garros 2026: Round 2 - Day 4 (Court 1)
-https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=dash&token=1edIg6SU3Ri8Hm3u4xtj7iRFEDyxjBUe|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=drm&token=1edIg6SU3Ri8Hm3u4xtj7iRFEDyxjBUe
