@@ -1,119 +1,120 @@
 #EXTM3U
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=drm&token=hoVPJU93H5ywmu3Gg4DldSwj29cgCAOO
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="⛔ Event Ended" tvg-logo="https://thumbor.prod.vidiocdn.com/whEZksKrY5DVdLrdSb9aqMUbtV0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5095115/ef7418.jpg" ch-number="1", Round 2 - Day 5 (Court 3) - Roland Garros 2026
-https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=dash&token=hoVPJU93H5ywmu3Gg4DldSwj29cgCAOO|User-Agent=VidioPlayer/6.31.6
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=drm&token=hoVPJU93H5ywmu3Gg4DldSwj29cgCAOO
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/caveNzz36MVSx1w3aVyXqzRZIuE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5101982/c27767.jpg" ch-number="2", Round 2 - Night 5 (Court 1) - Roland Garros 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/caveNzz36MVSx1w3aVyXqzRZIuE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5101982/c27767.jpg" ch-number="1", Round 2 - Night 5 (Court 1) - Roland Garros 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=dash&token=hoVPJU93H5ywmu3Gg4DldSwj29cgCAOO|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18189&type=drm&token=hoVPJU93H5ywmu3Gg4DldSwj29cgCAOO
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/2qVGPWK0aKGSEDclrl_e1-4GRNQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5092048/3c0fa7.jpg" ch-number="3", Round 1 - Charles Schwab Challenge 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/2qVGPWK0aKGSEDclrl_e1-4GRNQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5092048/3c0fa7.jpg" ch-number="2", Round 1 - Charles Schwab Challenge 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=18189&type=dash&token=hoVPJU93H5ywmu3Gg4DldSwj29cgCAOO|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21210&type=drm&token=hoVPJU93H5ywmu3Gg4DldSwj29cgCAOO
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/qAwIM53X7zhIy5RIhbf70SO85qw=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21210/campus-league-2026-basketball-6e1303.jpg" ch-number="4", Universitas Bina Nusantara vs STIE Indonesia (Grup F | Putri) - CL Basketball 2026 - Regional Jakarta
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/qAwIM53X7zhIy5RIhbf70SO85qw=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21210/campus-league-2026-basketball-6e1303.jpg" ch-number="3", Universitas Bina Nusantara vs STIE Indonesia (Grup F | Putri) - CL Basketball 2026 - Regional Jakarta
 #https://vid-id.indi1.workers.dev/index.mpd?id=21210&type=dash&token=hoVPJU93H5ywmu3Gg4DldSwj29cgCAOO|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=drm&token=hoVPJU93H5ywmu3Gg4DldSwj29cgCAOO
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/8PTTJ2c0X5LkFCfOs0o3jDqKbv8=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18250/kff-singapore-badminton-open-2026-quarterfinals-court-2-fb5f45.jpg" ch-number="5", Gabriela Stoeva/Stefani Stoeva (BUL) vs Jia Yi Fan/Zhang Shu Xian (CHN) - Women's Doubles Quarterfinals | KFF Singapore Open 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/8PTTJ2c0X5LkFCfOs0o3jDqKbv8=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18250/kff-singapore-badminton-open-2026-quarterfinals-court-2-fb5f45.jpg" ch-number="4", Gabriela Stoeva/Stefani Stoeva (BUL) vs Jia Yi Fan/Zhang Shu Xian (CHN) - Women's Doubles Quarterfinals | KFF Singapore Open 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=dash&token=hoVPJU93H5ywmu3Gg4DldSwj29cgCAOO|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=drm&token=hoVPJU93H5ywmu3Gg4DldSwj29cgCAOO
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/S9nNnBBljKD682zuA5gYnIzwfh0=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/kff-singapore-badminton-open-2026-quarterfinals-court-1-4079ff.jpg" ch-number="6", Ratchanok Intanon (THA) vs Akane Yamaguchi (JPN) - Women's Singles Quarterfinals | KFF Singapore Open 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/S9nNnBBljKD682zuA5gYnIzwfh0=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/kff-singapore-badminton-open-2026-quarterfinals-court-1-4079ff.jpg" ch-number="5", Ratchanok Intanon (THA) vs Akane Yamaguchi (JPN) - Women's Singles Quarterfinals | KFF Singapore Open 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=hoVPJU93H5ywmu3Gg4DldSwj29cgCAOO|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=drm&token=hoVPJU93H5ywmu3Gg4DldSwj29cgCAOO
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/3P6T9jup7Rv2LdaUOL7Pa2_XbFc=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/kff-singapore-badminton-open-2026-quarterfinals-court-3-661aef.jpg" ch-number="7", Liu Sheng Shu/Tan Ning (CHN) vs Rin Iwanaga/Kie Nakanishi (JPN) - Women's Doubles Quarterfinals | KFF Singapore Open 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/3P6T9jup7Rv2LdaUOL7Pa2_XbFc=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/kff-singapore-badminton-open-2026-quarterfinals-court-3-661aef.jpg" ch-number="6", Liu Sheng Shu/Tan Ning (CHN) vs Rin Iwanaga/Kie Nakanishi (JPN) - Women's Doubles Quarterfinals | KFF Singapore Open 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=dash&token=hoVPJU93H5ywmu3Gg4DldSwj29cgCAOO|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17140&type=drm&token=hoVPJU93H5ywmu3Gg4DldSwj29cgCAOO
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/uTjDVA6rKHbBvF-MEK2KtYEl9ms=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5096557/f1b961.jpg" ch-number="8", Moto3 Free Practice 1: Brembo Grand Prix of Italy - MotoGP 2026 Round 7
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/uTjDVA6rKHbBvF-MEK2KtYEl9ms=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5096557/f1b961.jpg" ch-number="7", Moto3 Free Practice 1: Brembo Grand Prix of Italy - MotoGP 2026 Round 7
 #https://vid-id.indi1.workers.dev/index.mpd?id=17140&type=dash&token=hoVPJU93H5ywmu3Gg4DldSwj29cgCAOO|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17140&type=drm&token=hoVPJU93H5ywmu3Gg4DldSwj29cgCAOO
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/gkKf3PLohJLwIPGItb2VSOrH_HE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5096558/c08994.jpg" ch-number="9", Moto2 Free Practice 1: Brembo Grand Prix of Italy - MotoGP 2026 Round 7
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/gkKf3PLohJLwIPGItb2VSOrH_HE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5096558/c08994.jpg" ch-number="8", Moto2 Free Practice 1: Brembo Grand Prix of Italy - MotoGP 2026 Round 7
 #https://vid-id.indi1.workers.dev/index.mpd?id=17140&type=dash&token=hoVPJU93H5ywmu3Gg4DldSwj29cgCAOO|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17140&type=drm&token=hoVPJU93H5ywmu3Gg4DldSwj29cgCAOO
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/6J3U5hHYtZoKaoQyP-X3cuXgyaA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5096559/65633b.jpg" ch-number="10", MotoGP Free Practice 1: Brembo Grand Prix of Italy - MotoGP 2026 Round 7
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/6J3U5hHYtZoKaoQyP-X3cuXgyaA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5096559/65633b.jpg" ch-number="9", MotoGP Free Practice 1: Brembo Grand Prix of Italy - MotoGP 2026 Round 7
 #https://vid-id.indi1.workers.dev/index.mpd?id=17140&type=dash&token=hoVPJU93H5ywmu3Gg4DldSwj29cgCAOO|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=drm&token=hoVPJU93H5ywmu3Gg4DldSwj29cgCAOO
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/XzgjwwrOj4GCMLq4djkrzg6C2F4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5101986/9b91be.jpg" ch-number="11", Round 3 - Day 6 (Court 3) - Roland Garros 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=dash&token=hoVPJU93H5ywmu3Gg4DldSwj29cgCAOO|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6317&type=drm&token=hoVPJU93H5ywmu3Gg4DldSwj29cgCAOO
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/1OnZCswSP7l-9jpjvLoATcoVaYE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5101988/838437.jpg" ch-number="12", Round 3 - Day 6 (Court 2) - Roland Garros 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=6317&type=dash&token=hoVPJU93H5ywmu3Gg4DldSwj29cgCAOO|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=drm&token=hoVPJU93H5ywmu3Gg4DldSwj29cgCAOO
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/ivwZLUq5VAowC2YOixhZvIiGxVM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5101983/bb2801.jpg" ch-number="13", Round 3 - Day 6 (Court 1) - Roland Garros 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/ivwZLUq5VAowC2YOixhZvIiGxVM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5101983/bb2801.jpg" ch-number="10", Round 3 - Day 6 (Court 1) - Roland Garros 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=dash&token=hoVPJU93H5ywmu3Gg4DldSwj29cgCAOO|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6317&type=drm&token=hoVPJU93H5ywmu3Gg4DldSwj29cgCAOO
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/1OnZCswSP7l-9jpjvLoATcoVaYE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5101988/838437.jpg" ch-number="11", Round 3 - Day 6 (Court 2) - Roland Garros 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=6317&type=dash&token=hoVPJU93H5ywmu3Gg4DldSwj29cgCAOO|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=drm&token=hoVPJU93H5ywmu3Gg4DldSwj29cgCAOO
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/XzgjwwrOj4GCMLq4djkrzg6C2F4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5101986/9b91be.jpg" ch-number="12", Round 3 - Day 6 (Court 3) - Roland Garros 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=dash&token=hoVPJU93H5ywmu3Gg4DldSwj29cgCAOO|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20216&type=drm&token=hoVPJU93H5ywmu3Gg4DldSwj29cgCAOO
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/doyo_GS27uOei-pNawAspobFvLs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5096509/5ee75a.jpg" ch-number="14", Road to UFC Season 5 - Day 2
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/doyo_GS27uOei-pNawAspobFvLs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5096509/5ee75a.jpg" ch-number="13", Road to UFC Season 5 - Day 2
 #https://vid-id.indi1.workers.dev/index.mpd?id=20216&type=dash&token=hoVPJU93H5ywmu3Gg4DldSwj29cgCAOO|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17140&type=drm&token=hoVPJU93H5ywmu3Gg4DldSwj29cgCAOO
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/5d3QZvdK4e9hlRshG5RFBPwDaw4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5096562/09e0cc.jpg" ch-number="15", Moto3 Practice: Brembo Grand Prix of Italy - MotoGP 2026 Round 7
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/5d3QZvdK4e9hlRshG5RFBPwDaw4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5096562/09e0cc.jpg" ch-number="14", Moto3 Practice: Brembo Grand Prix of Italy - MotoGP 2026 Round 7
 #https://vid-id.indi1.workers.dev/index.mpd?id=17140&type=dash&token=hoVPJU93H5ywmu3Gg4DldSwj29cgCAOO|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=16890&type=drm&token=hoVPJU93H5ywmu3Gg4DldSwj29cgCAOO
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/OSqPEYiOv62kWQ8kq-msbuAqAjk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5096510/bc28ea.jpg" ch-number="16", ONE Friday Fights 156
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/OSqPEYiOv62kWQ8kq-msbuAqAjk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5096510/bc28ea.jpg" ch-number="15", ONE Friday Fights 156
 #https://vid-id.indi1.workers.dev/index.mpd?id=16890&type=dash&token=hoVPJU93H5ywmu3Gg4DldSwj29cgCAOO|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17139&type=drm&token=hoVPJU93H5ywmu3Gg4DldSwj29cgCAOO
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/TkTNBp4bEnjMdioL5mEtSDpp3RU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5096565/07a5bd.jpg" ch-number="17", WorldSSP Superpole - WorldSBK Championship 2026 Round 6 Aragon Round
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/TkTNBp4bEnjMdioL5mEtSDpp3RU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5096565/07a5bd.jpg" ch-number="16", WorldSSP Superpole - WorldSBK Championship 2026 Round 6 Aragon Round
 #https://vid-id.indi1.workers.dev/index.mpd?id=17139&type=dash&token=hoVPJU93H5ywmu3Gg4DldSwj29cgCAOO|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17140&type=drm&token=hoVPJU93H5ywmu3Gg4DldSwj29cgCAOO
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/eQ4BNFRV9HWDsbTspFENQdiuuAY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5096563/1bb409.jpg" ch-number="18", Moto2 Practice: Brembo Grand Prix of Italy - MotoGP 2026 Round 7
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/eQ4BNFRV9HWDsbTspFENQdiuuAY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5096563/1bb409.jpg" ch-number="17", Moto2 Practice: Brembo Grand Prix of Italy - MotoGP 2026 Round 7
 #https://vid-id.indi1.workers.dev/index.mpd?id=17140&type=dash&token=hoVPJU93H5ywmu3Gg4DldSwj29cgCAOO|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17139&type=drm&token=hoVPJU93H5ywmu3Gg4DldSwj29cgCAOO
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/a2jglraHTFiKkpA_YXww855NhJk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5096567/4e7a69.jpg" ch-number="19", WorldSBK Free Practice 2 - WorldSBK Championship 2026 Round 6 Aragon Round
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/a2jglraHTFiKkpA_YXww855NhJk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5096567/4e7a69.jpg" ch-number="18", WorldSBK Free Practice 2 - WorldSBK Championship 2026 Round 6 Aragon Round
 #https://vid-id.indi1.workers.dev/index.mpd?id=17139&type=dash&token=hoVPJU93H5ywmu3Gg4DldSwj29cgCAOO|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17140&type=drm&token=hoVPJU93H5ywmu3Gg4DldSwj29cgCAOO
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Wp5w-Rs8JV4Mw2IL2v_ZDeiZHfw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5096564/53aba1.jpg" ch-number="20", MotoGP Practice: Brembo Grand Prix of Italy - MotoGP 2026 Round 7
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Wp5w-Rs8JV4Mw2IL2v_ZDeiZHfw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5096564/53aba1.jpg" ch-number="19", MotoGP Practice: Brembo Grand Prix of Italy - MotoGP 2026 Round 7
 #https://vid-id.indi1.workers.dev/index.mpd?id=17140&type=dash&token=hoVPJU93H5ywmu3Gg4DldSwj29cgCAOO|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17139&type=drm&token=hoVPJU93H5ywmu3Gg4DldSwj29cgCAOO
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/LcYX0h-vrGh2pW-w5lhfImKFAYc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5096568/9259a1.jpg" ch-number="20", WorldSPB Superpole - WorldSBK Championship 2026 Round 6 Aragon Round
+#https://vid-id.indi1.workers.dev/index.mpd?id=17139&type=dash&token=hoVPJU93H5ywmu3Gg4DldSwj29cgCAOO|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
