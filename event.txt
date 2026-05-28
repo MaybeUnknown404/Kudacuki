@@ -2,7 +2,7 @@
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21210&type=drm&token=RqGA4iiGXCTdxQLqa8nxbcefUp4frBD1
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/YXl-ocmBfD0mX8n8E6OxmZwd7sw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5096488/905e10.jpg" ch-number="1", STIE Indonesia vs Universitas Gunadarma (Grup F | Putri) - CL Basketball 2026 - Regional Jakarta
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/TPbM5A98yo4WX1GvDy-umuul2U0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5096489/cf7f6e.jpg" ch-number="1", Universitas Kristen Indonesia vs Institut Perbanas (Grup A | Putra) - CL Basketball 2026 - Regional Jakarta
 https://vid-id.indi1.workers.dev/index.mpd?id=21210&type=dash&token=RqGA4iiGXCTdxQLqa8nxbcefUp4frBD1|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
