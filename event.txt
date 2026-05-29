@@ -7,7 +7,7 @@ https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=dash&token=hoVPJU93H5yw
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=drm&token=hoVPJU93H5ywmu3Gg4DldSwj29cgCAOO
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/cbBYabUCs_AiySOYTJ55pmKQymQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5105139/a7cb5c.jpg" ch-number="2", Goh Sze Fei/Nur Izzuddin (MAS) vs Fajar Alfian/Muhammad Shohibul Fikri (INA) - Men's Doubles Quarterfinals | KFF Singapore Open 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/0vc5XeeJi-nIKc-fwFYxxakWI-Y=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5105140/fcd91c.jpg" ch-number="2", Gao Jia Xuan/Wei Ya Xin (CHN) vs Tang Chun Man/Tse Ying Suet (HKG) - Mixed Doubles Quarterfinals | KFF Singapore Open 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=hoVPJU93H5ywmu3Gg4DldSwj29cgCAOO|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
