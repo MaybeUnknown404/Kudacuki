@@ -16,25 +16,24 @@ https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=hoVPJU93H5yw
 https://vid-id.indi1.workers.dev/index.mpd?id=21210&type=dash&token=hoVPJU93H5ywmu3Gg4DldSwj29cgCAOO|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=drm&token=hoVPJU93H5ywmu3Gg4DldSwj29cgCAOO
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/uOHawFc-0Kr2HJr64TWqU0vykWs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5105156/178fad.jpg" ch-number="4", Yuichi Shimogami/Sayaka Hobara (JPN) vs Dechapol Puavaranukroh/Supissara Paewsampran (THA) - Mixed Doubles Quarterfinals | KFF Singapore Open 2026
+https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=dash&token=hoVPJU93H5ywmu3Gg4DldSwj29cgCAOO|User-Agent=VidioPlayer/6.31.6
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17140&type=drm&token=hoVPJU93H5ywmu3Gg4DldSwj29cgCAOO
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/6J3U5hHYtZoKaoQyP-X3cuXgyaA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5096559/65633b.jpg" ch-number="4", MotoGP Free Practice 1: Brembo Grand Prix of Italy - MotoGP 2026 Round 7
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/6J3U5hHYtZoKaoQyP-X3cuXgyaA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5096559/65633b.jpg" ch-number="5", MotoGP Free Practice 1: Brembo Grand Prix of Italy - MotoGP 2026 Round 7
 https://vid-id.indi1.workers.dev/index.mpd?id=17140&type=dash&token=hoVPJU93H5ywmu3Gg4DldSwj29cgCAOO|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=drm&token=hoVPJU93H5ywmu3Gg4DldSwj29cgCAOO
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/XzgjwwrOj4GCMLq4djkrzg6C2F4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5101986/9b91be.jpg" ch-number="5", Round 3 - Day 6 (Court 3) - Roland Garros 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/XzgjwwrOj4GCMLq4djkrzg6C2F4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5101986/9b91be.jpg" ch-number="6", Round 3 - Day 6 (Court 3) - Roland Garros 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=dash&token=hoVPJU93H5ywmu3Gg4DldSwj29cgCAOO|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6317&type=drm&token=hoVPJU93H5ywmu3Gg4DldSwj29cgCAOO
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/1OnZCswSP7l-9jpjvLoATcoVaYE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5101988/838437.jpg" ch-number="6", Round 3 - Day 6 (Court 2) - Roland Garros 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/1OnZCswSP7l-9jpjvLoATcoVaYE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5101988/838437.jpg" ch-number="7", Round 3 - Day 6 (Court 2) - Roland Garros 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=6317&type=dash&token=hoVPJU93H5ywmu3Gg4DldSwj29cgCAOO|User-Agent=VidioPlayer/6.31.6
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=drm&token=hoVPJU93H5ywmu3Gg4DldSwj29cgCAOO
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/3P6T9jup7Rv2LdaUOL7Pa2_XbFc=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/kff-singapore-badminton-open-2026-quarterfinals-court-3-661aef.jpg" ch-number="7", Yuichi Shimogami/Sayaka Hobara (JPN) vs Dechapol Puavaranukroh/Supissara Paewsampran (THA) - Mixed Doubles Quarterfinals | KFF Singapore Open 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=dash&token=hoVPJU93H5ywmu3Gg4DldSwj29cgCAOO|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20216&type=drm&token=hoVPJU93H5ywmu3Gg4DldSwj29cgCAOO
