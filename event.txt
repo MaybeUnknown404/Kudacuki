@@ -27,15 +27,13 @@ https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=dash&token=5yOnFCVauyGwk
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6685&type=drm&token=5yOnFCVauyGwkFSuIskoYfTCbEPPadyR
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/pQJm9LLlfzjIpIZpM5d4rGBd_L8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5105752/e031e7.jpg" ch-number="6", Race 1: Mubadala New York Sail Grand Prix - SailGP 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=6685&type=dash&token=5yOnFCVauyGwkFSuIskoYfTCbEPPadyR|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/pQJm9LLlfzjIpIZpM5d4rGBd_L8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5105752/e031e7.jpg" ch-number="6", Race 1: Mubadala New York Sail Grand Prix - SailGP 2026
+https://vid-id.indi1.workers.dev/index.mpd?id=6685&type=dash&token=5yOnFCVauyGwkFSuIskoYfTCbEPPadyR|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18190&type=drm&token=5yOnFCVauyGwkFSuIskoYfTCbEPPadyR
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/ajdEvQTbbJvypCiGgratBZ2O85I=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5095062/0686f3.jpg" ch-number="7", Round 2 - ShopRite LPGA powered by Wakefern 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=18190&type=dash&token=5yOnFCVauyGwkFSuIskoYfTCbEPPadyR|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/ajdEvQTbbJvypCiGgratBZ2O85I=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5095062/0686f3.jpg" ch-number="7", Round 2 - ShopRite LPGA powered by Wakefern 2026
+https://vid-id.indi1.workers.dev/index.mpd?id=18190&type=dash&token=5yOnFCVauyGwkFSuIskoYfTCbEPPadyR|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=drm&token=5yOnFCVauyGwkFSuIskoYfTCbEPPadyR
