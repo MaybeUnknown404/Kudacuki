@@ -11,107 +11,108 @@ https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=1JSNlM5pnH2r
 https://vid-id.indi1.workers.dev/index.mpd?id=21210&type=dash&token=1JSNlM5pnH2rcnrEVbWFEbWz0TKmqpzV|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21468&type=drm&token=1JSNlM5pnH2rcnrEVbWFEbWz0TKmqpzV
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/KSo2VymXM452hojSGdGopv-crQA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5105124/0eb58b.jpg" ch-number="3", Weigh-In & Press Conference Triumph Fight Genesis: Rise Of The New King
-https://vid-id.indi1.workers.dev/index.mpd?id=21468&type=dash&token=1JSNlM5pnH2rcnrEVbWFEbWz0TKmqpzV|User-Agent=VidioPlayer/6.31.6
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17140&type=drm&token=1JSNlM5pnH2rcnrEVbWFEbWz0TKmqpzV
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/_R_wYwjRjTTmdhybq7NmFEe0oAA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5101107/172436.jpg" ch-number="4", MotoGP Free Practice 2: Brembo Grand Prix of Italy - MotoGP 2026 Round 7
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/_R_wYwjRjTTmdhybq7NmFEe0oAA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5101107/172436.jpg" ch-number="3", MotoGP Free Practice 2: Brembo Grand Prix of Italy - MotoGP 2026 Round 7
 https://vid-id.indi1.workers.dev/index.mpd?id=17140&type=dash&token=1JSNlM5pnH2rcnrEVbWFEbWz0TKmqpzV|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20216&type=drm&token=1JSNlM5pnH2rcnrEVbWFEbWz0TKmqpzV
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/R5n72e4NiGjAS_PyttCKMBUSrSo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5095077/e34a7d.jpg" ch-number="5", Prelims | UFC Fight Night: Song vs Figueiredo
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/R5n72e4NiGjAS_PyttCKMBUSrSo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5095077/e34a7d.jpg" ch-number="4", Prelims | UFC Fight Night: Song vs Figueiredo
 https://vid-id.indi1.workers.dev/index.mpd?id=20216&type=dash&token=1JSNlM5pnH2rcnrEVbWFEbWz0TKmqpzV|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17140&type=drm&token=1JSNlM5pnH2rcnrEVbWFEbWz0TKmqpzV
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Ih49n0p2dWKYvFFnHobaBQrZH7E=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5101108/e67b1f.jpg" ch-number="6", MotoGP Qualifying: Brembo Grand Prix of Italy - MotoGP 2026 Round 7
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Ih49n0p2dWKYvFFnHobaBQrZH7E=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5101108/e67b1f.jpg" ch-number="5", MotoGP Qualifying: Brembo Grand Prix of Italy - MotoGP 2026 Round 7
 #https://vid-id.indi1.workers.dev/index.mpd?id=17140&type=dash&token=1JSNlM5pnH2rcnrEVbWFEbWz0TKmqpzV|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=drm&token=1JSNlM5pnH2rcnrEVbWFEbWz0TKmqpzV
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/9fAcGIB_tVyYiP9aLqNCHIANKP4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5108721/a54b13.jpg" ch-number="7", Round 3 - Day 7 (Court 1) - Roland Garros 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=dash&token=1JSNlM5pnH2rcnrEVbWFEbWz0TKmqpzV|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=drm&token=1JSNlM5pnH2rcnrEVbWFEbWz0TKmqpzV
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/bSXzmggvbULsyULGui1by4Mma_0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5101987/5efed4.jpg" ch-number="8", Round 3 - Day 7 (Court 3) - Roland Garros 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/bSXzmggvbULsyULGui1by4Mma_0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5101987/5efed4.jpg" ch-number="6", Round 3 - Day 7 (Court 3) - Roland Garros 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=dash&token=1JSNlM5pnH2rcnrEVbWFEbWz0TKmqpzV|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6317&type=drm&token=1JSNlM5pnH2rcnrEVbWFEbWz0TKmqpzV
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/-ApIK5Qu-aosTRejzWgTttbRGyI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5108718/e13510.jpg" ch-number="9", Iva Jovic vs Naomi Osaka - Women's Singles | Roland Garros 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/-ApIK5Qu-aosTRejzWgTttbRGyI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5108718/e13510.jpg" ch-number="7", Iva Jovic vs Naomi Osaka - Women's Singles | Roland Garros 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=6317&type=dash&token=1JSNlM5pnH2rcnrEVbWFEbWz0TKmqpzV|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=drm&token=1JSNlM5pnH2rcnrEVbWFEbWz0TKmqpzV
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/9fAcGIB_tVyYiP9aLqNCHIANKP4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5108721/a54b13.jpg" ch-number="8", Round 3 - Day 7 (Court 1) - Roland Garros 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=dash&token=1JSNlM5pnH2rcnrEVbWFEbWz0TKmqpzV|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17139&type=drm&token=1JSNlM5pnH2rcnrEVbWFEbWz0TKmqpzV
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/ualaSiT0uUkQ7Txo8JDjhLOTsvI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5096569/798579.jpg" ch-number="10", WorldSBK Tissot Superpole - WorldSBK Championship 2026 Round 6 Aragon Round
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/ualaSiT0uUkQ7Txo8JDjhLOTsvI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5096569/798579.jpg" ch-number="9", WorldSBK Tissot Superpole - WorldSBK Championship 2026 Round 6 Aragon Round
 #https://vid-id.indi1.workers.dev/index.mpd?id=17139&type=dash&token=1JSNlM5pnH2rcnrEVbWFEbWz0TKmqpzV|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17140&type=drm&token=1JSNlM5pnH2rcnrEVbWFEbWz0TKmqpzV
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/qlr4q8n-n4Er-a2AuKvQi_I5Vs0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5101109/e3120f.jpg" ch-number="11", Race 1 - Harley Davidson Bagger World Cup 2026: Round 2 Italy
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/qlr4q8n-n4Er-a2AuKvQi_I5Vs0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5101109/e3120f.jpg" ch-number="10", Race 1 - Harley Davidson Bagger World Cup 2026: Round 2 Italy
 #https://vid-id.indi1.workers.dev/index.mpd?id=17140&type=dash&token=1JSNlM5pnH2rcnrEVbWFEbWz0TKmqpzV|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17139&type=drm&token=1JSNlM5pnH2rcnrEVbWFEbWz0TKmqpzV
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/xym1DxXTD1kiZDjKIf7r6c4bmUs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5096570/0575e3.jpg" ch-number="12", WorldSSP Race 1 - WorldSBK Championship 2026 Round 6 Aragon Round
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/xym1DxXTD1kiZDjKIf7r6c4bmUs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5096570/0575e3.jpg" ch-number="11", WorldSSP Race 1 - WorldSBK Championship 2026 Round 6 Aragon Round
 #https://vid-id.indi1.workers.dev/index.mpd?id=17139&type=dash&token=1JSNlM5pnH2rcnrEVbWFEbWz0TKmqpzV|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17140&type=drm&token=1JSNlM5pnH2rcnrEVbWFEbWz0TKmqpzV
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/p5xRJ-XXbJCpHNzcqK8o-eYhw38=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5101110/e7c5d6.jpg" ch-number="13", Moto3 Qualifying: Brembo Grand Prix of Italy - MotoGP 2026 Round 7
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/p5xRJ-XXbJCpHNzcqK8o-eYhw38=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5101110/e7c5d6.jpg" ch-number="12", Moto3 Qualifying: Brembo Grand Prix of Italy - MotoGP 2026 Round 7
 #https://vid-id.indi1.workers.dev/index.mpd?id=17140&type=dash&token=1JSNlM5pnH2rcnrEVbWFEbWz0TKmqpzV|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20216&type=drm&token=1JSNlM5pnH2rcnrEVbWFEbWz0TKmqpzV
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/PJUwbin16R62A8nULRtqMmxxk6Q=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5095078/e0e080.jpg" ch-number="14", Alex Perez vs Sumudaerji - Flyweight | UFC Fight Night
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/PJUwbin16R62A8nULRtqMmxxk6Q=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5095078/e0e080.jpg" ch-number="13", Alex Perez vs Sumudaerji - Flyweight | UFC Fight Night
 #https://vid-id.indi1.workers.dev/index.mpd?id=20216&type=dash&token=1JSNlM5pnH2rcnrEVbWFEbWz0TKmqpzV|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6317&type=drm&token=1JSNlM5pnH2rcnrEVbWFEbWz0TKmqpzV
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/SMKlY55oXeCa_wKRHW8hwSHMKK4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5108719/144bf7.jpg" ch-number="15", Aryna Sabalenka vs Daria Kasatkina - Women's Singles | Roland Garros 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/SMKlY55oXeCa_wKRHW8hwSHMKK4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5108719/144bf7.jpg" ch-number="14", Aryna Sabalenka vs Daria Kasatkina - Women's Singles | Roland Garros 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=6317&type=dash&token=1JSNlM5pnH2rcnrEVbWFEbWz0TKmqpzV|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=drm&token=1JSNlM5pnH2rcnrEVbWFEbWz0TKmqpzV
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/3DgmlhmTR6KJt2UWLf9kBpBI8VA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5108352/afaae2.jpg" ch-number="16", Alwi Farhan (INA) vs Alex Lanier (FRA) - Men's Singles Semifinals | KFF Singapore Open 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/3DgmlhmTR6KJt2UWLf9kBpBI8VA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5108352/afaae2.jpg" ch-number="15", Alwi Farhan (INA) vs Alex Lanier (FRA) - Men's Singles Semifinals | KFF Singapore Open 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=1JSNlM5pnH2rcnrEVbWFEbWz0TKmqpzV|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17139&type=drm&token=1JSNlM5pnH2rcnrEVbWFEbWz0TKmqpzV
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/sBnc_5Bo6YNzqR_dHXA3CZdJ3cY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5096571/d4ca13.jpg" ch-number="17", WorldSBK Race 1 - WorldSBK Championship 2026 Round 6 Aragon Round
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/sBnc_5Bo6YNzqR_dHXA3CZdJ3cY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5096571/d4ca13.jpg" ch-number="16", WorldSBK Race 1 - WorldSBK Championship 2026 Round 6 Aragon Round
 #https://vid-id.indi1.workers.dev/index.mpd?id=17139&type=dash&token=1JSNlM5pnH2rcnrEVbWFEbWz0TKmqpzV|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17140&type=drm&token=1JSNlM5pnH2rcnrEVbWFEbWz0TKmqpzV
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/wPYtskLjm6Wgn6VZxWr0jgk9D4c=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5101111/9faae7.jpg" ch-number="18", Moto2 Qualifying: Brembo Grand Prix of Italy - MotoGP 2026 Round 7
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/wPYtskLjm6Wgn6VZxWr0jgk9D4c=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5101111/9faae7.jpg" ch-number="17", Moto2 Qualifying: Brembo Grand Prix of Italy - MotoGP 2026 Round 7
 #https://vid-id.indi1.workers.dev/index.mpd?id=17140&type=dash&token=1JSNlM5pnH2rcnrEVbWFEbWz0TKmqpzV|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20216&type=drm&token=1JSNlM5pnH2rcnrEVbWFEbWz0TKmqpzV
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/8UVemiR76gnFC4f0fsJNlr7oAto=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5105267/b6f27c.jpg" ch-number="19", Jake Matthews vs Carlston Harris - Welterweight | UFC Fight Night
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/8UVemiR76gnFC4f0fsJNlr7oAto=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5105267/b6f27c.jpg" ch-number="18", Jake Matthews vs Carlston Harris - Welterweight | UFC Fight Night
 #https://vid-id.indi1.workers.dev/index.mpd?id=20216&type=dash&token=1JSNlM5pnH2rcnrEVbWFEbWz0TKmqpzV|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=19388&type=drm&token=1JSNlM5pnH2rcnrEVbWFEbWz0TKmqpzV
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/IR2n7UzECNrxYkwQtG0u84f_ZhI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5091703/ddcd9b.jpg" ch-number="20", Rajadamnern 2026 Minimumweight Title
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/IR2n7UzECNrxYkwQtG0u84f_ZhI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5091703/ddcd9b.jpg" ch-number="19", Rajadamnern 2026 Minimumweight Title
 #https://vid-id.indi1.workers.dev/index.mpd?id=19388&type=dash&token=1JSNlM5pnH2rcnrEVbWFEbWz0TKmqpzV|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17140&type=drm&token=1JSNlM5pnH2rcnrEVbWFEbWz0TKmqpzV
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/lqPyXlR1eUrgbh0ldUaLKzsa8IQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5101112/209b52.jpg" ch-number="20", MotoGP Tissot SPRINT: Brembo Grand Prix of Italy - MotoGP 2026 Round 7
+#https://vid-id.indi1.workers.dev/index.mpd?id=17140&type=dash&token=1JSNlM5pnH2rcnrEVbWFEbWz0TKmqpzV|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
