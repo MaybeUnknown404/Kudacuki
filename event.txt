@@ -2,9 +2,8 @@
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17140&type=drm&token=1JSNlM5pnH2rcnrEVbWFEbWz0TKmqpzV
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/04Tg20XVMkdJ3HSURdMjftbCNLI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5101114/5473d1.jpg" ch-number="1", Race 1 - Red Bull MotoGP Rookies Cup 2026 Round 3: Mugello
-#https://vid-id.indi1.workers.dev/index.mpd?id=17140&type=dash&token=1JSNlM5pnH2rcnrEVbWFEbWz0TKmqpzV|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/04Tg20XVMkdJ3HSURdMjftbCNLI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5101114/5473d1.jpg" ch-number="1", Race 1 - Red Bull MotoGP Rookies Cup 2026 Round 3: Mugello
+https://vid-id.indi1.workers.dev/index.mpd?id=17140&type=dash&token=1JSNlM5pnH2rcnrEVbWFEbWz0TKmqpzV|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=19388&type=drm&token=1JSNlM5pnH2rcnrEVbWFEbWz0TKmqpzV
@@ -18,7 +17,7 @@ https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=dash&token=1JSNlM5pnH2rc
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17140&type=drm&token=1JSNlM5pnH2rcnrEVbWFEbWz0TKmqpzV
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/i4e4m_byZgYJMexYYifbXTL5hF0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5101113/7dcb1a.jpg" ch-number="4", Race 2 - Harley Davidson Bagger World Cup 2026: Round 2 Italy
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="⛔ Event Ended" tvg-logo="https://thumbor.prod.vidiocdn.com/i4e4m_byZgYJMexYYifbXTL5hF0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5101113/7dcb1a.jpg" ch-number="4", Race 2 - Harley Davidson Bagger World Cup 2026: Round 2 Italy
 https://vid-id.indi1.workers.dev/index.mpd?id=17140&type=dash&token=1JSNlM5pnH2rcnrEVbWFEbWz0TKmqpzV|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
