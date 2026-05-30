@@ -12,7 +12,7 @@ https://vid-id.indi1.workers.dev/index.mpd?id=6317&type=dash&token=1JSNlM5pnH2rc
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=drm&token=1JSNlM5pnH2rcnrEVbWFEbWz0TKmqpzV
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/YuV4qm54-DPVmDKfrzfmek7u8js=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/kff-singapore-badminton-open-2026-semifinals-8da815.jpg" ch-number="3", KFF Singapore Badminton Open 2026 - Semifinals
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/FxHPIsMWxXbmXX_GzFm5NWVM_LM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5108351/ca8349.jpg" ch-number="3", Mathias Christiansen/Alexandra Boje (DEN) vs Gao Jia Xuan/Wei Ya Xin (CHN) - Mixed Doubles Semifinals | KFF Singapore Open 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=1JSNlM5pnH2rcnrEVbWFEbWz0TKmqpzV|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
