@@ -1,29 +1,29 @@
 #EXTM3U
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20435&type=drm&token=1JSNlM5pnH2rcnrEVbWFEbWz0TKmqpzV
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/dNtBWcONF21LE3e5WXxEVWpOWAM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5092055/864efb.jpg" ch-number="1", Final: PSG vs Arsenal - UEFA Champions League
+https://vid-id.indi1.workers.dev/index.mpd?id=20435&type=dash&token=1JSNlM5pnH2rcnrEVbWFEbWz0TKmqpzV|User-Agent=VidioPlayer/6.31.6
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=drm&token=1JSNlM5pnH2rcnrEVbWFEbWz0TKmqpzV
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/6Qn-QKUCmeolEllkNo5RSMuNilA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5108720/745ba9.jpg" ch-number="1", Coco Gauff vs Anastasia Potapova - Women's Singles | Roland Garros 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/6Qn-QKUCmeolEllkNo5RSMuNilA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5108720/745ba9.jpg" ch-number="2", Coco Gauff vs Anastasia Potapova - Women's Singles | Roland Garros 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=dash&token=1JSNlM5pnH2rcnrEVbWFEbWz0TKmqpzV|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17140&type=drm&token=1JSNlM5pnH2rcnrEVbWFEbWz0TKmqpzV
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/04Tg20XVMkdJ3HSURdMjftbCNLI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5101114/5473d1.jpg" ch-number="2", Race 1 - Red Bull MotoGP Rookies Cup 2026 Round 3: Mugello
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/04Tg20XVMkdJ3HSURdMjftbCNLI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5101114/5473d1.jpg" ch-number="3", Race 1 - Red Bull MotoGP Rookies Cup 2026 Round 3: Mugello
 https://vid-id.indi1.workers.dev/index.mpd?id=17140&type=dash&token=1JSNlM5pnH2rcnrEVbWFEbWz0TKmqpzV|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=drm&token=1JSNlM5pnH2rcnrEVbWFEbWz0TKmqpzV
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/c25SBTMiiLkef8vq17nnWcbatH4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5092053/6893e4.jpg" ch-number="3", The UCL Finals Preview Show 2025/26
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/c25SBTMiiLkef8vq17nnWcbatH4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5092053/6893e4.jpg" ch-number="4", The UCL Finals Preview Show 2025/26
 https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=dash&token=1JSNlM5pnH2rcnrEVbWFEbWz0TKmqpzV|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6317&type=drm&token=1JSNlM5pnH2rcnrEVbWFEbWz0TKmqpzV
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/7awVyh6pQu97q1uE_u69SttE0Sg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5101989/7ce500.jpg" ch-number="4", Round 3 - Day 7 (Court 2) - Roland Garros 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/7awVyh6pQu97q1uE_u69SttE0Sg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5101989/7ce500.jpg" ch-number="5", Round 3 - Day 7 (Court 2) - Roland Garros 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=6317&type=dash&token=1JSNlM5pnH2rcnrEVbWFEbWz0TKmqpzV|User-Agent=VidioPlayer/6.31.6
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20435&type=drm&token=1JSNlM5pnH2rcnrEVbWFEbWz0TKmqpzV
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/dNtBWcONF21LE3e5WXxEVWpOWAM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5092055/864efb.jpg" ch-number="5", Final: PSG vs Arsenal - UEFA Champions League
-https://vid-id.indi1.workers.dev/index.mpd?id=20435&type=dash&token=1JSNlM5pnH2rcnrEVbWFEbWz0TKmqpzV|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=drm&token=1JSNlM5pnH2rcnrEVbWFEbWz0TKmqpzV
