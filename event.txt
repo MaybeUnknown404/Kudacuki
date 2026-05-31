@@ -17,7 +17,7 @@ https://vid-id.indi1.workers.dev/index.mpd?id=21474&type=dash&token=5yOnFCVauyGw
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21467&type=drm&token=5yOnFCVauyGwkFSuIskoYfTCbEPPadyR
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/GdbB38a3K4N_PjuCuTsQ8gDCxwk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5101135/c738b4.jpg" ch-number="4", Herson Djara vs Ghana Mikael - Bantamweight | Triumph Fight Genesis
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/FqJ1OYh8-Wg2lkrLJlb9-QTlT6E=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5101136/f605ed.jpg" ch-number="4", Marco Jacob vs Gideon Manurung - Super Bantamweight | Triumph Fight Genesis
 https://vid-id.indi1.workers.dev/index.mpd?id=21467&type=dash&token=5yOnFCVauyGwkFSuIskoYfTCbEPPadyR|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
