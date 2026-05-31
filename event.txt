@@ -12,9 +12,8 @@ https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=dash&token=5yOnFCVauyGwk
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=drm&token=5yOnFCVauyGwkFSuIskoYfTCbEPPadyR
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/qza8HuCZlHfX-NHCjHlZ0CgkEko=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/kff-singapore-badminton-open-2026-finals-25642a.jpg" ch-number="3", Liu Sheng Shu/Tan Ning (CHN) vs Jia Yi Fan/Zhang Shu Xian (CHN) - Women's Doubles Final | KFF Singapore Open 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=5yOnFCVauyGwkFSuIskoYfTCbEPPadyR|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/qza8HuCZlHfX-NHCjHlZ0CgkEko=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/kff-singapore-badminton-open-2026-finals-25642a.jpg" ch-number="3", Liu Sheng Shu/Tan Ning (CHN) vs Jia Yi Fan/Zhang Shu Xian (CHN) - Women's Doubles Final | KFF Singapore Open 2026
+https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=5yOnFCVauyGwkFSuIskoYfTCbEPPadyR|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21099&type=drm&token=5yOnFCVauyGwkFSuIskoYfTCbEPPadyR
