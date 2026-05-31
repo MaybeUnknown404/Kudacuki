@@ -2,12 +2,12 @@
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21474&type=drm&token=5yOnFCVauyGwkFSuIskoYfTCbEPPadyR
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/etkzrLDDyEM1ahZUNP36tgo7J4A=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5105278/c02111.jpg" ch-number="1", Yos Naftalio vs Amir | HSS Rookie Fight
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/qxDjI5GMBhrC91UNmf07FZtYjRs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5105279/30747c.jpg" ch-number="1", Yasin vs Claudio | HSS Rookie Fight
 https://vid-id.indi1.workers.dev/index.mpd?id=21474&type=dash&token=5yOnFCVauyGwkFSuIskoYfTCbEPPadyR|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21466&type=drm&token=5yOnFCVauyGwkFSuIskoYfTCbEPPadyR
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/AbJ2LJStm916du8sNQa1Xqj41BQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5105286/3e92c7.jpg" ch-number="2", Raymond Robert Gazali vs Nidal King Joker - Catchweight | Triumph Fight Genesis
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/ToOCsYJAZgd96kDTB2dUa9pfN6Q=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5105285/f5ae96.jpg" ch-number="2", Badi Sambas vs Mohamed Essoufi - Featherweight | Triumph Fight Genesis
 https://vid-id.indi1.workers.dev/index.mpd?id=21466&type=dash&token=5yOnFCVauyGwkFSuIskoYfTCbEPPadyR|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
