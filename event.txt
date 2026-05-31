@@ -2,7 +2,7 @@
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21474&type=drm&token=5yOnFCVauyGwkFSuIskoYfTCbEPPadyR
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/3lmHlhTIvpRjTYbVeITrsdutIYI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5105277/4a4849.jpg" ch-number="1", Reizki vs Brian Darussalam | HSS Rookie Fight
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/etkzrLDDyEM1ahZUNP36tgo7J4A=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5105278/c02111.jpg" ch-number="1", Yos Naftalio vs Amir | HSS Rookie Fight
 https://vid-id.indi1.workers.dev/index.mpd?id=21474&type=dash&token=5yOnFCVauyGwkFSuIskoYfTCbEPPadyR|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
