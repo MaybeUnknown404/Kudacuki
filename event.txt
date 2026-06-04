@@ -12,7 +12,7 @@ http://tv.skytvindo.biz.id/pd/index.m3u8?id=206&token=dQFpVqF9z9p60TqeftknsDrBhA
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17884&type=drm&token=dQFpVqF9z9p60TqeftknsDrBhAmYYFFW
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/ux21rtztXiYqtQQxi6_nRwhpFwU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5115070/469955.jpg" ch-number="3", Practice - FIA Formula 3 Championship Monaco Grand Prix 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="⛔ Event Ended" tvg-logo="https://thumbor.prod.vidiocdn.com/ux21rtztXiYqtQQxi6_nRwhpFwU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5115070/469955.jpg" ch-number="3", Practice - FIA Formula 3 Championship Monaco Grand Prix 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=17884&type=dash&token=dQFpVqF9z9p60TqeftknsDrBhAmYYFFW|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
