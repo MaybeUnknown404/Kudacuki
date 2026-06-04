@@ -21,14 +21,15 @@ https://vid-id.indi1.workers.dev/index.mpd?id=6317&type=dash&token=dQFpVqF9z9p60
 https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=dash&token=dQFpVqF9z9p60TqeftknsDrBhAmYYFFW|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17884&type=drm&token=dQFpVqF9z9p60TqeftknsDrBhAmYYFFW
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/fOZhA0-Eziz82TU5NCcWmiMDeBw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5115071/ad5351.jpg" ch-number="5", Practice - FIA Formula 2 Championship Monaco Grand Prix 2026
-https://vid-id.indi1.workers.dev/index.mpd?id=17884&type=dash&token=dQFpVqF9z9p60TqeftknsDrBhAmYYFFW|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=drm&token=dQFpVqF9z9p60TqeftknsDrBhAmYYFFW
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/yerdPR4L2SB3meCr7oNVK3n3lYs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5119895/dadb53.jpg" ch-number="5", Diana Shnaider vs Maja Chwalinksa - Women's Singles Semifinals | Roland Garros 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=dash&token=dQFpVqF9z9p60TqeftknsDrBhAmYYFFW|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=drm&token=dQFpVqF9z9p60TqeftknsDrBhAmYYFFW
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/yerdPR4L2SB3meCr7oNVK3n3lYs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5119895/dadb53.jpg" ch-number="6", Diana Shnaider vs Maja Chwalinksa - Women's Singles Semifinals | Roland Garros 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=dash&token=dQFpVqF9z9p60TqeftknsDrBhAmYYFFW|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17139&type=drm&token=dQFpVqF9z9p60TqeftknsDrBhAmYYFFW
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/TCWRg-lxJWt1c7sQg1iL9NnGGGI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5119974/55cfbc.jpg" ch-number="6", U.S. Women's Open presented by Ally 2026 - Round 1
+#https://vid-id.indi1.workers.dev/index.mpd?id=17139&type=dash&token=dQFpVqF9z9p60TqeftknsDrBhAmYYFFW|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -38,80 +39,80 @@ https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1ec
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17139&type=drm&token=dQFpVqF9z9p60TqeftknsDrBhAmYYFFW
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/TCWRg-lxJWt1c7sQg1iL9NnGGGI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5119974/55cfbc.jpg" ch-number="8", U.S. Women's Open presented by Ally 2026 - Round 1
-#https://vid-id.indi1.workers.dev/index.mpd?id=17139&type=dash&token=dQFpVqF9z9p60TqeftknsDrBhAmYYFFW|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=206&type=drm&token=dQFpVqF9z9p60TqeftknsDrBhAmYYFFW
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/EH1KqOWRuO-bTW4RXoatg7dHkBw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5119858/f686ff.jpg" ch-number="9", Women: Turkey vs Netherlands - Volleyball Nations League
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/EH1KqOWRuO-bTW4RXoatg7dHkBw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5119858/f686ff.jpg" ch-number="8", Women: Turkey vs Netherlands - Volleyball Nations League
 #http://tv.skytvindo.biz.id/pd/index.m3u8?id=206&token=dQFpVqF9z9p60TqeftknsDrBhAmYYFFW|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21604&type=drm&token=dQFpVqF9z9p60TqeftknsDrBhAmYYFFW
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/HeMEhwoCTnSFlQs2kx5Naw_SUzw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5119860/067292.jpg" ch-number="10", Women: Ukraine vs Germany - Volleyball Nations League
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/HeMEhwoCTnSFlQs2kx5Naw_SUzw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5119860/067292.jpg" ch-number="9", Women: Ukraine vs Germany - Volleyball Nations League
 #https://vid-id.indi1.workers.dev/index.mpd?id=21604&type=dash&token=dQFpVqF9z9p60TqeftknsDrBhAmYYFFW|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21616&type=drm&token=dQFpVqF9z9p60TqeftknsDrBhAmYYFFW
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/uRPDU91JQGcKKtFQpRA7n6BuRI4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5119862/a5fef4.jpg" ch-number="11", Women: Brazil vs Dominican Republic - Volleyball Nations League
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/uRPDU91JQGcKKtFQpRA7n6BuRI4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5119862/a5fef4.jpg" ch-number="10", Women: Brazil vs Dominican Republic - Volleyball Nations League
 #https://vid-id.indi1.workers.dev/index.mpd?id=21616&type=dash&token=dQFpVqF9z9p60TqeftknsDrBhAmYYFFW|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21604&type=drm&token=dQFpVqF9z9p60TqeftknsDrBhAmYYFFW
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/nAmWucwY3xls9Sgzy6FpyVbJRDw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5119863/f48733.jpg" ch-number="12", Women: Canada vs United States - Volleyball Nations League
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/nAmWucwY3xls9Sgzy6FpyVbJRDw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5119863/f48733.jpg" ch-number="11", Women: Canada vs United States - Volleyball Nations League
 #https://vid-id.indi1.workers.dev/index.mpd?id=21604&type=dash&token=dQFpVqF9z9p60TqeftknsDrBhAmYYFFW|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21488&type=drm&token=dQFpVqF9z9p60TqeftknsDrBhAmYYFFW
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/3hrTymXBFDVz5qcyo1Ox3Wmn8rk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5119834/25a579.jpg" ch-number="13", Byon Madness: Weigh-In + Press Conference
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/3hrTymXBFDVz5qcyo1Ox3Wmn8rk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5119834/25a579.jpg" ch-number="12", Byon Madness: Weigh-In + Press Conference
 #https://vid-id.indi1.workers.dev/index.mpd?id=21488&type=dash&token=dQFpVqF9z9p60TqeftknsDrBhAmYYFFW|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21603&type=drm&token=dQFpVqF9z9p60TqeftknsDrBhAmYYFFW
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/GmvpJf9ZrUiwWuoHeP0LjfhSXfg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5119864/6afc5f.jpg" ch-number="14", Women: Belgium vs Czechia - Volleyball Nations League
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/GmvpJf9ZrUiwWuoHeP0LjfhSXfg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5119864/6afc5f.jpg" ch-number="13", Women: Belgium vs Czechia - Volleyball Nations League
 #https://vid-id.indi1.workers.dev/index.mpd?id=21603&type=dash&token=dQFpVqF9z9p60TqeftknsDrBhAmYYFFW|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17140&type=drm&token=dQFpVqF9z9p60TqeftknsDrBhAmYYFFW
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/VZvmWISDNUtcRHNQM8dYvJocsfY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5119866/ba7236.jpg" ch-number="15", Moto3 Free Practice 1: Grand Prix of Hungary - MotoGP 2026 Round 8
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/VZvmWISDNUtcRHNQM8dYvJocsfY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5119866/ba7236.jpg" ch-number="14", Moto3 Free Practice 1: Grand Prix of Hungary - MotoGP 2026 Round 8
 #https://vid-id.indi1.workers.dev/index.mpd?id=17140&type=dash&token=dQFpVqF9z9p60TqeftknsDrBhAmYYFFW|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17140&type=drm&token=dQFpVqF9z9p60TqeftknsDrBhAmYYFFW
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/7zutepq7j98ei3PwK29_H4lTsd0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5119868/4525d3.jpg" ch-number="16", Moto2 Free Practice 1: Grand Prix of Hungary - MotoGP 2026 Round 8
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/7zutepq7j98ei3PwK29_H4lTsd0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5119868/4525d3.jpg" ch-number="15", Moto2 Free Practice 1: Grand Prix of Hungary - MotoGP 2026 Round 8
 #https://vid-id.indi1.workers.dev/index.mpd?id=17140&type=dash&token=dQFpVqF9z9p60TqeftknsDrBhAmYYFFW|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21593&type=drm&token=dQFpVqF9z9p60TqeftknsDrBhAmYYFFW
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/qwrmrIZyyCQe3WCiqzmYcCTm8w4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5115044/068eb8.jpg" ch-number="17", Brunei Darussalam vs Malaysia - ASEAN U19 Boys' Bank Sumut Championship
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/qwrmrIZyyCQe3WCiqzmYcCTm8w4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5115044/068eb8.jpg" ch-number="16", Brunei Darussalam vs Malaysia - ASEAN U19 Boys' Bank Sumut Championship
 #https://vid-id.indi1.workers.dev/index.mpd?id=21593&type=dash&token=dQFpVqF9z9p60TqeftknsDrBhAmYYFFW|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21485&type=drm&token=dQFpVqF9z9p60TqeftknsDrBhAmYYFFW
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/DzXnocwMYJzN0JcfgfZANqYaiPs=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21485/tvod-nex-r3c-da3ab4.jpg" ch-number="18", Marten vs Gregorius Sika - ICC Indostriking Flyweight Tournament
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/DzXnocwMYJzN0JcfgfZANqYaiPs=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21485/tvod-nex-r3c-da3ab4.jpg" ch-number="17", Marten vs Gregorius Sika - ICC Indostriking Flyweight Tournament
 #https://vid-id.indi1.workers.dev/index.mpd?id=21485&type=dash&token=dQFpVqF9z9p60TqeftknsDrBhAmYYFFW|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17140&type=drm&token=dQFpVqF9z9p60TqeftknsDrBhAmYYFFW
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/1S3oJ8dj1A65ZzE_hFyKBgn66UY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5119867/f23788.jpg" ch-number="19", MotoGP Free Practice 1: Grand Prix of Hungary - MotoGP 2026 Round 8
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/1S3oJ8dj1A65ZzE_hFyKBgn66UY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5119867/f23788.jpg" ch-number="18", MotoGP Free Practice 1: Grand Prix of Hungary - MotoGP 2026 Round 8
 #https://vid-id.indi1.workers.dev/index.mpd?id=17140&type=dash&token=dQFpVqF9z9p60TqeftknsDrBhAmYYFFW|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6317&type=drm&token=dQFpVqF9z9p60TqeftknsDrBhAmYYFFW
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/7eSUDpTJd88ZA9uwthxSL6fdSLo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5119832/f983ff.jpg" ch-number="20", Women's Doubles Semifinals - Day 13 (Court 3) - Roland Garros 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/7eSUDpTJd88ZA9uwthxSL6fdSLo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5119832/f983ff.jpg" ch-number="19", Women's Doubles Semifinals - Day 13 (Court 3) - Roland Garros 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=6317&type=dash&token=dQFpVqF9z9p60TqeftknsDrBhAmYYFFW|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17884&type=drm&token=dQFpVqF9z9p60TqeftknsDrBhAmYYFFW
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/azFc4aoV4BUgMcMHxy4Cwu8AqLs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5115072/6c22ee.jpg" ch-number="20", Qualifying - FIA Formula 3 Championship Monaco Grand Prix 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=17884&type=dash&token=dQFpVqF9z9p60TqeftknsDrBhAmYYFFW|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
