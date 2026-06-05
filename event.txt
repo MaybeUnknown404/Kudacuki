@@ -2,6 +2,6 @@
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21485&type=drm&token=6RIMW7FcMVX6bITuxV8BobCUVKDJNraN
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/DzXnocwMYJzN0JcfgfZANqYaiPs=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21485/tvod-nex-r3c-da3ab4.jpg" ch-number="3", nex Road to Champion Vol. 3
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/9i9JEQzKFBxGqyPmU-S8dZQj2yc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5115058/612a8b.jpg" ch-number="3", Obaja Halomoan vs Daniel Ariel - ICC Indostriking Featherweight Tournament
 https://vid-id.indi1.workers.dev/index.mpd?id=21485&type=dash&token=6RIMW7FcMVX6bITuxV8BobCUVKDJNraN|User-Agent=VidioPlayer/6.31.6
 
