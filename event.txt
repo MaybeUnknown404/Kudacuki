@@ -2,7 +2,7 @@
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21485&type=drm&token=6RIMW7FcMVX6bITuxV8BobCUVKDJNraN
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/5V4qRYB9O1v8FUDsewk5U9QlJkM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5115054/f35cf1.jpg" ch-number="1", Arhab Dwi vs Riko Meilano - WBA Asia Super Flyweight Tournament
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/DzXnocwMYJzN0JcfgfZANqYaiPs=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21485/tvod-nex-r3c-da3ab4.jpg" ch-number="1", nex Road to Champion Vol. 3
 https://vid-id.indi1.workers.dev/index.mpd?id=21485&type=dash&token=6RIMW7FcMVX6bITuxV8BobCUVKDJNraN|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -11,43 +11,44 @@ https://vid-id.indi1.workers.dev/index.mpd?id=21485&type=dash&token=6RIMW7FcMVX6
 https://vid-id.indi1.workers.dev/index.mpd?id=21593&type=dash&token=6RIMW7FcMVX6bITuxV8BobCUVKDJNraN|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17140&type=drm&token=6RIMW7FcMVX6bITuxV8BobCUVKDJNraN
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="⛔ Event Ended" tvg-logo="https://thumbor.prod.vidiocdn.com/1S3oJ8dj1A65ZzE_hFyKBgn66UY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5119867/f23788.jpg" ch-number="3", MotoGP Free Practice 1: Grand Prix of Hungary - MotoGP 2026 Round 8
-https://vid-id.indi1.workers.dev/index.mpd?id=17140&type=dash&token=6RIMW7FcMVX6bITuxV8BobCUVKDJNraN|User-Agent=VidioPlayer/6.31.6
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6317&type=drm&token=6RIMW7FcMVX6bITuxV8BobCUVKDJNraN
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/iHSlrHyCL5wfXrV-IThy-DRslPw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5120727/5a8b82.jpg" ch-number="4", Marcel Granollers/Horacio Zeballos vs Simone Bolelli/Andrea Vavassori - Men's Doubles Semifinals | Roland Garros 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/iHSlrHyCL5wfXrV-IThy-DRslPw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5120727/5a8b82.jpg" ch-number="3", Marcel Granollers/Horacio Zeballos vs Simone Bolelli/Andrea Vavassori - Men's Doubles Semifinals | Roland Garros 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=6317&type=dash&token=6RIMW7FcMVX6bITuxV8BobCUVKDJNraN|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17140&type=drm&token=6RIMW7FcMVX6bITuxV8BobCUVKDJNraN
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/VWUei9BAHmJDUOI4_PM7UxLaFZk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5119869/9cc109.jpg" ch-number="5", Moto3 Practice: Grand Prix of Hungary - MotoGP 2026 Round 8
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/VWUei9BAHmJDUOI4_PM7UxLaFZk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5119869/9cc109.jpg" ch-number="4", Moto3 Practice: Grand Prix of Hungary - MotoGP 2026 Round 8
 #https://vid-id.indi1.workers.dev/index.mpd?id=17140&type=dash&token=6RIMW7FcMVX6bITuxV8BobCUVKDJNraN|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21603&type=drm&token=6RIMW7FcMVX6bITuxV8BobCUVKDJNraN
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/RKjZJHwh_qqTR_BwP9O4WElkdlE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5119865/abb8c0.jpg" ch-number="6", Women: Serbia vs Poland - Volleyball Nations League
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/RKjZJHwh_qqTR_BwP9O4WElkdlE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5119865/abb8c0.jpg" ch-number="5", Women: Serbia vs Poland - Volleyball Nations League
 #https://vid-id.indi1.workers.dev/index.mpd?id=21603&type=dash&token=6RIMW7FcMVX6bITuxV8BobCUVKDJNraN|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17884&type=drm&token=6RIMW7FcMVX6bITuxV8BobCUVKDJNraN
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/SD-sO7clEKF299dJ6AGQPNH27Ls=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5115073/3efd97.jpg" ch-number="7", Practice 1 - Formula 1 Louis Vuitton Grand Prix de Monaco 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/SD-sO7clEKF299dJ6AGQPNH27Ls=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5115073/3efd97.jpg" ch-number="6", Practice 1 - Formula 1 Louis Vuitton Grand Prix de Monaco 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=17884&type=dash&token=6RIMW7FcMVX6bITuxV8BobCUVKDJNraN|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=16890&type=drm&token=6RIMW7FcMVX6bITuxV8BobCUVKDJNraN
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/5bTc5CT5BUqrdysPdMJB2dYoe34=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5119871/e075c5.jpg" ch-number="8", ONE Friday Fights 157
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/5bTc5CT5BUqrdysPdMJB2dYoe34=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5119871/e075c5.jpg" ch-number="7", ONE Friday Fights 157
 #https://vid-id.indi1.workers.dev/index.mpd?id=16890&type=dash&token=6RIMW7FcMVX6bITuxV8BobCUVKDJNraN|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17140&type=drm&token=6RIMW7FcMVX6bITuxV8BobCUVKDJNraN
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/vrrBfNkbzy418uKOFFYgNRGIMOE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5119873/e7b452.jpg" ch-number="9", Moto2 Practice: Grand Prix of Hungary - MotoGP 2026 Round 8
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/vrrBfNkbzy418uKOFFYgNRGIMOE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5119873/e7b452.jpg" ch-number="8", Moto2 Practice: Grand Prix of Hungary - MotoGP 2026 Round 8
 #https://vid-id.indi1.workers.dev/index.mpd?id=17140&type=dash&token=6RIMW7FcMVX6bITuxV8BobCUVKDJNraN|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6317&type=drm&token=6RIMW7FcMVX6bITuxV8BobCUVKDJNraN
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/us1iUGkXyrvrmXv7g2HnM4FEq5I=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5120725/b703be.jpg" ch-number="9", Katerina Siniakova/Taylor Townsend vs Gabriela Dabrowski /Luisa Stefani - Women's Doubles Semifinals | Roland Garros 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=6317&type=dash&token=6RIMW7FcMVX6bITuxV8BobCUVKDJNraN|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -57,62 +58,62 @@ https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1ec
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6317&type=drm&token=6RIMW7FcMVX6bITuxV8BobCUVKDJNraN
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/us1iUGkXyrvrmXv7g2HnM4FEq5I=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5120725/b703be.jpg" ch-number="11", Katerina Siniakova/Taylor Townsend vs Gabriela Dabrowski /Luisa Stefani - Women's Doubles Semifinals | Roland Garros 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=6317&type=dash&token=6RIMW7FcMVX6bITuxV8BobCUVKDJNraN|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=drm&token=6RIMW7FcMVX6bITuxV8BobCUVKDJNraN
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/4sWyB5u3fpm8QYvxWZgC8cd9HEA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5120728/965475.jpg" ch-number="12", Jakub Mensik vs Alexander Zverev - Men's Singles Semifinals | Roland Garros 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/4sWyB5u3fpm8QYvxWZgC8cd9HEA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5120728/965475.jpg" ch-number="11", Jakub Mensik vs Alexander Zverev - Men's Singles Semifinals | Roland Garros 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=dash&token=6RIMW7FcMVX6bITuxV8BobCUVKDJNraN|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21593&type=drm&token=6RIMW7FcMVX6bITuxV8BobCUVKDJNraN
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/OjqbAbBJdwjpzDR92OJG1vGwChM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5115045/8d8cfb.jpg" ch-number="13", Singapore vs Thailand - ASEAN U19 Boys' Bank Sumut Championship
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/OjqbAbBJdwjpzDR92OJG1vGwChM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5115045/8d8cfb.jpg" ch-number="12", Singapore vs Thailand - ASEAN U19 Boys' Bank Sumut Championship
 #https://vid-id.indi1.workers.dev/index.mpd?id=21593&type=dash&token=6RIMW7FcMVX6bITuxV8BobCUVKDJNraN|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17140&type=drm&token=6RIMW7FcMVX6bITuxV8BobCUVKDJNraN
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/nBDqt63zkxD_cJIbvJYwY0bb_q0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5119872/d2a6c9.jpg" ch-number="14", MotoGP Practice: Grand Prix of Hungary - MotoGP 2026 Round 8
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/nBDqt63zkxD_cJIbvJYwY0bb_q0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5119872/d2a6c9.jpg" ch-number="13", MotoGP Practice: Grand Prix of Hungary - MotoGP 2026 Round 8
 #https://vid-id.indi1.workers.dev/index.mpd?id=17140&type=dash&token=6RIMW7FcMVX6bITuxV8BobCUVKDJNraN|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6685&type=drm&token=6RIMW7FcMVX6bITuxV8BobCUVKDJNraN
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/yfVyPsC0M-73zQzCl_rLyJ1yhYE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5119691/5574a2.jpg" ch-number="15", Colombia vs China - Maurice Revello
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/yfVyPsC0M-73zQzCl_rLyJ1yhYE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5119691/5574a2.jpg" ch-number="14", Colombia vs China - Maurice Revello
 #https://vid-id.indi1.workers.dev/index.mpd?id=6685&type=dash&token=6RIMW7FcMVX6bITuxV8BobCUVKDJNraN|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17884&type=drm&token=6RIMW7FcMVX6bITuxV8BobCUVKDJNraN
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Mw14ZAt_K5g4APMrGtREV96Izso=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5115074/d327c9.jpg" ch-number="16", Qualifying - FIA Formula 2 Championship Monaco Grand Prix 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Mw14ZAt_K5g4APMrGtREV96Izso=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5115074/d327c9.jpg" ch-number="15", Qualifying - FIA Formula 2 Championship Monaco Grand Prix 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=17884&type=dash&token=6RIMW7FcMVX6bITuxV8BobCUVKDJNraN|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6317&type=drm&token=6RIMW7FcMVX6bITuxV8BobCUVKDJNraN
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Wz-YQV21u1MdKi-2bMF9zTjy8og=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5120726/cbe4ba.jpg" ch-number="17", Shuko Aoyama/En-Shuo Liang vs Anna Danilina/Aleksandra Krunic - Women's Doubles Semifinals | Roland Garros 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Wz-YQV21u1MdKi-2bMF9zTjy8og=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5120726/cbe4ba.jpg" ch-number="16", Shuko Aoyama/En-Shuo Liang vs Anna Danilina/Aleksandra Krunic - Women's Doubles Semifinals | Roland Garros 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=6317&type=dash&token=6RIMW7FcMVX6bITuxV8BobCUVKDJNraN|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17884&type=drm&token=6RIMW7FcMVX6bITuxV8BobCUVKDJNraN
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/6dnZsk11C5H318DznictZHu9gnE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5115075/0d3c73.jpg" ch-number="18", Practice 2 - Formula 1 Louis Vuitton Grand Prix de Monaco 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/6dnZsk11C5H318DznictZHu9gnE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5115075/0d3c73.jpg" ch-number="17", Practice 2 - Formula 1 Louis Vuitton Grand Prix de Monaco 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=17884&type=dash&token=6RIMW7FcMVX6bITuxV8BobCUVKDJNraN|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6317&type=drm&token=6RIMW7FcMVX6bITuxV8BobCUVKDJNraN
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/ajmmBB0N3ZCw3WsNVe3LK1mQakc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5113110/7949c8.jpg" ch-number="19", Italy Major Premier Padel - Quarterfinals
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/ajmmBB0N3ZCw3WsNVe3LK1mQakc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5113110/7949c8.jpg" ch-number="18", Italy Major Premier Padel - Quarterfinals
 #https://vid-id.indi1.workers.dev/index.mpd?id=6317&type=dash&token=6RIMW7FcMVX6bITuxV8BobCUVKDJNraN|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=6685&type=drm&token=6RIMW7FcMVX6bITuxV8BobCUVKDJNraN
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/hl1Ao6B1kLJKqJo_UeL4mhNexfM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5119692/bfd82e.jpg" ch-number="20", Saudi Arabia vs Tunisia - Maurice Revello
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/hl1Ao6B1kLJKqJo_UeL4mhNexfM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5119692/bfd82e.jpg" ch-number="19", Saudi Arabia vs Tunisia - Maurice Revello
 #https://vid-id.indi1.workers.dev/index.mpd?id=6685&type=dash&token=6RIMW7FcMVX6bITuxV8BobCUVKDJNraN|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=drm&token=6RIMW7FcMVX6bITuxV8BobCUVKDJNraN
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/eUGzYeLc1H0Jl4AbNV_jN3PO3ac=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5120729/47e4ae.jpg" ch-number="20", Matteo Arnaldi vs Flavio Cobolli - Men's Singles Semifinals | Roland Garros 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=dash&token=6RIMW7FcMVX6bITuxV8BobCUVKDJNraN|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
