@@ -2,12 +2,12 @@
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21099&type=drm&token=BayNFRMKRWPXwIY259mMM9flh0Wd1q3W
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/6R8AysrYvYQ45Jq6OZ_DZNHWwrM=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21099/hydroplus-soccer-league-8673ab.jpg" ch-number="3", Final Matchday - HYDROPLUS Soccer League U-15 & U-18
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/kvE25FlTyOGdcJjNNINzYYgbSCU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5123626/4c0c61.jpg" ch-number="1", Putri JP Jakarta vs Putri Tangsel City - Hydroplus Soccer League U-18
 https://vid-id.indi1.workers.dev/index.mpd?id=21099&type=dash&token=BayNFRMKRWPXwIY259mMM9flh0Wd1q3W|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21490&type=drm&token=BayNFRMKRWPXwIY259mMM9flh0Wd1q3W
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Dg7bYMDGFViCSkIrJfGsolcWD8Q=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21490/byon-madness-vol-4-2026-02ee27.jpg" ch-number="11", BYON Madness
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Dg7bYMDGFViCSkIrJfGsolcWD8Q=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21490/byon-madness-vol-4-2026-02ee27.jpg" ch-number="9", BYON Madness
 #https://vid-id.indi1.workers.dev/index.mpd?id=21490&type=dash&token=BayNFRMKRWPXwIY259mMM9flh0Wd1q3W|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
