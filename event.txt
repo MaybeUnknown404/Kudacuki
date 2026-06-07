@@ -2,6 +2,6 @@
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21210&type=drm&token=IZEOcImgvQNyYoYyJsWc27yGhc65xWcP
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/gdoZq20vZ8kAQIcW_Zb3awRRLgc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5124668/aeb1ad.jpg" ch-number="1", Universitas Pelita Harapan vs Institut Teknologi Harapan Bangsa (Grup A | Putra) - CL Basketball 2026 - The Nationals
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/gQB0S79LfQO7IBzXpzV5e3b-wfc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5124667/6c96a4.jpg" ch-number="1", Institut Perbanas vs Universitas Kristen Satya Wacana (Grup B | Putra) - CL Basketball 2026 - The Nationals
 https://vid-id.indi1.workers.dev/index.mpd?id=21210&type=dash&token=IZEOcImgvQNyYoYyJsWc27yGhc65xWcP|User-Agent=VidioPlayer/6.31.6
 
