@@ -2,31 +2,31 @@
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=drm&token=Es6XvlG2uHKFkGZxWPtiOfRwsCHYpGQ1
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/vFACl_l4F5l6ssaGQkGTg7dQIXU=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/sathio-group-australian-badminton-open-2026-qualifiers-round-of-32-court-1-bf2f4c.jpg" ch-number="4", Garret Tan (USA) vs Ming Hong Lim (MAS) - Men's Singles Qualification | SATHIO GROUP Australian Open 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/vFACl_l4F5l6ssaGQkGTg7dQIXU=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/sathio-group-australian-badminton-open-2026-qualifiers-round-of-32-court-1-bf2f4c.jpg" ch-number="3", Garret Tan (USA) vs Ming Hong Lim (MAS) - Men's Singles Qualification | SATHIO GROUP Australian Open 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=Es6XvlG2uHKFkGZxWPtiOfRwsCHYpGQ1|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=drm&token=Es6XvlG2uHKFkGZxWPtiOfRwsCHYpGQ1
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/DDHGug13LLjEir8KuzjwSbNZBTM=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18250/sathio-group-australian-badminton-open-2026-qualifiers-round-of-32-court-2-d2e10d.jpg" ch-number="5", Manraj Singh (IND) vs Ephraim Stephen Sam (AUS) - Men's Singles Qualification Round of 16 | SATHIO GROUP Australian Open 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/DDHGug13LLjEir8KuzjwSbNZBTM=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18250/sathio-group-australian-badminton-open-2026-qualifiers-round-of-32-court-2-d2e10d.jpg" ch-number="4", Manraj Singh (IND) vs Ephraim Stephen Sam (AUS) - Men's Singles Qualification Round of 16 | SATHIO GROUP Australian Open 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=dash&token=Es6XvlG2uHKFkGZxWPtiOfRwsCHYpGQ1|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=drm&token=Es6XvlG2uHKFkGZxWPtiOfRwsCHYpGQ1
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/DB1G6N-paDkK35a_04coYxnA3Bs=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/sathio-group-australian-badminton-open-2026-qualifiers-round-of-32-court-3-98b13e.jpg" ch-number="6", Shaunna Li (NZL) vs Faye Huo (AUS) - Women's Singles Qualification | SATHIO GROUP Australian Open 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/DB1G6N-paDkK35a_04coYxnA3Bs=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/sathio-group-australian-badminton-open-2026-qualifiers-round-of-32-court-3-98b13e.jpg" ch-number="5", Shaunna Li (NZL) vs Faye Huo (AUS) - Women's Singles Qualification | SATHIO GROUP Australian Open 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=dash&token=Es6XvlG2uHKFkGZxWPtiOfRwsCHYpGQ1|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18253&type=drm&token=Es6XvlG2uHKFkGZxWPtiOfRwsCHYpGQ1
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Pv8nDWFAA1VivS2CR0gdM-nKtcw=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18253/sathio-group-australian-badminton-open-2026-qualifiers-round-of-32-court-4-a70454.jpg" ch-number="7", Eogene Ewe (MAS) vs Mark Shelley Alcala (USA) - Men's Singles Qualification | SATHIO GROUP Australian Open 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Pv8nDWFAA1VivS2CR0gdM-nKtcw=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18253/sathio-group-australian-badminton-open-2026-qualifiers-round-of-32-court-4-a70454.jpg" ch-number="6", Eogene Ewe (MAS) vs Mark Shelley Alcala (USA) - Men's Singles Qualification | SATHIO GROUP Australian Open 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=18253&type=dash&token=Es6XvlG2uHKFkGZxWPtiOfRwsCHYpGQ1|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21210&type=drm&token=Es6XvlG2uHKFkGZxWPtiOfRwsCHYpGQ1
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/0qgOjU7OApjzOItIR-MDkJES4Hw=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21210/day-2-campus-league-basketball-the-nationals-37ed41.jpg" ch-number="10", Universitas Katolik Parahyangan Bandung vs Universitas Bina Nusantara Jakarta (Grup C | Putri) - CL Basketball 2026 - The Nationals
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/0qgOjU7OApjzOItIR-MDkJES4Hw=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21210/day-2-campus-league-basketball-the-nationals-37ed41.jpg" ch-number="9", Universitas Katolik Parahyangan Bandung vs Universitas Bina Nusantara Jakarta (Grup C | Putri) - CL Basketball 2026 - The Nationals
 #https://vid-id.indi1.workers.dev/index.mpd?id=21210&type=dash&token=Es6XvlG2uHKFkGZxWPtiOfRwsCHYpGQ1|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
