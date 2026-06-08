@@ -1,7 +1,7 @@
 #EXTM3U
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21210&type=drm&token=IZEOcImgvQNyYoYyJsWc27yGhc65xWcP
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/vfzIh2IwGwMqzh_gqAMu1uhlWjw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5124669/ec59fd.jpg" ch-number="1", Universitas Semarang vs Universitas Surabaya (Grup A | Putra) - CL Basketball 2026 - The Nationals
-https://vid-id.indi1.workers.dev/index.mpd?id=21210&type=dash&token=IZEOcImgvQNyYoYyJsWc27yGhc65xWcP|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21210&type=drm&token=iQcuiOy8ZU3eUMXs3s25zxrdnYxgJWTI
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/tTDNp7_H15idUcr_JIHc4nfHmyE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5125600/c6ba9a.jpg" ch-number="1", Universitas Kristen Maranatha Bandung vs Universitas Ciputra Makassar (Grup D | Putri) - CL Basketball 2026 - The Nationals
+https://vid-id.indi1.workers.dev/index.mpd?id=21210&type=dash&token=iQcuiOy8ZU3eUMXs3s25zxrdnYxgJWTI|User-Agent=VidioPlayer/6.31.6
 
