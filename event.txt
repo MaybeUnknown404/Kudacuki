@@ -2,12 +2,12 @@
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=drm&token=Es6XvlG2uHKFkGZxWPtiOfRwsCHYpGQ1
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/VPR6Uh0TAdgqYSVzgOBys56stK8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127269/b177a7.jpg" ch-number="1", Ephraim Stephen Sam/Maureen Clarissa Wijaya (AUS) vs Michael Owen/Gronya Somerville (AUS) - Mixed Doubles Qualification | SATHIO GROUP Australian Open 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/vFACl_l4F5l6ssaGQkGTg7dQIXU=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/sathio-group-australian-badminton-open-2026-qualifiers-round-of-32-court-1-bf2f4c.jpg" ch-number="1", SATHIO GROUP Australian Badminton Open 2026 - Qualifiers+Round Of 32 (Court 1)
 https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=Es6XvlG2uHKFkGZxWPtiOfRwsCHYpGQ1|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=drm&token=Es6XvlG2uHKFkGZxWPtiOfRwsCHYpGQ1
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/DDHGug13LLjEir8KuzjwSbNZBTM=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18250/sathio-group-australian-badminton-open-2026-qualifiers-round-of-32-court-2-d2e10d.jpg" ch-number="2", SATHIO GROUP Australian Badminton Open 2026 - Qualifiers+Round Of 32 (Court 2)
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/DDHGug13LLjEir8KuzjwSbNZBTM=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18250/sathio-group-australian-badminton-open-2026-qualifiers-round-of-32-court-2-d2e10d.jpg" ch-number="2", Ephraim Stephen Sam/Maureen Clarissa Wijaya (AUS) vs Michael Owen/Gronya Somerville (AUS) - Mixed Doubles Qualification | SATHIO GROUP Australian Open 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=dash&token=Es6XvlG2uHKFkGZxWPtiOfRwsCHYpGQ1|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
