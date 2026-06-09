@@ -2,7 +2,7 @@
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21210&type=drm&token=Es6XvlG2uHKFkGZxWPtiOfRwsCHYpGQ1
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/0qgOjU7OApjzOItIR-MDkJES4Hw=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21210/day-2-campus-league-basketball-the-nationals-37ed41.jpg" ch-number="1", Day 3 - Campus League Basketball The Nationals
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/X7kREt4od_puPKyKKTAEVEWmuQw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127222/5da268.jpg" ch-number="1", Universitas Kristen Satya Wacana Salatiga vs Universitas Kristen Maranatha Bandung (Grup B | Putra) - CL Basketball 2026 - The Nationals
 https://vid-id.indi1.workers.dev/index.mpd?id=21210&type=dash&token=Es6XvlG2uHKFkGZxWPtiOfRwsCHYpGQ1|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
