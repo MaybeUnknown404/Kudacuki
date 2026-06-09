@@ -17,6 +17,6 @@ https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=dash&token=Es6XvlG2uHKF
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18253&type=drm&token=Es6XvlG2uHKFkGZxWPtiOfRwsCHYpGQ1
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/3uLD96cZ4amsHl_E-RZpi4of0rA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127281/49ac3f.jpg" ch-number="5", Phillip Halim/Landon Hosea Kurniawan (AUS) vs Wang Yue Hang/Zewei Xie (ENG/AUS) - Men's Doubles Round of 32 | SATHIO GROUP Australian Open 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/vyae7l8xTt9fBt2vN6QNOvjMYDs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127282/d5d35e.jpg" ch-number="5", Hsu Ya Ching/Sung Yu-Hsuan (TPE) vs Bao Li Jing/Cao Zi Han (CHN) - Women's Doubles Round of 32 | SATHIO GROUP Australian Open 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=18253&type=dash&token=Es6XvlG2uHKFkGZxWPtiOfRwsCHYpGQ1|User-Agent=VidioPlayer/6.31.6
 
