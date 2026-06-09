@@ -5,8 +5,3 @@
 #EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/kx-Kc-PlCbrqXhNDlKx7OxhtdyA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127225/ba978a.jpg" ch-number="2", Universitas Surabaya vs Institut Teknologi Harapan Bangsa Bandung (Grup A | Putra) - CL Basketball 2026 - The Nationals
 https://vid-id.indi1.workers.dev/index.mpd?id=21210&type=dash&token=Es6XvlG2uHKFkGZxWPtiOfRwsCHYpGQ1|User-Agent=VidioPlayer/6.31.6
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=drm&token=Es6XvlG2uHKFkGZxWPtiOfRwsCHYpGQ1
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/3AenhG7WltOGX0WYjklsZcfxIOc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127261/29bb2c.jpg" ch-number="3", Eng Keat Wesley Koh/Junsuke Kubo (SGP) vs Huang Di/Liu Yang (CHN) - Men's Doubles Round of 32 | SATHIO GROUP Australian Open 2026
-https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=dash&token=Es6XvlG2uHKFkGZxWPtiOfRwsCHYpGQ1|User-Agent=VidioPlayer/6.31.6
-
