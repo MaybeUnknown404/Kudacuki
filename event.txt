@@ -12,12 +12,12 @@ https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=dash&token=KVEXqp9HKbyR
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=drm&token=KVEXqp9HKbyRf3pdNovpItKZ7TycpsGo
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/UkEjLPfeFk4vKUBtFdCyKxyU5nY=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/sathio-group-australian-badminton-open-2026-round-of-32-court-3-3cfa25.jpg" ch-number="3", Hathaithip Mijad/Napapakorn Tungkasatan (THA) vs Jung Kyung Eun/Kim So Yeong (KOR) - Women's Doubles Round of 32 | SATHIO GROUP Australian Open 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/9eJB-HNhjaQe_YKkiCq4VSMwZvo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127405/e8f0a9.jpg" ch-number="3", Hathaithip Mijad/Napapakorn Tungkasatan (THA) vs Jung Kyung Eun/Kim So Yeong (KOR) - Women's Doubles Round of 32 | SATHIO GROUP Australian Open 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=dash&token=KVEXqp9HKbyRf3pdNovpItKZ7TycpsGo|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18253&type=drm&token=KVEXqp9HKbyRf3pdNovpItKZ7TycpsGo
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/oZjbaLra6OrshS3lO82gPQ-74XU=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18253/sathio-group-australian-badminton-open-2026-round-of-32-court-4-d2dd87.jpg" ch-number="4", Na Sung Seung/Wang Chan (KOR) vs Jordan Wang/Chauncey Yu (AUS) - Men's Doubles Round of 32 | SATHIO GROUP Australian Open 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/wfiksdbhTIy9FiGU2_TvUL9iQNw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127419/f6aa8e.jpg" ch-number="4", Na Sung Seung/Wang Chan (KOR) vs Jordan Wang/Chauncey Yu (AUS) - Men's Doubles Round of 32 | SATHIO GROUP Australian Open 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=18253&type=dash&token=KVEXqp9HKbyRf3pdNovpItKZ7TycpsGo|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
