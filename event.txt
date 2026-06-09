@@ -2,31 +2,31 @@
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=drm&token=Es6XvlG2uHKFkGZxWPtiOfRwsCHYpGQ1
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/j9SJK5ezJlsKdNupgEKUaLr25AA=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/sathio-group-australian-badminton-open-2026-qualifiers-round-of-32-court-1-3f327e.jpg" ch-number="10", Gabriela Stoeva/Stefani Stoeva (BUL) vs Priska Kustiadi/Maureen Clarissa Wijaya (AUS) - Women's Doubles Round of 32 | SATHIO GROUP Australian Open 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/j9SJK5ezJlsKdNupgEKUaLr25AA=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/sathio-group-australian-badminton-open-2026-qualifiers-round-of-32-court-1-3f327e.jpg" ch-number="11", Gabriela Stoeva/Stefani Stoeva (BUL) vs Priska Kustiadi/Maureen Clarissa Wijaya (AUS) - Women's Doubles Round of 32 | SATHIO GROUP Australian Open 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=Es6XvlG2uHKFkGZxWPtiOfRwsCHYpGQ1|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=drm&token=Es6XvlG2uHKFkGZxWPtiOfRwsCHYpGQ1
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/baU8hxGkeZoYodjq1VAMVzyq6Jw=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18250/sathio-group-australian-badminton-open-2026-round-of-32-court-2-d35f93.jpg" ch-number="11", Shaunna Li (NZL) vs Lin Hsiang Ti (TPE) - Women's Singles Round of 32 | SATHIO GROUP Australian Open 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/baU8hxGkeZoYodjq1VAMVzyq6Jw=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18250/sathio-group-australian-badminton-open-2026-round-of-32-court-2-d35f93.jpg" ch-number="12", Shaunna Li (NZL) vs Lin Hsiang Ti (TPE) - Women's Singles Round of 32 | SATHIO GROUP Australian Open 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=dash&token=Es6XvlG2uHKFkGZxWPtiOfRwsCHYpGQ1|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=drm&token=Es6XvlG2uHKFkGZxWPtiOfRwsCHYpGQ1
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/UkEjLPfeFk4vKUBtFdCyKxyU5nY=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/sathio-group-australian-badminton-open-2026-round-of-32-court-3-3cfa25.jpg" ch-number="12", Hathaithip Mijad/Napapakorn Tungkasatan (THA) vs Jung Kyung Eun/Kim So Yeong (KOR) - Women's Doubles Round of 32 | SATHIO GROUP Australian Open 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/UkEjLPfeFk4vKUBtFdCyKxyU5nY=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/sathio-group-australian-badminton-open-2026-round-of-32-court-3-3cfa25.jpg" ch-number="13", Hathaithip Mijad/Napapakorn Tungkasatan (THA) vs Jung Kyung Eun/Kim So Yeong (KOR) - Women's Doubles Round of 32 | SATHIO GROUP Australian Open 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=dash&token=Es6XvlG2uHKFkGZxWPtiOfRwsCHYpGQ1|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18253&type=drm&token=Es6XvlG2uHKFkGZxWPtiOfRwsCHYpGQ1
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/oZjbaLra6OrshS3lO82gPQ-74XU=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18253/sathio-group-australian-badminton-open-2026-round-of-32-court-4-d2dd87.jpg" ch-number="13", Na Sung Seung/Wang Chan (KOR) vs Jordan Wang/Chauncey Yu (AUS) - Men's Doubles Round of 32 | SATHIO GROUP Australian Open 2026
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/oZjbaLra6OrshS3lO82gPQ-74XU=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18253/sathio-group-australian-badminton-open-2026-round-of-32-court-4-d2dd87.jpg" ch-number="14", Na Sung Seung/Wang Chan (KOR) vs Jordan Wang/Chauncey Yu (AUS) - Men's Doubles Round of 32 | SATHIO GROUP Australian Open 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=18253&type=dash&token=Es6XvlG2uHKFkGZxWPtiOfRwsCHYpGQ1|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21210&type=drm&token=Es6XvlG2uHKFkGZxWPtiOfRwsCHYpGQ1
-#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/MRWhHPrBwlReV46HhrBR7Q4alA4=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21210/day-4-campus-league-basketball-the-nationals-34db27.jpg" ch-number="15", Universitas Pelita Harapan Tangerang vs Universitas Katolik Parahyangan Bandung (Grup C | Putri) - CL Basketball 2026 - The Nationals
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/MRWhHPrBwlReV46HhrBR7Q4alA4=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21210/day-4-campus-league-basketball-the-nationals-34db27.jpg" ch-number="16", Universitas Pelita Harapan Tangerang vs Universitas Katolik Parahyangan Bandung (Grup C | Putri) - CL Basketball 2026 - The Nationals
 #https://vid-id.indi1.workers.dev/index.mpd?id=21210&type=dash&token=Es6XvlG2uHKFkGZxWPtiOfRwsCHYpGQ1|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
