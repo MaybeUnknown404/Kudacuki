@@ -2,7 +2,7 @@
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=drm&token=KVEXqp9HKbyRf3pdNovpItKZ7TycpsGo
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/_pgXwmoIZUNowr9lhhvS0_84Tlc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127381/a0ce47.jpg" ch-number="1", Tharun Mannepalli (IND) vs Lin Chun-Yi (TPE) - Men's Singles Round of 32 | SATHIO GROUP Australian Open 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/dEhkmcDh16ptkx9hznoaf24nmu8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127380/e85b9c.jpg" ch-number="1", Pusarla V. Sindhu (IND) vs Ines Lucia Castillo (PER) - Women's Singles Round of 32 | SATHIO GROUP Australian Open 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=KVEXqp9HKbyRf3pdNovpItKZ7TycpsGo|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
