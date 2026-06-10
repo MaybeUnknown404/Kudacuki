@@ -7,12 +7,12 @@ https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=KVEXqp9HKbyR
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=drm&token=KVEXqp9HKbyRf3pdNovpItKZ7TycpsGo
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/fOvgs8qKo9h7xC9R9JArwhqHCbM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127401/acbe33.jpg" ch-number="2", Yang Po-Hsuan/Hu Ling Fang (TPE) vs Frederick Zhao/Jazmine Lam (AUS) - Mixed Doubles Round of 32 | SATHIO GROUP Australian Open 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/snY4kzEc1eOUt_I3ss-Ogv0Ilc0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127402/c585eb.jpg" ch-number="2", Landon Hosea Kurniawan (AUS)/Jasmine Yeung (USA) vs Liu Kuang Heng/Hsu Yin-Hui (TPE) - Mixed Doubles Round of 32 | SATHIO GROUP Australian Open 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=dash&token=KVEXqp9HKbyRf3pdNovpItKZ7TycpsGo|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=drm&token=KVEXqp9HKbyRf3pdNovpItKZ7TycpsGo
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/FIANYya5MPlJd2hkRCF6rfmXsHE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127413/b679b7.jpg" ch-number="3", Yushi Tanaka (JPN) vs Zhu Xuan Chen (CHN) - Men's Singles Round of 32 | SATHIO GROUP Australian Open 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/9aYzzgJNZRXVI_zSs0lLsTqW5gI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127414/52fd8c.jpg" ch-number="3", Lee Cheuk Yiu (HKG) vs Eogene Ewe (MAS) - Men's Singles Round of 32 | SATHIO GROUP Australian Open 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=dash&token=KVEXqp9HKbyRf3pdNovpItKZ7TycpsGo|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
