@@ -17,7 +17,7 @@ https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=dash&token=C8YpyyWFANpe
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=drm&token=C8YpyyWFANperNWhDihTqU270gZOe3gu
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/gvwqRVGSo4GYc7jA-InTBOzqqwk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127835/2464b2.jpg" ch-number="7", Laudya Chelsea Griselda/Nozomi Shimizu (AUS) vs Luo Yi/Wang Ting Ge (CHN) - Women's Doubles Round of 16 | SATHIO GROUP Australian Open 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/-EAR1jqmpXkszVxynqpCoMOHGIA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127845/578c06.jpg" ch-number="7", Fang-Chih Lee/Fang-Jen LEE (TPE) vs Kanki Igawa/Ooi Yi Hern (AUS) - Men's Doubles Round of 16 | SATHIO GROUP Australian Open 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=dash&token=C8YpyyWFANperNWhDihTqU270gZOe3gu|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
