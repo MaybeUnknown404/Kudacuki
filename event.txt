@@ -1,6 +1,11 @@
 #EXTM3U
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=drm&token=C8YpyyWFANperNWhDihTqU270gZOe3gu
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/MacPSyTbwJeRWjki2Bg2RK54J10=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127854/a2dd0a.jpg" ch-number="1", Martin Landaluce vs Taylor Fritz - Round 2 | ATP 250: BOSS Open 2026
+https://vid-id.indi1.workers.dev/index.mpd?id=20884&type=dash&token=C8YpyyWFANperNWhDihTqU270gZOe3gu|User-Agent=VidioPlayer/6.31.6
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=drm&token=C8YpyyWFANperNWhDihTqU270gZOe3gu
 #EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/oySjktT_tVlWMdIcPGi1cbCY2BU=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/sathio-group-australian-badminton-open-2026-quarterfinals-court-1-4cab45.jpg" ch-number="13", Chan Yin Chak/Ng Tsz Yau (HKG) vs Ruttanapak Oupthong/Jhenicha Sudjaipraparat (THA) - Mixed Doubles Quarterfinals | SATHIO GROUP Australian Open 2026
 #https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=C8YpyyWFANperNWhDihTqU270gZOe3gu|User-Agent=VidioPlayer/6.31.6
