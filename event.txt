@@ -12,7 +12,7 @@ https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=C8YpyyWFANpe
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=drm&token=C8YpyyWFANperNWhDihTqU270gZOe3gu
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/p7fz5GvgkyirMs-4sC991mE1wUM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127813/c1f78e.jpg" ch-number="3", Lee Cheuk Yiu (HKG) vs Moh. Zaki Ubaidillah (INA) - Men's Singles Round of 16 | SATHIO GROUP Australian Open 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/0Ju830HatRDYnRPnhJ1r6HXeqyI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127814/efbb3f.jpg" ch-number="3", Feng Yan Zhe / Huang Dong Ping (CHN) vs Loo Bing Kun / Noraqilah Maisarah (MAS) - Mixed Doubles Round of 16 | SATHIO GROUP Australian Open 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=dash&token=C8YpyyWFANperNWhDihTqU270gZOe3gu|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
