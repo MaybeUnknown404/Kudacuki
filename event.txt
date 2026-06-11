@@ -2,26 +2,26 @@
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21210&type=drm&token=C8YpyyWFANperNWhDihTqU270gZOe3gu
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/EmXho1IT0xHAMysnVuO9Qc0ujMA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127352/e3fba1.jpg" ch-number="2", Universitas Cenderawasih Jayapura vs Universitas Kristen Maranatha Bandung (Grup B | Putra) - CL Basketball 2026 - The Nationals
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/EmXho1IT0xHAMysnVuO9Qc0ujMA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127352/e3fba1.jpg" ch-number="1", Universitas Cenderawasih Jayapura vs Universitas Kristen Maranatha Bandung (Grup B | Putra) - CL Basketball 2026 - The Nationals
 https://vid-id.indi1.workers.dev/index.mpd?id=21210&type=dash&token=C8YpyyWFANperNWhDihTqU270gZOe3gu|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=drm&token=C8YpyyWFANperNWhDihTqU270gZOe3gu
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/H0xwtjhfURRpJf3x_tfge_ov6BY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127807/55a65f.jpg" ch-number="3", Chou Tien Chen (TPE) vs Dong Tian Yao (CHN) - Men's Singles Round of 16 | SATHIO GROUP Australian Open 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/H0xwtjhfURRpJf3x_tfge_ov6BY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127807/55a65f.jpg" ch-number="2", Chou Tien Chen (TPE) vs Dong Tian Yao (CHN) - Men's Singles Round of 16 | SATHIO GROUP Australian Open 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=C8YpyyWFANperNWhDihTqU270gZOe3gu|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=drm&token=C8YpyyWFANperNWhDihTqU270gZOe3gu
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/j9Z_yLNBsBYHIzInl4yIGSpkr0c=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127816/3df107.jpg" ch-number="4", Wu Hsuan-Yi / Yang Chu Yun (TPE) vs Guo Xin Wa / Chen Fang Hui (CHN) - Mixed Doubles Round of 16 | SATHIO GROUP Australian Open 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/j9Z_yLNBsBYHIzInl4yIGSpkr0c=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127816/3df107.jpg" ch-number="3", Wu Hsuan-Yi / Yang Chu Yun (TPE) vs Guo Xin Wa / Chen Fang Hui (CHN) - Mixed Doubles Round of 16 | SATHIO GROUP Australian Open 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=dash&token=C8YpyyWFANperNWhDihTqU270gZOe3gu|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=drm&token=C8YpyyWFANperNWhDihTqU270gZOe3gu
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/oAiP4BPkGlmwfIFPYsvSQVO-O3w=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127830/ca2d85.jpg" ch-number="5", Jeon Hyeok Jin (KOR) vs Lee Chia Hao (TPE) - Men's Singles Round of 16 | SATHIO GROUP Australian Open 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/oAiP4BPkGlmwfIFPYsvSQVO-O3w=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127830/ca2d85.jpg" ch-number="4", Jeon Hyeok Jin (KOR) vs Lee Chia Hao (TPE) - Men's Singles Round of 16 | SATHIO GROUP Australian Open 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=dash&token=C8YpyyWFANperNWhDihTqU270gZOe3gu|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18253&type=drm&token=C8YpyyWFANperNWhDihTqU270gZOe3gu
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/cGCqmFoXKjOz_Yt8JxQDtRnCKuQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127839/5f647c.jpg" ch-number="6", Akira Koga/Natsu Saito (JPN) vs Dhruv Rawat/Maneesha Kukkapalli (IND) - Mixed Doubles Round of 16 | SATHIO GROUP Australian Open 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/cGCqmFoXKjOz_Yt8JxQDtRnCKuQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127839/5f647c.jpg" ch-number="5", Akira Koga/Natsu Saito (JPN) vs Dhruv Rawat/Maneesha Kukkapalli (IND) - Mixed Doubles Round of 16 | SATHIO GROUP Australian Open 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=18253&type=dash&token=C8YpyyWFANperNWhDihTqU270gZOe3gu|User-Agent=VidioPlayer/6.31.6
 
