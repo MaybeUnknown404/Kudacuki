@@ -2,7 +2,7 @@
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=drm&token=4OYOhorIaTkUryrXDeNNQyOnNkcpqXQh
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/m8qHkCiCKA02JTFa3W7zuchLW-Q=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5128993/486235.jpg" ch-number="1", Akane Yamaguchi (JPN) vs Tanvi Sharma (IND) - Women's Singles Quarterfinals | SATHIO GROUP Australian Open 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/CXolVJHEsqPtK-xn29McV9WvZao=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5128994/e7039e.jpg" ch-number="1", Dong Tian Yao (CHN) vs Ng Ka Long Angus (HKG) - Men's Singles Quarterfinals | SATHIO GROUP Australian Open 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=4OYOhorIaTkUryrXDeNNQyOnNkcpqXQh|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -12,7 +12,7 @@ https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=dash&token=4OYOhorIaTkU
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=drm&token=4OYOhorIaTkUryrXDeNNQyOnNkcpqXQh
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/eYso4pLizYC2XHZRhfCFft5HuHY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5129009/face68.jpg" ch-number="3", Hu Zhe An (CHN) vs Jason Gunawan (HKG) - Men's Singles Quarter Finals | SATHIO GROUP Australian Open 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/G_-hYDZbQbG6Z4bewXaxKlbkeKU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5129010/fd3f85.jpg" ch-number="3", Huang Yu-Hsun (TPE) vs Pornpawee Chochuwong (THA) - Women's Singles Quarter Finals | SATHIO GROUP Australian Open 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=dash&token=4OYOhorIaTkUryrXDeNNQyOnNkcpqXQh|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
