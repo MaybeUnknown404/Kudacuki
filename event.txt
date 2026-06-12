@@ -2,6 +2,6 @@
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21210&type=drm&token=4OYOhorIaTkUryrXDeNNQyOnNkcpqXQh
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/2CbVMNR09WIez0Y_WBFM166ao5k=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5128988/1a767c.jpg" ch-number="2", Universitas Pelita Harapan vs Institut Perbanas (Semifinals | Putra) - CL Basketball 2026 - The Nationals
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/2CbVMNR09WIez0Y_WBFM166ao5k=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5128988/1a767c.jpg" ch-number="4", Universitas Pelita Harapan vs Institut Perbanas (Semifinals | Putra) - CL Basketball 2026 - The Nationals
 https://vid-id.indi1.workers.dev/index.mpd?id=21210&type=dash&token=4OYOhorIaTkUryrXDeNNQyOnNkcpqXQh|User-Agent=VidioPlayer/6.31.6
 
