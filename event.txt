@@ -2,16 +2,11 @@
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=drm&token=gHegrxjc1kOAtEVVhoJeNP6xHZ9ETSzm
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/lC7QB27A2mYjfGgnMUzAZdy7GsQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5131828/a1d5b7.jpg" ch-number="1", Hsu Yin-Hui/Lin Jhih Yun (TPE) vs Febriana Dwipuji Kusuma/Meilysa Trias Puspitasari (INA) - Women's Doubles Semi Finals | SATHIO GROUP Australian Open 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/T1tTJKkKyOXsAFp3I76JlTvSk3o=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5131829/ad660d.jpg" ch-number="1", Akane Yamaguchi (JPN) vs Pusarla V. Sindhu (IND) - Women's Singles Semi Finals | SATHIO GROUP Australian Open 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=gHegrxjc1kOAtEVVhoJeNP6xHZ9ETSzm|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21210&type=drm&token=gHegrxjc1kOAtEVVhoJeNP6xHZ9ETSzm
 #EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/OsFdE6aW0mtoNH4NkPwwZU8sq7k=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5131822/fbcc0d.jpg" ch-number="2", Universitas Pelita Harapan vs Universitas Surabaya (3rd Place | Putra) - CL Basketball 2026 - The Nationals
 https://vid-id.indi1.workers.dev/index.mpd?id=21210&type=dash&token=gHegrxjc1kOAtEVVhoJeNP6xHZ9ETSzm|User-Agent=VidioPlayer/6.31.6
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=drm&token=gHegrxjc1kOAtEVVhoJeNP6xHZ9ETSzm
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/pc-AAUGgmdFjmITkxhRCtWiFQMI=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18250/sathio-group-australian-badminton-open-2026-semifinals-court-2-35ce72.jpg" ch-number="3", SATHIO GROUP Australian Badminton Open 2026 - Semifinals (Court 2)
-https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=dash&token=gHegrxjc1kOAtEVVhoJeNP6xHZ9ETSzm|User-Agent=VidioPlayer/6.31.6
 
