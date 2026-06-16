@@ -2,13 +2,18 @@
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=drm&token=0JcxE3TPbdTxU66CA3BKvwlLi0KgtgPj
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/pKthYvdA5WUtRihm4KKRKquxc0Q=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137691/2136e2.jpg" ch-number="2", Hein Htut (MYA) vs Rounak Chouhan (IND) - Men's Singles Qualification | SANDS CHINA LTD. Macau Open 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/CjFvJZXg-WmrQK5ZqnKVCriVtAQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137693/4cd553.jpg" ch-number="1", Eng Keat Wesley Koh/Junsuke Kubo (SGP) vs Hung Kuei Chun/Lui Chun Wai (HKG) - Men's Doubles Round of 32 | SANDS CHINA LTD. Macau Open 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=0JcxE3TPbdTxU66CA3BKvwlLi0KgtgPj|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=drm&token=0JcxE3TPbdTxU66CA3BKvwlLi0KgtgPj
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/5AfOFpMeGT7--8onZg71msTFQU4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137775/11bf16.jpg" ch-number="3", Amallia Cahaya Pratiwi/Siti Fadia Silva Ramadhanti (INA) vs Ashwini Bhat K./Shikha Gautam (IND) - Women's Doubles Round of 32 | SANDS CHINA LTD. Macau Open 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/5AfOFpMeGT7--8onZg71msTFQU4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137775/11bf16.jpg" ch-number="2", Amallia Cahaya Pratiwi/Siti Fadia Silva Ramadhanti (INA) vs Ashwini Bhat K./Shikha Gautam (IND) - Women's Doubles Round of 32 | SANDS CHINA LTD. Macau Open 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=dash&token=0JcxE3TPbdTxU66CA3BKvwlLi0KgtgPj|User-Agent=VidioPlayer/6.31.6
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=drm&token=0JcxE3TPbdTxU66CA3BKvwlLi0KgtgPj
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/OtK-MN6XIJqY2-xKBL26x-Z4jdg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137800/d86ea9.jpg" ch-number="3", Bhargav Ram Arigela/Viswa Tej Gobburu (IND) vs Boon Xin Yuan/Lwi Sheng Hao (MAS) - Men's Doubles Round of 32 | Macau Open 2026
+https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=dash&token=0JcxE3TPbdTxU66CA3BKvwlLi0KgtgPj|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18253&type=drm&token=0JcxE3TPbdTxU66CA3BKvwlLi0KgtgPj
