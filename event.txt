@@ -6,7 +6,8 @@
 https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=0JcxE3TPbdTxU66CA3BKvwlLi0KgtgPj|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=drm&token=0JcxE3TPbdTxU66CA3BKvwlLi0KgtgPj
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/y3M90hoPwGKvNE_a6OLexf3ZwP8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137805/a468e9.jpg" ch-number="3", Chaloempon Charoenkitamorn/Worrapol Thongsa-Nga (THA) vs Muhammad Faiq/Lok Hong Quan (MAS) - Men's Doubles Round of 32 | Macau Open 2026
-https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=dash&token=0JcxE3TPbdTxU66CA3BKvwlLi0KgtgPj|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=drm&token=0JcxE3TPbdTxU66CA3BKvwlLi0KgtgPj
+#EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📅 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/gqX67Yi82_HmnkMfCaFGe5QIiH0=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/sands-china-ltd-macau-open-2026-round-of-32-court-3-1764cc.jpg" ch-number="20", Wang Yi Duo/Wang Zi Meng (CHN) vs Chen Fan Shu Tian/Liu Jia Yue - Women's Doubles Round of 32 | SANDS CHINA LTD. Macau Open 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=dash&token=0JcxE3TPbdTxU66CA3BKvwlLi0KgtgPj|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
