@@ -2,12 +2,12 @@
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=drm&token=PwOoLdnlKugWObAhxFlGFOzkDv4TaJHE
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/Co6pdHEbcj8wxT5vE23FmsXfuhg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137925/9f1238.jpg" ch-number="1", Hu Zhe An (CHN) vs Jeon Hyeok Jin (KOR) - Men's Singles Round of 32 | SANDS CHINA LTD. Macau Open 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/DC35LhaBDblDGr2RuFDFnNgQlHA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137909/a0dbf5.jpg" ch-number="1", Rithvik Sanjeevi Satish Kumar (IND) vs Tharun Mannepalli (IND) - Men's Singles Round of 32 | SANDS CHINA LTD. Macau Open 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=PwOoLdnlKugWObAhxFlGFOzkDv4TaJHE|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=drm&token=PwOoLdnlKugWObAhxFlGFOzkDv4TaJHE
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/Iz7PR919R-8nKLX_rw7mqfbAXng=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137939/196572.jpg" ch-number="2", Thalita Ramadhani Wiryawan (INA) vs Park Ga Eun (KOR) - Women's Singles Round of 32 | SANDS CHINA LTD. Macau Open 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/lXeCY4rMeWbgFkldUmfh8ENLFJk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137894/9ac3d2.jpg" ch-number="2", Kiran George (IND) vs Richie Duta Richardo (INA) - Men's Singles Round of 32 | SANDS CHINA LTD. Macau Open 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=dash&token=PwOoLdnlKugWObAhxFlGFOzkDv4TaJHE|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
