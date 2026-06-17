@@ -12,7 +12,7 @@ https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=dash&token=PwOoLdnlKugW
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=drm&token=PwOoLdnlKugWObAhxFlGFOzkDv4TaJHE
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/r01MAk6tW7wEZko_r9dqnpF5h7Q=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137902/c5e5a4.jpg" ch-number="3", Shriyanshi Valishetty (IND) vs Tansim Mir (IND) - Women's Singles Round of 32 | SANDS CHINA LTD. Macau Open 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/QmJO5hRXINMn5TpAlqHZmUeW95k=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137903/5378f9.jpg" ch-number="3", Sathwik Reddy Kanapuram/Radhika Sharma (IND) vs Supak Jomokh/Ornnicha Jongsathapornparn (THA) - Mixed Doubles Round of 32 | SANDS CHINA LTD. Macau Open 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=dash&token=PwOoLdnlKugWObAhxFlGFOzkDv4TaJHE|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
