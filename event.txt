@@ -7,7 +7,7 @@ https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=PwOoLdnlKugW
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=drm&token=PwOoLdnlKugWObAhxFlGFOzkDv4TaJHE
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/nfAltezVKfrxB_MVhsfbONv21y0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137930/28e4d3.jpg" ch-number="2", Low Han Chen/Chan Wen Tse (MAS) vs Mohit Jaglan/Lakhsita Jaglan (IND) - Mixed Doubles Round of 32 | SANDS CHINA LTD. Macau Open 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/aD-sf4rZffKsoIOeUMZEBJj0YzM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137931/9a2b96.jpg" ch-number="2", Jiang Zhen Bang/Wei Ya Xin (CHN) vs Ming Hong Lim/Stella Pan (MAS/USA) - Mixed Doubles Round of 32 | SANDS CHINA LTD. Macau Open 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=dash&token=PwOoLdnlKugWObAhxFlGFOzkDv4TaJHE|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
