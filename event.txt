@@ -12,11 +12,11 @@ https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=dash&token=PwOoLdnlKugW
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=drm&token=PwOoLdnlKugWObAhxFlGFOzkDv4TaJHE
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/FaXZZVUE8Nx1Rv-wSr6jolb1XtI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137897/ee8071.jpg" ch-number="3", Wang Yi Duo/Wang Zi Meng (CHN) vs Chen Fan Shu Tian/Liu Jia Yue - Women's Doubles Round of 32 | SANDS CHINA LTD. Macau Open 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/P7ItuckhyWyusVpceqVAi8sy65k=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137898/343112.jpg" ch-number="3", Kittinupong Kedren/Lucas Ekarat Wedler (THA) vs Hu Ke Yuan/Lin Xiang Yi (CHN) - Men's Doubles Round of 32 | SANDS CHINA LTD. Macau Open 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=dash&token=PwOoLdnlKugWObAhxFlGFOzkDv4TaJHE|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18253&type=drm&token=PwOoLdnlKugWObAhxFlGFOzkDv4TaJHE
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/TvU9LzUunWsiZpShlMhWtpQCRAE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137882/a624d3.jpg" ch-number="4", Benyapa Aimsaard/Nuntakarn Aimsaard (THA) vs Ornnicha Jongsathapornparn/Sabrina Sophita Wedler (THA) - Women's Doubles Round of 32 | SANDS CHINA LTD. Macau Open 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/1LioJR3eapDOhBU14QRGPMX7PZs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137883/fd49e3.jpg" ch-number="4", Lai Yin Chung/Catherine Choi (CAN) vs Cheng Kai Wen/Liu Chiao-Yun (TPE) - Mixed Doubles Round of 32 | SANDS CHINA LTD. Macau Open 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=18253&type=dash&token=PwOoLdnlKugWObAhxFlGFOzkDv4TaJHE|User-Agent=VidioPlayer/6.31.6
 
