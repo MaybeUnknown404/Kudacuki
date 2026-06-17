@@ -2,7 +2,7 @@
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=drm&token=PwOoLdnlKugWObAhxFlGFOzkDv4TaJHE
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/WY8_-mQhhm-7c3Ko-q_mNWv5gXA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137916/d58c72.jpg" ch-number="1", Bao Xin Da Gu La Wai/Chiang Chien-Wei (TPE) vs Peeratchai Sukphun/Pakkapon Teeraratsakul (THA) - Men's Doubles Round of 32 | SANDS CHINA LTD. Macau Open 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/Q6GO3WtLy7jECvu5f0e7CwdKHp8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137917/680bf6.jpg" ch-number="1", Calvin Devereux/Desiree Toepffer (GER) vs Ishaan Bhatnagar/Shruti Mishra (IND) - Mixed Doubles Round of 32 | SANDS CHINA LTD. Macau Open 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=PwOoLdnlKugWObAhxFlGFOzkDv4TaJHE|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
