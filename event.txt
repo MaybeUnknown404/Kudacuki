@@ -2,7 +2,7 @@
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=drm&token=BB0COddz9egIqxlkL8dASBExDUuwT3j9
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/ULLN3TTNw__YYw6VjcWKF-aBugI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5138182/f0fb13.jpg" ch-number="1", Han Qian Xi (CHN) vs Lee So Yul (KOR) - Women's Singles Round of 16 | SANDS CHINA LTD. Macau Open 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/dHGtEmML4xTymh7PXqDO6YlRXEI=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/sands-china-ltd-macau-open-2026-round-of-16-court-1-b77519.jpg" ch-number="1", SANDS CHINA LTD Macau Open 2026 - Round Of 16 (Court 1)
 https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=BB0COddz9egIqxlkL8dASBExDUuwT3j9|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
