@@ -12,6 +12,6 @@ https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=dash&token=BB0COddz9egI
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=drm&token=BB0COddz9egIqxlkL8dASBExDUuwT3j9
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/R1b7T0aqbpTTVV2eH4QbldUEtJE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5138240/42136d.jpg" ch-number="4", Wei Chun Wei/Po Chih Yang (TPE) vs Na Sung Seung/Wang Chan (KOR) - Men's Doubles Round of 16 | SANDS CHINA LTD. Macau Open 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/xRqH5yVvxQu6TT1n4Z_ZhAfNSo8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5138241/5689f0.jpg" ch-number="4", Benyapa Aimsaard/Nuntakarn Aimsaard (THA) vs Yu Hsuan Chen/Liu Chiao-Yun (TPE) - Women's Doubles Round of 16 | SANDS CHINA LTD. Macau Open 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=dash&token=BB0COddz9egIqxlkL8dASBExDUuwT3j9|User-Agent=VidioPlayer/6.31.6
 
