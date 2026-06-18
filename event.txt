@@ -7,11 +7,11 @@ https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=BB0COddz9egI
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=drm&token=BB0COddz9egIqxlkL8dASBExDUuwT3j9
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/pWAJdl7k090uFBMi7capMidZ5tI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5138204/c079d7.jpg" ch-number="3", Park Ga Eun (KOR) vs Isharani Baruah (IND) - Women's Singles Round of 16 | SANDS CHINA LTD. Macau Open 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/qtTp1JDv7dl9cU-uTi3-lbUgY4Q=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5138205/f662cf.jpg" ch-number="3", Ali Faathir Rayhan/Devin Artha Wahyudi (INA) vs Chaloempon Charoenkitamorn/Worrapol Thongsa-Nga (THA) - Men's Doubles Round of 16 | SANDS CHINA LTD. Macau Open 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=dash&token=BB0COddz9egIqxlkL8dASBExDUuwT3j9|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=drm&token=BB0COddz9egIqxlkL8dASBExDUuwT3j9
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/pmODGXjodU76U_6FQCkaGDCJnUk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5138244/aea1ae.jpg" ch-number="4", Passa-Orn Phannachet (THA) vs Busanan Ongbamrungphan (THA) - Women's Singles Round of 16 | SANDS CHINA LTD. Macau Open 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/lH04YA9vF0bLvZaEiewxIuKXJFA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5138245/ece549.jpg" ch-number="4", Yi En Hsieh/Teng Chun Hsun (TPE) vs Isyana Syahira Meida/Rinjani Kwinnara Nastine (INA) - Women's Doubles Round of 16 | SANDS CHINA LTD. Macau Open 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=dash&token=BB0COddz9egIqxlkL8dASBExDUuwT3j9|User-Agent=VidioPlayer/6.31.6
 
