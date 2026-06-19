@@ -7,7 +7,7 @@ https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=dSqCgK4Gn8Yb
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=drm&token=dSqCgK4Gn8YbZ4WkdCbuzQUWfijnKGYa
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/ioLKiZ2CS-5IUFzToNo38e_0ozA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5139468/a2e1c9.jpg" ch-number="2", Hoo Pang Ron/Lai Pei Jing (MAS) vs Song Hyun Cho/Jeong Na Eun (KOR) - Mixed Doubles Quarter-Finals | SANDS CHINA LTD. Macau Open 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/OVNH8Doz4fkEDROhBz-N705NvTo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5139467/4522a7.jpg" ch-number="2", Kim Ga Eun (KOR) vs Kim Min Ji (KOR) - Women's Singles Quarter-Finals | SANDS CHINA LTD. Macau Open 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=dash&token=dSqCgK4Gn8YbZ4WkdCbuzQUWfijnKGYa|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
