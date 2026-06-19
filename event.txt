@@ -7,6 +7,6 @@ https://vid-id.indi1.workers.dev/index.mpd?id=21681&type=dash&token=dSqCgK4Gn8Yb
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=drm&token=dSqCgK4Gn8YbZ4WkdCbuzQUWfijnKGYa
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/NPuqdj6gP3WyfSiuRtC87K2O0_0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5139466/c7ca43.jpg" ch-number="3", Eogene Ewe (MAS) vs Jia Heng Jason Teh (SGP) - Men's Singles Quarterfinals | SANDS CHINA LTD. Macau Open 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/NPuqdj6gP3WyfSiuRtC87K2O0_0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5139466/c7ca43.jpg" ch-number="2", Eogene Ewe (MAS) vs Jia Heng Jason Teh (SGP) - Men's Singles Quarterfinals | SANDS CHINA LTD. Macau Open 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=dSqCgK4Gn8YbZ4WkdCbuzQUWfijnKGYa|User-Agent=VidioPlayer/6.31.6
 
