@@ -2,7 +2,7 @@
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=21681&type=drm&token=dSqCgK4Gn8YbZ4WkdCbuzQUWfijnKGYa
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/uODMoEwWq067yHsjCDkOy1pVL1Q=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137954/495d37.jpg" ch-number="1", Said Thoriq vs Dani Pamungkas - Featherweight WBA Asia Tournament
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/Wo4j3ZPsqL7DdQeVp-dwGRDf06w=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137953/a8b49f.jpg" ch-number="1", Alif Ernaldo vs Ignasius Lodianus - Super Lightweight WBA Asia Tournament
 https://vid-id.indi1.workers.dev/index.mpd?id=21681&type=dash&token=dSqCgK4Gn8YbZ4WkdCbuzQUWfijnKGYa|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
