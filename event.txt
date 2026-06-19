@@ -8,7 +8,7 @@ https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1ec
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=drm&token=dSqCgK4Gn8YbZ4WkdCbuzQUWfijnKGYa
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/AKEuDGrGTiHLp-j84aTaHzue6hs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5139463/360d4e.jpg" ch-number="3", Ng Ka Long Angus (HKG) vs Muhamad Yusuf (INA) - Men's Singles Quarterfinals | SANDS CHINA LTD. Macau Open 2026
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/8fqQ6taQGPIIeJWaOcYaO8m8h2Y=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5139464/bf6067.jpg" ch-number="3", Bao Li Jing/Cao Zi Han (CHN) vs Yi En Hsieh/Teng Chun Hsun (TPE) - Women's Doubles Quarterfinals | SANDS CHINA LTD. Macau Open 2026
 https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=dSqCgK4Gn8YbZ4WkdCbuzQUWfijnKGYa|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
